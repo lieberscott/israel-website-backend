@@ -6,6 +6,15 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// const calendarData = require("../israel_website_v2/tweets_new_design_0/calendarData.js");
+const { claim1, examples1 } = require("../israel_website_v2/tweets_new_design_0/1_hypocrisy.js");
+const { claim2, examples2 } = require("../israel_website_v2/tweets_new_design_0/2_intLaw.js");
+const { claim3, examples3 } = require("../israel_website_v2/tweets_new_design_0/3_palEvil.js");
+const { claim4, examples4 } = require("../israel_website_v2/tweets_new_design_0/4_lies.js");
+const { claim5, examples5 } = require("../israel_website_v2/tweets_new_design_0/5_palWar.js");
+
+
+const Claim = require('./schemas/claim.js');
 const Example = require('./schemas/example.js');
 const Tweet = require('./schemas/tweet.js');
 
@@ -15,6 +24,15 @@ mongoose.connect("mongodb://127.0.0.1:27017/israel", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
+
+app.post("/fetch_date", async (req, res) => {
+  const date = req.body.date;
+
+  // Get examples
+  const items = await Example.find({ date })
+
+
+})
 
 // Test route
 app.post("/fetch_example", async (req, res) => {
@@ -57,10 +75,10 @@ app.post("/fetch_tweets", async (req, res) => {
 
 });
 
-app.post("/test", async (req, res) => {
+app.post("/addlocally", async (req, res) => {
   
-  const example = req.body.example;
-  const tweets = req.body.tweets;
+  // const example = req.body.example;
+  // const tweets = req.body.tweets;
   
   try {
     const exampleRes = await Example.create(example);
