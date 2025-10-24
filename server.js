@@ -16,7 +16,7 @@ const { claim6, examples6 } = require("../israel_website_v2/tweets_new_design_0/
 const { keywords } = require("../israel_website_v2/tweets_new_design_0/keywords.js");
 
 const claims = [claim1, claim2, claim3, claim4, claim5, claim6];
-const examples = [examples1];
+const examples = [examples1, examples2, examples3, examples4, examples5, examples6];
 
 
 const Claim = require('./schemas/claim.js');
@@ -31,55 +31,77 @@ mongoose.connect("mongodb://127.0.0.1:27017/israel", {
   useUnifiedTopology: true,
 });
 
-app.post("/fetch_date", async (req, res) => {
-  const date = req.body.date;
+app.post("/fetch_month", async (req, res) => {
+  const dateString = req.body.dateString;
+  const summaryOnly = req.body.summaryOnly; // only include the count, not the full records, for when a user clicks through the calendar months
 
-  // Get examples
-  const items = await Example.find({ date })
 
+  // Get start date and end date
+  const [year, month] = dateString.split('-');
+  const startDate = new Date(`${year}-${month}-01`);
+  const endDate = new Date(startDate);
+  endDate.setMonth(endDate.getMonth() + 1);
+  endDate.setDate(endDate.getDate() + 1); // adds one extra day to avoid time zone issues that would cut off the ends of months
+
+  try {
+
+    // Always build the summary via aggregation
+    const summaryResults = await Example.aggregate([
+      { $match: { date: { $gte: startDate, $lt: endDate } } },
+      { $group: {
+          _id: { $dateToString: { format: "%Y-%m-%d", date: "$date" } },
+          count: { $sum: 1 }
+        }
+      },
+      { $sort: { _id: 1 } }
+    ]);
+
+    // Group by date
+    /*
+      {
+        "2025-09-01": 3,
+        "2025-09-02": 5,
+        "2025-09-03": 2
+      }
+    */
+    const summaryData = summaryResults.reduce((acc, cur) => {
+      acc[cur._id] = cur.count;
+      return acc;
+    }, {});
+
+    // Optionally include full records if summaryOnly is false
+    let data = {};
+    if (!summaryOnly) {
+      const examples = await Example.find({ date: { $gte: startDate, $lt: endDate } });
+
+      // Group by date (YYYY-MM-DD)
+      /*
+        Will look like this:
+        {
+          "2025-09-30": [ { ... }, { ... } ],
+          "2025-10-01": [ { ... } ]
+        }
+      */
+      data = examples.reduce((acc, ex) => {
+        const day = ex.date.toISOString().split('T')[0];
+        if (!acc[day]) acc[day] = [];
+        acc[day].push(ex);
+        return acc;
+      }, {});
+    }
+
+    return res.json({ summaryData, data: summaryOnly ? null : data });
+  }
+
+  catch (e) {
+    console.log(e);
+    return res.json({ error: true });
+  }
 
 })
 
-// Test route
-app.post("/fetch_example", async (req, res) => {
-
-  const category = req.body.cat;
-  console.log("category :", category);
-  const getCount = req.body.getCount;
-
-  const item = await Example.aggregate([
-    { $match: { category } },  // Filter by category
-    { $sample: { size: 1 } },  // Pick 1 random document
-  ]);
-
-  let count = -1;
-
-  if (getCount) {
-    count = await Example.countDocuments({ category });
-  }
 
 
-  return res.json({ item, count, status: 200 });
-});
-
-
-app.post("/fetch_tweets", async (req, res) => {
-
-  const themTweetIds = req.body.themTweetIds;
-  const usTweetIds = req.body.usTweetIds;
-  const allTweetIds = themTweetIds.concat(usTweetIds);
-
-  const items = await Tweet.find({
-    tweet_id: { $in: allTweetIds }
-  });
-
-  // Filter back into themTweets and usTweets
-  const themTweets = items.filter(i => themTweetIds.includes(i.tweet_id));
-  const usTweets = items.filter(i => usTweetIds.includes(i.tweet_id));
-
-  return res.json({ themTweets, usTweets, status: 200 });
-
-});
 
 app.post("/addlocally", async (req, res) => {
   
