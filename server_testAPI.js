@@ -2,19 +2,23 @@ const express = require("express");
 const router = express.Router();
 // const fetch = require('node-fetch');
 const mongoose = require("mongoose");
+require('dotenv').config();
+const nodemailer = require('nodemailer');
+const { ObjectId } = require('mongodb');
 
 const Example = require('./schemas/example.js');
 const Keyword = require('./schemas/keyword.js');
 const Claim = require('./schemas/claim.js');
+const ExampleSubmission = require('./schemas/exampleSubmission.js');
 
 // const calendarData = require("../israel_website_v2/tweets_new_design_0/calendarData.js");
-const { claim1, examples1 } = require("../israel_website_v2/tweets_new_design_0/1_hypocrisy.js");
-const { claim2, examples2 } = require("../israel_website_v2/tweets_new_design_0/2_intLaw.js");
-const { claim3, examples3 } = require("../israel_website_v2/tweets_new_design_0/3_palEvil.js");
-const { claim4, examples4 } = require("../israel_website_v2/tweets_new_design_0/4_lies.js");
-const { claim5, examples5 } = require("../israel_website_v2/tweets_new_design_0/5_palWar.js");
-const { claim6, examples6 } = require("../israel_website_v2/tweets_new_design_0/6_ngos.js");
-const { keywords } = require("../israel_website_v2/tweets_new_design_0/keywords.js");
+const { claim1, examples1 } = require("./tweets/1_hypocrisy.js");
+const { claim2, examples2 } = require("./tweets/2_intLaw.js");
+const { claim3, examples3 } = require("./tweets/3_palEvil.js");
+const { claim4, examples4 } = require("./tweets/4_lies.js");
+const { claim5, examples5 } = require("./tweets/5_palWar.js");
+const { claim6, examples6 } = require("./tweets/6_ngos.js");
+const { keywords } = require("./tweets/keywords.js");
 
 const claims = [claim1, claim2, claim3, claim4, claim5, claim6];
 const examples = [examples1, examples2, examples3, examples4, examples5, examples6];
@@ -87,7 +91,7 @@ router.post("/addlocally", async (req, res) => {
 router.get("/getclaims", async (req, res) => {
 
   try {
-  
+
     // Step 1: Get the Claims
     const claims = await Claim.get({});
 
@@ -110,6 +114,52 @@ router.get("/getkeywords", async (req, res) => {
     const keywords = await Keyword.get({});
 
     return res.json({ data: keywords });
+
+  }
+
+  catch (e) {
+    console.log(e);
+    return res.json({ error: true });
+  }
+
+});
+
+
+router.post("/submit_example", async (req, res) => {
+
+  const { claimId, claimText, explanation, themTweets, usTweets } = req.body;
+
+  try {
+  
+    const newClaimId = new ObjectId.createFromHexString(claimId);
+    const submissionObj = {
+      claimId: newClaimId,
+      claimText,
+      explanation,
+      themTweets,
+      usTweets
+    }
+
+    const responseData = await ExampleSubmission.create(submissionObj);
+
+    const transporter = nodemailer.createTransport({
+      service: 'gmail', // or use host/port/auth for custom SMTP
+      auth: {
+        user: process.env.EMAIL_USER,
+        pass: process.env.EMAIL_PASS // use an App Password, not your real password
+      }
+    });
+
+    await transporter.sendMail({
+      from: process.env.EMAIL_USER,
+      to: process.env.EMAIL_USSER,
+      subject: 'New submission for Israel website',
+      text: JSON.stringify(submissionObj)
+    });
+    res.send('Email sent successfully!');
+
+    // Step 1: Get the Keywords
+    return res.json({ ok: true });
 
   }
 

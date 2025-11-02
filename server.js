@@ -1,6 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
+require('dotenv').config();
 
 const { ObjectId } = require('mongodb');
 
@@ -18,7 +19,7 @@ app.use(authenticationAPI);
 
 
 // Connect to MongoDB
-mongoose.connect("mongodb://127.0.0.1:27017/israel", {
+mongoose.connect(process.env.MONGO_LOCAL, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
