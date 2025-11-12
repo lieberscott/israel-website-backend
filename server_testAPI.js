@@ -4,14 +4,14 @@ const router = express.Router();
 const mongoose = require("mongoose");
 require('dotenv').config();
 const nodemailer = require('nodemailer');
-const { ObjectId } = require('mongodb');
+const fs = require("fs");
+// const { ObjectId } = require('mongodb');
 
 const Example = require('./schemas/example.js');
 const Keyword = require('./schemas/keyword.js');
 const Claim = require('./schemas/claim.js');
 const ExampleSubmission = require('./schemas/exampleSubmission.js');
 
-// const calendarData = require("../israel_website_v2/tweets_new_design_0/calendarData.js");
 const { claim1, examples1 } = require("./tweets/1_hypocrisy.js");
 const { claim2, examples2 } = require("./tweets/2_intLaw.js");
 const { claim3, examples3 } = require("./tweets/3_palEvil.js");
@@ -76,6 +76,18 @@ router.post("/addlocally", async (req, res) => {
         }
       }
     }
+
+    // Save keywords and claims locally (and add to front end)
+    // Convert them to plain JavaScript objects (optional but recommended)
+    const claimsJson = JSON.parse(JSON.stringify(claimsResponse));
+    const keywordsJson = JSON.parse(JSON.stringify(keywordsResponse));
+
+    // Save them as JSON files in your project folder
+    fs.writeFileSync('./claims.json', JSON.stringify(claimsJson, null, 2));
+    fs.writeFileSync('./keywords.json', JSON.stringify(keywordsJson, null, 2));
+
+    console.log("Added new claims and keywords to claims.json and keywords.json. Add them manually to front end code.");
+
   }
 
   catch (e) {
@@ -131,7 +143,7 @@ router.post("/submit_example", async (req, res) => {
 
   try {
   
-    const newClaimId = new ObjectId.createFromHexString(claimId);
+    const newClaimId = new mongoose.Types.ObjectId(claimId);
     const submissionObj = {
       claimId: newClaimId,
       claimText,
@@ -158,7 +170,59 @@ router.post("/submit_example", async (req, res) => {
     });
     res.send('Email sent successfully!');
 
-    // Step 1: Get the Keywords
+    return res.json({ ok: true });
+
+  }
+
+  catch (e) {
+    console.log(e);
+    return res.json({ error: true });
+  }
+
+});
+
+
+router.post("/add_example", async (req, res) => {
+
+  const date = "2025-10-01";
+  const claimId = new mongoose.Types.ObjectId("claimIdString");
+  const keywordIds = [new mongoose.Types.ObjectId("newKeywordIds")];
+  const text = "Explanation";
+  const themTweets = ["tweetIds"];
+  const usTweets = ["usTweets"];
+
+  try {
+  
+    const submissionObj = {
+      date,
+      claimId,
+      keywordIds,
+      text,
+      themTweets,
+      usTweets
+    }
+
+    // Add new Example
+    const responseData = await Example.create(submissionObj);
+
+    // Add new ExampleId to Claim
+    const responseData2 = await Claim.findByIdAndUpdate(
+      claimId,
+      { $push: { exampleIds: responseData._id} }
+    );
+
+    // Add new ExampleId to Keyword
+    if (keywordIds.length) {
+      for (let i = 0; i < keywordIds.length; i++) {
+        const responseData3 = await Keyword.findByIdAndUpdate(
+          keywordIds[i],
+          { $push: { exampleIds: responseData._id} }
+        );
+      }
+    }
+
+    console.log("Submitted new Example");
+
     return res.json({ ok: true });
 
   }

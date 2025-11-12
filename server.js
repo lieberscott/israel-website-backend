@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 require('dotenv').config();
 
-const { ObjectId } = require('mongodb');
+// const { ObjectId } = require('mongodb');
 
 const app = express();
 app.use(cors());
@@ -37,8 +37,17 @@ app.post("/fetch_month", async (req, res) => {
 
   const summaryMatchObj = { date: { $gte: startDate, $lt: endDate } };
 
-  if (keywordId) summaryMatchObj.keywordIds = new ObjectId.createFromHexString(keywordId);
-  if (claimId) summaryMatchObj.claimId = new ObjectId.createFromHexString(claimId);
+  const matchQuery = { date: { $gte: startDate, $lt: endDate } };
+
+  if (keywordId) {
+    summaryMatchObj.keywordIds = mongoose.Types.ObjectId.createFromHexString(keywordId);
+    matchQuery.keywordIds = mongoose.Types.ObjectId.createFromHexString(keywordId);
+  }
+
+  if (claimId) {
+    summaryMatchObj.claimId = mongoose.Types.ObjectId.createFromHexString(claimId);
+    matchQuery.claimId = mongoose.Types.ObjectId.createFromHexString(claimId);
+  }
 
   const summaryQuery = [
     { $match: summaryMatchObj },
@@ -49,8 +58,6 @@ app.post("/fetch_month", async (req, res) => {
     },
     { $sort: { _id: 1 } }
   ]
-
-  const matchQuery = { date: { $gte: startDate, $lt: endDate } };
 
   try {
 
