@@ -221,7 +221,7 @@ const getMonth = async (summaryQuery, examplesQuery, summaryOnly) => {
         "2025-10-01": [ { ... } ]
       }
     */
-    data = examples.reduce((acc, ex) => {
+    const data = examples.reduce((acc, ex) => {
       const day = ex.date.toISOString().split('T')[0];
       if (!acc[day]) acc[day] = [];
       acc[day].push(ex);
