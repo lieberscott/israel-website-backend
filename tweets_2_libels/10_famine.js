@@ -1,11 +1,11 @@
-const claim2 = {
+const claim10 = {
   dateAdded: "",
-  claimText: "Anti-Zionism is a totalizing ideology that shuts out contradiction. The movement casts Jewish national self-determination as the root cause of global injustice.",
-  claimShortText: "Anti-Zionism is a totalizing ideology",
-  claimId: "000000002"
+  claimText: "They accuse Israel of committing famine when it did not. And no amount of evidence can change their minds.",
+  claimShortText: "Libels",
+  claimId: "000000010"
 }
 
-const examples2 = [
+const examples10 = [
   {
     dateAdded: "",
     date: "2025-01-01",
@@ -19,4 +19,4 @@ const examples2 = [
   }
 ]
 
-module.exports = { claim2, examples2 };
+module.exports = { claim10, examples10 };

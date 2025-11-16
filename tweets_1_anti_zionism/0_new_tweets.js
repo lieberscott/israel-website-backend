@@ -55,7 +55,7 @@
 2. Examples of hate
 - "Cry more bitch"
 - Tearing down hostage posters (should be its own subcategory perhaps)
-- 
+- Ana Kasparian calling Eylon Levy the worst things
 
 
 
@@ -65,6 +65,10 @@
 4. Palestinian culture is evil
 5. 
 5. NGOs
+6. Muslims claim everything as their own
+- Mehdi Hasan says Muslims built Amewrica as slaves (1 in 3 were slaves)
+- Jesus was a Palestinian/Muslim
+
 
 
 

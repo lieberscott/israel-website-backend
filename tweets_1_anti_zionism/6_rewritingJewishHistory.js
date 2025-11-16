@@ -1,8 +1,8 @@
 const claim6 = {
   dateAdded: "",
   claimText: "Anti-Zionism rejects/rewrites Jewish history",
-  claimShortText: "Anti-Zionism echoes Naziism",
-  claimId: "000000005"
+  claimShortText: "Rejecting Jewish history",
+  claimId: "000000006"
 }
 
 const examples6 = [
