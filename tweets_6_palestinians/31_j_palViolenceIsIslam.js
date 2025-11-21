@@ -1,15 +1,15 @@
-const claim35 = {
+const claim31j = {
   dateAdded: "",
-  claimText: "DARVO is a practice of narcissists. It stands for Deny, Accuse, Reverse Victim and Offender. It is also a common feature of the anti-Zionist crowd.",
-  claimShortText: "DARVO",
-  claimId: "000000035"
+  claimText: "The Palestinian violence is NOT about Israeli mistreatment. It is about Islam's command to fight the kafirs (infidels), and it exists all across the Muslim world.",
+  claimShortText: "Palestinian violence",
+  claimId: "000000031j"
 }
 
-const examples35 = [
+const examples40 = [
   {
     dateAdded: "",
     date: "2025-01-01",
-    claimId: "00000001",
+    claimId: "00000040",
     incidentId: "00000000X",
     exampleId: "00000000A",
     keywordIds: ["EmmanuelMacron"],
@@ -19,4 +19,4 @@ const examples35 = [
   }
 ]
 
-module.exports = { claim35, examples35 };
+module.exports = { claim31j, examples40 };

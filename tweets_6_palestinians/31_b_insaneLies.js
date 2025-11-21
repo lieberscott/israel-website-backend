@@ -1,11 +1,11 @@
-const claim37 = {
+const claim31b = {
   dateAdded: "",
-  claimText: "Palestinian culture is evil. They teach hate and violence. It is as embedded in their culture as democracy is in American culture.",
-  claimShortText: "Palestinian culture",
-  claimId: "000000037"
+  claimText: " Anti-Zionism is so totalizing, so pathological, that they believe the most insane, conspiratorial fantasies. It would be funny if it wasn't real.",
+  claimShortText: "Insane lies",
+  claimId: "000000031b"
 }
 
-const examples37 = [
+const examples31b = [
   {
     dateAdded: "",
     date: "2025-01-01",
@@ -19,4 +19,4 @@ const examples37 = [
   }
 ]
 
-module.exports = { claim37, examples37 };
+module.exports = { claim31b, examples31b };

@@ -1,15 +1,15 @@
-const claim31 = {
+const claim46 = {
   dateAdded: "",
-  claimText: "Claims that Israel violates international law are wrong, while other entities violate actual international law with impunity.",
-  claimShortText: "International law",
-  claimId: "000000031"
+  claimText: "Israel is blamed for literally everything. It would be funny if it wasn't legitimately dangerously genocidal.",
+  claimShortText: "Israel heroism, morality, and innovation",
+  claimId: "000000046"
 }
 
-const examples31 = [
+const examples46 = [
   {
     dateAdded: "",
     date: "2025-01-01",
-    claimId: "00000001",
+    claimId: "00000046",
     incidentId: "00000000X",
     exampleId: "00000000A",
     keywordIds: ["EmmanuelMacron"],
@@ -19,4 +19,4 @@ const examples31 = [
   }
 ]
 
-module.exports = { claim31, examples31 };
+module.exports = { claim46, examples46 };

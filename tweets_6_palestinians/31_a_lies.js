@@ -1,11 +1,11 @@
-const claim33 = {
+const claim31a = {
   dateAdded: "",
   claimText: "Anti-Zionists lie as a matter of course about any and everything",
   claimShortText: "Lies",
-  claimId: "000000033"
+  claimId: "000000031a"
 }
 
-const examples33 = [
+const examples31a = [
   {
     dateAdded: "",
     date: "2025-01-01",
@@ -19,4 +19,4 @@ const examples33 = [
   }
 ]
 
-module.exports = { claim33, examples33 };
+module.exports = { claim31a, examples31a };

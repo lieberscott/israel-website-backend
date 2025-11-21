@@ -1,11 +1,11 @@
-const claim34 = {
+const claim30a = {
   dateAdded: "",
-  claimText: " Anti-Zionism is so totalizing, so pathological, that they believe the most insane, conspiratorial fantasies. It would be funny if it wasn't real.",
-  claimShortText: "Insane lies",
-  claimId: "000000034"
+  claimText: "Claims that Israel violates international law are wrong, while other entities violate actual international law with impunity.",
+  claimShortText: "International law",
+  claimId: "000000030a"
 }
 
-const examples34 = [
+const examples30a = [
   {
     dateAdded: "",
     date: "2025-01-01",
@@ -19,4 +19,4 @@ const examples34 = [
   }
 ]
 
-module.exports = { claim34, examples34 };
+module.exports = { claim30a, examples30a };

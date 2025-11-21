@@ -7,8 +7,14 @@ const exampleSchema = mongoose.Schema({
   claimId: { type: mongoose.Schema.Types.ObjectId, ref: 'Claim', required: true, index: true },
   keywordIds: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Keyword' }],
   text: { type: String, required: true, default: "" },
-  themTweets: [{ id: String }],
-  usTweets: [{ id: String }]
+  source: { type: Boolean, default: false },
+  sourceText: { type: String, default: "" },
+  standalonetweets: [String],
+  thenVsNowFormat: { type: Boolean, default: false }, // is this a then vs. now format, or an us vs. them formula?
+  thenTweets: [String], // for rhetorical games
+  nowTweets: [String], // for rhetorical games
+  themTweets: [String],
+  usTweets: [String]
 });
 
 module.exports = mongoose.model('Example', exampleSchema);

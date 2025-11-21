@@ -1,0 +1,154 @@
+const claim31e = {
+  dateAdded: "",
+  claimText: "Palestinians train their children from a young age to kill Jews",
+  claimShortText: "Child terrorists",
+  claimId: "000000031dz"
+}
+
+const examples31e = [
+  {
+    dateAdded: "",
+    date: "2025-11-17",
+    claimIds: ["000000031e"],
+    exampleId: "0000003701",
+    keywordIds: [],
+    text: "A compilation of videos of Palestinian children being trained to kill Jews",
+    standaloneTweets: ["1990497743350214963"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2019-05-27",
+    claimIds: ["000000031e"],
+    exampleId: "00000031e02",
+    keywordIds: [],
+    text: "Boy taught to shoot at Jews - 'the enemy' - in special Ramadan series, 'Children of the Village Chief,' broadcast on PA TV about Arab village",
+    standaloneTweets: ["1133000088991784960"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2021-01-31",
+    claimIds: ["000000031e"],
+    exampleId: "00000031e02",
+    keywordIds: [],
+    text: "A 17-yr-old Palestinian terrorist tries to kill an Israeli soldier, prompting another to shoot him to prevent the attack. Within 12 hours he has been branded a 'martyr,' and his death repackaged as an 'execution.'",
+    standaloneTweets: ["1355790376515346433"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2017-05-03",
+    claimIds: ["000000031e", "000000031d"],
+    exampleId: "00000031e03",
+    keywordIds: [],
+    text: "Hamas teaches children 'to shoot Jews' - 'all of them' (2014)",
+    standaloneTweets: ["859730788723691526"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-08-08",
+    claimIds: ["000000031e"],
+    exampleId: "00000031e04",
+    keywordIds: [],
+    text: "The Palestinians named their largest summer camp - which hosts 150 children ages 7-13 - after Salah Khalaf, the mastermind behind the 1972 Munich massacre, and taught kids to chant: 'We’re on your path, Salah Khalaf!'",
+    standaloneTweets: ["1827701778172756344", "1169565842909982732"],
+    source: true,
+    sourceText: "https://palwatch.org/page/35443",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-09-05",
+    claimIds: ["000000031e", "000000031d"],
+    exampleId: "00000031e05",
+    keywordIds: [],
+    text: "A compilation of videos on Palestinian TV where children call Jews the sons of pigs and apes.",
+    standaloneTweets: ["1831615943199318290"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+    {
+    dateAdded: "",
+    date: "2024-09-19",
+    claimIds: ["000000031e"],
+    exampleId: "00000031e03",
+    keywordIds: [],
+    text: "Teaching kids to shoot Israelis, then teens to shoot even Palestinians.",
+    standaloneTweets: ["1836882769172967566"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+   {
+    dateAdded: "",
+    date: "2023-08-03",
+    claimIds: ["000000031e"],
+    exampleId: "00000031e04",
+    keywordIds: [],
+    text: "Fatah Summer camp two months before Oct. 7 trained children to commit Oct. 7-like atrocities.",
+    standaloneTweets: ["1809884833977356571"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-01",
+    claimIds: ["000000031e"],
+    exampleId: "00000031e05",
+    keywordIds: [],
+    text: "This video was made by Hamas teen terrorist Muhammad Rummana who was killed while throwing a Molotov cocktail on Friday night.",
+    standaloneTweets: ["1708468659906101640"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-01",
+    claimIds: ["000000031e"],
+    exampleId: "00000031e05",
+    keywordIds: [],
+    text: "This video was made by Hamas teen terrorist Muhammad Rummana who was killed while throwing a Molotov cocktail on Friday night.",
+    standaloneTweets: ["1708468659906101640"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2022-07-25",
+    claimIds: ["000000031e"],
+    exampleId: "00000031e06",
+    keywordIds: [],
+    text: "Kids at Palestinian camp chant 'We will die and Palestine will live'",
+    standaloneTweets: ["1809904464528109958"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
+]
+
+module.exports = { claim31e, examples31e };

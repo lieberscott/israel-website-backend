@@ -1,15 +1,15 @@
-const claim39 = {
+const claim45 = {
   dateAdded: "",
-  claimText: "Palestinians do not want to live in peaceful coexistence. It's not just Hamas, it's essentially the entire population. It is not overstating it to say their entire national project and identity is to conquer Israel. They want war. They love war. They love death. This is their culture.",
-  claimShortText: "Palestinians want war",
-  claimId: "000000039"
+  claimText: "So-called experts are never to be trusted over common sense.",
+  claimShortText: "Experts",
+  claimId: "000000045"
 }
 
-const examples39 = [
+const examples45 = [
   {
     dateAdded: "",
     date: "2025-01-01",
-    claimId: "00000001",
+    claimId: "00000045",
     incidentId: "00000000X",
     exampleId: "00000000A",
     keywordIds: ["EmmanuelMacron"],
@@ -19,4 +19,4 @@ const examples39 = [
   }
 ]
 
-module.exports = { claim39, examples39 };
+module.exports = { claim45, examples45 };
