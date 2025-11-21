@@ -1,22 +1,25 @@
 const claim5 = {
   dateAdded: "",
-  claimText: "Anti-Zionism echoes Naziism",
-  claimShortText: "Anti-Zionism echoes Naziism",
-  claimId: "000000005"
+  claimText: "At best, antizionism echoes Naziism. At worst, antizionism explicitly endorses Naziism.",
+  claimShortText: "The new Nazis",
+  claimId: "5"
 }
 
 const examples5 = [
-  {
-    dateAdded: "",
-    date: "2025-01-01",
-    claimId: "00000001",
-    incidentId: "00000000X",
-    exampleId: "00000000A",
-    keywordIds: ["EmmanuelMacron"],
-    text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
-    themTweets: [{id: "1965452213792506048"}],
-    usTweets: [{ id: "1965477345634255182" }, { id: "1965467866033209695" }]
-  }
+  // NOTE THIS EXAMPLE IS INCOMEPLETE AND REQUIRES MORE IMAGES OF HOUTHIS DOING NAZI SALUTES AND RALLIES IN THE WEST OF PEOPLE SUPPORTING HOUTHIS ("TURN ANOTHER SHIP AROUND")
+  // {
+  //   dateAdded: "",
+  //   date: "2025-06-24",
+  //   claimIds: ["5"],
+  //   exampleId: "00000000A",
+  //   keywordIds: [],
+  //   text: "Houthis give the Nazi salute in Yemen, but antizionists proclaim their alliance to the Houthis for firing missiles at Israel and disrupting international shipping.",
+  //   thereVsHereFormat: true,
+  //   thereTweets: ["1962186827626164619"],
+  //   hereTweets: ["1937416333068832891"],
+  //   themTweets: [],
+  //   usTweets: []
+  // }
 ]
 
 module.exports = { claim5, examples5 };

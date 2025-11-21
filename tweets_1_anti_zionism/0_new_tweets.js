@@ -61,6 +61,7 @@
 
 
 2. Lies
+- Claiming that Yemen's leadership was killed by Israel (prime minister, etc.) when they took out the Houthi leadership
 3. Palestinians don't want to live peacefully
 4. Palestinian culture is evil
 5. 

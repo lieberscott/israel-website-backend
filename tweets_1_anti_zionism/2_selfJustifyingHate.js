@@ -1,6 +1,6 @@
 const claim2 = {
   dateAdded: "",
-  claimText: "Anti-Zionism is self-justifying hate",
+  claimText: "Anti-Zionism is self-justifying hate. It justifies itself by projecting its opponents as 'murderers,' 'baby-killers' and many other projections. Finally, it's all justified, because whatever they inflict on others, 'it's nothing compared to what people in Gaza are dealing with.'",
   claimShortText: "Self-justifying hate",
   claimId: "000000002"
 }

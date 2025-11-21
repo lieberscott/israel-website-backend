@@ -11,6 +11,9 @@ const exampleSchema = mongoose.Schema({
   sourceText: { type: String, default: "" },
   standalonetweets: [String],
   thenVsNowFormat: { type: Boolean, default: false }, // is this a then vs. now format, or an us vs. them formula?
+  thereVsHereFormat: { type: Boolean, default: false }, // is this a there vs. here format, or an us vs. them formula?
+  thereTweets: [String], // for new Nazis (comparing Houthis giving Nazi salute to antizionists praising Houthis)
+  hereTweets: [String], // for new Nazis (comparing Houthis giving Nazi salute to antizionists praising Houthis)
   thenTweets: [String], // for rhetorical games
   nowTweets: [String], // for rhetorical games
   themTweets: [String],
