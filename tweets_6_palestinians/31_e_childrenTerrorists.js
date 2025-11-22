@@ -149,6 +149,19 @@ const examples31e = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2024-07-01",
+    claimIds: ["000000031e"],
+    exampleId: "00000031e07",
+    keywordIds: [],
+    text: "In July 2024, a child in Gaza proudly explains what he learns in school, how to kill Jews.",
+    standaloneTweets: ["1986070983355056574"],
+    source: false,
+    sourceText: "",
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim31e, examples31e };

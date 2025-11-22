@@ -49,6 +49,17 @@ const examples6z = [
     standaloneTweets: ["1773629450632020012"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-02-07",
+    claimIds: ["6z", "24", "30y"],
+    exampleId: "6z03",
+    keywordIds: ["CAIR"],
+    text: "Noora Shalash, former Director of Government Affairs for CAIR-Kentucky: 'I demand Jihad, I want ISIS to kill all of you.' 'F*ck the Jew. ... F*ck the Zionists'",
+    standaloneTweets: ["1887870468230635593"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

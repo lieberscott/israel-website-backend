@@ -2,20 +2,19 @@ const claim31a = {
   dateAdded: "",
   claimText: "Anti-Zionists lie as a matter of course about any and everything",
   claimShortText: "Lies",
-  claimId: "000000031a"
+  claimId: "31a"
 }
 
 const examples31a = [
   {
     dateAdded: "",
-    date: "2025-01-01",
-    claimId: "00000001",
-    incidentId: "00000000X",
-    exampleId: "00000000A",
-    keywordIds: ["EmmanuelMacron"],
-    text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
-    themTweets: [{id: "1965452213792506048"}],
-    usTweets: [{ id: "1965477345634255182" }, { id: "1965467866033209695" }]
+    date: "2025-10-26",
+    claimId: "31a",
+    exampleId: "00000031a001",
+    keywordIds: [],
+    text: "Pro-Palestinian shares a photo of explosions, claiming Israel had just violated a ceasefire agreement with Hamas. The photo is from two years earlier and hsa nothing to do with the ceasefire.",
+    themTweets: ["1982632011366912140"],
+    usTweets: ["1982775745857638408"]
   }
 ]
 
