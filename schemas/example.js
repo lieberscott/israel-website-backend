@@ -8,7 +8,7 @@ const exampleSchema = mongoose.Schema({
   keywordIds: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Keyword' }],
   text: { type: String, required: true, default: "" },
   source: { type: Boolean, default: false },
-  sourceText: { type: String, default: "" },
+  sourceLink: { type: String, default: "" },
   standalonetweets: [String],
   thenVsNowFormat: { type: Boolean, default: false }, // is this a then vs. now format, or an us vs. them formula?
   thereVsHereFormat: { type: Boolean, default: false }, // is this a there vs. here format, or an us vs. them formula?

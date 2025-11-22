@@ -15,7 +15,7 @@ const examples31d = [
     text: "The Jews are 'cowards,' 'impure schemers', 'can't be trusted', and may rape the Arab women",
     standaloneTweets: ["1133000093538365441"],
     source: false,
-    sourceText: "",
+    sourceLink: "",
     themTweets: [],
     usTweets: []
   },
@@ -27,7 +27,7 @@ const examples31d = [
     keywordIds: [],
     text: "A survey of unmarried Palestinian Arab women aged 16-28: 7.4% were sexually assaulted by their brothers at least once in the last year, 5.2% were raped by brothers",
     source: true,
-    sourceText: "https://www.researchgate.net/publication/349739861_Sexual_abuse_in_Palestinian_children",
+    sourceLink: "https://www.researchgate.net/publication/349739861_Sexual_abuse_in_Palestinian_children",
     standaloneTweets: ["1959791366206017883"],
     themTweets: [],
     usTweets: []

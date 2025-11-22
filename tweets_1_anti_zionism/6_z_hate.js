@@ -60,6 +60,28 @@ const examples6z = [
     standaloneTweets: ["1887870468230635593"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-20",
+    claimIds: ["6z"],
+    exampleId: "6z04",
+    keywordIds: [],
+    text: "Antizionists scream 'Shame on you!' at the mother of Naama Levy, who was raped and kidnapped on Oct. 7, and who, at the time, was still being held hostage in Gaza.",
+    standaloneTweets: [],
+    themTweets: ["1737457420123697353"],
+    usTweets: ["1832733907378192433"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-10",
+    claimIds: ["6z"],
+    exampleId: "6z05",
+    keywordIds: [],
+    text: "'Cry, bitch! Cry!' a Palestine supporter yells at at Israel supporter in Columbus Circle, NYC.",
+    standaloneTweets: ["1723122648090017878"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

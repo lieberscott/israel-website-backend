@@ -15,7 +15,7 @@ const examples31h = [
     keywordIds: [],
     text: "'In the name of Allah, most gracious, most merciful' right before shooting.",
     source: false,
-    sourceText: "",
+    sourceLink: "",
     standaloneTweets: ["1815750948821643398"],
     themTweets: [],
     usTweets: []

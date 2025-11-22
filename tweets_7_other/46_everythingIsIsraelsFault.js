@@ -1,15 +1,15 @@
 const claim46 = {
   dateAdded: "",
-  claimText: "Israel is blamed for literally everything. It would be funny if it wasn't legitimately dangerously genocidal.",
+  claimText: "Israel is blamed for literally everything. Everything is an Israeli lie It would be funny if it wasn't legitimately dangerously genocidal.",
   claimShortText: "Israel heroism, morality, and innovation",
-  claimId: "000000046"
+  claimId: "46"
 }
 
 const examples46 = [
   {
     dateAdded: "",
     date: "2025-01-01",
-    claimId: "00000046",
+    claimId: "46",
     incidentId: "00000000X",
     exampleId: "00000000A",
     keywordIds: ["EmmanuelMacron"],

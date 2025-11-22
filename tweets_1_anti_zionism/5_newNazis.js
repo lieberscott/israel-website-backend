@@ -28,7 +28,7 @@ const examples5 = [
     keywordIds: [],
     text: "An anonymous website published a hit-list of Israeli Jewish academics, offering $100k for their murders. The website lists the personal information of senior professors, doctors, and scientists—and even Israeli students—claiming they are 'criminals involved in the murder of Palestinian children.'",
     source: true,
-    sourceText: "https://www.jpost.com/diaspora/antisemitism/article-874732",
+    sourceLink: "https://www.jpost.com/diaspora/antisemitism/article-874732",
     thenVsNowFormat: true,
     thenTweets: ["1991819941226615245"],
     nowTweets: ["1991816173378285568"],

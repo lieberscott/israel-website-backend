@@ -2,20 +2,22 @@ const claim41 = {
   dateAdded: "",
   claimText: "Anti-Zionism rejects/rewrites Jewish history",
   claimShortText: "Rejecting Jewish history",
-  claimId: "000000041"
+  claimId: "41"
 }
 
 const examples41 = [
   {
     dateAdded: "",
-    date: "2025-01-01",
-    claimId: "00000001",
-    incidentId: "00000000X",
-    exampleId: "00000000A",
-    keywordIds: ["EmmanuelMacron"],
-    text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
-    themTweets: [{id: "1965452213792506048"}],
-    usTweets: [{ id: "1965477345634255182" }, { id: "1965467866033209695" }]
+    date: "2025-11-14",
+    claimIds: ["41"],
+    exampleId: "000004101",
+    keywordIds: [],
+    text: "Reem Alsalem, the UN special rapporteur on violence against women and girls, claimed no independent inquiry found sexual violence by Palestinians against Israelis on Oct. 7, even though the UN's own report — in addition to many other investigations — found it did.",
+    standaloneTweets: ["1989698599186252158"],
+    source: true,
+    sourceLink: "https://www.timesofisrael.com/un-official-for-violence-against-women-falsely-claims-no-independent-probe-found-oct-7-rape/",
+    themTweets: [],
+    usTweets: []
   }
 ]
 
