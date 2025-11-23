@@ -8,7 +8,7 @@ const claim16 = {
 const examples16 = [
   {
     dateAdded: "",
-    date: "2025-01-01",
+    date: "nodate",
     claimId: "16",
     title: "Rape of Israeli women on Oct. 7 by Palestinians",
     titleId: "000000001",
@@ -34,6 +34,24 @@ const examples16 = [
       }
     ],
     standaloneTweets: ["1972015802212622429", "1989698599186252158"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "nodate",
+    claimId: "16",
+    title: "No children were killed on Oct. 7",
+    titleId: "000000002",
+    exampleId: "00000016002",
+    keywordIds: [],
+    sources: [
+      {
+        sourceLink: "",
+        imgLink: ""
+      }
+    ],
+    standaloneTweets: ["1718311655472312479"],
     themTweets: [],
     usTweets: []
   }

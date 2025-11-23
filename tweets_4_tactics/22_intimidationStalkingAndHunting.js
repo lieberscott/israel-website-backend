@@ -1,21 +1,21 @@
 const claim22 = {
   dateAdded: "",
   claimText: "Jewish spaces are surveilled, marked with graffiti, and invaded by mobs. Masked crowds descend on synagogues, schools, or restaurants, chanting slogans and filming attendees. The effect is to make Jews prey — hunted in their own communities. Antizionist demonstrations often employ masked groups who surround Jewish gatherings. Covered faces add menace, granting anonymity for intimidation and vandalism. -- partly from Movement Against Anti-Zionism",
-  claimShortText: "Stalking and hunting",
-  claimId: "000000022"
+  claimShortText: "Intiidation, stalking and hunting",
+  claimId: "22"
 }
 
 const examples22 = [
   {
     dateAdded: "",
     date: "2025-01-01",
-    claimId: "00000001",
-    incidentId: "00000000X",
-    exampleId: "00000000A",
-    keywordIds: ["EmmanuelMacron"],
-    text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
-    themTweets: [{id: "1965452213792506048"}],
-    usTweets: [{ id: "1965477345634255182" }, { id: "1965467866033209695" }]
+    claimIds: ["22"],
+    exampleId: "000002201",
+    keywordIds: [],
+    text: "Antizionists tried to shut down Bari Weiss's 2024 State of World Jewry Address in NYC.",
+    standaloneTweets: ["1763246324252561426"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

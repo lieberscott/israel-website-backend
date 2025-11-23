@@ -16,6 +16,7 @@ const exampleSchema = mongoose.Schema({
   hereTweets: [String], // for new Nazis (comparing Houthis giving Nazi salute to antizionists praising Houthis)
   thenTweets: [String], // for rhetorical games
   nowTweets: [String], // for rhetorical games
+  deepDive: { type: Boolean, default: false },
   themTweets: [String],
   usTweets: [String]
 });

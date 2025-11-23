@@ -5,7 +5,7 @@ const claim31j = {
   claimId: "000000031j"
 }
 
-const examples40 = [
+const examples31k= [
   {
     dateAdded: "",
     date: "2025-01-01",
@@ -19,4 +19,4 @@ const examples40 = [
   }
 ]
 
-module.exports = { claim31j, examples40 };
+module.exports = { claim31j, examples31k};

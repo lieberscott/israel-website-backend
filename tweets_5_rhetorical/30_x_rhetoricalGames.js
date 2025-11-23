@@ -1,15 +1,15 @@
-const claim30z = {
+const claim30x = {
   dateAdded: "",
   claimText: "Anti-Zionists: They mourn our deaths, then celebrate and justify them. They offer well wishes, then accusations and libels. They play rhetorical games only capable of psychopaths.",
   claimShortText: "Open air prison",
-  claimId: "30z"
+  claimId: "30x"
 }
 
-const examples30z = [
+const examples30x = [
   {
     dateAdded: "",
     date: "2025-01-01",
-    claimIds: ["30z"],
+    claimIds: ["30x"],
     exampleId: "00000000A",
     keywordIds: ["JeremyCorbyn"],
     text: "Jeremy Corbyn, once a leader of the UK labor party, a notorious antizionist, is 'horrified' by the stabbing attack at a Manchester synogogue on Yom Kippur, killing two Jews and injuring four more. Yet he has promoted and attended the antizionist hate marches in Britain, calls Hezbollah and Hamas his 'friends', and laid a wreath at the tomb of the perpetrators of the 1972 Munich Massacre which mutilated and killed 11 Israeli Olympic athletes.",
@@ -23,8 +23,8 @@ const examples30z = [
   {
     dateAdded: "",
     date: "2025-11-20",
-    claimIds: ["30z", "15", "6"],
-    exampleId: "00000030z01",
+    claimIds: ["30x", "15", "6"],
+    exampleId: "00000030x01",
     keywordIds: ["CAIR"],
     text: "Northwestern University, in a settlement with the government over violations of the Civil Rights Act against Jewish students, was required to give antisemitism training. CAIR sued the university, saying focing students to learn about antisemitism is 'anti-Palestinian racism.' 'So now talking about Jewish identity, that's an act of discrimination' -- Yael Lerman, Director of Stand With Us Law. See her video below.",
     source: false,
@@ -33,7 +33,21 @@ const examples30z = [
     thenVsNowFormat: true,
     thenTweets: [],
     nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-11-26",
+    claimIds: ["30x", "31a", "31c", "31e"],
+    exampleId: "00000030x01",
+    keywordIds: [],
+    text: "The 19-year-old Palestinian Shorouq Dwayyat was just a child who was defending herself from a settler trying to remove her hijab. Apparently she just happend to have a knife on her at the time and stabbed a Jewish man in the neck/head & went for another before being shot then was treated in an Israel hospital. And wrote about how she wanted to die for the Palestinian cause on social media.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1728658600678027710"],
+    thenVsNowFormat: true,
+    thenTweets: [],
+    nowTweets: []
   }
 ]
 
-module.exports = { claim30z, examples30z };
+module.exports = { claim30x, examples30x };

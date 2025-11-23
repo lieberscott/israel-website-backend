@@ -165,7 +165,7 @@ const examples31e = [
   {
     dateAdded: "",
     date: "2021-06-29",
-    claimIds: ["31e"],
+    claimIds: ["31e", "31k"],
     exampleId: "31e08",
     keywordIds: [],
     text: "In June 2021, a child at Islamic Jihad Gaza Summer Camp: 'Hitler Left Some of You Alive to Show Us How Wicked You Are; We Will Tear Your Bodies Apart with Our Rockets.' PIJ Official: 'The children of Palestine Will Sacrifice Their Blood and Body Parts.'",

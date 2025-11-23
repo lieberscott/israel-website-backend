@@ -34,6 +34,19 @@ const examples5 = [
     nowTweets: ["1991816173378285568"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-22",
+    claimIds: ["5", "6y", "21"],
+    exampleId: "0000005002",
+    keywordIds: [],
+    text: "In 1977, Nazis marched in Skokie, IL, a prominantly Jewish suburb of Chicago. In 2023, 15 days after the Oct. 7 massacre, antizionists shout 'Shame on you' at Jews in Skokie as they leave the Kosher supermarket and stores in this predominantly Kosher shopping plaza.",
+    thenVsNowFormat: true,
+    thenTweets: ["1874846467875283320"],
+    nowTweets: ["1716222001101099310"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
