@@ -47,6 +47,17 @@ const examples31a = [
     standaloneTweets: ["1713244122331406720"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-23",
+    claimIds: ["31a", "32"],
+    exampleId: "00000031a005",
+    keywordIds: [],
+    text: "Palestinian Israa Riad Jabes was released as part of the hostage deal allowing Israel to receive its hostages back. She is painted as a mother, someone mistreated in Israeli prison. She is disfigured because her attmpted car bombing prematurely detonated, burning her face and injuring an Israeli policeman.",
+    standaloneTweets: [],
+    themTweets: ["1728580070141243571", "1728776509555396780"],
+    usTweets: ["1728969759683916282", "1728808986453880871"]
   }
 ]
 

@@ -1,9 +1,13 @@
 /*
 
-1. One-state soltuion
-2. "There's no Hamas in the West Bank"
-3. No one supports Hamas, they just support Palestinian freedom
-4. "Jihad means struggle, it's not violent"/"Intifada means uprising, it's not violent"
+
+New schemas
+- Deep Dives
+- Atrocity Denial: Links to newspaper clippings about 10/7 rapes, and people below them all denying it
+
+
+
+
 5. Anti-Zionist Jews
 - There were pro-Hitler Jews too, and pro-Stalin Jews
 - they are caught up in the same pressures and mind-viruses that non-Jews are
@@ -53,20 +57,12 @@
 - Murder of Jews in Boulder marching in the run for their lives by molotov cocktail
 - 
 2. Examples of hate
-- "Cry more bitch"
 - Tearing down hostage posters (should be its own subcategory perhaps)
-- Ana Kasparian calling Eylon Levy the worst things
-
-
 
 
 2. Lies
 - Claiming that Yemen's leadership was killed by Israel (prime minister, etc.) when they took out the Houthi leadership
-3. Palestinians don't want to live peacefully
-4. Palestinian culture is evil
-5. 
-5. NGOs
-6. Muslims claim everything as their own
+3. Muslims claim everything as their own
 - Mehdi Hasan says Muslims built Amewrica as slaves (1 in 3 were slaves)
 - Jesus was a Palestinian/Muslim
 
@@ -129,10 +125,6 @@ Claim: Rhetorical games
 - Ana Kasparian saying shut the fuck up about American politics to Eylon Levy while insisting Americans have a right to criticize Israel/Netanyahu
 - They say the most horrific shit about us, then wish us a "Happy Hannukah" to prove they're not against Jews
 
-Claim: Palestinian society is perversely evil
-Claim: Palestinians do not want to live in peaceful coexistence
-- videos
-- polls/surveys
 
 Claim: anti-Zionism is the new Naziism
 - Nazis preventing Jews from entering college campus and then same thing happening on Columbia
@@ -194,7 +186,7 @@ const examples7 = [
     exampleId: "000000007A",
     keywordIds: [],
     text: "Gazan doctors from al-Ahli Hospital in Gaza City staged a press conference at a fake massacre site. On Oct. 16, 2023, reports came out that Israel had bombed al-Alhi hospital, killing 500 people. The media ran with it. The NY Times, AP, Reuters, Guardian, and LA Times all had it prominantly in their publications. The LA Times ran a front-page headline: 'At least 500 killed in Israeli airstrike on Gaza City Hospital, Gaza Healthy Ministry says'. In reality, an errant Palestinian Islamic Jihad rocket hit the hospital parking lot, as demonstrated in subsequent days by video footage, intercepted calls between Palestinian groups, and multiple independent open-source intel analaysts. The hospital itself was fully in tact and operational. And there were less than 10 killed. (See other example Tweets from around this date on this site for more details.) Nevertheless, these 'trusted,' 'elevated,' 'professional' doctors staged a fake press conference before corpses, calling the event a massacre. Many more examples of lies stemming from this incident, click nearby dates to see more.",
-    themTweets: [{id: "1714387413869486287"}, { id: "1714407270556295627"}, { id: "1714343713801957435"}, { id: "1714353899040358550"}],
+    themTweets: [{id: "1714387413869486287"}, { id: "1714407270556295627"}, { id: "1714343713801957435"}, { id: "1714353899040358550"}, { id: "1714619599017157072"}],
     usTweets: [{ id: "1714552321760202859"}, { id: "1714552323945472323"}, { id:"1714552325988053127" }, { id: "1714552325988053127"}, { id: "1714552328471138777" }, { id: "1714552330605973966"}, { id: "1714552332749357479"}, { id: "1714552335051989483"}, { id: "1714570324455416202" }, { id: "1714579782761959791"}, { id: "1714588649361207627" }]
   },
   {

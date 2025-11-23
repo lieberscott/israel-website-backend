@@ -2,7 +2,7 @@ const claim17 = {
   dateAdded: "",
   claimText: "Antizionism trains a magnifying glass on Israel while turning away from atrocities elsewhere. Israel is demonized, while actual genocides in Sudan, Uyghur enslavement in China, or mass killings in Yemen vanish from view. -- partially taken from Movement Against Anti-Zionism",
   claimShortText: "Hypocrisy",
-  claimId: "000000017"
+  claimId: "17"
 }
 
 const examples17 = [

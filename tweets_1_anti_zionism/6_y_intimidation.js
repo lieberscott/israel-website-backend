@@ -27,6 +27,17 @@ const examples6y = [
     standaloneTweets: ["1774880984413897179"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-25",
+    claimIds: ["6y"],
+    exampleId: "6y03",
+    keywordIds: [],
+    text: "Jewish students at Cooper Union are stuck in the library as protestors pound on the door. Eventually they needed a police escort to leave. Listen with sound on.",
+    standaloneTweets: ["1717297845592821933", "1717307109539238281"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

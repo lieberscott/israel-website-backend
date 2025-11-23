@@ -30,7 +30,7 @@ const examples30x = [
     source: false,
     sourceLink: "",
     standaloneTweets: ["1991731782920860140"],
-    thenVsNowFormat: true,
+    thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: []
   },
@@ -38,13 +38,27 @@ const examples30x = [
     dateAdded: "",
     date: "2025-11-26",
     claimIds: ["30x", "31a", "31c", "31e"],
-    exampleId: "00000030x01",
+    exampleId: "00000030x02",
     keywordIds: [],
     text: "The 19-year-old Palestinian Shorouq Dwayyat was just a child who was defending herself from a settler trying to remove her hijab. Apparently she just happend to have a knife on her at the time and stabbed a Jewish man in the neck/head & went for another before being shot then was treated in an Israel hospital. And wrote about how she wanted to die for the Palestinian cause on social media.",
     source: false,
     sourceLink: "",
     standaloneTweets: ["1728658600678027710"],
-    thenVsNowFormat: true,
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-28",
+    claimIds: ["30x", "1", "2", "3", "15", "16", "17", "21", "28", "31c", "46"],
+    exampleId: "00000030x03",
+    keywordIds: [],
+    text: "The Oakland City Council voted on a resolution to call for a ceasefire. A city council member tried to insert language condemning Hamas. This was the reaction:'There have not been beheadings of babies and rapings.' 'Calling Hamas terrorist is ridiculous, racist, and plays into genocidal propoganda.' 'The IDF killed most of the people on that day.' 'Asking to condemn Hamas is anti-Arab racism' 'That this was a massacre of Jews is a fabricated narrative.' 'Did anyone notice that those who oppose this resolution are old white supremacists?' 'Hamas is a resistance organization fighting for liberation.'",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1729630529199432095"],
+    thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: []
   }
