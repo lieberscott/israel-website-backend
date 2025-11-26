@@ -1,0 +1,132 @@
+const claim49 = {
+  dateAdded: "",
+  claimText: "Ripping down hostage posters: hate and totalizing ideology",
+  claimShortText: "Ripping down hostage posters",
+  claimId: "49"
+}
+
+const examples49 = [
+  {
+    dateAdded: "",
+    date: "2023-12-20",
+    claimIds: ["49"],
+    exampleId: "00004901",
+    keywordIds: [],
+    text: "Masked man tearing down hostage posters in NYC at 42nd & Lex.",
+    standaloneTweets: ["1737577858438922441"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-12",
+    claimIds: ["49"],
+    exampleId: "00004902",
+    keywordIds: [],
+    text: "London, five days after the Oct. 7 massacre.",
+    standaloneTweets: ["1712516677710033348"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-12",
+    claimIds: ["49"],
+    exampleId: "00004903",
+    keywordIds: [],
+    text: "London, five days after the Oct. 7 massacre.",
+    standaloneTweets: ["1712531582181900639"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-16",
+    claimIds: ["49"],
+    exampleId: "00004904",
+    keywordIds: [],
+    text: "Manchester, UK, nine days after the Oct. 7 massacre.",
+    standaloneTweets: ["1713935231160324600"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-19",
+    claimIds: ["49", "6z"],
+    exampleId: "00004905",
+    keywordIds: [],
+    text: "United Kingdom",
+    standaloneTweets: ["1715068361481080918"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-19",
+    claimIds: ["49"],
+    exampleId: "00004906",
+    keywordIds: [],
+    text: "United Kingdom",
+    standaloneTweets: ["1715097875539988805"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-20",
+    claimIds: ["49"],
+    exampleId: "00004907",
+    keywordIds: [],
+    text: "Liverpool, UK",
+    standaloneTweets: ["1715343477943283914"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-25",
+    claimIds: ["49"],
+    exampleId: "00004908",
+    keywordIds: [],
+    text: "United Kingdom",
+    standaloneTweets: ["1717059702557639011"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-25",
+    claimIds: ["49", "6z", "2", "1"],
+    exampleId: "00004909",
+    keywordIds: [],
+    text: "Emma and Yuli are being held hostage by terrorists in Gaza. They’re 3 years old. Someone decided to draw Hitler moustaches on them. London.",
+    standaloneTweets: ["1717113512483328050"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-30",
+    claimIds: ["49"],
+    exampleId: "00004910",
+    keywordIds: [],
+    text: "UK. The smile is pure evil.",
+    standaloneTweets: ["1719021313094766625"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-10-07",
+    claimIds: ["49"],
+    exampleId: "00004911",
+    keywordIds: [],
+    text: "",
+    standaloneTweets: ["1843232360072122751"],
+    themTweets: [],
+    usTweets: []
+  }
+]
+
+module.exports = { claim49, examples49 };

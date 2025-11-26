@@ -60,6 +60,39 @@ const examples21 = [
     standaloneTweets: ["1740122463466340486"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-27",
+    claimIds: ["21"],
+    exampleId: "000002106",
+    keywordIds: [],
+    text: "Antizionists block the road into JFK Airport. As the cops make arrests, dozens of passengers are pushing through the blockade with their luggage to try to make their flights.",
+    standaloneTweets: ["1740055654860210383"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-23",
+    claimIds: ["21"],
+    exampleId: "000002107",
+    keywordIds: [],
+    text: "Oxford St. in London two days before Christmas.",
+    standaloneTweets: ["1738544350173262204"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-25",
+    claimIds: ["21"],
+    exampleId: "000002108",
+    keywordIds: [],
+    text: "Antizionists shut down London’s Tower Bridge causing traffic to come to a standstill. The group set off flares while draping a huge banner over the bridge with the words ‘Palestine has a right to Armed Resistance.’",
+    standaloneTweets: ["1761856166957592887"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

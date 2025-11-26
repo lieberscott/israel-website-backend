@@ -1,5 +1,14 @@
 /*
 
+People's accounts to go through
+OliLondonTV
+Aviva Klompas
+ScooterCasterNY
+anjewla90
+lauraloomer
+
+
+
 
 New schemas
 - Deep Dives

@@ -8,13 +8,14 @@ const claim11 = {
 const examples11 = [
   {
     dateAdded: "",
-    date: "2023-10-14",
-    claimId: "11",
+    date: "2024-02-26",
+    claimIds: ["11", "Trans001"],
     exampleId: "000001101",
-    keywordIds: ["EmmanuelMacron"],
-    text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
-    themTweets: [{id: "1965452213792506048"}],
-    usTweets: [{ id: "1965477345634255182" }, { id: "1965467866033209695" }]
+    keywordIds: [],
+    text: "Trans Tiktoker: 'We have been escalated to stage 8 of genocide for trans people in the United States.'",
+    standaloneTweets: ["1762177702440690056"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

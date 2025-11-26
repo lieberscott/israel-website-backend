@@ -104,6 +104,50 @@ const examples6z = [
     standaloneTweets: ["1729258801545597355"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-01-30",
+    claimIds: ["6z"],
+    exampleId: "6z11",
+    keywordIds: [],
+    text: "During a city wide car caravan bringing attention to the over 130 hostages being by Hamas terrorists (including five Americans), this couple was caught on video giving Jews the middle finger and screaming 'GENOCIDE'",
+    standaloneTweets: ["1752400211761082612"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-11-24",
+    claimIds: ["6z", "24"],
+    exampleId: "6z12",
+    keywordIds: [],
+    text: "Graffiti at UC-Berkeley: 'KILL ALL ZIONIST'",
+    standaloneTweets: ["1993112317756641710"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-25",
+    claimIds: ["6z", "22", "6y", "1"],
+    exampleId: "6z13",
+    keywordIds: [],
+    text: "At a Nancy Pelosi fundraiser, one of the anti-Israel protesters screams at a car pulling into the Beverly Wilshire: 'Look at me! F*ck you!… My cousin died because you, b*tch! F*ck you!'",
+    standaloneTweets: ["1761927258300903698"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-25",
+    claimIds: ["6z", "22", "6y", "1"],
+    exampleId: "6z13",
+    keywordIds: [],
+    text: "Palestinian mob surround woman arriving at the Beverly Wilshire hotel in Beverly Hills for a Nancy Pelosi speaking event. The protesters get into the woman’s face, blocking her from moving and shout “Shame on You.”",
+    standaloneTweets: ["1761935200286896422"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

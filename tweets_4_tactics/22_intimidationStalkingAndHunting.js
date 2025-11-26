@@ -8,12 +8,23 @@ const claim22 = {
 const examples22 = [
   {
     dateAdded: "",
-    date: "2025-01-01",
-    claimIds: ["22"],
+    date: "2024-02-25",
+    claimIds: ["22", "21"],
     exampleId: "000002201",
     keywordIds: [],
     text: "Antizionists tried to shut down Bari Weiss's 2024 State of World Jewry Address in NYC.",
-    standaloneTweets: ["1763246324252561426"],
+    standaloneTweets: ["1763246324252561426", "1761903503570620570"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-25",
+    claimIds: ["22", "21", "6y"],
+    exampleId: "000002202",
+    keywordIds: [],
+    text: "At a Nancy Pelosi fundraiser, a woman in a black mask smears an egg on the car window.",
+    standaloneTweets: ["1761931911151436114"],
     themTweets: [],
     usTweets: []
   }

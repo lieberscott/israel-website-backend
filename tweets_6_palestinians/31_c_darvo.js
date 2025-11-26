@@ -17,6 +17,18 @@ const examples31c = [
     standaloneTweets: ["1712808899064070296"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-27",
+    claimIds: ["31c"],
+    exampleId: "0000003102",
+    keywordIds: [],
+    text: "Leaflets are dropped in a Dutch mall: 'This is how the oppressive Israeli Army notifies Gazans of their imminent death by dropping papers over their heads.' Leaflets are of course used by the IDF to warn civilians to vacate the location of an upcoming strike, a practice meant to prevent civlian casualties.",
+    deepDive: true,
+    standaloneTweets: ["1740122472945475953"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

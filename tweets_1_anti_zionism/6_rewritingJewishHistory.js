@@ -2,20 +2,31 @@ const claim6 = {
   dateAdded: "",
   claimText: "Anti-Zionism rejects/rewrites Jewish history",
   claimShortText: "Rejecting Jewish history",
-  claimId: "000000006"
+  claimId: "6"
 }
 
 const examples6 = [
   {
     dateAdded: "",
-    date: "2025-01-01",
-    claimId: "00000001",
-    incidentId: "00000000X",
-    exampleId: "00000000A",
-    keywordIds: ["EmmanuelMacron"],
-    text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
-    themTweets: [{id: "1965452213792506048"}],
-    usTweets: [{ id: "1965477345634255182" }, { id: "1965467866033209695" }]
+    date: "2024-01-29",
+    claimId: "6",
+    exampleId: "000006001",
+    keywordIds: [],
+    text: "Scottish First Minister Humza Yousaf, who has been extremely pro-Palestine, refuses to mention Jews or Jewish people when giving a video address about the Holocaust.",
+    standaloneTweets: ["1751956204757143893"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-01-28",
+    claimId: "6",
+    exampleId: "000006002",
+    keywordIds: ["AntonioGuterres"],
+    text: "UN Secretary General releases video statement on Holocaust Memorial Day but fails to mention Jewish people.",
+    standaloneTweets: ["1751585060568932393"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
