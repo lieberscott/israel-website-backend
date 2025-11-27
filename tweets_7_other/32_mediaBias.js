@@ -2,20 +2,20 @@ const claim32 = {
   dateAdded: "",
   claimText: "Media narratives cater to anti-Israel messaging",
   claimShortText: "Media bias",
-  claimId: "000000032"
+  claimId: "32"
 }
 
 const examples32 = [
   {
     dateAdded: "",
-    date: "2025-01-01",
-    claimId: "00000001",
-    incidentId: "00000000X",
-    exampleId: "00000000A",
-    keywordIds: ["EmmanuelMacron"],
-    text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
-    themTweets: [{id: "1965452213792506048"}],
-    usTweets: [{ id: "1965477345634255182" }, { id: "1965467866033209695" }]
+    date: "2024-03-29",
+    claimIds: ["32"],
+    exampleId: "00003201",
+    keywordIds: [],
+    text: "The AP photo of Hamas sitting on her mutilated body in the back of a pick up truck has just received a prestigious journalism prize by the RJI Institute for  ‘Team Picture Story of the Year.’ The journalist who took the photo participated in the Oct 7th Nova Festival massacre and crossed the Israeli border in the morning of the attack, actively knowing about the atrocities that were about to take place.",
+    standaloneTweets: ["1773689999818469842"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

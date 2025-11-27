@@ -16,6 +16,19 @@ const examples51 = [
     standaloneTweets: [],
     themTweets: ["1992619404039803159"],
     usTweets: ["1761852805776580920"]
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-29",
+    claimIds: ["51"],
+    exampleId: "000005102",
+    keywordIds: [],
+    text: "Palestinian man from Gaza speaks out against campus protests: 'You’re hurting the Palestinian cause.’",
+    source: true,
+    sourceLink: "https://www.newsweek.com/message-gazan-campus-protesters-youre-hurting-palestinian-cause-opinion-1894313",
+    standaloneTweets: ["1785043421851251159"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

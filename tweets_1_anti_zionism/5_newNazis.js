@@ -47,6 +47,32 @@ const examples5 = [
     nowTweets: ["1716222001101099310"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-29",
+    claimIds: ["5", "6y", "18"],
+    exampleId: "0000005003",
+    keywordIds: [],
+    text: "𝟏𝟗𝟑𝟖: Nazi Brownshirts block Jewish students from entering the University of Vienna. 𝟐𝟎𝟐𝟒 Masked Palestine Brownshirts block a Jewish student from entering UCLA.",
+    thenVsNowFormat: true,
+    thenTweets: ["1785083350748709207"],
+    nowTweets: ["1785030056617611457", "1785036723258339655"],
+    standaloneTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-28",
+    claimIds: ["5"],
+    exampleId: "0000005004",
+    keywordIds: [],
+    text: "Boycotts in 1930s Germany of Jewish products, and boycotts in 2024 America of 'Zionist' products.",
+    thenVsNowFormat: false,
+    standaloneTweets: ["1785081844834173061"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

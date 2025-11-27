@@ -93,6 +93,17 @@ const examples21 = [
     standaloneTweets: ["1761856166957592887"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-25",
+    claimIds: ["21"],
+    exampleId: "000002108",
+    keywordIds: [],
+    text: "Antizionists shut down London’s Tower Bridge causing traffic to come to a standstill. The group set off flares while draping a huge banner over the bridge with the words ‘Palestine has a right to Armed Resistance.’",
+    standaloneTweets: ["1761856166957592887"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

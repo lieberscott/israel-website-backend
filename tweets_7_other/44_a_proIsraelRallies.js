@@ -9,7 +9,7 @@ const examples44a = [
   {
     dateAdded: "",
     date: "2024-02-25",
-    claimId: "44a",
+    claimIds: ["44a"],
     exampleId: "0000044a01",
     keywordIds: [],
     text: "Thousands of Jewish teens chant 'Bring Them Home' as they stand in Times Square, New York to call for the release of the 134 remaining hostages.",
@@ -20,11 +20,33 @@ const examples44a = [
   {
     dateAdded: "",
     date: "2024-02-25",
-    claimId: "44a",
+    claimIds: ["44a"],
     exampleId: "0000044a02",
     keywordIds: [],
     text: "Nova Festival Oct. 7 survivor reveals she had to run for 20km to find safety as Hamas gunman hunted down fleeing festival goers and massacred 364 people: 'After running 20km for 5 hours I now understand that every step I took kept me alive and took me away from my death.'",
     standaloneTweets: ["1761844530154815682"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-29",
+    claimIds: ["44a"],
+    exampleId: "0000044a03",
+    keywordIds: [],
+    text: "Jewish Americans sing Hebrew songs calling for peace as they hold a demonstration at MIT to counteract the anti-Israel demonstration on campus.",
+    standaloneTweets: ["1784984478126858322"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-28",
+    claimIds: ["44a"],
+    exampleId: "0000044a04",
+    keywordIds: [],
+    text: "Jewish Americans sing and dance while proudly waving Israeli and American flags at UCLA.",
+    standaloneTweets: ["1784726583783411782"],
     themTweets: [],
     usTweets: []
   }

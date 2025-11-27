@@ -16,6 +16,17 @@ const examples1 = [
     standaloneTweets: ["1761915251660870008"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-28",
+    claimIds: ["1"],
+    exampleId: "0000001002",
+    keywordIds: [],
+    text: "Princeton student praises North Korea for never ‘establishing diplomatic relations with Israel.’",
+    standaloneTweets: ["1784679530365341711"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

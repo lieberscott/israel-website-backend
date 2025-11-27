@@ -6,6 +6,28 @@ Aviva Klompas
 ScooterCasterNY
 anjewla90
 lauraloomer
+memri
+pallywood
+dr. maalouf (ex-muslim who shows muslim intolerance)
+dahliakurtz
+
+
+
+
+1. Antagonize weak politicians who are swayed by the language of compassion and seek to appease
+2. Their hate for Israel/Zionism is SO intense because Israel is such a clear example that demonstrates the failure of their ideology
+- being against white/rich/capitalist and for brown/oppressed/violent, otherwise you're racist
+- the angrier and more violent brown people are against white people, the more it proves how oppressed they are by white people (rather than just their religion/culture/history being radical and violent, which would be racist to think or perpetrate)
+3. Just as the modern left doesn't march or care when blacks kill other blacks and only when a white person (or a police officer) kills a black person, they.  dnot care when Hamas kills other Palestinians, or, more broadly, when Arabs kill other Arabs. Only when Israel (white colonizers) kill Palestinians, no matter the circumstances. Thisis again because of ideology — white/brown, capitalist/poor, 
+
+
+
+1. Demonstrate the Nakhba was started by the Plaestinians,
+2. This was not a situation when no other options are available so they must resort to violence. Palestinians reject peaceful coexistence.
+3. It's not a righteous call for peace and liberation. It's about Islam/history/culture. They want the whole area. They want to exert violence on kuffars.
+- and what their resistence looks like is beyond evil
+4. The history (from Sword and Scimitar)
+
 
 
 

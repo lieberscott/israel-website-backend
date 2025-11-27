@@ -38,6 +38,17 @@ const examples28 = [
     standaloneTweets: ["1718451744827404674"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-29",
+    claimIds: ["28"],
+    exampleId: "000002804",
+    keywordIds: [],
+    text: "Student activist at Stanford wears a Hamas headband.",
+    standaloneTweets: ["1784895249472520220"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

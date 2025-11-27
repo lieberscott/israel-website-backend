@@ -148,6 +148,28 @@ const examples6z = [
     standaloneTweets: ["1761935200286896422"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-11-26",
+    claimIds: ["6z", "22", "21", "6y"],
+    exampleId: "6z14",
+    keywordIds: [],
+    text: "Jessie Blue Fairbanks screamed at a Jewish man to kill himself outside Park East Synagogue: 'Do the world a favor, kill yourself, slit your throat!'",
+    standaloneTweets: ["1993738756466037222"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-29",
+    claimIds: ["6z", "22", "25"],
+    exampleId: "6z15",
+    keywordIds: [],
+    text: "Pro-Israel demonsrator tasered by female Palestine activist at UCLA. The Jewish man was assaulted and hit on the head by the woman wearing a mask and headscarf before she pulled out a taser.",
+    standaloneTweets: ["1785064903474037192"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

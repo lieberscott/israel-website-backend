@@ -8,10 +8,20 @@ const claim17 = {
 const examples17 = [
   {
     dateAdded: "",
-    date: "2025-01-01",
-    claimId: "00000001",
-    incidentId: "00000000X",
-    exampleId: "00000000A",
+    date: "2024-03-29",
+    claimIds: ["17"],
+    exampleId: "000017001",
+    keywordIds: [],
+    text: "450 LGBTQI+ artists have urged the UK’s Eurovision Entry to boycott the competition in solidarity with Palestine, but have never showed solidarity with Ahmad Abu Marhia, the gay Palestinian man who was beheaded by Palestinians for being gay.",
+    standaloneTweets: ["1773723038707585499"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-09",
+    claimIds: ["17"],
+    exampleId: "0000017001",
     keywordIds: ["EmmanuelMacron"],
     text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
     themTweets: [{id: "1965452213792506048"}],

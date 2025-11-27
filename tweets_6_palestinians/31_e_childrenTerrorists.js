@@ -2,7 +2,7 @@ const claim31e = {
   dateAdded: "",
   claimText: "Palestinians train their children from a young age to kill Jews",
   claimShortText: "Child terrorists",
-  claimId: "31dz"
+  claimId: "31e"
 }
 
 const examples31e = [
