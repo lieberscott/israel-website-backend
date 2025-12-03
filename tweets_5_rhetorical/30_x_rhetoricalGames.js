@@ -61,6 +61,62 @@ const examples30x = [
     thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-02",
+    claimIds: ["30x", "30"],
+    exampleId: "00000030x04",
+    keywordIds: [],
+    text: "'Peaceful' UCLA encampments left a Jewish woman knocked unconscious and denied Zionist students entry to classes and the campus library",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1785994376725811303"],
+    usTweets: ["1785427542012285429", "1785145131097632826"]
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-02",
+    claimIds: ["30x", "53"],
+    exampleId: "00000030x05",
+    keywordIds: [],
+    text: "Mel Buer (independent journalist with discontinued X account): 'UCPD hangs up on students as Zionists brutally attack the [UCLA encampment].' This comes after the encampment itself attacked police. Then they're demanding police protection from the 'brutal' Zionist attack. Meanwhile, the 911 call hardly shows people in the middle of an emergency. It shows petulent children demanding Univesity of California 911 dispatch stay on the line so they can 'ask questions,' while the dispatcher explains she has actual emergencies she needs to attned to.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1788487039933178080"],
+    usTweets: ["1786059817347641640", "1788495464352174243"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-02-25",
+    claimIds: ["30x", "1", "2", "3", "4", "18", "52"],
+    exampleId: "00000030x06",
+    keywordIds: [],
+    text: "The Orwellian liberal utopian edict to 'be kind' could not be more perfectly encapsulated than in this self-justifying Naziesque reality-inverting email, which is then signed 'Kindly.' Combined with her smiling photo, it's extremely dark.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1894619709716267479"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-06-28",
+    claimIds: ["30x", "3"],
+    exampleId: "00000030x07",
+    keywordIds: [],
+    text: "From Brian’s Psychology Today profile: 'I strive to create a supportive, collaborative, and respectful environment where you can feel comfortable and empowered to explore your thoughts, feelings, and behaviors.'",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1806877777137660143", "1806865542873039269"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
   }
 ]
 

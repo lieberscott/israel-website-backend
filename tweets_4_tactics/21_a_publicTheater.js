@@ -16,6 +16,17 @@ const examples21a = [
     standaloneTweets: ["1740083277178753092"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-25",
+    claimIds: ["21a"],
+    exampleId: "000021a02",
+    keywordIds: [],
+    text: "An unconventional demonstration unfolded on the grounds of Columbia University, featuring a unique dance performance to protest the conflict in Gaza.",
+    standaloneTweets: ["1783367448181272738"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

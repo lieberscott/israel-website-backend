@@ -75,6 +75,18 @@ const deepDivesExamples = [
     standaloneTweets: ["1773672175095910651"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-06-26",
+    claimIds: [],
+    exampleId: "Trans0007",
+    keywordIds: [],
+    text: "Mother with baby says she was denied entry to United flight after misgendering flight attendant and not using They/Them pronouns.",
+    source: false,
+    standaloneTweets: ["1806000212437250533"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

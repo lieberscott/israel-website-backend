@@ -49,6 +49,17 @@ const examples28 = [
     standaloneTweets: ["1784895249472520220"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-06-28",
+    claimIds: ["28"],
+    exampleId: "000002805",
+    keywordIds: [],
+    text: "Pro-palestine protesters gathered in Madison Square Park with Hezbolah flag.",
+    standaloneTweets: ["1806807015538282570", "1806807778205270479"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

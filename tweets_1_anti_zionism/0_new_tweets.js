@@ -19,7 +19,7 @@ dahliakurtz
 - being against white/rich/capitalist and for brown/oppressed/violent, otherwise you're racist
 - the angrier and more violent brown people are against white people, the more it proves how oppressed they are by white people (rather than just their religion/culture/history being radical and violent, which would be racist to think or perpetrate)
 3. Just as the modern left doesn't march or care when blacks kill other blacks and only when a white person (or a police officer) kills a black person, they.  dnot care when Hamas kills other Palestinians, or, more broadly, when Arabs kill other Arabs. Only when Israel (white colonizers) kill Palestinians, no matter the circumstances. Thisis again because of ideology — white/brown, capitalist/poor, 
-
+4. The Iranian Revolution had the green-red alliance, and it fell apart after the revolution
 
 
 1. Demonstrate the Nakhba was started by the Plaestinians,

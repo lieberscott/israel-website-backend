@@ -1,6 +1,6 @@
 const claim5 = {
   dateAdded: "",
-  claimText: "At best, antizionism echoes Naziism. At worst, antizionism explicitly endorses Naziism.",
+  claimText: "Antizionism is a fascistic movement. At best, antizionism echoes Naziism. At worst, antizionism explicitly endorses Naziism.",
   claimShortText: "The new Nazis",
   claimId: "5"
 }
@@ -73,7 +73,56 @@ const examples5 = [
     standaloneTweets: ["1785081844834173061"],
     themTweets: [],
     usTweets: []
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-29",
+    claimIds: ["5", "6y", "18", "2"],
+    exampleId: "0000005004",
+    keywordIds: [],
+    text: "UCLA student who identifies as a Zionist is denied entry to the campus library by self-appointed moral arbiters/brownshirts.",
+    thenVsNowFormat: false,
+    standaloneTweets: ["1785145131097632826"],
+    themTweets: [],
+    usTweets: []
+  },
+  
+  {
+    dateAdded: "",
+    date: "2024-04-30",
+    claimIds: ["5", "6y", "18", "2"],
+    exampleId: "0000005005",
+    keywordIds: [],
+    text: "UCLA student who identifies as a Zionist is denied entry to the campus library by self-appointed moral arbiters/brownshirts.",
+    thenVsNowFormat: false,
+    standaloneTweets: ["1785145131097632826"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-05-09",
+    claimIds: ["5", "6y"],
+    exampleId: "0000005006",
+    keywordIds: [],
+    text: "Antizionists deny students access to classes: 'Even if you enter the encampment, there is security and they won’t let you go further'",
+    thenVsNowFormat: false,
+    standaloneTweets: ["1785376397403275486"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-21",
+    claimIds: ["5", "6y", "18", "2"],
+    exampleId: "0000005007",
+    keywordIds: [],
+    text: "A Chassidic Jewish student was blockaded by protest organizers at a violent Yale rally last night. ",
+    thenVsNowFormat: true,
+    standaloneTweets: [],
+    thenTweets: ["1782074269930828192"],
+    nowTweets: ["1782061307182596279"]
+  },
 ]
 
 module.exports = { claim5, examples5 };

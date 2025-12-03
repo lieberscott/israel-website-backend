@@ -27,6 +27,17 @@ const examples1 = [
     standaloneTweets: ["1784679530365341711"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-11-30",
+    claimIds: ["1"],
+    exampleId: "0000001003",
+    keywordIds: [],
+    text: "A month after a ceasefire was reached, Pro-Palestinians waited outside of St. Patrick's Cathedral in Manhattan to harass churchgoers leaving Christmas mass. They then went to the Rockefeller Christmas tree, preventing children on Christmas to go to the tree.’",
+    standaloneTweets: ["1872355962063114679"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
