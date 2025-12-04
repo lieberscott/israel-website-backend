@@ -123,6 +123,20 @@ const examples5 = [
     thenTweets: ["1782074269930828192"],
     nowTweets: ["1782061307182596279"]
   },
+  {
+    dateAdded: "",
+    date: "2024-04-22",
+    claimIds: ["5", "6y", "18"],
+    exampleId: "0000005008",
+    keywordIds: [],
+    text: "Jessica Schwalb, a Jewish Columbia University junior, shows pro-Palestinian protesters in the Gaza Solidarity Encampment forming a human chain to block her and other perceived 'Zionists' from advancing, chanting demands to respect their 'privacy' while slowly pushing them out.",
+    thenVsNowFormat: true,
+    thenTweets: ["1785083350748709207"],
+    nowTweets: ["1782252789625663770"],
+    standaloneTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim5, examples5 };

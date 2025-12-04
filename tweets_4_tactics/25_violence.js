@@ -92,6 +92,19 @@ const examples25 = [
     standaloneTweets: ["1856776918604869713"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-06-23",
+    claimIds: ["25", "5", "6y", "18"],
+    exampleId: "0000025009",
+    keywordIds: [],
+    text: "NYC Jewish family pummeled at 5th-grade commencement by attendees shouting 'Free Palestine'",
+    source: true,
+    sourceLink: "https://nypost.com/2024/06/23/us-news/nyc-jewish-family-pummeled-at-5th-grade-commencement-by-attendees-shouting-free-palestine-mom-says/?utm_campaign=nypost&utm_source=twitter&utm_medium=social",
+    standaloneTweets: ["1804817134192570558"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

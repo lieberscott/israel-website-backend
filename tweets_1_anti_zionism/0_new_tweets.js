@@ -12,6 +12,15 @@ dr. maalouf (ex-muslim who shows muslim intolerance)
 dahliakurtz
 
 
+- Israeli doctor saved Yaya Sinwar;s life by saving him from brain cancer, then his nephew was killed on Oct. 7
+- Palestinians lynching two IDF soliders with red blood hands, eating their organs, then Hollywood using that symbol to support Palestine
+- Jewish doctor (dentist?) shot in LA
+- Harvard student shouting in Jewish students face, following him, surrounding him with Free Palestine banner (divinity student)
+- Student at UPenn being followed with strobe light in face, saying to him to watch his back ( or something like that, sleep with one eye open)
+- Paul Kessler killed in LA
+- Syria calling Israel's actions genocide
+- Surrounding Brad Schneider;s home at 3am
+
 
 
 1. Antagonize weak politicians who are swayed by the language of compassion and seek to appease

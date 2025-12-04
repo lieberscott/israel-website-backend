@@ -170,6 +170,17 @@ const examples6z = [
     standaloneTweets: ["1785064903474037192"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-03",
+    claimIds: ["6z", "6y", "5", "18", "15", "22"],
+    exampleId: "6z16",
+    keywordIds: [],
+    text: "Demonstrator holding a Palestinian flag shouts into a megaphone as he follows people down the sidewalk: 'Devil-worshipping Zionists! Go to hell, go back to the slums of Europe.' One Israeli man is told, 'You aren’t even Semitic, you a—hole.'",
+    standaloneTweets: ["1996421996796612934"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

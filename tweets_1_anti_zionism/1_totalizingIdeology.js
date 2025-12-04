@@ -38,6 +38,17 @@ const examples1 = [
     standaloneTweets: ["1872355962063114679"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-03",
+    claimIds: ["1"],
+    exampleId: "0000001004",
+    keywordIds: [],
+    text: "A NYC middle school principal will only allow a Holocaust survivor to speak to the students if the survivor doesn’t support Israel.",
+    standaloneTweets: ["1996275936992416116"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
