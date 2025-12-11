@@ -38,6 +38,20 @@ const examples6y = [
     standaloneTweets: ["1717297845592821933", "1717307109539238281"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-06-11",
+    claimIds: ["5", "6y", "6z", "18", "21", "22", "24"],
+    exampleId: "6y04",
+    keywordIds: [],
+    text: "Antizionist mob takes over NYC subway: “Raise your hand if you’re a Zionist. This is your chance to get out.”",
+    standaloneTweets: [],
+    thenVwNowFormat: true,
+    thenTweets: ["1800713713038590335"],
+    nowTweets: ["1800652384558862784"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -1,10 +1,7 @@
 /*
 
-0. Go through each file and make an object of all new fields created
-1. Make all claimIds sequential and numerical
-2. Rename all files with new names with new numerical claimIds, replace all old claimIds with new claimIds
-3. Save all new files with new data
-4. 
+New category: Palestinianism is about destroying
+- Person in NYC kicking in window at NYC subway station
 
 
 
@@ -16,7 +13,7 @@
 - Paul Kessler killed in LA
 - Syria calling Israel's actions genocide
 - Surrounding Brad Schneider;s home at 3am
-- Person on NYC subway: "Are there any Zionists here? Get off the train!"
+- Free Press article about dead Gaza child who turned out to be alive
 last twitter search: from:OliLondonTV since:2024-06-01 until:2024-06-30
 
 

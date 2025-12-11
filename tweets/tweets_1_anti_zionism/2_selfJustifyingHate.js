@@ -18,6 +18,45 @@ const examples2 = [
     standaloneTweets: ["1996352499100577934"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-17",
+    claimIds: ["2", "3", "5", "6", "6z", "15"],
+    exampleId: "000002002",
+    keywordIds: [],
+    text: "Italian mural depicting teary-eyed Anne Frank holding Israeli flag painted over, vandalized with the words 'Gaza Free'",
+    source: true,
+    sourceLink: "https://nypost.com/2023/11/17/news/italian-anne-frank-mural-painted-over-vandalized-with-gaza-free/?utm_campaign=nypost&utm_source=twitter&utm_medium=social",
+    standaloneTweets: ["1725610590800904651"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-07-09",
+    claimIds: ["2", "3", "5", "6", "6z", "15"],
+    exampleId: "000002003",
+    keywordIds: [],
+    text: "The Anne Frank monument in Amsterdam, vandalized with the word 'GAZA' spray-painted across the front.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1810713009276252553"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-08-04",
+    claimIds: ["2", "3", "5", "6", "6z", "15"],
+    exampleId: "000002004",
+    keywordIds: [],
+    text: "On the 80th anniversary of Anne Frank's and her family's arrest by the Nazis, her statue in Amsterdam was vandalized with not only 'Free Gaza,' but also red paint on her hands, a Palestinian symbol of 'resistence' because of the blood-soaked hands of the Palestinians after they lynched two IDF soldiers in 2000 (see Tweet on this website for details).",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1820176369982296293"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

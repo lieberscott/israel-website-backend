@@ -124,6 +124,19 @@ const examples5 = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2024-07-26",
+    claimIds: ["5", "6", "6z", "15"],
+    exampleId: "000005009",
+    keywordIds: [],
+    text: "Street art in Norway showing Anne Frank in a keffiyeh.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1816801813494141219"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim5, examples5 };
