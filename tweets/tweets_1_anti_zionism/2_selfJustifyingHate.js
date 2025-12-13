@@ -70,6 +70,19 @@ const examples2 = [
     standaloneTweets: ["1807269633130434975", "1807272300783284620"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-12",
+    claimIds: ["2", "3", "8", "12", "18", "31c", "42", "52"],
+    exampleId: "000002006",
+    keywordIds: [],
+    text: "At Brooklyn College, five days after the 10/7 massacre, pro-Palesinians were already writing the narrative of apartheid and child killers before any fake numbers or statistics had even been published, after Gazans had murdered and taken hostage women, children, elderly, and men.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1712617808184414271"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

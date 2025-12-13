@@ -181,6 +181,17 @@ const examples6z = [
     standaloneTweets: ["1996421996796612934"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-06-06",
+    claimIds: ["6z", "16"],
+    exampleId: "6z17",
+    keywordIds: [],
+    text: "The sister of an Israeli hostage held for 8 months told @briebriejoy, 'I really hope that you specifically will believe women when they say they got hurt.' Brie responded by rolling her eyes, sighing in disgust, and cutting her off.",
+    standaloneTweets: ["1798706198415278206"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

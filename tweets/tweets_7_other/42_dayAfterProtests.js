@@ -16,7 +16,205 @@ const examples42 = [
     standaloneTweets: ["1729575889275334764"],
     themTweets: [],
     usTweets: []
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-09",
+    claimIds: ["42", "28", "5"],
+    exampleId: "000004202",
+    keywordIds: [],
+    text: "Hundreds of Palestinians chant “gas the Jews” at Hamas attack celebration outside Sydney Opera House in Australia.",
+    standaloneTweets: ["1711557485100667331"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-09",
+    claimIds: ["42", "28"],
+    exampleId: "000004203",
+    keywordIds: [],
+    text: "A large celebration of the Hamas attacks on Israel shut down Kensington High Street in London outside the @IsraelinUK embassy.",
+    standaloneTweets: ["1711467975482479063"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-09",
+    claimIds: ["42", "28"],
+    exampleId: "000004204",
+    keywordIds: [],
+    text: "Hamas celebration rally in Duisburg, Germany two days after the 10/7 massacre.",
+    standaloneTweets: ["1711555660050043146"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-08",
+    claimIds: ["42", "28"],
+    exampleId: "000004205",
+    keywordIds: [],
+    text: "The day after the 10/7 massacre, this celebration took place in Rotterdam, Netherlands.",
+    standaloneTweets: ["1711051462116028868"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-08",
+    claimIds: ["42", "28"],
+    exampleId: "000004206",
+    keywordIds: [],
+    text: "In Berlin in the wake of the Hamas invasion of Israel, Muslims intimidated journalists & handed out pastries to the public in celebration.",
+    standaloneTweets: ["1710949433808941543"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-08",
+    claimIds: ["42", "28"],
+    exampleId: "000004207",
+    keywordIds: [],
+    text: "Hamas fans gather at Times Square in New York City to celebrate 10/7 attack against Israel. They cheer as the speaker mentions the hang-gliding terrorists who attacked a music festival & cheer even more about the 5000 Hamas rockets.",
+    standaloneTweets: ["1711083530187346284"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-08",
+    claimIds: ["42", "28"],
+    exampleId: "000004208",
+    keywordIds: [],
+    text: "At a Hamas celebration rally outside the @IsraelinNewYork consulate, a speaker recounts the deadly Islamist attacks on the music festival in southern Israel that killed hundreds of civilians. “And as you might have seen, there was some sort of rave or desert party where they were having a great time, until the resistance came in electrified hang gliders and took at least several dozen hipsters.” The crowd cheers.",
+    standaloneTweets: ["1711187793173446844"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-08",
+    claimIds: ["42", "28", "52"],
+    exampleId: "000004209",
+    keywordIds: [],
+    text: "BLM puts out a tweet celebrating the parachuters who landed in the peace festival in Israel and kidnapped and slaughtered festival goers.",
+    standaloneTweets: ["1711810609011196146"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-08",
+    claimIds: ["42", "28", "5"],
+    exampleId: "000004210",
+    keywordIds: [],
+    text: "Day after the 10/7 massacre: 'Celebration March' on the exact spot where, during WW2, over 100,000 Jews were rounded up by the Germans (and many Dutch collaborators) and transported to the death camps.",
+    standaloneTweets: ["1711721210193621218"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-10",
+    claimIds: ["42", "28"],
+    exampleId: "000004211",
+    keywordIds: [],
+    text: "Pro-Palestinian celebration in Madrid, Spain, following 10/7 massacre.",
+    standaloneTweets: ["1711856619091325190"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-12",
+    claimIds: ["42", "28", "30x"],
+    exampleId: "000004212",
+    keywordIds: [],
+    text: "CUNY rallies in support of 'Palestine' five days after the Oct. 7 massacre.",
+    standaloneTweets: ["1712236516502593867"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-09",
+    claimIds: ["42", "28", "3"],
+    exampleId: "000004213",
+    keywordIds: [],
+    text: "'By any means necessary': The @Portland_State Students United for Palestinian Equal Rights, an extremist official student group on campus, released a statement expressing support for the Hamas terrorist attacks that killed hundreds of Israeli civilians. An unknown number of families including children & the elderly were kidnapped. They're soliciting cash donations for the 'resistance' in Gaza.",
+    standaloneTweets: ["1711433644114399700"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-10",
+    claimIds: ["42", "28"],
+    exampleId: "000004214",
+    keywordIds: [],
+    text: "Event announced at California State University Long Beach. They've intentionally added the paraglider that Hamas used to arrive at the Nova Music festival.",
+    standaloneTweets: ["1711780234305876349"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-10",
+    claimIds: ["42", "28"],
+    exampleId: "000004215",
+    keywordIds: [],
+    text: "In Washington, DC, GW's Students for Justice in Palestine is holding a “vigil for the Martyrs of Palestine” three days after the massacre.",
+    standaloneTweets: ["1711791576618242391"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-12",
+    claimIds: ["42", "28", "6y", "6z", "18", "21"],
+    exampleId: "000004216",
+    keywordIds: [],
+    text: "At a Palestine rally at UNC, radical left students threaten an Israeli professor. The rally was promoted with a flyer featuring a Hamas terrorist.",
+    standaloneTweets: ["1712600269962256709"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-12",
+    claimIds: ["42", "28"],
+    exampleId: "000004217",
+    keywordIds: [],
+    text: "Columbia Unviersity, NYC, five days after the massacre.",
+    standaloneTweets: ["1712597429021819301"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-15",
+    claimIds: ["42", "28"],
+    exampleId: "000004218",
+    keywordIds: [],
+    text: "In Ithaca, NY, Cornell University Professor Russell Rickford speaking about Hamas terrorist attacks calls them 'exhilirating' and 'energizing.'",
+    standaloneTweets: ["1714040794514899142"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-10",
+    claimIds: ["42", "28", "31c", "46"],
+    exampleId: "000004219",
+    keywordIds: [],
+    text: "Over 30 Harvard student groups write a joint letter blaming Israel 'entirely' for the horrific 10/7 massacre.",
+    standaloneTweets: ["1711615281754505294"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim42, examples42 };
