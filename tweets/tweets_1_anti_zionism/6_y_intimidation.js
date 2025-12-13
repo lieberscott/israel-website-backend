@@ -52,6 +52,48 @@ const examples6y = [
     nowTweets: ["1800652384558862784"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-10",
+    claimIds: ["5", "6y", "6z", "18", "21", "22"],
+    exampleId: "6y05",
+    keywordIds: [],
+    text: "Harvard pro-Palesinian students, including Harvard divinity student Elom Tettey-Tamaklo, surround, block the pathway, and scream in the face of a Jewish student.",
+    standaloneTweets: ["1722970149769171274"],
+    thenVwNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-05-04",
+    claimIds: ["5", "6y", "6z", "18", "21", "22", "24"],
+    exampleId: "6y06",
+    keywordIds: [],
+    text: "A group of Palestine supporters at UPenn flash strobe lights in a Jewish student's eyes saying, 'If you know what’s good for you, you’ll get out of here' and 'Hope you have a good doctor.'",
+    standaloneTweets: ["1786537278992482553"],
+    thenVwNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-06-29",
+    claimIds: ["6y", "21", "22", "48a", "53"],
+    exampleId: "6y07",
+    keywordIds: [],
+    text: "At 3 a.m., approximately 40 pro-Palestinian protesters gathered outside the home of U.S. Rep. Brad Schneider (D-IL), a Jewish congressman and vocal supporter of Israel. They chanted slogans, banged drums, and used noisemakers, waking residents including Schneider's family.",
+    standaloneTweets: ["1807057782320894298"],
+    thenVwNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -7,13 +7,8 @@ New category: Palestinianism is about destroying
 
 - Israeli doctor saved Yaya Sinwar;s life by saving him from brain cancer, then his nephew was killed on Oct. 7
 - Palestinians lynching two IDF soliders with red blood hands, eating their organs, then Hollywood using that symbol to support Palestine
-- Jewish doctor (dentist?) shot in LA
-- Harvard student shouting in Jewish students face, following him, surrounding him with Free Palestine banner (divinity student)
-- Student at UPenn being followed with strobe light in face, saying to him to watch his back ( or something like that, sleep with one eye open)
-- Paul Kessler killed in LA
 - Syria calling Israel's actions genocide
-- Surrounding Brad Schneider;s home at 3am
-- Free Press article about dead Gaza child who turned out to be alive
+- Lists of Jewish businesses, Zionists, or other such things
 last twitter search: from:OliLondonTV since:2024-06-01 until:2024-06-30
 
 

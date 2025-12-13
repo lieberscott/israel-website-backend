@@ -2,7 +2,7 @@ const claim31n = {
   dateAdded: "",
   claimText: "Palestinianism only destroys. It does not build.",
   claimShortText: "Palestinianism only destorys",
-  claimId: "31m"
+  claimId: "31n"
 }
 
 const examples31n = [

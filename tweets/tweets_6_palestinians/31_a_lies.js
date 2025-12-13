@@ -58,6 +58,19 @@ const examples31a = [
     standaloneTweets: [],
     themTweets: ["1728580070141243571", "1728776509555396780"],
     usTweets: ["1728969759683916282", "1728808986453880871"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-04",
+    claimIds: ["31a", "31b", "12", "13", "32", "41", "45", "47"],
+    exampleId: "00000031a006",
+    keywordIds: [],
+    text: "Anthony Aguilar, a former U.S. contractor with the Gaza Humanitarian Fund (GHF), an 'expert,' claimed that he witnessed the IDF kill a young Gazan boy named 'Amir' after the child received aid. The story was eagerly amplified by Tucker Carlson, Krystal Ball, and outlets such as the BBC and Middle East Eye. By September, investigations revealed the boy — actually named Abdul Rahim Muhammad Hamden — was alive and well.",
+    source: true,
+    sourceLInk: "https://themedialine.org/top-stories/ghf-confirms-viral-story-of-idf-killing-gaza-boy-is-false-child-found-alive-and-well/",
+    standaloneTweets: [],
+    themTweets: ["1950158724095422679", "1952285882397954372", "1963610478665458052", "1950984763709292869", "1963583324707819727"],
+    usTweets: ["1963598608692887963", "1963583598667198576"]
   }
 ]
 

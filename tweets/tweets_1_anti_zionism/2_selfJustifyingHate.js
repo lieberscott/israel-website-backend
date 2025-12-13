@@ -57,6 +57,19 @@ const examples2 = [
     standaloneTweets: ["1820176369982296293"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-05-29",
+    claimIds: ["2", "3", "5", "6y", "6z", "11", "18", "20", "22"],
+    exampleId: "000002005",
+    keywordIds: [],
+    text: "Pro-Palestinians banged drums and made noise at 3 a.m. outside Congressman Brad Schneider's home, in a heavily Jewish suburb of Chicago, also asking if people were 'Jews.' They defend this action because they 'charge genocide.' They vow to return. Social Justice for Palestine congratulates them for 'Waking up War Criminals.'",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1807269633130434975", "1807272300783284620"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

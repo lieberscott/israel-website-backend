@@ -137,6 +137,19 @@ const examples5 = [
     themTweets: [],
     usTweets: []
   },
+   {
+    dateAdded: "",
+    date: "2024-06-29",
+    claimIds: ["5", "6y", "6z", "15", "20", "21", "22"],
+    exampleId: "000005010",
+    keywordIds: [],
+    text: "After banging and making noise at 3 a.m. in Highland Park, IL, outside Congressman Brad Schneider's home, in a heavily Jewish suburb of Chicago, pro-Hamas protesters were going around asking if people were 'Jews.'",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1807136432059716047"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim5, examples5 };

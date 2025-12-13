@@ -54,7 +54,25 @@ const examples16 = [
     standaloneTweets: ["1718311655472312479"],
     themTweets: [],
     usTweets: []
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2024-05-03",
+    claimId: "16",
+    title: "UPenn crowd heckling the Oct 7 massacre raw footage being shown, yelling “Liar, liar colonizer”.",
+    titleId: "000000003",
+    exampleId: "00000016003",
+    keywordIds: [],
+    sources: [
+      {
+        sourceLink: "",
+        imgLink: ""
+      }
+    ],
+    standaloneTweets: ["1786355753189580824"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim16, examples16 };

@@ -126,6 +126,17 @@ const examples49 = [
     standaloneTweets: ["1843232360072122751"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-28",
+    claimIds: ["49", "6z"],
+    exampleId: "00004912",
+    keywordIds: [],
+    text: "Someone smeared dog sh*t on photos of Ariel and Kfir Bibas, the two children aged 4 and 1 who were kidnapped by Hamas on October 7th and later strangled to death, along with their mother Shiri, by the terrorists.",
+    standaloneTweets: ["1784661909427433586"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

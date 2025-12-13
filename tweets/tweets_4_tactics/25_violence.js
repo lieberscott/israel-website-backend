@@ -105,6 +105,19 @@ const examples25 = [
     standaloneTweets: ["1804817134192570558"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-07",
+    claimIds: ["25"],
+    exampleId: "0000025010",
+    keywordIds: [],
+    text: "Paul Kessler, a 69-year-old Jewish pro-Israel activist, was fatally assaulted during a counter-protest to a pro-Palestinian rally in Thousand Oaks, California. He was struck in the head with a megaphone by college professor Loay Alnaji, (later charged with involuntary manslaughter), fell and hit his head on the ground, suffering a fatal brain hemorrhage. His death was ruled a homicide on November 7, 2023",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1721911382105268267"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
