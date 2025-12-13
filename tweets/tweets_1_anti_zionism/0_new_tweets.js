@@ -9,7 +9,6 @@ New category: Palestinianism is about destroying
 - Palestinians lynching two IDF soliders with red blood hands, eating their organs, then Hollywood using that symbol to support Palestine
 - Syria calling Israel's actions genocide
 - Lists of Jewish businesses, Zionists, or other such things
-- Briana Joy Gray rolling her eyes at victim of 10/7
 last twitter search: from:OliLondonTV since:2024-06-01 until:2024-06-30
 
 
