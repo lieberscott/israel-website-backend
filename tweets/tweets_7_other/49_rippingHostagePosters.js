@@ -1,6 +1,6 @@
 const claim49 = {
   dateAdded: "",
-  claimText: "Ripping down hostage posters: hate and totalizing ideology",
+  claimText: "Ripping down hostage posters: They're so full of hate, they tear down posters of hostages being starved and abused at gunpoint in tunnels under Gaza. It contradicts their narrative of who the good guys are, so they must literally tear the posters down to erase them.",
   claimShortText: "Ripping down hostage posters",
   claimId: "49"
 }

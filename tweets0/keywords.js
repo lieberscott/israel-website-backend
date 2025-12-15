@@ -23,6 +23,11 @@ const keywords = [
     keyword: "Qatar",
     keywordText: "Qatar",
     exampleIds: []
+  },
+  {
+    keyword: "Free Palestine",
+    keywordText: "FreePalestine",
+    exampleIds: []
   }
 ]
 module.exports = { keywords };

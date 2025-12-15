@@ -89,7 +89,7 @@ const examples2 = [
     date: "2025-05-24",
     claimIds: ["2"],
     exampleId: "000002007",
-    keywordIds: [],
+    keywordIds: ["FreePalestine"],
     text: "An Israeli couple was shot and killed outside a DC Jewish Museum event by an antizionist in a keffiyeh screaming 'Free, free Palestine!' A Palestinian author justified the murder, calling the victims 'genocide cheerleaders'. This is another example of how antizionism is inherently pro-war, as Israel has no choice but to stop these endless self-justifying murders, which Arabs have inflicted on Jews in Israel for over 100 years, and which is echoed and self-justified in the West with the DC murder. It is inextricably pro-violence and endless war until Israel is destroyed.",
     source: false,
     sourceLink: "",

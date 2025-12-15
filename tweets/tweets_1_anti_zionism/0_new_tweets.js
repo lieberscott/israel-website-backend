@@ -1,6 +1,22 @@
 /*
 
 
+Rhetorical games:
+1. Mehdi Hasan, while spreading blood libels daily, 'condemns' (to act like the incident isn't linked to rhetoric like his) an attack on a synogague
+), Dec 8, 2023: "“A man fired a shotgun into the air outside an Albany, N.Y., synagogue on Thursday afternoon and later said, 'Free Palestine,' according to the police… hours before the beginning of Hanukkah.” Horrible. Scary. Just plain wrong, bigoted, and antisemitic." [Links to New York Times article].
+https://x.com/mehdirhasan/status/1733211524338950471
+
+
+2. Mehdi Hasan saying that Israel wouldn't want to save hostages at the exact moment they were doing a hostage saving operation
+
+3. Ilhan Omar wishing Jewish community Happy Hannukah while spreading blood libels
+
+4. Rashida Tlaib wishing the Jewish community Happy Hannukah while spreading blood libels
+
+5. 
+
+
+
 0. Add all the list of Pal lies to your new lists
 
 1. Islam takeover of the West
@@ -51,7 +67,9 @@ memri
 pallywood
 dr. maalouf (ex-muslim who shows muslim intolerance)
 dahliakurtz
-
+Tali Goldsheft
+AGHamilton613
+Marina Medvin
 
 
 1. Antagonize weak politicians who are swayed by the language of compassion and seek to appease

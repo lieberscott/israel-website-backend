@@ -124,10 +124,10 @@ const examples30x = [
     claimIds: ["30x", "3"],
     exampleId: "00000030x08",
     keywordIds: [],
-    text: "Double-murder of an Israeli couple is 'an act of love.' The murder of American/Israeli couple Sarah Milgrim and Yaron Lischinksy in May 2025 is called an 'act of love' by antizionist group 'Unity of Fields' (formerly called 'Palestine Action US'). The antizionist who murdered the couple is a “political prisoner.” The group circulated the killer's manifesto and defended “armed resistance.”",
+    text: "Double-murder of an Israeli couple is 'an act of love.' An American/Israeli couple, Sarah Milgrim and Yaron Lischinksy, were murdered outside a Jewish event in Washington, DC in May 2025. According to the charges, Sarah Milgrim, badly wounded, tried to crawl away from the killer. The killer followed her, firing repeatedly until he emptied his weapon and she was dead. This murder is called an 'act of love' by antizionist group 'Unity of Fields' (formerly called 'Palestine Action US'). The antizionist who murdered the couple is a “political prisoner.” The group circulated the killer's manifesto and defended “armed resistance.”",
     source: false,
     sourceLink: "",
-    standaloneTweets: ["1926123113026121853"],
+    standaloneTweets: ["1926123113026121853", "1925671899603841322"],
     thenVsNowFormat: false,
     themTweets: [],
     usTweets: []
