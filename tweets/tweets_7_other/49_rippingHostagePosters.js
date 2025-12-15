@@ -137,6 +137,17 @@ const examples49 = [
     standaloneTweets: ["1784661909427433586"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-22",
+    claimIds: ["49"],
+    exampleId: "00004913",
+    keywordIds: [],
+    text: "Brooklyn, NY. Two individuals tear down posters of Israelis kidnapped by Hamas; the one in orange keeps calling the Jewish man filming a “dog” in Arabic and then tells him to “burn in hell.”",
+    standaloneTweets: ["1716244474395779198"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

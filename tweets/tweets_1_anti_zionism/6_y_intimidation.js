@@ -94,6 +94,20 @@ const examples6y = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-12",
+    claimIds: ["6y", "20", "22", "24"],
+    exampleId: "6y07",
+    keywordIds: [],
+    text: "Pro-Hamas protesters threaten to kill Jewish attendees as they leave the Israeli Embassy's Hanukkah ceremony in Washington, DC. Watch as a woman screams, 'We will kill you all, occupiers.'",
+    standaloneTweets: ["1807057782320894298"],
+    thenVwNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

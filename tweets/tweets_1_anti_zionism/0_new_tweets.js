@@ -1,10 +1,38 @@
 /*
 
+
+0. Add all the list of Pal lies to your new lists
+
+1. Islam takeover of the West
+- Muslim preachers saying they want to take over Europe/America
+- Individuals saying they will outbreed us
+
+2. Muslim evil/violence
+- Muslim rapes
+- Arabs were 59% of all crime in Denmark (or somewhere like that)
+
+3. Israeli innovation/tech/contributions to society (and America)
+
+4. They want their children to die for propoganda purposes
+
+4a. Propoganda
+- Gazawood
+- Add list of Pal lies to your current lists
+- Go through your list of Pal lies and add propoganda category to them where appropriate (Mohammad Nazal and the fake broken arms story)
+
+5. NGOs
+
+6. Experts
+
+7. How all the libels started even before 10/7. It was a genocide even before the recent war.
+
+8. Insane lies (Israel dolphin- and other animal-trained Zionist conspiracies)
+
 New category: Palestinianism is about destroying
 - Person in NYC kicking in window at NYC subway station
 
 
-
+- How they've been calling it a famine since three days after the war started and every few months since (Eyal Yakoby may have had a tweet about this)
 - Israeli doctor saved Yaya Sinwar;s life by saving him from brain cancer, then his nephew was killed on Oct. 7
 - Palestinians lynching two IDF soliders with red blood hands, eating their organs, then Hollywood using that symbol to support Palestine
 - Syria calling Israel's actions genocide

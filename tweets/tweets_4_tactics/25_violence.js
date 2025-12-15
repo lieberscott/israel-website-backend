@@ -12,7 +12,7 @@ const examples25 = [
     claimIds: ["25"],
     exampleId: "0000025001",
     keywordIds: [],
-    text: "Antizionist throws Molotov cocktail at pro-Israelis marching peacefully to advcoate the release of the 50 Israeli hostages still being held in Gaza. One person was killed, and 12 people, inclduing children, were set on fire.",
+    text: "Antizionist yells 'Free Palestine!' and throws Molotov cocktail at pro-Israelis marching peacefully to advcoate the release of the 50 Israeli hostages still being held in Gaza. One person was killed, and 12 people, inclduing children, were set on fire.",
     standaloneTweets: ["1929305592180748373", "1930526196724535475"],
     source: true,
     sourceLink: "https://www.theguardian.com/us-news/2025/jun/30/boulder-attack-victim-dies",
@@ -116,6 +116,32 @@ const examples25 = [
     source: false,
     sourceLink: "",
     standaloneTweets: ["1721911382105268267"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-20",
+    claimIds: ["25"],
+    exampleId: "0000025011",
+    keywordIds: [],
+    text: "Witness says one shooter yelled 'Free Palestine' before firing upon Nashua Country Club event attendees",
+    source: true,
+    sourceLink: "https://patch.com/new-hampshire/nashua/witness-says-1-shooter-yelled-free-palestine-firing-upon-nashua-country-club",
+    standaloneTweets: ["1969576650686836808"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-05-21",
+    claimIds: ["25", "3", "5"],
+    exampleId: "0000025012",
+    keywordIds: [],
+    text: "Antizionist killed two Israeli embassy staff members (one Christina, one Jewish) outside DC's Capital Jewish Museum. The male victim, Yaron Lischinsky, had bought an engagement ring planning to propose next week in Jerusalem to his girlfriend, Sarah Milgrim. Both were killed. The killer wore a keffiyeh and shouted 'Free, free Palestine!' upon being arrested. Sarah Milgrim's friend: 'In three weeks Sarah and I were supposed to set out on a trip to build bridges between communities that often stand divided. The goal? Peace.'",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1925414470156701949", "1925418002263978045", "1925671899603841322", "1926277255619133563", "1926258744087703696"],
     themTweets: [],
     usTweets: []
   }
