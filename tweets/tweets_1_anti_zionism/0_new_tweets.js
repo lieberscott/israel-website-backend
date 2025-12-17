@@ -1,6 +1,5 @@
 /*
 
-- Yom Kippur synogogue ramming in UK
 
 Rhetorical games:
 1. Mehdi Hasan, while spreading blood libels daily, 'condemns' (to act like the incident isn't linked to rhetoric like his) an attack on a synogague
@@ -81,6 +80,9 @@ Libs of TikTok
 Amy Mek
 Rachel Moiselle
 Imtiaz Mahmood
+@Imshin
+The Mossad: Satirical and Awesome
+Aizenberg
 
 
 

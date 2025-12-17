@@ -12,7 +12,7 @@ const examples13 = [
     claimIds: ["13", "41"],
     exampleId: "000001301",
     keywordIds: [],
-    text: "Fadi Al-Wadiya worked as ‘Doctors Without Borders’ physiotherapist. The organization and multiple media outlets mourned his death calling it 'abhorrent' and claiming he was 'on his way to provide vital medical care' when he was killed in a drone strike. In reality, he was a senior rocket expert for Palestinian terror group, Palestinian Islamic Jihad. The picture below is of him in their uniform at a meeting with other PIJ members.",
+    text: "Fadi Al-Wadiya worked as 'Doctors Without Borders' physiotherapist. The organization and multiple media outlets mourned his death calling it 'abhorrent' and claiming he was 'on his way to provide vital medical care' when he was killed in a drone strike. In reality, he was a senior rocket expert for Palestinian terror group, Palestinian Islamic Jihad. The picture below is of him in their uniform at a meeting with other PIJ members.",
     source: true,
     sourceLink: "https://www.timesofisrael.com/idf-slain-gazan-named-as-doctors-without-borders-staffer-was-islamic-jihad-rocket-maker/",
     standaloneTweets: [],
@@ -31,7 +31,7 @@ const examples13 = [
     standaloneTweets: [],
     thenVsNowFormat: true,
     thenTweets: ["2000336194148913623", "1974507738660208757", "1974079489186681164"],
-    nowTweets: ["1974057134636605737"],
+    nowTweets: ["1974057134636605737", "1974101776833130785"],
     themTweets: [],
     usTweets: []
   }

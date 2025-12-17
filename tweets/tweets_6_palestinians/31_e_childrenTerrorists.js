@@ -175,6 +175,32 @@ const examples31e = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2023-05-10",
+    claimIds: ["31e"],
+    exampleId: "31e09",
+    keywordIds: [],
+    text: "Gaza Strip: Palestinian children cheer with joy at the sight of rockets being launched at Israel",
+    standaloneTweets: ["1656343848346320906", "1719404208569635237"],
+    source: false,
+    sourceLink: "",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-05-10",
+    claimIds: ["31e"],
+    exampleId: "31e10",
+    keywordIds: [],
+    text: "Gaza children are encouraged to cheer on a roof as Israeli civilian centers are bombed by Gaza terror organizations.",
+    standaloneTweets: ["1656311960944918529"],
+    source: false,
+    sourceLink: "",
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim31e, examples31e };

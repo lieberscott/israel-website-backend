@@ -198,6 +198,20 @@ const examples25 = [
     themTweets: [],
     usTweets: [],
     additionalNotes: ["Multiple eyewitnesses said police did not return fire during the attack, hiding behind obstructions"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-16",
+    claimIds: ["25", "6z"],
+    exampleId: "0000025017",
+    keywordIds: [],
+    text: "Video shows disturbing antisemitic attack on NYC subways: ‘Fuck the Jews’",
+    source: true,
+    sourceLink: "https://nypost.com/2025/12/16/us-news/jews-attacked-on-nyc-subway-nypd-investigating-as-hate-crime/?utm_medium=social&utm_social_post_id=624763471&utm_campaign=nypost&utm_source=twitter&utm_social_handle_id=17469289",
+    standaloneTweets: ["2000985482767773940"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
   }
 ]
 
