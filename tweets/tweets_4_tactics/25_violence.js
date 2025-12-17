@@ -151,12 +151,53 @@ const examples25 = [
     claimIds: ["25", "2", "3", "5", "18"],
     exampleId: "0000025013",
     keywordIds: ["FreePalestine"],
-    text: "Hateful attacker hurls rock at Jewish man in NYC, snarls ‘Free Palestine’",
+    text: "Hateful attacker hurls rock at Jewish man in NYC, snarls 'Free Palestine'",
     source: false,
     sourceLink: "",
     standaloneTweets: ["1734660055738253494"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-14",
+    claimIds: ["25", "6y", "6z", "31h", "31n"],
+    exampleId: "0000025014",
+    keywordIds: [],
+    text: "2 dead, 12 injured at Brown University: The shooting took place in a popular economics course taught by Professor Rachel Friedberg. She is also affiliated with the Judaic Studies department, and previously taught at Hebrew University. The shooter specifically targeted this class. The study session was in an auditorium with stadium-seating. He entered from the top, shouted something (in Arabic, apparently), and began shooting. He killed 2 students and injured at least 12 others. The two killed were Ella Cook, 19, VP of the College Republicans, and Muhammad Aziz Umurzokov, 18, an Uzbeki immigrant who came to the US in 2011 and wanted to be a neurosurgeon.",
+    source: true,
+    sourceLink: "https://www.oceanstatemedia.org/news-and-culture/active-shooter-reported-at-brown-university",
+    standaloneTweets: ["2000246395937169853", "2000236654917800251", "2000413832594985422", "2000641322814992701"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-10-03",
+    claimIds: ["25", "6z", "30", "31h"],
+    exampleId: "0000025015",
+    keywordIds: ["PoliceFailure"],
+    text: "Islamic t*rrorist Jihad al-Shami rammed his car into a crowd of Jews attending synagogue on Yom Kippur in Manchester, then pulled out a knife. Two people, Adrian Daulby, 53, and Melvin Cravitz, 66, were killed, and four seriously injured. Police were found to be responsible for shooting two of the victims, including one who was killed, as they were trying to neutralize the attacker. The attacker's father priased Hamas on Oct. 7, calling them 'Allah's men on Earth'. The attacker was a Syrian asylum seeker out on bail and being charged with rape.",
+    source: true,
+    sourceLink: "https://www.bbc.com/news/articles/cn98jnr5jpzo",
+    standaloneTweets: ["1973906188543643826", "1974507738660208757", "1974118868290580888", "1974212375646712073", "1974210268432368024"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: ["Attacker was out on bail for a rape charge from earlier in the year", "Syrian asylum seeker in the UK", "Police shot and killed two of the victims as they were trying to neutralize the attacker", "Father priased Hamas on Oct. 7, calling them 'Allah's men on Earth'", "Father who praised Hamas is a surgeon"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-14",
+    claimIds: ["25", "6z", "31h"],
+    exampleId: "0000025016",
+    keywordIds: ["PoliceFailure"],
+    text: "Bondi Beach, Australia: At least 12 people have been killed and 29 others injured in a shooting at a Jewish event on the first night of Hannukah. The shooters were a Pakistani father and son with ties to ISIS. Multiple eyewitnesses said police hid during the shooting and did not return fire. The third Tweet below shows horrific scenes at the shooting and viewer discretion is strongly advised. The fourth Tweet below shows video of the heroic civilian (a local Muslim man) disarming one of the shooters.",
+    source: true,
+    sourceLink: "https://www.cnn.com/world/live-news/bondi-beach-gunshots-reported-12-14-25?Date=20251214",
+    standaloneTweets: ["2000361412187902310", "2000493078700839027", "2000123984013398066", "2000194500229005765", "2000171267102826758"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: ["Multiple eyewitnesses said police did not return fire during the attack, hiding behind obstructions"]
   }
 ]
 

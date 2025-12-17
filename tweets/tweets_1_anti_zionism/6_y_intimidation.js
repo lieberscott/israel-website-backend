@@ -8,17 +8,6 @@ const claim6y = {
 const examples6y = [
   {
     dateAdded: "",
-    date: "2024-03-28",
-    claimIds: ["6y", "2", "3", "4", "5", "21"],
-    exampleId: "6y01",
-    keywordIds: [],
-    text: "The agenda of the meeting included an item on marking Holocaust Remembrance Day and funding educational programs around this commemoration. There was nothing on the meeting agenda about the Israel-Hamas War. Demonstrators called Jews 'Zionist pigs,' intimidated a Holocaust survivor, stole and threw a Jewish man's phone toward the dais and implied city council members were being bought by the Jewish community.",
-    standaloneTweets: ["1773124947008995524"],
-    themTweets: [],
-    usTweets: []
-  },
-  {
-    dateAdded: "",
     date: "2024-04-01",
     claimIds: ["6y", "21"],
     exampleId: "6y02",
@@ -112,7 +101,7 @@ const examples6y = [
   {
     dateAdded: "",
     date: "2023-12-08",
-    claimIds: ["6y", "2", "3", "22", "30y"],
+    claimIds: ["6y", "2", "3", "22", "25", "30y"],
     exampleId: "6y09",
     keywordIds: ["FreePalestine"],
     text: "A shooter yelled 'Free Palestine!' as he shot off a shotgun on the premises of Temple Israel and appeared to have torn down an Israeli flag or sign, according to law enforcement.",
@@ -139,7 +128,7 @@ const examples6y = [
   },
   {
     dateAdded: "",
-    date: "2024-11-88",
+    date: "2024-11-08",
     claimIds: ["6y", "2", "3", "18", "30y"],
     exampleId: "6y11",
     keywordIds: ["FreePalestine"],
@@ -147,6 +136,22 @@ const examples6y = [
     standaloneTweets: ["1855040240094003481"],
     source: true,
     sourceLink: "https://www.bild.de/regional/berlin/israel-hasser-greifen-spieler-von-tus-makkabi-in-berlin-an-672e03c5ebdb8724738ec456?wtmc=whtspp-shr&t_ref=https%3A%2F%2Ft.co%2F",
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-14",
+    claimIds: ["6y", "18", "30y"],
+    exampleId: "6y12",
+    keywordIds: ["FreePalestine"],
+    text: "The California home of @CohenRodgir, who served in the U.S. Army, was brightly decorated for Chanukah. Assailants drove by, unloading 20 shots into the occupied family home while yelling “Free Palestine, N*gger, and “F- the Jews.” No injuries reported but the assailants have not yet been arrested.",
+    standaloneTweets: ["2000290844662767910"],
+    source: false,
+    sourceLink: "",
     thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: [],

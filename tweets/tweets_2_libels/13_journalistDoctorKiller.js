@@ -18,6 +18,22 @@ const examples13 = [
     standaloneTweets: [],
     themTweets: ["1805620032568754564"],
     usTweets: ["1806057940207669583"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-10-03",
+    claimIds: ["13", "30x"],
+    exampleId: "000001302",
+    keywordIds: [],
+    text: "Faraj al-Shamie, a Syrian-born trauma surgeon in the UK, praised the Oct. 7 massacre at the time, calling Hamas 'Allah's men on Earth' on Oct. 7, 2023. On Oct. 3, 2025, his son, Jihad al-Shamie, committed a car ramming attack against Jews outside a Manchester synagogue on Yom Kippur, killing two and injuring four. He condemned the attack as a 'heinous act.'",
+    source: true,
+    sourceLink: "https://www.dailymail.co.uk/news/article-15159909/Manchester-attackers-warzone-doctor-father-praised-Hamas-terrorists-carried-barbaric-October-7-attacks.html",
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2000336194148913623", "1974507738660208757", "1974079489186681164"],
+    nowTweets: ["1974057134636605737"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

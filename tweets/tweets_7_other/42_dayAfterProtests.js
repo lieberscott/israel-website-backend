@@ -1,6 +1,6 @@
 const claim42 = {
   dateAdded: "",
-  claimText: " Antizionists claim they are just against the genocide and baby killing Israel has been doing in Gaza after the invasion following Oct. 7. But there were hoards of people celebrating the Oct. 7 massacre the day after it happened, before Israel had been able to even begin to respond.",
+  claimText: "There were huge crowds of people in almost every Western country celebrating the Oct. 7 massacre the day after it happened, while there were still terrorists in Israel and before Israel had been able to even begin to respond.",
   claimShortText: "10/7 day-after celebrations",
   claimId: "42"
 }
@@ -212,6 +212,17 @@ const examples42 = [
     keywordIds: [],
     text: "Over 30 Harvard student groups write a joint letter blaming Israel 'entirely' for the horrific 10/7 massacre.",
     standaloneTweets: ["1711615281754505294"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-09",
+    claimIds: ["42", "28"],
+    exampleId: "000004220",
+    keywordIds: [],
+    text: "Manchester, UK: The Muslim terrorists are chanting “intifada” (violent uprising) and “From the River to the Sea, Palestine will be Free,”",
+    standaloneTweets: ["1711252746899501317"],
     themTweets: [],
     usTweets: []
   },

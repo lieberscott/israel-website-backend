@@ -1,5 +1,6 @@
 /*
 
+- Yom Kippur synogogue ramming in UK
 
 Rhetorical games:
 1. Mehdi Hasan, while spreading blood libels daily, 'condemns' (to act like the incident isn't linked to rhetoric like his) an attack on a synogague
@@ -13,7 +14,8 @@ https://x.com/mehdirhasan/status/1733211524338950471
 
 4. Rashida Tlaib wishing the Jewish community Happy Hannukah while spreading blood libels
 
-5. 
+----
+5. Pro-Palestinians disrupting the yearly March that Jews do at a Holocaust site
 
 
 
@@ -70,6 +72,18 @@ dahliakurtz
 Tali Goldsheft
 AGHamilton613
 Marina Medvin
+Shiron Collective
+Andy Ngo
+Visegrad24
+Noa Magid
+Arsen Ostrovsky
+Libs of TikTok
+Amy Mek
+Rachel Moiselle
+Imtiaz Mahmood
+
+
+
 
 
 1. Antagonize weak politicians who are swayed by the language of compassion and seek to appease

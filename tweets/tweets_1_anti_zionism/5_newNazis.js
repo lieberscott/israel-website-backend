@@ -137,7 +137,7 @@ const examples5 = [
     themTweets: [],
     usTweets: []
   },
-   {
+  {
     dateAdded: "",
     date: "2024-06-29",
     claimIds: ["5", "6y", "6z", "15", "20", "21", "22"],
@@ -147,6 +147,19 @@ const examples5 = [
     source: false,
     sourceLink: "",
     standaloneTweets: ["1807136432059716047"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-05-06",
+    claimIds: ["5", "6y", "22", "30y"],
+    exampleId: "000005011",
+    keywordIds: [],
+    text: "Palestine activists protest outside of Auschwitz as family members of Holocaust survivors hold a march on Holocaust Remembrance Day. The March of the Living is an annual 3km silent walk to remember the Holocaust and its victims. A group of protesters waving Palestinian flags heckled Jewish survivors as they held the ‘March of the Living' walk.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1787478261003370649"],
     themTweets: [],
     usTweets: []
   },
