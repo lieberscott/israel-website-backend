@@ -200,6 +200,19 @@ const examples31e = [
     sourceLink: "",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-20",
+    claimIds: ["31e", "31f", "31g", "31k"],
+    exampleId: "31e11",
+    keywordIds: [],
+    text: "Reporter: 'If your daughter decides she wants to blow herself up, will you be happy about that?' Palestinian father: 'I will help her and encourage her.' (Unable to find original air date of clip.)",
+    standaloneTweets: ["2002245074068095349"],
+    source: false,
+    sourceLink: "",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

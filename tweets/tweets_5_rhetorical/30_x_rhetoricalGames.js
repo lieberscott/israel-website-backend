@@ -138,15 +138,25 @@ const examples30x = [
     claimIds: ["30x", "11"],
     exampleId: "00000030x09",
     keywordIds: ["MehdiHasan"],
-    text: "Mehdi Hasan provides platform for nonstop, one-sided, repeated Israel bashing, 'war crimes' accusations, then clutches pearls and 'condemns' a gun being fired outside a synogague. The nonstop, one-sided Israel bashing leads to the violence and they can not be separated. This is the rhetorical game. Oct. 31: ReTweets Joy Reid's one-sided narrative blaming Israel solely without alternative. Oct. 22: AOC accuses Israel of 'war crimes' on Mehdi's show. Nov. 5: Jamaal Bowman says Israel is committing 'war crimes' on Mehdi's show. ",
+    text: "Mehdi Hasan provides platform for nonstop, one-sided, repeated Israel bashing, generic or one-sided 'war crimes' accusations, then clutches pearls and 'condemns' a gun being fired outside a synogague. The nonstop, one-sided Israel bashing leads to the violence and they can not be separated. This is the rhetorical game. Oct. 13: Human Rights Watch launders an accusaion that Israel violated international law by using white phosphorous, and Mehdi retweets it (white phosphorous shells can legally be used as a smokescreen under international law, which is how Israel uses it). Oct. 22: AOC accuses Israel of 'war crimes' on Mehdi's show. Oct. 31: ReTweets Joy Reid's one-sided narrative blaming Israel solely without alternative. Nov. 5: Jamaal Bowman says Israel is committing 'war crimes' on Mehdi's show. ",
     source: false,
     sourceLink: "",
     standaloneTweets: [],
     thenVsNowFormat: true,
-    thenTweets: ["1719391017336480137", "2001401544063803884", "1721486721169215640"],
-    nowTweets:["1733211524338950471"],
+    thenTweets: ["1712836770646183940", "2001401544063803884", "1719391017336480137", "1721486721169215640"],
+    nowTweets:[],
     themTweets: [],
-    usTweets: []
+    usTweets: [],
+    constellationFormat: true,
+    constellationTweets: [{
+      date: "",
+      text: "Oct. 10, three days after the massacre, as Hamas terrorists are still roaming Israel, Mehdi Hassan starts the drumbeat.",
+      source: false,
+      sourceLink: "",
+      tweetIds: "",
+      rebuttalIds: "",
+    }],
+    constellationStandalone: ["1733211524338950471"]
   }
 ]
 

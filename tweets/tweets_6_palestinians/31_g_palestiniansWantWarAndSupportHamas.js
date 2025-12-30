@@ -48,7 +48,7 @@ const examples31g = [
   {
     dateAdded: "",
     date: "2024-09-09",
-    claimIds: ["31g", "31j"],
+    claimIds: ["31g", "31j", "31k"],
     exampleId: "31gE",
     keywordIds: [],
     text: "A Palestinian father wishes for his second son's death, 'Allah willing'",
@@ -58,6 +58,19 @@ const examples31g = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2018-09-25",
+    claimIds: ["31g", "31d", "31e", "31k", "27"],
+    exampleId: "31gE",
+    keywordIds: [""],
+    text: "13 year old Iman Zaher, from the village of Luban a-Sharqiya: 'I want peace without the Jews. ... Peace with ourselves, peace between Arabs. Without Jews.' ...  'In the schools, they teach us that there is no such thing as Jews, that our right is there should be a state of Palestine with no Jews in it.' 'Of course I want to visit [Jaffa, Haifa], but only after liberation, when there are no Jews there.' 'It's not called Tel Aviv. Tal Al-Rabia, Yaffa, Haifa, these were Arabic names, not Jewish names.' 'It's impossible to have two states in one state. There must be one state here. Palestine, not Israel.' 'Our main goal is that there are no Jews.'",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1044650449905889282"],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim31g, examples31g };

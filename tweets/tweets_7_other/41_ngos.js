@@ -42,6 +42,17 @@ const examples41 = [
     standaloneTweets: ["1722926418785353887"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-22",
+    claimIds: ["41"],
+    exampleId: "000004104",
+    keywordIds: [],
+    text: "Amnesty International delayed the release of a report on Hamas's Oct. 7, 2023, crimes against humanity for over a year, despite it being commissioned in early 2024 and largely completed by August, due to internal opposition from staff and section directors who argue that publishing it could politically benefit Israel by diverting attention from the Gaza humanitarian crisis and justifying its military actions, leaked emails and documents show. This internal conflict contrasts with Amnesty's rapid publication of reports accusing Israel of genocide and other violations, leading critics to accuse the organization of bias and prioritizing narrative over impartial human rights documentation.",
+    standaloneTweets: ["1970246792823324904"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

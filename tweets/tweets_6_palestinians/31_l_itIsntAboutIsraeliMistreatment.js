@@ -16,6 +16,19 @@ const examples31k = [
     standaloneTweets: ["1752423633136357389"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "1831-07-18",
+    claimIds: ["31l", "27"],
+    exampleId: "00031l002",
+    keywordIds: [],
+    text: "JERUSALEM — The Jews, who had no place of safety to which they could retire, suffered very much; their houses were so pillaged that they had not a bed to lie on, many were murdered, their wives and daughters violated, barbarities were committed too shocking to relate.",
+    standaloneTweets: ["2002069337709101382"],
+    source: true,
+    sourceLink: "https://trove.nla.gov.au/newspaper/article/31716557?searchTerm=Jews%20doings%20at%20Palestine",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

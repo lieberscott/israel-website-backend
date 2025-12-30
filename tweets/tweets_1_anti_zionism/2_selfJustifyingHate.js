@@ -96,6 +96,19 @@ const examples2 = [
     standaloneTweets: ["1926328334062907751"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2018-05-18",
+    claimIds: ["2", "3"],
+    exampleId: "000002008",
+    keywordIds: ["Layla Ghandour", "Great March of Return"],
+    text: "'Facism', 'Israeli army pulling the trigger'. 'Nazis to the core'. 'Innocent people murdered.' 'Protestors'. 'Illegal under international law'. The buzzwords flow endlessly like water from a tap. But over 80% of those killed were found to be affiliated with militant organizations, mostly Hamas, and the child Layla Ghandour, whose death was initially blamed on the IDF and became a cause célèbre for media, celebrities, and Arab leaders, was later revealed by Gazan doctors to have died of a preexisting condition and her death had nothing to do with the IDF. See specific proof on this website from this month.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["996096673070960640", "996501019738673152", "996081805571784704", "996135302740742144", "996175385829302273"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

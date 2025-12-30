@@ -34,6 +34,19 @@ const examples13 = [
     nowTweets: ["1974057134636605737", "1974101776833130785"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-27",
+    claimIds: ["13", "31a"],
+    exampleId: "000001303",
+    keywordIds: [],
+    text: "Gaza 'journalist' Motasem A Dalloul Tweets an image from a 2013 US drone strike on Pakistan, claiming its an Israeli helicopter opening fire in East Gaza 'right now'. He doesn't even take it down when it's pointed out, because they are totally shameless.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["2004832462111989884"],
+    usTweets: ["2005244088421847106", "2005284985838735376"]
   }
 ]
 

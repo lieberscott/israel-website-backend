@@ -30,6 +30,18 @@ const examples31h = [
     standaloneTweets: ["1751576052399251628"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-26",
+    claimIds: ["31h"],
+    exampleId: "0000031h003",
+    keywordIds: [],
+    text: "Syria: A suicide bomber blew himself up during Friday prayers inside the Imam Ali mosque in the Wadi al-Dhahab neighborhood in the city of Homs. According to worshippers' testimonies, the bomber shouted: 'Allahu Akbar' before detonating himself. According to initial data, there are five dead and 15 injured.",
+    source: false,
+    standaloneTweets: ["2004500346891084235"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
