@@ -194,7 +194,7 @@ const examples25 = [
     text: "Bondi Beach, Australia: At least 12 people have been killed and 29 others injured in a shooting at a Jewish event on the first night of Hannukah. The shooters were a Pakistani father and son with ties to ISIS. Multiple eyewitnesses said police hid during the shooting and did not return fire. The third Tweet below shows horrific scenes at the shooting and viewer discretion is strongly advised. The fourth Tweet below shows video of the heroic civilian (a local Muslim man) disarming one of the shooters.",
     source: true,
     sourceLink: "https://www.cnn.com/world/live-news/bondi-beach-gunshots-reported-12-14-25?Date=20251214",
-    standaloneTweets: ["2000361412187902310", "2000493078700839027", "2000123984013398066", "2000194500229005765", "2000171267102826758"],
+    standaloneTweets: ["2000361412187902310", "2000493078700839027", "2000123984013398066", "2000194500229005765", "2000171267102826758", "2001320304727990359", "2001597321268588772"],
     themTweets: [],
     usTweets: [],
     additionalNotes: ["Multiple eyewitnesses said police did not return fire during the attack, hiding behind obstructions"]

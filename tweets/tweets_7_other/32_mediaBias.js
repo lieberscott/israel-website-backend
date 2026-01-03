@@ -16,6 +16,19 @@ const examples32 = [
     standaloneTweets: ["1773689999818469842"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-06-12",
+    claimIds: ["32"],
+    exampleId: "00003202",
+    keywordIds: [],
+    text: "Two BBC stories a few hours apart. Left: Hamas sources are treated as the bible. Right: When the info comes from the US & Israeli-backed Gaza Humanitarian Foundation? 'The BBC cannot independently verify.'",
+    standaloneTweets: ["1933086491116491177"],
+    source: true,
+    sourceLink: "https://www.bbc.com/news/articles/c1mg4ld5951o, https://www.bbc.com/news/articles/c4gr1rk5nvxo",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

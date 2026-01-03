@@ -24,8 +24,8 @@ const examples17 = [
     exampleId: "0000017002",
     keywordIds: ["EmmanuelMacron"],
     text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
-    themTweets: [{id: "1965452213792506048"}],
-    usTweets: [{ id: "1965477345634255182" }, { id: "1965467866033209695" }]
+    themTweets: ["1965452213792506048"],
+    usTweets: ["1965477345634255182", "1965467866033209695"]
   },
   {
     dateAdded: "",
@@ -46,6 +46,19 @@ const examples17 = [
     keywordIds: [],
     text: "Glastonbury Music Festival attendees brandish Palestinian flags- 8 months after terrorists brandishing the same flag slaughtered 364 festival goers at the Nova Festival.",
     standaloneTweets: ["1806832831592603962", "1807055404121075823"],
+    themTweets: [],
+    usTweets:[]
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-05",
+    claimIds: ["17"],
+    exampleId: "0000017005",
+    keywordIds: ["Sudan"],
+    text: "Sixty thousand people butchered in three weeks, up to 150,000 missing, a city of 1.5 million turned into a graveyard, and bodies burned in piles. Done with the help of the UAE, which provide weapons to the RSF in Sudan. The U.S. has provided billions of dollars of military aid to the UAE over decades. No marches. No campus encampments. No celebrity statements. No global outcry. Just hypocrisy. Because the victims aren't useful for the narrative. Because Jews can't be blamed.",
+    standaloneTweets: ["1997092635136459203", "2005715523485716854", "1984914402508677273", "1864375198964961396"],
+    source: true,
+    sourceLink: "https://www.washingtonexaminer.com/news/world/3908826/investigators-el-fasher-massacre-death-toll-three-weeks/",
     themTweets: [],
     usTweets:[]
   }

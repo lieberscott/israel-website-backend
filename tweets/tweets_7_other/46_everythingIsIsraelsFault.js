@@ -6,7 +6,7 @@ const claim46 = {
 }
 
 const examples46 = [
-
+  
 ]
 
 module.exports = { claim46, examples46 };

@@ -163,6 +163,19 @@ const examples5 = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "1937-04-04",
+    claimIds: ["5", "30y"],
+    exampleId: "000005012",
+    keywordIds: [],
+    text: "Hitler's 'Mein Kampf,' once banned in Palestine, is now reported to be a best seller among the Arabs, who have joined with Nazi Germany in antagonism to the Jews.",
+    source: true,
+    sourceLink: "https://www.nytimes.com/1937/04/04/archives/books-and-authors-forthcoming-books.html?searchResultPosition=2",
+    standaloneTweets: ["2006424979592855979"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim5, examples5 };
