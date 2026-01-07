@@ -9,7 +9,7 @@ const deepDivesExamples = [
   {
     dateAdded: "",
     date: "2024-02-26",
-    claimIds: [],
+    claimIds: ["Trans001"],
     exampleId: "Trans0001",
     keywordIds: [],
     text: "U.S. Air Force officer who set himself on fire and died while screaming “Free Palestine” used PRONOUNS on his LinkedIn bio.",
@@ -20,7 +20,7 @@ const deepDivesExamples = [
   {
     dateAdded: "",
     date: "2024-02-27",
-    claimIds: [],
+    claimIds: ["Trans001"],
     exampleId: "Trans0002",
     keywordIds: [],
     text: "LGBTQI+ Man who identifies as a dog tries to eat through his dog mask.",
@@ -31,7 +31,7 @@ const deepDivesExamples = [
   {
     dateAdded: "",
     date: "2024-02-26",
-    claimIds: [],
+    claimIds: ["Trans001"],
     exampleId: "Trans0003",
     keywordIds: [],
     text: "Non-binary singer Dorian Electra makes all restrooms at her concerts ‘All Species’ and leaves a cat litter box in the toilets for “all animal identifying concert goers”.",
@@ -42,7 +42,7 @@ const deepDivesExamples = [
   {
     dateAdded: "",
     date: "2015-06-01",
-    claimIds: [],
+    claimIds: ["Trans001"],
     exampleId: "Trans0004",
     keywordIds: [],
     text: "Planet Fitness banned woman in 2015 for reporting a man in the women’s locker room- full story.",
@@ -55,7 +55,7 @@ const deepDivesExamples = [
   {
     dateAdded: "",
     date: "2024-03-28",
-    claimIds: [],
+    claimIds: ["Trans001"],
     exampleId: "Trans0005",
     keywordIds: [],
     text: "Palestinian flag flown alongside the Trans Flag during a pro-Palestine protest outside Radio City Hall, NYC.",
@@ -66,7 +66,7 @@ const deepDivesExamples = [
   {
     dateAdded: "",
     date: "2024-03-29",
-    claimIds: [],
+    claimIds: ["Trans001"],
     exampleId: "Trans0006",
     keywordIds: [],
     text: "Trans man takes experimental drug so he can 'breastfeed' grandchild.",
@@ -79,12 +79,23 @@ const deepDivesExamples = [
   {
     dateAdded: "",
     date: "2024-06-26",
-    claimIds: [],
+    claimIds: ["Trans001"],
     exampleId: "Trans0007",
     keywordIds: [],
     text: "Mother with baby says she was denied entry to United flight after misgendering flight attendant and not using They/Them pronouns.",
     source: false,
     standaloneTweets: ["1806000212437250533"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-26",
+    claimIds: ["Trans001"],
+    exampleId: "Trans0008",
+    keywordIds: [],
+    text: "Trans Tiktoker: 'We have been escalated to stage 8 of genocide for trans people in the United States.'",
+    standaloneTweets: ["1762177702440690056"],
     themTweets: [],
     usTweets: []
   }

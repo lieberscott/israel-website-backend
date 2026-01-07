@@ -49,7 +49,7 @@ const examples31k = [
     claimIds: ["31l", "31n"],
     exampleId: "000004601",
     keywordIds: [],
-    text: "On Jan. 1, 2011, a Gazan militant group bombed a Christian church outside Alexandria, Egypt, and 23 Christians were killed, and 97 injured. The violence has nothing to do with Israel.",
+    text: "On Jan. 1, 2011, a Gazan militant group bombed a Christian church outside Alexandria, Egypt, and 23 Christians were killed, and 97 injured. The Islamic violence has nothing to do with 'Israeli mistreatment'.",
     source: true,
     sourceLink: "https://www.reuters.com/article/world/egypt-blames-gaza-militants-for-church-bomb-idUSTRE70M0IW/",
     standaloneTweets: ["29125138389671936", "2006402471602647274"],

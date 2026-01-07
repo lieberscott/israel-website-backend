@@ -109,6 +109,18 @@ const examples2 = [
     standaloneTweets: ["996096673070960640", "996501019738673152", "996081805571784704", "996135302740742144", "996175385829302273"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-03",
+    claimIds: ["2", "1", "5", "6", "16", "17", "24", "30"],
+    exampleId: "000002009",
+    keywordIds: [],
+    text: "Matt Chun, a prominent Australian children's artist, posted a lengthy article on why he is not mourning the victims of the Bondi Beach shooting. The fact that one of the people murdered was 10-year-old Matilda does not seem to bother him too much.",
+    themVsUsFormat: true,
+    standaloneTweets: [],
+    themTweets: ["2007628651928367545"],
+    usTweets: ["2000939666502004802", "2006429342038114601"]
   }
 ]
 
