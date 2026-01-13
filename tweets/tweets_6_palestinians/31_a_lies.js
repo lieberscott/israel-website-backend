@@ -62,7 +62,7 @@ const examples31a = [
   {
     dateAdded: "",
     date: "2025-09-04",
-    claimIds: ["31a", "31b", "12", "13", "32", "41", "45", "47"],
+    claimIds: ["31a", "31b", "12", "13", "31k", "32", "41", "45", "47"],
     exampleId: "00000031a006",
     keywordIds: [],
     text: "Anthony Aguilar, a former U.S. contractor with the Gaza Humanitarian Fund (GHF), an 'expert,' claimed that he witnessed the IDF kill a young Gazan boy named 'Amir' after the child received aid. The story was eagerly amplified by Tucker Carlson, Krystal Ball, and outlets such as the BBC and Middle East Eye. By September, investigations revealed the boy — actually named Abdul Rahim Muhammad Hamden — was alive and well.",
@@ -71,7 +71,18 @@ const examples31a = [
     standaloneTweets: [],
     themTweets: ["1950158724095422679", "1952285882397954372", "1963610478665458052", "1950984763709292869", "1963583324707819727"],
     usTweets: ["1963598608692887963", "1963583598667198576"]
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-09",
+    claimIds: ["31a"],
+    exampleId: "00000031a007",
+    keywordIds: [],
+    text: "Popular antizionist X account Israel Exposed is either Arab or American, Christian or Muslim, depending on how it benefits their argument at the time.",
+    standaloneTweets: ["2009799341972611242"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim31a, examples31a };

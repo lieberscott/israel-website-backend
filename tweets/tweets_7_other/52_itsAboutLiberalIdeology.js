@@ -27,6 +27,17 @@ const examples52 = [
     standaloneTweets: ["1995464924496052442"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-01",
+    claimIds: ["52"],
+    exampleId: "00005202",
+    keywordIds: [],
+    text: "Pro-Palestinian says that because Jews are an 'enriched class' compared to Palestinians that antisemitism isn’t really a problem for him.",
+    standaloneTweets: ["1995464924496052442"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

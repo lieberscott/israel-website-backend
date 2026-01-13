@@ -16,6 +16,17 @@ const examples53 = [
     standaloneTweets: ["1785738270044725617"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2020-03-24",
+    claimIds: ["53", "21a"],
+    exampleId: "00005302",
+    keywordIds: [],
+    text: "Pew: The majority of young leftwing women have a mental illness. White liberals (and especially 'very liberal liberals') are far more likely than all other ideological-racial subgroups to report being diagnosed with a mental health condition.",
+    standaloneTweets: ["2009862617268105352", "1248823584111439872"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

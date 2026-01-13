@@ -29,6 +29,32 @@ const examples32 = [
     sourceLink: "https://www.bbc.com/news/articles/c1mg4ld5951o, https://www.bbc.com/news/articles/c4gr1rk5nvxo",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-09",
+    claimIds: ["32"],
+    exampleId: "00003203",
+    keywordIds: [],
+    text: "Channel 4 reporter Lindsey Hilsum explains they can’t cover Iran because there are no foreign journalists on the ground. Academic points out the obvious hypocrisy, because they obsessively covered Gaza. She blocks him.",
+    standaloneTweets: [],
+    source: false,
+    sourceLink: "",
+    themTweets: ["2009590857503011058"],
+    usTweets: ["2009598765402046574"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-01",
+    claimIds: ["32"],
+    exampleId: "00003204",
+    keywordIds: [],
+    text: "The BBC had Gaza as their headline news practically every day for months, despite zero verification. They published every piece of crap Hamas fed them. Now the people of Iran are rising up against their tyrannical leaders, and its Silence. Shameful by John Simpson.",
+    standaloneTweets: ["2006821109468201213"],
+    source: false,
+    sourceLink: "",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -25,7 +25,7 @@ const examples14 = [
     claimIds: ["14", "1", "46"],
     exampleId: "000001402",
     keywordIds: [],
-    text: "Candace Owens claims 'Zionists' are cheering the regime change because it means 'they get to steal land, oil and other resources'",
+    text: "Candace Owens claims 'Zionists' are cheering the regime change because it means 'they get to steal land, oil and other resources.' The focus is on Zionists instead of actual Venezuelans, who are in fact celebrating the overthrow of a brutal narcoterrorist despot.",
     source: false,
     standaloneTweets: ["2007530495186473338"],
     thenVsNowFormat: false,
@@ -195,9 +195,10 @@ const examples14 = [
     text: "On Jan. 1, 2011, a Gazan militant group bombed a Christian church outside Alexandria, Egypt, and 23 Christians were killed, and 97 injured. Islamists ‘build their scapegoat’ for church bombing. Muslim Brotherhood official, Egyptian lawyers group, Lebanon’s grand mufti have all blamed the Jews, with varying motives.",
     source: true,
     sourceLink: "https://www.jpost.com/diplomacy-and-politics/islamists-build-their-scapegoat-for-church-bombing/article-202218",
-    themTweets: ["29125138389671936", "2006402471602647274"],
+    nowTweets: ["29125138389671936", "2006402471602647274"],
+    thenVsNowFormat: true,
     standaloneTweets: [],
-    usTweets: ["22350940480733185"]
+    thenTweets: ["22350940480733185"]
   },
   {
     dateAdded: "",
@@ -211,7 +212,24 @@ const examples14 = [
     standaloneTweets: ["35603581386096640"],
     themTweets: [],
     usTweets: []
-  }
+  },
+  // {
+    // INCOMEPLETE: NEEDS NOW_TWEETS, AND EXPLANATION OF THE BLAST
+    // dateAdded: "",
+    // date: "2012-08-11",
+    // claimIds: ["14", "46"],
+    // exampleId: "000001416",
+    // keywordIds: [],
+    // text: "Jihadist elements raided Egyptian border guards in 2012, killing 16. Rather than admit there was a security vaccuum, the Egyptian Muslim Brotherhood blamed the Mossad for the attack. They later attacked the real perpetrators, jihadist elements in the Sinai desert.",
+    // source: true,
+    // sourceLink: "https://www.bbc.com/news/world-middle-east-19154090",
+    // thenVsNowFormat: true,
+    // thenTweets: ["232573312054738944"],
+    // nowTweets:[],
+    // standaloneTweets: [],
+    // themTweets: [],
+    // usTweets: []
+  // }
 ]
 
 module.exports = { claim14, examples14 };

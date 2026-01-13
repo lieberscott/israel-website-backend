@@ -141,40 +141,52 @@ const examples30x = [
     text: "Nicolas Maduro is a 'Jew' while he's in power as a totalitarian (July 9, 2024). But when he's captured and arrested by Trump, the Jews are also responsible for that (Jan. 2, 2026).",
     source: false,
     sourceLink: "",
-    themVsUsFormat: true,
     themTweets: ["2007464665631117656"],
     usTweets: ["2007386073110880590"],
     standaloneTweets: [],
-    thenVsNowFormat: false,
-    themTweets: [],
-    usTweets: []
+    thenVsNowFormat: false
   },
   {
     dateAdded: "",
-    date: "2023-12-09",
-    claimIds: ["30x", "11"],
-    exampleId: "00000030xDIFF09",
-    keywordIds: ["MehdiHasan"],
-    text: "Mehdi Hasan provides platform for nonstop, one-sided, repeated Israel bashing, generic or one-sided 'war crimes' accusations, then clutches pearls and 'condemns' a gun being fired outside a synogague. The nonstop, one-sided Israel bashing leads to the violence and they can not be separated. This is the rhetorical game. Oct. 13: Human Rights Watch launders an accusaion that Israel violated international law by using white phosphorous, and Mehdi retweets it (white phosphorous shells can legally be used as a smokescreen under international law, which is how Israel uses it). Oct. 22: AOC accuses Israel of 'war crimes' on Mehdi's show. Oct. 31: ReTweets Joy Reid's one-sided narrative blaming Israel solely without alternative. Nov. 5: Jamaal Bowman says Israel is committing 'war crimes' on Mehdi's show. ",
+    date: "2026-01-08",
+    claimIds: ["30x", "1", "2", "3", "4", "46"],
+    exampleId: "00000030x10",
+    keywordIds: [],
+    text: "Their obsessive paranoia contradicts itself, but it doesn't matter, because in a totalizing ideology, it still makes sense. See, the ICE agent who shot and killed Renee Good in Minnesota was trained by the IDF and the ADL. But, wait, I agree the IDF and ADL are evil, but the ADL 'loves' mass migration and replacement, so why would they train ICE? Just because, dummy! Shut up and swallow!",
     source: false,
     sourceLink: "",
-    standaloneTweets: [],
     thenVsNowFormat: true,
-    thenTweets: ["1712836770646183940", "2001401544063803884", "1719391017336480137", "1721486721169215640"],
-    nowTweets:[],
-    themTweets: [],
-    usTweets: [],
-    constellationFormat: true,
-    constellationTweets: [{
-      date: "",
-      text: "Oct. 10, three days after the massacre, as Hamas terrorists are still roaming Israel, Mehdi Hassan starts the drumbeat.",
-      source: false,
-      sourceLink: "",
-      tweetIds: "",
-      rebuttalIds: "",
-    }],
-    constellationStandalone: ["1733211524338950471"]
-  }
+    thenTweets: ["2009362169302012259"],
+    nowTweets: ["2009419788523573374", "2009455664662446501", "2009471967917953334"],
+    standaloneTweets: [],
+  },
+  // INCOMPLETE, NEEDS FULL DATA
+  // {
+  //   dateAdded: "",
+  //   date: "2023-12-09",
+  //   claimIds: ["30x", "11"],
+  //   exampleId: "00000030xDIFF09",
+  //   keywordIds: ["MehdiHasan"],
+  //   text: "Mehdi Hasan provides platform for nonstop, one-sided, repeated Israel bashing, generic or one-sided 'war crimes' accusations, then clutches pearls and 'condemns' a gun being fired outside a synogague. The nonstop, one-sided Israel bashing leads to the violence and they can not be separated. This is the rhetorical game. Oct. 13: Human Rights Watch launders an accusaion that Israel violated international law by using white phosphorous, and Mehdi retweets it (white phosphorous shells can legally be used as a smokescreen under international law, which is how Israel uses it). Oct. 22: AOC accuses Israel of 'war crimes' on Mehdi's show. Oct. 31: ReTweets Joy Reid's one-sided narrative blaming Israel solely without alternative. Nov. 5: Jamaal Bowman says Israel is committing 'war crimes' on Mehdi's show. ",
+  //   source: false,
+  //   sourceLink: "",
+  //   standaloneTweets: [],
+  //   thenVsNowFormat: true,
+  //   thenTweets: ["1712836770646183940", "2001401544063803884", "1719391017336480137", "1721486721169215640"],
+  //   nowTweets:[],
+  //   themTweets: [],
+  //   usTweets: [],
+  //   constellationFormat: true,
+  //   constellationTweets: [{
+  //     date: "",
+  //     text: "Oct. 10, three days after the massacre, as Hamas terrorists are still roaming Israel, Mehdi Hassan starts the drumbeat.",
+  //     source: false,
+  //     sourceLink: "",
+  //     tweetIds: "",
+  //     rebuttalIds: "",
+  //   }],
+  //   constellationStandalone: ["1733211524338950471"]
+  // }
 ]
 
 module.exports = { claim30x, examples30x };

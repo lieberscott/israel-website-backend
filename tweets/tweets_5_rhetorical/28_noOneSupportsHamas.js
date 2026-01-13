@@ -60,6 +60,17 @@ const examples28 = [
     standaloneTweets: ["1806807015538282570", "1806807778205270479"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-08",
+    claimIds: ["28", "21", "22"],
+    exampleId: "000002806",
+    keywordIds: [],
+    text: "Mamdani’s NYC: protesters outside a synagogue in New York are chanting, “Say it loud, say it clear, we support Hamas here.”",
+    standaloneTweets: ["2009475093026742425"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

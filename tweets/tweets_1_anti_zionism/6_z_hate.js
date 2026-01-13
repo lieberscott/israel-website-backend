@@ -192,6 +192,17 @@ const examples6z = [
     standaloneTweets: ["1798706198415278206"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-09",
+    claimIds: ["6z", "6y", "22"],
+    exampleId: "6z18",
+    keywordIds: [],
+    text: "A keffiyeh-clad terror-supporter attempting to disguise their identity at last night’s hate rally in a NYC Jewish community: 'Kill yourself, b*tch! If you don't kill yourselves, I hope y'all get killed by someone. I hope y'all get shot by someone.'",
+    standaloneTweets: ["2009726630629924936"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
