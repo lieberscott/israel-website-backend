@@ -61,6 +61,20 @@ const examples17 = [
     sourceLink: "https://www.washingtonexaminer.com/news/world/3908826/investigators-el-fasher-massacre-death-toll-three-weeks/",
     themTweets: [],
     usTweets:[]
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-12",
+    claimIds: ["17", "55"],
+    exampleId: "0000017006",
+    keywordIds: ["Iran"],
+    text: "No one showed up for the Iranian people on college campsues as they are fighting for freedom from their oppressive regime, because it's not about 'freedom' to the Western college students. It's about destroying Western civilization, and the Iranian regime is an ally in that fight.",
+    standaloneTweets: [],
+    source: false,
+    thenTweets: ["1780771547663180080", "1838003353613472119", "1923108861214327177", "1938109243183534497", "1923448955842568295", "1805842150078206306"],
+    nowTweets: ["2011079724672663661", "2011107983497871775"],
+    themTweets: [],
+    usTweets:[]
   }
 ]
 

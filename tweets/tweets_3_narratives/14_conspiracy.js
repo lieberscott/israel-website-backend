@@ -213,6 +213,18 @@ const examples14 = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-01-09",
+    claimIds: ["14", "46"],
+    exampleId: "000001416",
+    keywordIds: [],
+    text: "Cancer Owens defends China arresting Christians; argues that Christians are Mossad/CIA.",
+    source: false,
+    standaloneTweets: ["2009672700466516227"],
+    themTweets: [],
+    usTweets: []
+  },
   // {
     // INCOMEPLETE: NEEDS NOW_TWEETS, AND EXPLANATION OF THE BLAST
     // dateAdded: "",

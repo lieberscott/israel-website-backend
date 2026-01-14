@@ -38,6 +38,17 @@ const examples52 = [
     standaloneTweets: ["1995464924496052442"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-11",
+    claimIds: ["52", "51"],
+    exampleId: "00005203",
+    keywordIds: [],
+    text: "The head of the DSA International Committee is openly cheering for the brutal theocratic regime in Iran to crush pro-democracy protesters. It's not about 'freedom.' It's about opposing Western civilization. The Communist Manifesto: 'In short, the Communists everywhere support every revolutionary movement against the existing social and political order of things.'",
+    standaloneTweets: [],
+    themTweets: ["2010376831934075140"],
+    usTweets: ["2010842946455716179", "2011107983497871775"]
   }
 ]
 

@@ -16,6 +16,17 @@ const examples54 = [
     standaloneTweets: ["2007847171723505810"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-07",
+    claimIds: ["54", "19"],
+    exampleId: "00005401",
+    keywordIds: [],
+    text: "As Allied troops approached the death camps the Nazis prioritized killing the kapos rather than the other Jews. Because everyone despises traitors.",
+    standaloneTweets: ["2009092163133678074"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

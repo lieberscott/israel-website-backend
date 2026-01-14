@@ -186,7 +186,35 @@ const examples30x = [
   //     rebuttalIds: "",
   //   }],
   //   constellationStandalone: ["1733211524338950471"]
-  // }
+  // },
+  {
+    dateAdded: "",
+    date: "2026-01-13",
+    claimIds: ["30x", "17", "41"],
+    exampleId: "00000030x12",
+    keywordIds: [],
+    text: "U.N. “human rights expert” Francesca Albanese says she's silent on slaughter of Iranian protestors as it's beyond her Palestinian areas mandate, to which she is “rigorously dedicated.” Albanese last week condemning the United States for its actions in Venezuela.",
+    source: false,
+    sourceLink: "",
+    thenVsNowFormat: true,
+    thenTweets: ["2011107983497871775", "1790468567835533484", "1913548070702178473"],
+    nowTweets: ["2011132657816551529", "2009349722079907986", "2010635701537427474"],
+    standaloneTweets: [],
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-09",
+    claimIds: ["30x", "28"],
+    exampleId: "00000030x13",
+    keywordIds: [],
+    text: "Alexandria Ocasio-Cortez went to the Columbia University encampments — where they openly supported Hamas and harassed Jewish students — and thanked them. Said 'Your leadership is just so fantastic.' Then, when people are chanting in favor of Hamas, AOC, with her signature millenial flair and a total lack of self-awareness: 'Hey, so, don't support Hamas. Pretty basic!' Swipe the 'Then' Tweets to see them explicitly support Hamas, violence, and terrorism.",
+    source: false,
+    sourceLink: "",
+    thenVsNowFormat: true,
+    thenTweets: ["1783934580526846377", "1788204460898132209", "1781926923196875075", "1781948249214996901", "1785282124766929152", "1783640761117835745", "1782251012863963544", "1782253130375102916", "1781987751291765079", "1782734702182322607"],
+    nowTweets: ["2010193358455746685"],
+    standaloneTweets: [],
+  },
 ]
 
 module.exports = { claim30x, examples30x };

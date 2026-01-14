@@ -42,13 +42,24 @@ const examples1 = [
   {
     dateAdded: "",
     date: "2025-12-03",
-    claimIds: ["1"],
+    claimIds: ["1", "18"],
     exampleId: "0000001004",
     keywordIds: [],
     text: "A NYC middle school principal will only allow a Holocaust survivor to speak to the students if the survivor doesn’t support Israel.",
     standaloneTweets: ["1996275936992416116"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-07",
+    claimIds: ["1", "51"],
+    exampleId: "0000001005",
+    keywordIds: [],
+    text: "GERMANY: An Iranian crowd protests their regime for killing innocent people - and a raging liberal activist yells “Free Palestine” at them.",
+    standaloneTweets: [],
+    themTweets: ["2008931744146227538"],
+    usTweets: ["2011107983497871775"]
   }
 ]
 
