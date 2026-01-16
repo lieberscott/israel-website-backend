@@ -71,10 +71,39 @@ const examples17 = [
     text: "No one showed up for the Iranian people on college campsues as they are fighting for freedom from their oppressive regime, because it's not about 'freedom' to the Western college students. It's about destroying Western civilization, and the Iranian regime is an ally in that fight.",
     standaloneTweets: [],
     source: false,
+    thenVsNowFormat: true,
     thenTweets: ["1780771547663180080", "1838003353613472119", "1923108861214327177", "1938109243183534497", "1923448955842568295", "1805842150078206306"],
     nowTweets: ["2011079724672663661", "2011107983497871775"],
     themTweets: [],
     usTweets:[]
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-10",
+    claimIds: ["17", "30y", "31l"],
+    exampleId: "0000017007",
+    keywordIds: ["Iran"],
+    text: "This is why we know it is antisemitism. The Iranian people being murdered in their fight for freedom. GretaThunberg: nothing on Iran. GaryLineker: nothing on Iran. MarkRuffalo: nothing on Iran. Big mouths. They claim it is about human rights. So why are they silent now?",
+    standaloneTweets: [],
+    source: false,
+    thenVsNowFormat: true,
+    thenTweets: ["1843930085109445105", "1840047212866179105", "1860019708667527549"],
+    nowTweets: ["2010008633392914758", "2010600199681712547"],
+    themTweets: [],
+    usTweets:[]
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-12",
+    claimIds: ["17", "41", "45"],
+    exampleId: "0000017008",
+    keywordIds: ["Iran", "United Nations", "UN"],
+    text: "This is why we know it is antisemitism. The Iranian people being murdered in their fight for freedom. GretaThunberg: nothing on Iran. GaryLineker: nothing on Iran. MarkRuffalo: nothing on Iran. Big mouths. They claim it is about human rights. So why are they silent now?",
+    standaloneTweets: [],
+    source: false,
+    thenVsNowFormat: true,
+    nowTweets: ["2011061968850055285", "2011136775138181172", "2010600199681712547"],
+    thenTweets: ["2005860682982645820"],
   }
 ]
 

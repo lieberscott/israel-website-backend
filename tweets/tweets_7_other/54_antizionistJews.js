@@ -39,6 +39,18 @@ const examples54 = [
     thenVsNowFormat: true,
     thenTweets: ["1933550111298088971", "1937715119326138382", "1982181696335175966"],
     nowTweets: ["2009658373231534414", "2009679109689926055", "2009766472592118122", "2009680818130825583", "2009740574538998200", "2009718212557189464", "2009806295403245783", "2009676070724010432", "2009886414075564400", "2009765761837842602", "2009778761168728314", "2009828470793089390"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-11",
+    claimIds: ["54"],
+    exampleId: "00005404",
+    keywordIds: [],
+    text: "Longtime Haaretz columnist Alon Pinkas was paid hundreds of thousands of dollars (from January 2024 through March 2025) by a lobbyist tied to Qatar. These payments were made while Pinkas was simultaneously publishing pro-Qatari columns in the paper. Pinkas’s pay was routed through an Israeli businessman and traced to Washington lobbyist Jay Footlik, who has represented Qatari interests. The revelation comes after the earlier firing of another senior Haaretz journalist, Chaim Levinson, who received at least NIS 200,000 (~$61,000) from a firm tied to the same Qatar influence network. Some of you may also recall that former Qatari Prime Minister Hamad Bin Jassim is on record stating that 'We have journalists on our payroll in many countries.'",
+    standaloneTweets: ["2010228664047169698"],
+    thenVsNowFormat: true,
+    thenTweets: [],
+    nowTweets: []
   }
 ]
 

@@ -212,6 +212,18 @@ const examples25 = [
     themTweets: [],
     usTweets: [],
     additionalNotes: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-11",
+    claimIds: ["25", "5", "6y", "6z", "18"],
+    exampleId: "0000025018",
+    keywordIds: [],
+    text: "Poland - 90 Israeli kids at a Judo tournament were targeted with chants of “Free Palestine.” When Israeli coaches complained, they were surrounded and beaten by a mob, in front of the children. Parents watched it unfold live on video. The attackers stayed. The Israeli youth team was expelled.",
+    standaloneTweets: ["2011088981304189019"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
   }
 ]
 

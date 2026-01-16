@@ -1,11 +1,11 @@
-const deepDivesClaim = {
+const ZZNonIsrael = {
   dateAdded: "",
   claimText: "Non-Israel",
   claimShortText: "NonIsrael",
   claimId: "NonIsrael"
 }
 
-const deepDivesExamples = [
+const ZZNonIsraelExamples = [
   {
     dateAdded: "",
     date: "2023-12-29",
@@ -68,7 +68,153 @@ const deepDivesExamples = [
     findOutTweets: [],
     themTweets: [],
     usTweets: []
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-14",
+    claimIds: ["5"],
+    exampleId: "nonIsrael0006",
+    keywordIds: ["UK"],
+    text: "Insane. Britain is no longer a democracy. At a protest where crowds shouted “Allahu Akbar,” a man said “God bless you” to a Muslim and was arrested. Let that sink in.",
+    standaloneTweets: ["2011435881287111154"],
+    fuckAroundTweets: [],
+    findOutTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+   {
+    dateAdded: "",
+    date: "2026-01-14",
+    claimIds: ["17"],
+    exampleId: "nonIsrael0007",
+    keywordIds: ["Immigration"],
+    text: "2008: Obama slams the Bush Administration for not doing enough to combat the problem of illegal immigration. ### Barack Obama is asked since he’s deporting 1,000 illegals per day, “won't you at least consider unilaterally freezing deportations for the parents of deferred action kids?” Obama’s response: No, that's not an option. No media outrage. “Here's the problem that I have and I've said this consistently. My job in the executive branch is supposed to be to carry out the laws that are passed. Congress has said, here's the law when it comes to those who are undocumented, and they allocate a whole bunch of money for enforcement — I would be ignoring the law in a way that I think would be very difficult to defend legally. So that's not an option.” #### Obama in 2011: 'Obama: As long as the laws are on the books, it's not just felons who are subject to removal. Sometimes it's families just trying to earn a living. But I can't stop enforcing the law. That's not how democracy works.' #### 'Clinton: It does not matter if they have committed crimes while here. They came here illegally. That's a crime. They have to go.'",
+    standaloneTweets: ["2011858560905539596", "2011850396449259666", "2011501601622561066", "2011529326659797017", "2010912807869644896"],
+    fuckAroundTweets: [],
+    findOutTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-15",
+    claimIds: ["14"],
+    exampleId: "nonIsrael0008",
+    keywordIds: [],
+    text: "Candace Owens is now pushing that Charlie Kirk was a TIME TRAVELLER - and that he had 'AGENTS' (yes, like the Matrix) monitoring him from childhood - and that he was killed because he tried to DISTURB space-time continuum. No, I'm not kidding.",
+    source: false,
+    standaloneTweets: ["2011589336349945957"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2022-11-16",
+    claimIds: ["17"],
+    exampleId: "nonIsrael0009",
+    keywordIds: [],
+    text: "“When we use phrases like undocumented workers, we convey a message to the American people that their Government is not serious about combating illegal immigration” #### “If you don’t think it’s illegal you’re not going to say it” - Chuck Schumer",
+    source: false,
+    standaloneTweets: ["2011537904565436493"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-13",
+    claimIds: ["17"],
+    exampleId: "nonIsrael0010",
+    keywordIds: [],
+    text: "Scott Adams vs. O.J. Simpson: You can literally murder your wife and get a better eulogy than if you supported Trump",
+    source: false,
+    standaloneTweets: ["2011240260760715670"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-10",
+    claimIds: ["2", "5", "6y", "6z", "22", "24", "30x", "31c"],
+    exampleId: "nonIsrael0011",
+    keywordIds: [],
+    text: "LIBERAL STALKS CONSERVATIVE JOURNALIST CAM HIGBY: This is the individual who STALKED me for over a mile. He was insistent on riling up crowds so that they would harm me. I was trying to leave a MN protest. He says he believes it would be justified for people to HURT OR KILL ME based on my beliefs. Calls it “self defense”",
+    source: false,
+    standaloneTweets: ["2010117268101898747"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-10",
+    claimIds: ["5", "52"],
+    exampleId: "nonIsrael0012",
+    keywordIds: ["UK", "1984"],
+    text: "The UK Government has launched a VIDEO GAME for children at school where if you say you don't like immigration YOU ARE REFERRED TO THE PREVENT ANTI-TERRORISM SCHEME. This is being used to find patriotic children and investigate them. The UK is a police state",
+    source: false,
+    standaloneTweets: ["2010137305613549829"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-10-24",
+    claimIds: ["3", "17", "51", "52", "53"],
+    exampleId: "nonIsrael0013",
+    keywordIds: ["Slacktivists", "Protesters", "Stupid Activists"],
+    text: "@KaitMarieox points out the narcissism and slacktivist nature of this activist movement: So they vote for sanctuary status, but then when asked if they will take a migrant home…well then that’s a whole different story as you can see in the video!",
+    source: false,
+    standaloneTweets: ["1849571347070128202"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-10",
+    claimIds: ["3", "17", "51", "52", "53"],
+    exampleId: "nonIsrael0014",
+    keywordIds: ["Slacktivists", "Protesters", "Stupid Activists"],
+    text: "WOMAN: 'We should be taking people in war-torn countries in!' 'Would you be able to take in a Somali migrant?' WOMAN: 'Mmm, I don't know. Not sure if I could or not. I don't live in New York. Massachusetts.' 'That's OK, we can send them to Massachusetts! Can we get your name, email, and how many you can take in?' WOMAN: 'I, I, I couldn't do that without talking to my husband first. I'd want to have more information first.' 'OK! Can we just get your information?' WOMAN: 'No, I don't know who you are.'",
+    source: false,
+    standaloneTweets: ["2010065857951486400"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-02-01",
+    claimIds: ["3", "17", "52", "53"],
+    exampleId: "nonIsrael0014",
+    keywordIds: ["Slacktivists", "Protesters", "Stupid Activists"],
+    text: "Q: 'What's your message to straight, white, conservative men?' Liberal: 'Listen to minorities, listen to women...' Q: 'What is a woman?' Liberal:''",
+    source: false,
+    standaloneTweets: ["1885734360051327041"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-09",
+    claimIds: ["17", "52", "53", "55"],
+    exampleId: "nonIsrael0015",
+    keywordIds: [],
+    text: "Woke white liberals silencing black people saying they aren't oppressed. White liberal saying 'This has never happened.'",
+    source: false,
+    standaloneTweets: ["2009747026783715770"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-11-21",
+    claimIds: ["3", "17", "52", "53"],
+    exampleId: "nonIsrael0016",
+    keywordIds: ["Slacktivists", "Protesters", "Stupid Activists"],
+    text: "Would you give up your spot at school for a marginalized member of a Native American tribe?",
+    source: false,
+    standaloneTweets: ["1859659602712793182"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
-module.exports = { deepDivesClaim, deepDivesExamples };
+module.exports = { ZZNonIsrael, ZZNonIsraelExamples };

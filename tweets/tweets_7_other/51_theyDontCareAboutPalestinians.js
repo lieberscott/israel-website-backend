@@ -29,6 +29,17 @@ const examples51 = [
     standaloneTweets: ["1785043421851251159"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-21",
+    claimIds: ["51"],
+    exampleId: "000005103",
+    keywordIds: [],
+    text: "As a first gesture following the recognition of a 'state of palestine' by the UK, Canada and Australia, Hamas publicly executed three Gazans accused  of collaboration with Israel.",
+    standaloneTweets: ["1969817713095688639"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

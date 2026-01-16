@@ -31,6 +31,19 @@ const examples31m = [
     sourceLink: "",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-04-27",
+    claimIds: ["31m"],
+    exampleId: "31m03",
+    keywordIds: [],
+    text: "Footage from a ‘teach-in’ at Sydney University by Randa Abdel-Fattah shows young children being taught to chant ‘Intifada’.",
+    standaloneTweets: ["1784168444461830520"],
+    source: false,
+    sourceLink: "",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -219,7 +219,7 @@ const examples14 = [
     claimIds: ["14", "46"],
     exampleId: "000001416",
     keywordIds: [],
-    text: "Cancer Owens defends China arresting Christians; argues that Christians are Mossad/CIA.",
+    text: "Candace Owens defends China arresting Christians; argues that Christians are Mossad/CIA.",
     source: false,
     standaloneTweets: ["2009672700466516227"],
     themTweets: [],
@@ -242,6 +242,18 @@ const examples14 = [
     // themTweets: [],
     // usTweets: []
   // }
+  {
+    dateAdded: "",
+    date: "2026-01-13",
+    claimIds: ["14", "46"],
+    exampleId: "000001418",
+    keywordIds: [],
+    text: "Candace Owens has fully gone off the rails. She now claims Charlie Kirk appeared to her in a dream to expose Andrew Kolvet for betraying him to Netanyahu. According to Owens, the dream took place at the funeral of Netanyahu’s wife, where Kirk warned he was stuck in purgatory and Kolvet’s face was “revealed.” She says she woke up, texted Kolvet demanding answers, and he never replied.",
+    source: false,
+    standaloneTweets: ["2011122727629853061"],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim14, examples14 };
