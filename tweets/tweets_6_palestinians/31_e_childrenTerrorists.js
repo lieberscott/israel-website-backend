@@ -213,6 +213,19 @@ const examples31e = [
     sourceLink: "",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-07-11",
+    claimIds: ["31e", "31g", "31j", "31k"],
+    exampleId: "31e12",
+    keywordIds: [],
+    text: "Kutaiba Hatab, student at UNRWA’s Jalazone school, directly funded by US taxpayers. His UNRWA school teaches him to “keep fighting until Palestine is liberated.” His dream: to “be a jihadist,” kill Jews for Allah, and “become a martyr.”",
+    standaloneTweets: ["1818980888492790216"],
+    source: false,
+    sourceLink: "",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

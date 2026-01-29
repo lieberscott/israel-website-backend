@@ -19,7 +19,7 @@ const examples31f = [
     themTweets: [],
     usTweets: []
   },
-   {
+  {
     dateAdded: "",
     date: "2025-10-10",
     claimIds: ["31f"],
@@ -29,6 +29,19 @@ const examples31f = [
     source: false,
     sourceLink: "",
     standaloneTweets: ["1976784743707689342"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-25",
+    claimIds: ["31f"],
+    exampleId: "0000031f03",
+    keywordIds: [],
+    text: " Hamas just published horrific videos of shooting 'collaborators,' boasting that 'their legs were cut off.'",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["2015463550026998176"],
     themTweets: [],
     usTweets: []
   }

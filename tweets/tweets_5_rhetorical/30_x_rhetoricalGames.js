@@ -229,6 +229,20 @@ const examples30x = [
     nowTweets: ["2010193358455746685", "2009475093026742425"],
     standaloneTweets: [],
   },
+  {
+    dateAdded: "",
+    date: "2026-01-10",
+    claimIds: ["30x", "28"],
+    exampleId: "00000030x14",
+    keywordIds: [],
+    text: "Zohran Mamdani is going to act horrified each time it happens, meanwhile he has dedicated his entire adult life to making Jews less safe by promoting “antizionism.”",
+    source: false,
+    sourceLink: "",
+    thenVsNowFormat: true,
+    thenTweets: ["1713023154489053269", "1712930770988175473", "2009778389805072527", "1715815109707120757", "1781043281738019240", "1788204460898132209", "1781926923196875075", "2010061354896633962", "1781948249214996901", "1785282124766929152", "1783640761117835745", "1782251012863963544", "1782253130375102916", "1781987751291765079", "1782734702182322607", "1978545489273409563", "1939389960206852330", "1938690320721682538", "1938708073100857722", "1978949848670826922"],
+    nowTweets: ["2016418423518200106", "2016445417861390429"],
+    standaloneTweets: [],
+  },
 ]
 
 module.exports = { claim30x, examples30x };

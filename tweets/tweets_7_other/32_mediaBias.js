@@ -55,6 +55,20 @@ const examples32 = [
     sourceLink: "",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-01-20",
+    claimIds: ["32"],
+    exampleId: "00003205",
+    keywordIds: [],
+    text: "The BBC had Gaza as their headline news practically every day for months, despite zero verification. They published every piece of crap Hamas fed them. Now the people of Iran are rising up against their tyrannical leaders, and its Silence. Shameful by John Simpson.",
+    standaloneTweets: [],
+    source: false,
+    sourceLink: "",
+    thenVsNowFormat: false,
+    themTweets: ["2015837229965255020", "1748728870029713869"],
+    usTweets: ["1748811753104744840"]
   }
 ]
 

@@ -27,6 +27,19 @@ const examples31i = [
     standaloneTweets: ["1827784127753667049"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2016-09-26",
+    claimIds: ["31i", "31l", "31j"],
+    exampleId: "0000031i03",
+    keywordIds: [],
+    text: "Islamic 'Aksa Preacher' at Temple Mount calling to slaughter the Jews while dehumanizing Jews as monkeys and pigs",
+    standaloneTweets: ["780302451949862912"],
+    source: true,
+    sourceLink: "https://www.jpost.com/arab-israeli-conflict/aksa-preacher-gets-8-months-prison-for-calling-to-slaughter-jews-468654#article=6024OUI1MThBODAwMzJGODAyRkEyOUVDNTA1RjM4QzQwQTA=",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

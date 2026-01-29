@@ -17,6 +17,19 @@ const examples31o = [
     standaloneTweets: ["1124368640885682176"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2015-12-28",
+    claimIds: ["31o", "28", "31i"],
+    exampleId: "0000031o0002",
+    keywordIds: [],
+    text: "Florida Muslim Leader Commemorates Hamas, Calls Jews Monkeys and Pigs",
+    source: true,
+    sourceLink: "https://www.frontpagemag.com/florida-muslim-leader-commemorates-hamas-calls-joe-kaufman/",
+    standaloneTweets: ["689807809484034048"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

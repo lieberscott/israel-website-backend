@@ -44,6 +44,19 @@ const examples31d = [
     standaloneTweets: ["1578424687293763584"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2011-04-18",
+    claimIds: ["31d"],
+    exampleId: "00000031d05",
+    keywordIds: [],
+    text: "Vittorio Arrigoni was an Italian pro-Palestine activist. In 2008, he moved to Gaza to support Palestinians. He often received death threats, but ignored them, claiming it was just the Mossad trying to scare him off. In 2011, he was kidnapped, tortured and murdered for being considered an ‘infidel’.",
+    source: true,
+    sourceLink: "https://www.bbc.com/news/world-middle-east-63174835?at_medium=RSS&at_campaign=KARANGA&utm_source=dlvr.it&utm_medium=twitter",
+    standaloneTweets: ["1844703189481730511"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

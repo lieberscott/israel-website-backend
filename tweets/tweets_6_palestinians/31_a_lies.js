@@ -78,11 +78,22 @@ const examples31a = [
     claimIds: ["31a"],
     exampleId: "00000031a007",
     keywordIds: [],
-    text: "Popular antizionist X account Israel Exposed is either Arab or American, Christian or Muslim, depending on how it benefits their argument at the time.",
+    text: "Popular antizionist X account Israel Exposed is either Arab or American, Christian or Muslim, depending on the day and how it benefits their argument at the time.",
     standaloneTweets: ["2009799341972611242"],
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-01-17",
+    claimIds: ["31a"],
+    exampleId: "00000031a008",
+    keywordIds: [],
+    text: "Another fake video showing ‘snow in Gaza,’",
+    standaloneTweets: [],
+    themTweets: ["2012467451519263029"],
+    usTweets: ["2012479477842952248"]
+  }
 ]
 
 module.exports = { claim31a, examples31a };
