@@ -47,7 +47,7 @@ const examples31k = [
     dateAdded: "",
     date: "2011-01-01",
     claimIds: ["31l", "31n"],
-    exampleId: "000004601",
+    exampleId: "00031l004",
     keywordIds: [],
     text: "On Jan. 1, 2011, a Gazan militant group bombed a Christian church outside Alexandria, Egypt, and 23 Christians were killed, and 97 injured. The Islamic violence has nothing to do with 'Israeli mistreatment'.",
     source: true,
@@ -56,6 +56,18 @@ const examples31k = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2022-12-12",
+    claimIds: ["31l", "31n", "31j", "31o", "31p"],
+    exampleId: "00031l005",
+    keywordIds: [],
+    text: "Senior Hamas official Mahmoud Al-Zahar: NOT JUST ISRAEL. 'The entire planet will be under our law; there will be no more Jews or Christian traitors.' 'We believe in what our Prophet Muhammad said: 'Allah drew the ends of the world near one another for my sake, and I have seen its eastern and western ends. The dominion of my nation would reach those ends that have been drawn near me.'' 'The entire 510 million square kilometers of Planet Earth will come under [a system] where there is no injustice, no oppression, no Zionism, no treacherous Christianity and no killings and crimes like those being committed against the Palestinians, and against the Arabs in all the Arab countries, in Lebanon, Syria, Iraq and other countries.'",
+    source: false,
+    standaloneTweets: ["1711988348544491909"],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim31k, examples31k };

@@ -176,6 +176,18 @@ const examples5 = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2018-09-03",
+    claimIds: ["5", "3"],
+    exampleId: "000005013",
+    keywordIds: ["Zohran Mamdani", "Mehdi Hassan", "Mehdi Hasan"],
+    text: "HOUSTON, TX - Linda Sarsour (advisor to Zohran Mamdani): Muslims Mustn’t Make The Mistake Of Humanizing Israelis. 'If you’re on the side of the oppressor, or you’re defending the oppressor, or you’re actually trying to HUMANIZE the oppressor, then that’s a problem.' Mehdi Hasan nods along.",
+    source: false,
+    standaloneTweets: ["1082055673574248448"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim5, examples5 };

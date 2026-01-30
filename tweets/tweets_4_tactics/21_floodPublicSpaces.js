@@ -104,6 +104,28 @@ const examples21 = [
     standaloneTweets: ["1761856166957592887"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-07-31",
+    claimIds: ["21", "24", "28", "30w"],
+    exampleId: "000002109",
+    keywordIds: [],
+    text: "NEW YORK — Antizionists show support for the terrorist organizations Hamas and Hezbollah, following the assassinations of Hamas leader Ismail Haniyeh and Hezbollah leader Fuad Shukr. The antizionists are offended and furious in the name of Allah (God of Islam) because the leaders of Hamas and Hezbollah, who murdered hundreds of Jews in the name of Islam, were eliminated. While waving the flags of Hamas and Hezbollah, they chanted: 'The martyr Is beloved by Allah! Israel is the enemy of Allah!'",
+    standaloneTweets: ["1818987506504708570"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-10-05",
+    claimIds: ["21", "31n"],
+    exampleId: "000002110",
+    keywordIds: [],
+    text: "BARCELONA - While Israel agreed to the terms of a ceasefire and Hamas gave a partial response, there was a violent and vandalism-filled protest in Barcelona by pro-Palestinian antizionist demonstrators.",
+    standaloneTweets: ["1974902972636111194"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

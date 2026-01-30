@@ -40,6 +40,19 @@ const examples31i = [
     sourceLink: "https://www.jpost.com/arab-israeli-conflict/aksa-preacher-gets-8-months-prison-for-calling-to-slaughter-jews-468654#article=6024OUI1MThBODAwMzJGODAyRkEyOUVDNTA1RjM4QzQwQTA=",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-28",
+    claimIds: ["31i", "31h", "31j", "31l"],
+    exampleId: "0000031i04",
+    keywordIds: ["children"],
+    text: "After the brutal viral video showing Syrians displaying the braid cut from a Kurdish girl, a young Syrian girl openly supports the attackers and asks, 'Why didn’t you cut her infidel neck?'",
+    standaloneTweets: [],
+    source: false,
+    thenVsNowFormat: true,
+    thenTweets: ["2014245443056599267"],
+    nowTweets: ["2016495823262027977"]
   }
 ]
 

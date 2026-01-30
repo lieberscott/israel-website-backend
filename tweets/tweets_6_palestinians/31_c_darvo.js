@@ -43,6 +43,20 @@ const examples31c = [
     standaloneTweets: [],
     themTweets: ["2010823609829277991"],
     usTweets: ["2010944631849299997"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-27",
+    claimIds: ["31c", "17", "30x"],
+    exampleId: "0000003104",
+    keywordIds: [],
+    text: "Renowned antizionist Nerdeen Kiswani, close advisor to Zohran Mamdani, is bothered by how casually 'Zionists' are 'inventing' death toll figures in Iran, which are based on opposition figure estimates. 'Suddenly,' she writes, 'we’re expected to accept an enormous number of people killed in Iran within the span of weeks, with no evidence, no independent verification, no sustained reporting . And we’re supposed to suspend every standard of skepticism we were told was sacred.' Yet she has no problem promoting and mourning insanely inflated numbers of those killed in Gaza using the same standard she is so 'bothered by' when it comes to Iran. 'What matters is controlling the narrative: when death is real, when it’s fake, when numbers count, and when they don’t.' Indeed.",
+    deepDive: false,
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2016372890568921249", "1972704175000629634"],
+    nowTweets: ["2016255362450505807", "2015693913273536939"]
   }
 ]
 
