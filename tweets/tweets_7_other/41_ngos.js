@@ -53,6 +53,17 @@ const examples41 = [
     standaloneTweets: ["1970246792823324904"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-12-29",
+    claimIds: ["41"],
+    exampleId: "000004105",
+    keywordIds: [],
+    text: "Amnesty International is extremely concerned over the fate & wellbeing of Dr. Hussam Abu Safiya, director of Kamal Adwan hospital who was detained by Israeli forces along with others during a raid on the hospital on 27 December. They demand he must be released immediately and unconditionally. But he's a member of Hamas, who are dedicated to Israel's destruction, and praised Oct. 7 on social media. That's not a stoic, professional, independent, rigorous, neutral medical doctor.",
+    standaloneTweets: [],
+    themTweets: ["1873437417178300494"],
+    usTweets: ["2017592306644185373", "1872625265417011587", "1872625278348108146", "1872625294844277233", "1872625316205842530"]
   }
 ]
 

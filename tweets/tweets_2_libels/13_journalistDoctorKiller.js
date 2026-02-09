@@ -17,7 +17,7 @@ const examples13 = [
     sourceLink: "https://www.timesofisrael.com/idf-slain-gazan-named-as-doctors-without-borders-staffer-was-islamic-jihad-rocket-maker/",
     standaloneTweets: [],
     themTweets: ["1805620032568754564"],
-    usTweets: ["1806057940207669583"]
+    usTweets: ["1806057940207669583", "2008001794753114574"]
   },
   {
     dateAdded: "",
@@ -142,6 +142,20 @@ const examples13 = [
     thenVsNowFormat: false,
     themTweets: ["1714402154042081457"],
     usTweets: ["1726155992461615403", "1726155995360219440"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-31",
+    claimIds: ["13", "32"],
+    exampleId: "000001311",
+    keywordIds: [],
+    text: "Gaza ‘doctor’ Hussam Abu Safiya, who slammed Israel in NY Times op-eds is Hamas colonel, seen in military uniform: watchdog, IDF",
+    source: true,
+    sourceLink: "https://nypost.com/2026/01/31/world-news/gaza-doctor-who-slammed-israel-in-ny-times-op-eds-is-hamas-colonel-watchdog-idf/?utm_term=Autofeed&utm_campaign=nypost&utm_medium=social&utm_source=twitter#Echobox=1769866333",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1872803642425921807", "1718679564682235999", "1863501671608750242"],
+    usTweets: ["2017592306644185373", "1872625265417011587", "1872625278348108146", "1872625294844277233", "1872625316205842530"]
   }
 ]
 

@@ -83,6 +83,19 @@ const examples31g = [
     standaloneTweets: ["1730539878306234644"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-07-05",
+    claimIds: ["31g", "31j"],
+    exampleId: "31g0007",
+    keywordIds: [],
+    text: "Palestinian Authority Shari'ah Judge Abdallah Harb on official PA TV: 'Allah, strike the aggressive Jews, strike them and their allies.' ... 'O Allah, kill them one by one. Count them and kill them by one, and do not leave even one of them.'",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["1825070937277964517"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

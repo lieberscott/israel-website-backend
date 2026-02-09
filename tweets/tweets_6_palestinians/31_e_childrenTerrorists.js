@@ -368,6 +368,76 @@ const examples31e = [
     sourceLink: "https://www.timesofisrael.com/hamas-gives-25000-gazans-combat-training",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-05-17",
+    claimIds: ["31e"],
+    exampleId: "31e23",
+    keywordIds: ["children"],
+    text: "These terrorist organisations are death  cults of child abusers. This was today in southern Lebanon.",
+    standaloneTweets: ["1791486032669548915"],
+    source: false,
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2015-10-10",
+    claimIds: ["31e", "32"],
+    exampleId: "31e24",
+    keywordIds: ["children"],
+    text: "Ishaq Badran, 16, killed by the IDF after stabbing two Jews, mourned by Fatah. The Independent calls him 'introverted, devout, polite.'",
+    source: false,
+    themTweets: ["653136827377942528", "652794941970759680", "653480707126337536"],
+    usTweets: ["653482597272678400"]
+  },
+  {
+    dateAdded: "",
+    date: "2022-05-21",
+    claimIds: ["31e"],
+    exampleId: "31e25",
+    keywordIds: ["children"],
+    text: "Amjad, 17, died on the battlefield last weekend. He was indoctrinated, armed and sent to his death by the terrorist organization Palestinian Islamic Jihad (PIJ). PIJ and all those terrorists exploiting children as soldiers are guilty of Amjad's death.",
+    source: false,
+    themTweets: ["1528038320151965697", "1527819950269816832", "1529501061886640130"],
+    usTweets: ["1527806536654786560", "1528350801596452865", "1528208227447496706", "1528097741800624128"]
+  },
+  {
+    dateAdded: "",
+    date: "2022-03-15",
+    claimIds: ["31e", "41"],
+    exampleId: "31e26",
+    keywordIds: ["children"],
+    text: "Defense of Children NGO claims Israeli forces fatally shot Nader Haitham Fathi Rayyan, 16, at least twice in the back. '“As Israeli forces withdrew from the camp in a convoy of at least seven armored military vehicles, Nader and another boy passed the military convoy on a motorcycle. … An eyewitness told DCIP that the motorcycle broke down, forcing Nader and the other child to get off the motorcycle. They then attempted to flee the area on foot. … An Israeli soldier fired at least three bullets at Nader and the other boy from inside his armored vehicle.” Yet Palestinian news outlets claim he was killed in 'clashes,' the IDF claims he fired upon them, and there are tons of pictures of him with military grade weapons.",
+    source: true,
+    sourceLink: "https://qudsn.co/post/190910/%d8%a3%d8%ad%d8%af%d9%87%d9%85-%d9%81%d9%8a-%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83-%d9%85%d8%b3%d9%84%d8%ad-%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b9%d8%b1%d8%a8%d9%8a%d9%86-3-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-%d9%86%d8%a7%d8%a8%d9%84%d8%b3-%d9%88%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d9%88%d8%b1%d9%87%d8%b7",
+    themTweets: ["1594321460419493888", "1503725510798372867", "1523600950740533248", "1503703423639764998", "1504123833485340675"],
+    usTweets: ["1503762316453580801", "1527250337366687746", "1527007262589521921", "1527552955288801280", "1527554797494206464"]
+  },
+  {
+    dateAdded: "",
+    date: "2015-11-12",
+    claimIds: ["31e", "31d"],
+    exampleId: "31e27",
+    keywordIds: ["children"],
+    text: "5 year old Palestinian child from the West Bank is given a knife and taught to “stab, stab, stab” the Jews. All while proud mom and dad film her as if it’s a ballet recital.",
+    source: false,
+    standaloneTweets: ["1925201538143625259"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2021-11-17",
+    claimIds: ["31e"],
+    exampleId: "31e28",
+    keywordIds: ["children"],
+    text: "The stabbing operation carried out by Palestinian teenager Omar Abu Assab, of Issawiya, against 2 Israeli border policemen on patrol in the Old City of East Jerusalem.",
+    source: false,
+    standaloneTweets: [],
+    themTweets: ["1461055453325139969", "1461100328657510400", "1500958074315710471"],
+    usTweets: ["1461208518162272262", "1461209648116244482"]
   }
 ]
 
