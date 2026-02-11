@@ -98,7 +98,7 @@ const examples17 = [
     claimIds: ["17", "41", "45"],
     exampleId: "0000017008",
     keywordIds: ["Iran", "United Nations", "UN"],
-    text: "This is why we know it is antisemitism. The Iranian people being murdered in their fight for freedom. GretaThunberg: nothing on Iran. GaryLineker: nothing on Iran. MarkRuffalo: nothing on Iran. Big mouths. They claim it is about human rights. So why are they silent now?",
+    text: "15 minutes after Israel recognized Somaliland as a country, the United Nations held an emergency session denouncing both countries. For weeks the Iranian government is murdering thousands in the streets, and the UN is completely silent.",
     standaloneTweets: [],
     source: false,
     thenVsNowFormat: true,

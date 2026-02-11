@@ -286,43 +286,12 @@ const claim9 = {
 const examples7 = [
   {
     dateAdded: "",
-    date: "2023-11-13",
-    claimIds: ["00000007","00000004"],
-    exampleId: "000000007A",
-    keywordIds: [],
-    text: "Gazan doctors from al-Ahli Hospital in Gaza City staged a press conference at a fake massacre site. On Oct. 16, 2023, reports came out that Israel had bombed al-Alhi hospital, killing 500 people. The media ran with it. The NY Times, AP, Reuters, Guardian, and LA Times all had it prominantly in their publications. The LA Times ran a front-page headline: 'At least 500 killed in Israeli airstrike on Gaza City Hospital, Gaza Healthy Ministry says'. In reality, an errant Palestinian Islamic Jihad rocket hit the hospital parking lot, as demonstrated in subsequent days by video footage, intercepted calls between Palestinian groups, and multiple independent open-source intel analaysts. The hospital itself was fully in tact and operational. And there were less than 10 killed. (See other example Tweets from around this date on this site for more details.) Nevertheless, these 'trusted,' 'elevated,' 'professional' doctors staged a fake press conference before corpses, calling the event a massacre. Many more examples of lies stemming from this incident, click nearby dates to see more.",
-    themTweets: [{id: "1714387413869486287"}, { id: "1714407270556295627"}, { id: "1714343713801957435"}, { id: "1714353899040358550"}, { id: "1714619599017157072"}],
-    usTweets: [{ id: "1714552321760202859"}, { id: "1714552323945472323"}, { id:"1714552325988053127" }, { id: "1714552325988053127"}, { id: "1714552328471138777" }, { id: "1714552330605973966"}, { id: "1714552332749357479"}, { id: "1714552335051989483"}, { id: "1714570324455416202" }, { id: "1714579782761959791"}, { id: "1714588649361207627" }]
-  },
-  {
-    dateAdded: "",
-    date: "nodate",
-    claimIds: ["00000008","00000005"],
-    exampleId: "000000007B",
-    keywordIds: [],
-    text: "A young Palestinian girl of maybe 7 or 8 is holding a knife and says she 'wants to stab a Jew.' The adult recording the video says 'Allah willing.'",
-    themTweets: [{ id: "1988931213726503371"}],
-    usTweets: []
-  },
-  {
-    dateAdded: "",
-    date: "nodate",
-    claimIds: ["00000008","00000005", "00000003, 00000009"],
-    exampleId: "000000007C",
-    keywordIds: [],
-    text: "A young Palestinian mother says: 'We must kill the Jews with our bare hands. To kill them with our teeth. With our teeth we will eat the Jews.' She says they are commanded by their G-d to commit jihad against the Jews. Then her children are shown wearing Hamas headbands.",
-    themTweets: [{ id: "1988931213726503371"}],
-    usTweets: []
-  },
-  {
-    dateAdded: "",
     date: "nodate",
     claimIds: ["00000008"],
     exampleId: "000000007D",
     keywordIds: [],
     text: "A Palestinian boy who looks about 7 or 8 years old wields a knife over his head as if preparing to stab.",
-    themTweets: [{ id: "1986051700340228246"}],
-    usTweets: []
+    standaloneTweets: ["1986051700340228246"]
   },
   {
     dateAdded: "",
@@ -331,7 +300,7 @@ const examples7 = [
     exampleId: "000000007E",
     keywordIds: [],
     text: "A pro-Palestinian explains he is against 'religious, apartheid states', but has no problem with the 53 Islamic countries (27 of which have Islam as the official religion). There are also 14 Christian religions. Then he says he has no problem with Jewish people. Is it just me or is the double-standard and rhetorical games self-evident?",
-    themTweets: [{ id: "1988449576429449396"}],
+    standaloneTweets: [{ id: "1988449576429449396"}],
     usTweets: []
   },
   {

@@ -108,6 +108,18 @@ const examples31k = [
     sourceLink: "https://www.youtube.com/watch?v=0ORAM-usqhQ",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-01",
+    claimIds: ["31k"],
+    exampleId: "00031k010",
+    keywordIds: [],
+    text: "In a Feb. 1 interview with Palestine TV, Syrian journalist Mustafa al-Miqdad said that Gazans sent their children into violence, hoping they would sustain injuries so the parents could earn a monthly stipend through the PA's Martyrs Fund program, also known as 'pay for slay.'",
+    standaloneTweets: ["2019085699916456081"],
+    source: false,
+    themTweets: [],
+    usTweets: []
   }
 ]
 

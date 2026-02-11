@@ -27,6 +27,129 @@ const examples12 = [
     standaloneTweets: [],
     themTweets: ["1528113422398681088", "1529501061886640130", "1528342410773860352", "1528027984468361217"],
     usTweets: ["1533451946509668355", "1528452720239181827", "1528617041019609089", "1528641563613888512"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-06-15",
+    claimIds: ["12", "31e"],
+    exampleId: "000001203",
+    keywordIds: ["children"],
+    text: "Amjad Walid Hussein Fayed's death was framed as the IDF targeting another innocent Palestinian child by CNN and the NGO Defense for Children in Palestine (DCIP). Then images emerged of him with Hamas insignias and headbands and images of him with guns. The report from the IDF indicated that the Palestinians were hurling Molotov cocktails and rocks at them at the time of the shooting.",
+    standaloneTweets: ["1943200137452675138", "1943194793997406406"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-06-27",
+    claimIds: ["12", "31e"],
+    exampleId: "000001204",
+    keywordIds: ["children"],
+    text: "Mujahid (personal name) Ammar Abu Hein مجاهد عمار ابوهين Al-Mujahid. According to a Facebook mourning post with a screenshot, he was a 13-year-old boy who served as a messenger for militants in the Shuja'iyya district.",
+    source: true,
+    sourceLink: "https://archive.is/qN8k1",
+    standaloneTweets: ["1941848191101473183"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-04-23",
+    claimIds: ["12", "31e"],
+    exampleId: "000001205",
+    keywordIds: ["children"],
+    text: "Abdullah Mohammed Abu Salama. Teenager/Child Combatant (16-17yo). This is a rare public example of a palestinian (Gaza Strip) child (16-17 y.o.) openly acknowledged as taking part in combat activities. Usually, such details are deliberately concealed by Gaza residents due to their sensitivity. In this Facebook mourning post, I highlighted key phrases that clearly refer to Abdullah Abu Salama as a militant, alongside accurate English translations (in addition to Facebook’s auto-translation): al-batal - Heroic (martyr). istushhida al-yawm muqbilan ghayr mudbiran - He was martyred advancing and not retreating. yashhad lahu maydan al-jihad raghma sughr sinnihi - He was known in the field of jihad despite his young age. All of these phrases are not unique. They are repetitive and are commonly used to describe other killed combatants.",
+    standaloneTweets: ["1941848191101473183", "1914765187430638056"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-06-14",
+    claimIds: ["12", "31e"],
+    exampleId: "000001206",
+    keywordIds: ["children"],
+    text: "While reviewing obituaries of combatants, I came across another case of a 'child' combatant. The individual, Mahmoud Mohammed Mukhaimer, was 17 at the time of his death, killed 14 June 2024. Since his death, his brother's account has shared a lot of material. In some old videos and photos, Mahmoud is seen in full uniform as a member of the Hamas Al-Qassam (Rafah Brigade), indicating he wasn’t a newly recruited fighter. It is not clear when exactly he joined Al-Qassam, but other images show him with weapons at a much younger age",
+    standaloneTweets: ["1942559827399696467", "1942559948560535885"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-23",
+    claimIds: ["12", "31e"],
+    exampleId: "000001207",
+    keywordIds: ["children"],
+    text: "Ali Muhammad Abdullah Rayhan علي محمد عبدالله ريحان According to @airwars / MoH, he was 16 years old. According to palestinians (FB and shireen), he was killed at 22/23-Dec-2023. '...The youngest fighter..' Based on the photos: Hamas",
+    standaloneTweets: ["1948448901792477362"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-11-19",
+    claimIds: ["12", "31e"],
+    exampleId: "000001208",
+    keywordIds: ["children"],
+    text: "Another 16-year-old child combatant: Omar Ahmad Atiyah Abu Sharia (ID: 426301396). He was killed on November 19, 2024, with the quoted 'journalist'. Omar received an official martyrdom poster from the Mujahedeen Brigades, which referred to him as a heroic mujahid. Omar is also a son of Ahmed Atiyah Abu Shariah, one of the organization’s leaders, who was killed in June 2025. I also found a photo of the boy holding a rifle.",
+    standaloneTweets: ["1952384309173633521"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-03-30",
+    claimIds: ["12", "31e"],
+    exampleId: "000001209",
+    keywordIds: ["children"],
+    text: "While investigating the Al-Dirawi family in the context of a killed journalist, I came across another case involving a child combatant:  14 years old Musab Bakr Suleiman al-Dirawi (ID: 429854524). Musab was killed alongside his father on March 30, 2025. His father, Bakr al-Derawi, was publicly praised as a legendary sniper. A relative shared a post about Musab, including video footage showing him planting or handling a IED detonator, carrying a rifle, and wearing a military uniform with Al-Qassam (Hamas) insignia. The video materials appear recent and show him operating among rubble. This makes Musab the seventh child-combatant I have identified in recent investigations. Thanks to @SouljaCranker, @Arabosint for IED/detonator identification.",
+    standaloneTweets: ["1952637507826512290"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-07",
+    claimIds: ["12", "31e"],
+    exampleId: "000001210",
+    keywordIds: ["children"],
+    text: "Loay Husam Mohammad Aql, age 17, was killed on October 7, 2023. He is listed in the Gaza MoH Casualty records under ID 422592006. He was mourned as a member of the Omar Al-Qassem Forces, the military wing of the Democratic Front for the Liberation of Palestine (DFLP). According to tributes, he was “martyred on 10/7/2023 while storming our occupied lands.”",
+    standaloneTweets: ["1953692440298221887"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-07",
+    claimIds: ["12", "31e"],
+    exampleId: "000001211",
+    keywordIds: ["children"],
+    text: "A 17-year-old Palestinian (Gaza) child combatant, Rami Ayman al-Khalidi (ID: 424364685), was killed on October 7 and is alleged to have participated in the October 7 attack. As in the quoted post, this is another example where the individual was already listed in Gaza MoH List 1.",
+    standaloneTweets: ["1954521111909040175"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-07",
+    claimIds: ["12", "31e"],
+    exampleId: "000001212",
+    keywordIds: ["children"],
+    text: "Mahmoud Mohammad Talib (ID: 424370666), 17 years old, child-combatant. Mahmoud participated in the Erez border crossing attack on October 7 2023. On October 7 2023, his father initially posted that his son had gone missing at the Erez border crossing. Just a few hours later, he shared a mourning post referring to him as a heroic martyr. Three days after that, he posted a collage video of his son, which included posters describing him as a Mujahid and showing him holding weapons. Mahmoud is included in Gaza MoH casualty lists since List 1 (24-October-2023)",
+    standaloneTweets: ["1954568479207526445"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-07",
+    claimIds: ["12", "31e"],
+    exampleId: "000001213",
+    keywordIds: ["children"],
+    text: "Sami Al-Alami High School facebook page, mourned its pupil, Mohammad Hisham Mustafa Abu Nasser (ID: 424601904), aged 16.5, describing him as a heroic martyr and one of the heroes of the incursion into the occupied lands. (participated in October 7 Attack). He is listed in Gaza MoH war victims lists since List 1.",
+    standaloneTweets: ["1958166300934463756"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

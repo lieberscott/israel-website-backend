@@ -66,6 +66,18 @@ const examples31o = [
     standaloneTweets: ["2015944811438571786"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-10-19",
+    claimIds: ["31o", "31i", "30x"],
+    exampleId: "0000031o0005",
+    keywordIds: [],
+    text: "Dr. Said Masih Noori (@Doctor_N_masih), an NHS doctor in the UK, on October 19, 2024: 'I am a Muslim. Daily, I treat Jews, and I have taken a hypocritical oath that outlines my responsibilities in the Buckingham crew. However, I must admit that if I had the power, I would vanish every Jew.' Fearing revocation of his medical license, he posts an apology. A few hours later, he reposts a comment wishing death for an injured Israeli.",
+    source: false,
+    standaloneTweets: ["1848088830982647851"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

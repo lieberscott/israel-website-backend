@@ -156,7 +156,30 @@ const examples13 = [
     thenVsNowFormat: false,
     themTweets: ["1872803642425921807", "1718679564682235999", "1863501671608750242"],
     usTweets: ["2017592306644185373", "1872625265417011587", "1872625278348108146", "1872625294844277233", "1872625316205842530"]
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-13",
+    claimIds: ["13","31a", "32"],
+    exampleId: "000001312",
+    keywordIds: [],
+    text: "Gazan doctors from al-Ahli Hospital in Gaza City staged a press conference at a fake massacre site. On Oct. 16, 2023, reports came out that Israel had bombed al-Alhi hospital, killing 500 people. But it never happened. The hospital itself was fully in tact and operational. And there were less than 10 killed. Nevertheless, these 'trusted,' 'elevated,' 'professional' doctors staged a fake press conference before corpses, calling the event a massacre.",
+    themTweets: ["1714387413869486287", "1714407270556295627"],
+    usTweets: ["1714552335051989483", "1714570324455416202", "1714552321760202859", "1714552323945472323", "1714377828131553446", "1714552328471138777" , "1714552330605973966", "1714552332749357479", "1714579782761959791", "1714588649361207627"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-05-15",
+    claimIds: ["13"],
+    exampleId: "000001313",
+    keywordIds: [],
+    text: "Khaled Al-Rakiei (Abu Saleh) خالد الركيعي (أبو صالح) . A doctor at Al-Nasr Children's Hospital. - One of the heroes and founders of the resistance in the Shati refugee camp. - He led the PIJ movement in the western Gaza Strip for years. - early formation of the military wing of the Islamic Jihad Movement, along with leaders Mahmoud Al-Khawaja and Iyad .Al-Hasani",
+    source: false,
+    standaloneTweets: ["1923008773066514789"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim13, examples13 };

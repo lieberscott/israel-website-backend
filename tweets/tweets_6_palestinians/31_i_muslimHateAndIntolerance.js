@@ -53,7 +53,16 @@ const examples31i = [
     thenVsNowFormat: true,
     thenTweets: ["2014245443056599267"],
     nowTweets: ["2016495823262027977"]
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2023-05-05",
+    claimIds: ["31i"],
+    exampleId: "0000031i05",
+    keywordIds: [],
+    text: "A Palestinian mother says: 'We must kill the Jews with our bare hands. To kill them with our teeth. With our teeth we will eat the Jews.' She says they are commanded by their G-d to commit jihad against the Jews. Then her children are shown wearing Hamas headbands.",
+    standaloneTweets: ["1974894147753718099"]
+  },
 ]
 
 module.exports = { claim31i, examples31i };

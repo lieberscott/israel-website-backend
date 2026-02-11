@@ -438,7 +438,39 @@ const examples31e = [
     standaloneTweets: [],
     themTweets: ["1461055453325139969", "1461100328657510400", "1500958074315710471"],
     usTweets: ["1461208518162272262", "1461209648116244482"]
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2015-10-16",
+    claimIds: ["31e"],
+    exampleId: "31e29",
+    keywordIds: [],
+    text: "A young Palestinian girl of maybe 7 or 8 is holding a knife and says she 'wants to stab a Jew.' Posted on Facebook by Abdulhaleem Abuesha, a Jordanian-Palestinian schoolteacher in the Madaba refugee camp in Jordan.",
+    standaloneTweets: ["1988931213726503371"]
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-05",
+    claimIds: ["31e", "30x", "47"],
+    exampleId: "31e30",
+    keywordIds: ["children"],
+    text: "CCTV footage shows a 14-year-old Palestinian child attempting to stab an Israeli Border Police officer near Al-Eizariya, east of Jerusalem. The Palestinian was killed on the spot. According to antizionists, it was just an Israeli officer shooting him dead for no reason.",
+    source: false,
+    usTweets: ["1754511526222843977", "1754489519213015063"],
+    themTweets: ["1754511526222843977"],
+  },
+  {
+    dateAdded: "",
+    date: "2025-05-25",
+    claimIds: ["31e"],
+    exampleId: "31e31",
+    keywordIds: ["children"],
+    text: "A poor innocent child walking around with a freaking AK47 assault rifle around his neck.",
+    source: false,
+    standaloneTweets: ["1926595120171810902"],
+    usTweets: [],
+    themTweets: [],
+  },
 ]
 
 module.exports = { claim31e, examples31e };

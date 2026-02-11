@@ -83,7 +83,17 @@ const examples32 = [
     thenVsNowFormat: false,
     themTweets: [],
     usTweets: []
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-13",
+    claimIds: ["13","31a", "32"],
+    exampleId: "000001312",
+    keywordIds: [],
+    text: "On Oct. 16, 2023, reports came out that Israel had bombed al-Alhi hospital, killing 500 people. The media ran with it. The NY Times, AP, Reuters, Guardian, and LA Times all had it prominantly in their publications. The LA Times ran a front-page headline: 'At least 500 killed in Israeli airstrike on Gaza City Hospital, Gaza Healthy Ministry says'. In reality, an errant Palestinian Islamic Jihad rocket hit the hospital parking lot, as demonstrated in subsequent days by video footage, intercepted calls between Palestinian groups, and multiple independent open-source intel analaysts. The hospital itself was fully in tact and operational. And there were less than 10 killed.",
+    themTweets: ["1714343713801957435", "1714353899040358550", "1714619599017157072", "1714336328312144180", "1714593437142393153"],
+    usTweets: ["1714708365899612274", "1714552335051989483", "1714570324455416202", "1714552321760202859", "1714552323945472323","1714552325988053127", "1714552328471138777" , "1714552330605973966", "1714552332749357479", "1714579782761959791", "1714588649361207627"]
+  },
 ]
 
 module.exports = { claim32, examples32 };

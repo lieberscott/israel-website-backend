@@ -64,6 +64,28 @@ const examples41 = [
     standaloneTweets: [],
     themTweets: ["1873437417178300494"],
     usTweets: ["2017592306644185373", "1872625265417011587", "1872625278348108146", "1872625294844277233", "1872625316205842530"]
+  },
+  {
+    dateAdded: "",
+    date: "2004-03-25",
+    claimIds: ["41", "31k"],
+    exampleId: "000004106",
+    keywordIds: [],
+    text: "NBC: Turning a blind eye to child suicide bombers: Human Rights Groups Are Turning a Blind Eye to Child Suicide Bombers.",
+    standaloneTweets: ["1790937292795687303"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-11",
+    claimIds: ["41"],
+    exampleId: "000004107",
+    keywordIds: ["Antonio Guterres"],
+    text: "The UN Secretary-General congratulated the Islamic Republic of Iran on the anniversary of the Islamic Revolution. Let me repeat: the head of a supposedly humanitarian and peace organization praised a terrorist regime just weeks after it slaughtered over 40,000 civilians for daring to protest. This was the deadliest two-day massacre in Iranian history, and likely in modern history as well.",
+    standaloneTweets: [],
+    themTweets: ["2021548222565458080"],
+    usTweets: ["2010600199681712547"]
   }
 ]
 
