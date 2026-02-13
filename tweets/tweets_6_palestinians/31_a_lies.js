@@ -93,6 +93,84 @@ const examples31a = [
     standaloneTweets: [],
     themTweets: ["2012467451519263029"],
     usTweets: ["2012479477842952248"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-07-15",
+    claimIds: ["31a"],
+    exampleId: "00000031a009",
+    keywordIds: [],
+    text: "Leading 'pro-Palestinian' (pro-Hamas) voice on X pretends a porcupine's fur is an 11-year-old Gazan child's hair discoloring because of the stress of war.",
+    themTweets: [ "1945211515654537300"],
+    usTweets: [ "1970638255667454163",  "1945364372508823929"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-22",
+    claimIds: ["31a"],
+    exampleId: "00000031a010",
+    keywordIds: [],
+    text: "Ana Kasparian manufactures hatred for Israel by claiming they killed US citizens, which wasn't true.",
+    themTweets: [ "1970267884476866584"],
+    usTweets: [ "1970297851218628997"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-18",
+    claimIds: ["31a"],
+    exampleId: "00000031a011",
+    keywordIds: [],
+    text: "Hate crime hoax: Ayyad said he was assaulted by someone making 'anti-Palestinian slurs.' However, investigators found his injuries were the result of a fight with his brother.",
+    standaloneTweets: [ "1725960259758420307"]
+  },
+  {
+    date: "2023-11-10",
+    dateAdded: "",
+    claimIds: ["31a"],
+    exampleId: "00000031a012",
+    keywordIds: [],
+    text: "Khaled Beydoun, a Palestinian ASU professor, pretends someone sent him a hateful message to manufacture a fake narrative. The message is in blue though, indicating he sent it to himself. He posted a fake photo the next day.",
+    standaloneTweets: [ "1723170416611782890"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-11",
+    claimIds: ["31a"],
+    exampleId: "00000031a013",
+    keywordIds: [],
+    text: "Khaled Beydoun, a Palestinian ASU professor who sent himself a fake hateful message pretending it was from someone else (see Nov. 10, 2023), shares a photo from Syria pretending it's Israeli aggression in Gaza.",
+    themTweets: [ "1723315670073446664"],
+    usTweets: []
+  },
+  {
+    date: "2025-09-30",
+    dateAdded: "",
+    claimIds: ["31a", "47"],
+    exampleId: "00000031a014",
+    keywordIds: [],
+    text: "A Gazan 'journalist' claims Israel planted rooftop bombs in Gaza and detonated them simultaenously, but the image is from southern Italy during the summer heatwave of July-August 2025.",
+    themTweets: [ "1973230457434284528"],
+    usTweets: [ "1980691945576902742",  "1973402914832965939",  "1973446509476847683",  "1973446883847840039" ,  "1980692444837736933"]
+  },
+  {
+    date: "2025-10-21",
+    dateAdded: "",
+    claimIds: ["31a", "3", "30x"],
+    exampleId: "00000031a015",
+    keywordIds: [],
+    text: "A Twitter account with 439,000 followers claims the IDF 'kidnapped' a family, when the video shows tons of munitions in the family's home.",
+    themTweets: ["1980656700647416062"],
+    usTweets: ["1980734085073952992", "1980734725011460253"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-30",
+    claimIds: ["31a", "12"],
+    exampleId: "00000031a016",
+    keywordIds: [],
+    text: "Israel killed this AI generated child. The Gemini logo is in the botom right of the photo. So shameless the original author didn't even delete it. And people eat it up.",
+    themTweets: ["1972932869166346651", "1973042499255230836", "1973047487985299804", "1973027071573266443", "1972955139519705208", "1973336737448599773"],
+    usTweets: ["1973562845171458155" , "1973070224367723002"]
   }
 ]
 

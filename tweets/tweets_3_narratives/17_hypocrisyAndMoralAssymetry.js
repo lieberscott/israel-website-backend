@@ -104,7 +104,40 @@ const examples17 = [
     thenVsNowFormat: true,
     nowTweets: ["2011061968850055285", "2011136775138181172", "2010600199681712547"],
     thenTweets: ["2005860682982645820"],
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2025-01-01",
+    claimIds: ["17"],
+    exampleId: "0000017009",
+    keywordIds: [],
+    text: "When Israel targeted Hamas leaders in Qatar with a missile, France's President Emannuel Macron condemned it, calling it 'unacceptable,' even though France has struck terrorists in foreign countries numerous times under his own leadership!",
+    thenVsNowFormat: true,
+    thenTweets: ["1965452213792506048"],
+    nowTweets: ["1965477345634255182" , "1965467866033209695"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-01-02",
+    claimIds: ["17"],
+    exampleId: "0000017010",
+    keywordIds: [],
+    text: "When America killed Osama bin Laden in Pakistan, Sen. Bernie Sanders applauded the act, praising President Obama and calling it 'a historic moment in our fight against international terrorism.' But when Israel fired missiles in Qatar targeting Hamas leaders, who organized, perpetrated, and celebrated the horrific Oct. 7 attack on Israel, he called it 'a blatent violation of international law' and a justification to end military aid to Israel!",
+    thenVsNowFormat: true,
+    thenTweets: ["65074924829687808", "1965519234592899316"],
+    nowTweets: ["1965554587462717883", "1965557161452601453", "1965557610939326889"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-01-03",
+    claimIds: ["17"],
+    exampleId: "0000017011",
+    keywordIds: [],
+    text: "When America killed Osama bin Laden in Pakistan, United Nations Secretary General Antonio Guterres applauded the act, calling it 'a watershed moment in our common global fight against terrorism.' But when Israel fired missiles in Qatar targeting Hamas leaders, who organized, perpetrated, and celebrated the horrific Oct. 7 attack on Israel, he 'strongly condemned' the act and called it 'a clear violation of (Qatar's) sovereignty & territorial integrity.'",
+    thenVsNowFormat: true,
+    thenTweets: ["1965464597042692415"],
+    nowTweets: ["1965481295431290985"]
+  },
 ]
 
 module.exports = { claim17, examples17 };

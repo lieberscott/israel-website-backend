@@ -96,6 +96,17 @@ const examples31g = [
     standaloneTweets: ["1825070937277964517"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-27",
+    claimIds: ["31g", "27", "31l", "31n"],
+    exampleId: "31g0008",
+    keywordIds: ["Emmanuel Macron", "Keir Starmer"],
+    text: "After England, Canada, France and Australia recognized a Palestinian state, Palestinians in the 'moderate' West Bank (Judea and Samaria) say they don't want to live in peace with the Jews.",
+    standaloneTweets: ["1972068543366942795", "1969763547224985774"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
