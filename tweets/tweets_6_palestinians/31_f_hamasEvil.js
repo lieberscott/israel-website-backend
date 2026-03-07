@@ -38,10 +38,23 @@ const examples31f = [
     claimIds: ["31f"],
     exampleId: "0000031f03",
     keywordIds: [],
-    text: " Hamas just published horrific videos of shooting 'collaborators,' boasting that 'their legs were cut off.'",
+    text: "Hamas just published horrific videos of shooting 'collaborators,' boasting that 'their legs were cut off.'",
     source: false,
     sourceLink: "",
     standaloneTweets: ["2015463550026998176"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-22",
+    claimIds: ["31f"],
+    exampleId: "0000031f04",
+    keywordIds: [],
+    text: "Hamas militias in Gaza demolished market stalls and destroyed the tents of displaced civilians for refusing to pay Hamas-imposed taxes.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["2025324207119225132"],
     themTweets: [],
     usTweets: []
   }

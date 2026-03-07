@@ -78,6 +78,18 @@ const examples31o = [
     standaloneTweets: ["1848088830982647851"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-11-14",
+    claimIds: ["31o", "31p"],
+    exampleId: "0000031o0006",
+    keywordIds: [],
+    text: "Palestinian Islamic scholar in Chicago, Mohammad Nusairat: “We did NOT come here to coexist. We are superior to everyone else and will not be surpassed. No one is above us. If other religions want to live with us, they have to worship Allah.”",
+    source: false,
+    standaloneTweets: ["2025422097938301397"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

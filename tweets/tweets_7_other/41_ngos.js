@@ -86,6 +86,28 @@ const examples41 = [
     standaloneTweets: [],
     themTweets: ["2021548222565458080"],
     usTweets: ["2010600199681712547"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-15",
+    claimIds: ["41"],
+    exampleId: "000004108",
+    keywordIds: ["ICRC"],
+    text: "The Red Cross president, Mirjana Spoljaric, met with Benjamin Netanyahu and refused to publicly pressure Hamas to release the hostages and refused to deliver a box of medicine for the Israeli hostages in Gaza.",
+    standaloneTweets: ["1735696573311394006"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "1944-11-22",
+    claimIds: ["41"],
+    exampleId: "000004109",
+    keywordIds: ["ICRC"],
+    text: "Red Cross in 1944: 'We found no traces of installations to exterminate civilian prisoners in Auschwitz.' Red Cross in 2024: 'We found no evidence that weapons or hostages are being held in the hospitals in Gaza.'",
+    standaloneTweets: ["1808918641280221609"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

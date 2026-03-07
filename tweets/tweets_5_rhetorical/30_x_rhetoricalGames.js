@@ -237,12 +237,37 @@ const examples30x = [
     keywordIds: [],
     text: "Zohran Mamdani is going to act horrified each time it happens, meanwhile he has dedicated his entire adult life to making Jews less safe by promoting “antizionism.”",
     source: false,
-    sourceLink: "",
     thenVsNowFormat: true,
     thenTweets: ["1713023154489053269", "1712930770988175473", "2009778389805072527", "1715815109707120757", "1781043281738019240", "1788204460898132209", "1781926923196875075", "2010061354896633962", "1781948249214996901", "1785282124766929152", "1783640761117835745", "1782251012863963544", "1782253130375102916", "1781987751291765079", "1782734702182322607", "1978545489273409563", "1939389960206852330", "1938690320721682538", "1938708073100857722", "1978949848670826922"],
     nowTweets: ["2016418423518200106", "2016445417861390429"],
     standaloneTweets: [],
   },
+  {
+    dateAdded: "",
+    date: "2026-02-22",
+    claimIds: ["30x"],
+    exampleId: "00000030x15",
+    keywordIds: [],
+    text: "Tucker Carlson to Mike Huckabee: I'm not saying Epstein worked for Mossad. I don't think we know that.' Tucker Carlson's TPUSA speech: 'Epstein was working on behalf of intel services - probably not American. This guy had direct connections to a foreign government. No one's allowed to say that foreign government is Israel.'",
+    source: false,
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    standaloneTweets: ["2025737875590152489"],
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-20",
+    claimIds: ["30x"],
+    exampleId: "00000030x16",
+    keywordIds: [],
+    text: "Mike Huckabee interview, ONE MINUTE: “Israel has A LOT OF RESOURCES.” THE NEXT MINUTE: “This is a country (Israel) the size of New Jersey with NO RESOURCES.” Israel is valuable when Tucker wants to make one point, then of no value when he wants to make a different point. Zero consistency.",
+    source: false,
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    standaloneTweets: ["2024981569472274515"],
+  }
 ]
 
 module.exports = { claim30x, examples30x };

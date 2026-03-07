@@ -71,6 +71,17 @@ const examples28 = [
     standaloneTweets: ["2009475093026742425"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-22",
+    claimIds: ["28"],
+    exampleId: "000002807",
+    keywordIds: [],
+    text: "College aged students in Los Angeles, California watching Hamas atrocities from October 7, giggling and laughing: 'We love what you are doing Hamas, keep doing what you are doing, keep killing Israelis, free Palestine and Fu*k Israel.'",
+    standaloneTweets: ["2025646103123890591"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

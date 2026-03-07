@@ -457,7 +457,7 @@ const examples31e = [
     text: "CCTV footage shows a 14-year-old Palestinian child attempting to stab an Israeli Border Police officer near Al-Eizariya, east of Jerusalem. The Palestinian was killed on the spot. According to antizionists, it was just an Israeli officer shooting him dead for no reason.",
     source: false,
     usTweets: ["1754511526222843977", "1754489519213015063"],
-    themTweets: ["1754511526222843977"],
+    themTweets: ["1754493762519146721"],
   },
   {
     dateAdded: "",

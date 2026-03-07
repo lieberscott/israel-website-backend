@@ -57,11 +57,22 @@ const examples31i = [
   {
     dateAdded: "",
     date: "2023-05-05",
-    claimIds: ["31i"],
+    claimIds: ["31i", "31d"],
     exampleId: "0000031i05",
     keywordIds: [],
     text: "A Palestinian mother says: 'We must kill the Jews with our bare hands. To kill them with our teeth. With our teeth we will eat the Jews.' She says they are commanded by their G-d to commit jihad against the Jews. Then her children are shown wearing Hamas headbands.",
     standaloneTweets: ["1974894147753718099"]
+  },
+  {
+    dateAdded: "",
+    date: "2019-11-10",
+    claimIds: ["31i", "31d"],
+    exampleId: "0000031i06",
+    keywordIds: [],
+    text: "Palestinian Sheikh Yousef Makharzah openly declares that girls should be married off at age 12 because: 'their bodies are already built for it.'",
+    source: true,
+    sourceLink: "https://www.memri.org/tv/palestinian-sheikh-yusuf-makharza-muhammad-aisha-marry-nine-years-old-menstruation-marriage-cedaw-criticize",
+    standaloneTweets: ["2025671808897486908"]
   },
 ]
 

@@ -155,6 +155,18 @@ const examples44 = [
     standaloneTweets: ["1330654450705457155"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-22",
+    claimIds: ["44"],
+    exampleId: "000004413",
+    keywordIds: [],
+    text: "Jewish hockey player Jack Hughes scores the game-winning goal to win Olympic gold for Team USA.",
+    source: false,
+    standaloneTweets: ["2025604630722261347"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
