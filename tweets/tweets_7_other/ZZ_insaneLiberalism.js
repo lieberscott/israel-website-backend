@@ -175,6 +175,17 @@ const deepDivesExamples = [
     standaloneTweets: ["2009794119527285096"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-14",
+    claimIds: ["55"],
+    exampleId: "InsaneLiberalism0014",
+    keywordIds: [],
+    text: "'Everyone is welcome in New York!' as an IsIamist throws a literal bomb over him.",
+    standaloneTweets: ["2032882200115359936", "2033297367768699334", "2031070425879355632"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -67,6 +67,18 @@ const examples31k = [
     standaloneTweets: ["1711988348544491909"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2019-06-19",
+    claimIds: ["31l", "27", "30", "27", ],
+    exampleId: "00031l006",
+    keywordIds: [],
+    text: "Mahmoud al-Zahar, a co-founder and senior political leader of Hamas, states 'our project is bigger than Palestine' ('مشروعنا أكبر من فلسطين') and dismisses a Palestinian state (even within 1967 borders) as insignificant, comparing Palestine to a 'miswak' (toothpick used for cleaning teeth) in the context of Hamas's larger ambitions.",
+    source: false,
+    standaloneTweets: ["2033179269002674686"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

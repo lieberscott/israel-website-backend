@@ -90,6 +90,30 @@ const examples31o = [
     standaloneTweets: ["2025422097938301397"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-14",
+    claimIds: ["31o", "31p"],
+    exampleId: "0000031o0007",
+    keywordIds: [],
+    text: "'Death To America' chants in Dearborn, Michigan.",
+    source: false,
+    standaloneTweets: ["2032859047490138275"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-15",
+    claimIds: ["31o"],
+    exampleId: "0000031o0008",
+    keywordIds: [],
+    text: "“Allah orders Muslims to kill the Christians and Jews.” Imam in Ireland.",
+    source: false,
+    standaloneTweets: [],
+    themTweets: ["2033136130225541582"],
+    usTweets: ["2033217611794616407"]
   }
 ]
 

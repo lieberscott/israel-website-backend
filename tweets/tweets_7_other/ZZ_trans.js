@@ -1,11 +1,11 @@
-const deepDivesClaim = {
+const ZZtrans = {
   dateAdded: "",
   claimText: "Trans",
   claimShortText: "Trans",
   claimId: "Trans001"
 }
 
-const deepDivesExamples = [
+const ZZtransExamples = [
   {
     dateAdded: "",
     date: "2024-02-26",
@@ -101,4 +101,4 @@ const deepDivesExamples = [
   }
 ]
 
-module.exports = { deepDivesClaim, deepDivesExamples };
+module.exports = { ZZtrans, ZZtransExamples };

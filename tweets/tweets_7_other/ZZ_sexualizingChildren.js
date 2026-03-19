@@ -1,11 +1,11 @@
-const deepDivesClaim = {
+const sexualizingChildrenClaim = {
   dateAdded: "",
   claimText: "Sexualizing children",
   claimShortText: "Sexualizing children",
   claimId: "SexualizingChildren"
 }
 
-const deepDivesExamples = [
+const sexualizingChildrenExamples = [
   {
     dateAdded: "",
     date: "2026-01-12",
@@ -19,4 +19,4 @@ const deepDivesExamples = [
   }
 ]
 
-module.exports = { deepDivesClaim, deepDivesExamples };
+module.exports = { sexualizingChildrenClaim, sexualizingChildrenExamples };

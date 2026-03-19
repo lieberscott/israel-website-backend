@@ -104,6 +104,17 @@ const examples32 = [
     standaloneTweets: [],
     themTweets: ["2025240317285249070"],
     usTweets: ["2025296887340020077"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-14",
+    claimIds: ["32", "18"],
+    exampleId: "000001314",
+    keywordIds: [],
+    text: "Hezbollah has confirmed that eight of the victims were its members, including a senior commander.",
+    standaloneTweets: ["2032877036352459117", "2033209724158484739"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
