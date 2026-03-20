@@ -377,6 +377,60 @@ const examples13 = [
     themTweets: ["1809482439720407481", "1809498444924379554"],
     usTweets: ["2024850101634474146", "2024906929831649421"]
   },
+  {
+    dateAdded: "",
+    date: "2023-10-18",
+    claimIds: ["13"],
+    exampleId: "000001329",
+    keywordIds: [],
+    text: "Abdurrahman Samir al-Tanani was killed in an airstrike on his family home in Jabalia, apparently targeting his cousin, Abdel Fattah Samir al-Tanani a senior militant with the Martyr Abu Ali Mustafa Brigades, the military wing of the P.F.L.P. Abdurrahman himself was affiliated with the PFLP, based on his social media profile, but not in the military wing. PFLP statement attached.",
+    source: true,
+    sourceLink: "https://t.me/abualiajel/680",
+    standaloneTweets: ["1948420179110793493"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-27",
+    claimIds: ["13"],
+    exampleId: "000001330",
+    keywordIds: [],
+    text: "Yasser Sobhi Hassan Abu Namous was intentionally targeted due to his membership in the Al-Qassam Brigades (Hamas). His sister described him on her small X profile as a heroic Qassami (Brigades) and 'the brave Mujahid', while his wife posted a photo of him in uniform. His sister also shared his photos alongside prominent Hamas leaders.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1717775009962176737", "1719025768540393492", "1725822614461952352"],
+    usTweets: ["1948610760168391007"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-09",
+    claimIds: ["13"],
+    exampleId: "000001331",
+    keywordIds: [],
+    text: "Doaa Sanad Mahmoud Al-Jabour was killed along with her husband, children, and members of his extended family. On the first anniversary of their deaths, at least two male relatives were publicly mourned as combatants affiliated with Fatah’s Al-Aqsa Martyrs Brigades. Her husband, Moamen Mustafa Al-Jabour, was described as a heroic fighter commander, while his brother, Manar Mustafa Al-Jabour, was mentioned as a fighter.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1733793067935662118", "1805533578463170601"],
+    usTweets: ["1949054585911357715"]
+  },
+  {
+    dateAdded: "",
+    date: "2024-06-09",
+    claimIds: ["13"],
+    exampleId: "000001332",
+    keywordIds: ["Aljamal", "journalist", "Al-Jazeera", "Washington", "501c3", "nonprofit", "non-profit"],
+    text: "Abdullah al-Jamal was involved in holding three Israeli hostages (Almog Meir Jan, Andrey Kozlov, and Shlomi Ziv) in his home until he was killed by the IDF during the rescue operation. His and his family affiliation (Hamas) was demonstrated by dressing up his young child in Hamas fatigues, his social media posts praising the Oct. 7 attacks, and his role as a spokesperson for a Hamas ministry. That didn't stop the website stopmurderingjournalists.com to list him as a martyr and victim (see link below).",
+    source: true,
+    sourceLink: "https://stopmurderingjournalists.com/martyrs/abdullah-al-jamal-148",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1799883365451174255", "1799727785700987201"],
+    usTweets: ["1956708388676731288", "1956163424238317796", "1799896587843375605", "1956626518366458358", "1799878000403452368", "1962263249421779365", "1904451325888217167", "1893549220289745024", "1815395773397246076"]
+  },
 ]
 
 module.exports = { claim13, examples13 };
