@@ -224,7 +224,19 @@ const examples25 = [
     themTweets: [],
     usTweets: [],
     additionalNotes: []
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-12",
+    claimIds: ["25", "5", "6y", "6z", "18", "30", "30y"],
+    exampleId: "0000025019",
+    keywordIds: [],
+    text: "41-year-old Ayman Mohamad Ghazali, drove a truck into Temple Israel in West Bloomfield Township, MI on March 12. After an exchange of gunfire with the temple’s security, he died at the scene. One security officer was taken to a hospital after being struck by the truck. Ghazali’s truck bed contained large quantities of fireworks and jugs of flammable liquid believed to be gasoline.",
+    standaloneTweets: ["2032603238151639375", "2034710249374978346"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
+  },
 ]
 
 module.exports = { claim25, examples25 };

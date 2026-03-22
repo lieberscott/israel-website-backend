@@ -88,7 +88,7 @@ const examples32 = [
     dateAdded: "",
     date: "2023-11-13",
     claimIds: ["32", "13","31a"],
-    exampleId: "000001312",
+    exampleId: "00003207",
     keywordIds: [],
     text: "On Oct. 16, 2023, reports came out that Israel had bombed al-Alhi hospital, killing 500 people. The media ran with it. The NY Times, AP, Reuters, Guardian, and LA Times all had it prominantly in their publications. The LA Times ran a front-page headline: 'At least 500 killed in Israeli airstrike on Gaza City Hospital, Gaza Healthy Ministry says'. In reality, an errant Palestinian Islamic Jihad rocket hit the hospital parking lot, as demonstrated in subsequent days by video footage, intercepted calls between Palestinian groups, and multiple independent open-source intel analaysts. The hospital itself was fully in tact and operational. And there were less than 10 killed.",
     themTweets: ["1714343713801957435", "1714353899040358550", "1714619599017157072", "1714336328312144180", "1714593437142393153"],
@@ -98,7 +98,7 @@ const examples32 = [
     dateAdded: "",
     date: "2026-02-21",
     claimIds: ["32"],
-    exampleId: "000001313",
+    exampleId: "00003208",
     keywordIds: [],
     text: "Hezbollah has confirmed that eight of the victims were its members, including a senior commander.",
     standaloneTweets: [],
@@ -109,13 +109,39 @@ const examples32 = [
     dateAdded: "",
     date: "2026-03-14",
     claimIds: ["32", "18"],
-    exampleId: "000001314",
+    exampleId: "00003209",
     keywordIds: [],
     text: "Hezbollah has confirmed that eight of the victims were its members, including a senior commander.",
     standaloneTweets: ["2032877036352459117", "2033209724158484739"],
     themTweets: [],
     usTweets: []
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-02",
+    claimIds: ["32"],
+    exampleId: "00003210",
+    keywordIds: ["Aljamal", "journalist", "Al-Jazeera", "Washington", "501c3", "nonprofit", "non-profit"],
+    text: "The Guardian admitted it did not verify before publishing an article commemorating journalists killed in Gaza. The piece included a photo of Abdallah Aljamal, widely reported to have held three Israeli hostages captive in his home for over eight months. Aljamal was killed in an IDF operation on 8 June 2024, alongside family members, during the rescue of hostages Almog Meir Jan, Andrey Kozlov, and Shlomi Ziv. The IDF confirmed he was a Hamas operative who deliberately used his home to hold hostages.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1962976003535581486"],
+    usTweets: ["1963239298242900329", "1956708388676731288", "1956163424238317796", "1799896587843375605", "1956626518366458358", "1799878000403452368", "1962263249421779365", "1904451325888217167", "1893549220289745024", "1815395773397246076"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-14",
+    claimIds: ["32"],
+    exampleId: "00003211",
+    keywordIds: ["West Bloomfield", "Hezbollah", "Ayman Mohamad Ghazali", "synagogue"],
+    text: "An Islamist terrorist tried to murder 140 preschool kids in Michigan. NPR decided the real victims were terrorists and their supporters in Lebanon.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["2033357765054267575"],
+    usTweets: ["2032676592850235850",]
+  },
 ]
 
 module.exports = { claim32, examples32 };

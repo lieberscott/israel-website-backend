@@ -103,7 +103,7 @@ const examples6y = [
     date: "2023-12-08",
     claimIds: ["6y", "2", "3", "22", "25", "30y"],
     exampleId: "6y09",
-    keywordIds: ["FreePalestine"],
+    keywordIds: ["Free Palestine"],
     text: "A shooter yelled 'Free Palestine!' as he shot off a shotgun on the premises of Temple Israel and appeared to have torn down an Israeli flag or sign, according to law enforcement.",
     standaloneTweets: ["1733139538669641777"],
     thenVsNowFormat: false,
@@ -117,7 +117,7 @@ const examples6y = [
     date: "2025-07-28",
     claimIds: ["6y", "2", "3", "18", "30y"],
     exampleId: "6y10",
-    keywordIds: ["FreePalestine"],
+    keywordIds: ["Free Palestine"],
     text: "Jewish father and his 6 year old son attacked by raging mob screaming “Free Palestine!” and “Murderers, go home!” as they attempted to use a restroom in Milan, Italy. The father and son were wearing yarmulkas when the mob began attacking them.",
     standaloneTweets: ["1950095386644976018"],
     thenVsNowFormat: false,
@@ -131,7 +131,7 @@ const examples6y = [
     date: "2024-11-08",
     claimIds: ["6y", "2", "3", "18", "30y"],
     exampleId: "6y11",
-    keywordIds: ["FreePalestine"],
+    keywordIds: ["Free Palestine"],
     text: "Germany - 13 year old boys playing for a Jewish German soccer team were chased by grown men screaming “Free Palestine” and “fucking Jews” earlier today.",
     standaloneTweets: ["1855040240094003481"],
     source: true,
@@ -147,7 +147,7 @@ const examples6y = [
     date: "2025-12-14",
     claimIds: ["6y", "18", "30y"],
     exampleId: "6y12",
-    keywordIds: ["FreePalestine"],
+    keywordIds: ["Free Palestine"],
     text: "The California home of @CohenRodgir, who served in the U.S. Army, was brightly decorated for Chanukah. Assailants drove by, unloading 20 shots into the occupied family home while yelling “Free Palestine, N*gger, and “F- the Jews.” No injuries reported but the assailants have not yet been arrested.",
     standaloneTweets: ["2000290844662767910"],
     source: false,
@@ -157,7 +157,19 @@ const examples6y = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-20",
+    claimIds: ["6y", "5", "6z", "25"],
+    exampleId: "6y13",
+    keywordIds: [],
+    text: "A USPS  mail carrier assaulted a 4-year-old Jewish child in Monsey, NY.",
+    source: false,
+    standaloneTweets: ["2035072676906053813"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim6y, examples6y };

@@ -431,6 +431,20 @@ const examples13 = [
     themTweets: ["1799883365451174255", "1799727785700987201"],
     usTweets: ["1956708388676731288", "1956163424238317796", "1799896587843375605", "1956626518366458358", "1799878000403452368", "1962263249421779365", "1904451325888217167", "1893549220289745024", "1815395773397246076"]
   },
+  {
+    dateAdded: "",
+    date: "2024-06-09",
+    claimIds: ["13"],
+    exampleId: "000001333",
+    keywordIds: ["Al-Jamal", "doctor"],
+    text: "Dr. Ahmad – a general practitioner, imam, and member of a prominent family in Gaza – secretly held three Israeli hostages captive in his home for six months, the Wall Street Journal reported on Monday. Every day, Aljamal returned home from work to his son, daughter-in-law, grandchildren, and captives Almog Meir Jan, Andrey Kozlov, and Shlomi Ziv.",
+    source: true,
+    sourceLink: "https://www.wsj.com/world/middle-east/the-hostages-next-door-inside-a-notable-gaza-familys-dark-secret-2896f6aa",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1799548698537676981"],
+    usTweets: ["1896329972870156523", "1802812500016066860"]
+  },
 ]
 
 module.exports = { claim13, examples13 };

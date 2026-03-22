@@ -187,7 +187,7 @@ const examples5 = [
     standaloneTweets: ["1082055673574248448"],
     themTweets: [],
     usTweets: []
-  },
+  }
 ]
 
 module.exports = { claim5, examples5 };

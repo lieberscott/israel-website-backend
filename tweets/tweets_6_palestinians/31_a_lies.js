@@ -171,6 +171,17 @@ const examples31a = [
     text: "Israel killed this AI generated child. The Gemini logo is in the botom right of the photo. So shameless the original author didn't even delete it. And people eat it up.",
     themTweets: ["1972932869166346651", "1973042499255230836", "1973047487985299804", "1973027071573266443", "1972955139519705208", "1973336737448599773"],
     usTweets: ["1973562845171458155" , "1973070224367723002"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-01-08",
+    claimIds: ["31a"],
+    exampleId: "00000031a017",
+    keywordIds: [],
+    standaloneTweets: ["1896267222991225102"],
+    text: "Palestinian supporters believe a hanging skelaton is that of an actual person. A skelaton can not hang together like this. Without muscles, tendons and ligaments, it falls apart.",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

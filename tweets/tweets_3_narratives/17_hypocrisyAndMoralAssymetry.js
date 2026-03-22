@@ -138,6 +138,18 @@ const examples17 = [
     thenTweets: ["1965464597042692415"],
     nowTweets: ["1965481295431290985"]
   },
+  {
+    dateAdded: "",
+    date: "2026-02-22",
+    claimIds: ["17", "30x"],
+    exampleId: "0000017012",
+    keywordIds: ["Nicholas Fuentes"],
+    text: "Nick Fuentes: “Jewish people, although they appear to be white, when they’re confronted, they say, ‘I’m not white, I’m Jewish!’” VS. Nick Fuentes, when challenged by a police officer: “I’m not white, I’m Mexican!”",
+    standaloneTweets: ["2035612613095076128"],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
+  },
 ]
 
 module.exports = { claim17, examples17 };

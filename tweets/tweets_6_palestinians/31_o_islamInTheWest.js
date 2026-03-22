@@ -114,6 +114,18 @@ const examples31o = [
     standaloneTweets: [],
     themTweets: ["2033136130225541582"],
     usTweets: ["2033217611794616407"]
+  },
+  {
+    dateAdded: "",
+    date: "2025-11-09",
+    claimIds: ["31o"],
+    exampleId: "0000031o0009",
+    keywordIds: [],
+    text: "British MP Iqbal Mohamed declared: “We must take over the whole of Birmingham, the whole of the West Midlands, the whole of the UK… we will not be taken for granted, and we will win.",
+    source: false,
+    standaloneTweets: ["1987667901009326372"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
