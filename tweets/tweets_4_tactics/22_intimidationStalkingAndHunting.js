@@ -100,7 +100,7 @@ const examples22 = [
     claimIds: ["22", "6y"],
     exampleId: "000002209",
     keywordIds: ["France"],
-    text: "Three windows shattered. A security camera torn down. The school’s name plaque ripped off and dumped in a nearby park. Beth Loubavitch–Beth Hannah, a Jewish elementary school in Paris’s 20th arrondissement, was deliberately targeted over the weekend. ",
+    text: "Three windows shattered. A security camera torn down. The school’s name plaque ripped off and dumped in a nearby park. Beth Loubavitch–Beth Hannah, a Jewish elementary school in Paris’s 20th arrondissement, was deliberately targeted over the weekend.",
     standaloneTweets: ["2018306077268275559", "2018227983987667025"],
     themTweets: [],
     usTweets: []

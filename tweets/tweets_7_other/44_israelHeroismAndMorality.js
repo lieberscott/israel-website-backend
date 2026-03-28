@@ -167,6 +167,97 @@ const examples44 = [
     standaloneTweets: ["2025604630722261347"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-11-03",
+    claimIds: ["44"],
+    exampleId: "000004414",
+    keywordIds: [],
+    text: "Israeli doctors at Kaplan Medical Center have performed the first-ever implant of a fully artificial corneal endothelium - restoring a patient’s sight without the need for donor tissue. The ultra-thin EndoArt device, developed by Israeli company EyeYon Medical, replaces the function of the cornea’s inner cell layer, which cannot regenerate naturally and is essential for clear vision. With more than 13 million people worldwide waiting for corneal transplants, this innovation offers a scalable, donor-free alternative - underscoring Israel’s amazing record of achievement in innovating life-changing medical technologies. The patient who received the transplant had already undergone three failed donor cornea transplants, and was no longer eligible for traditional treatment due to the likelihood of further rejection. Unlike traditional grafts, the EndoArt implant is bio-inert - meaning the body cannot reject it - and the procedure is short and minimally invasive. For patients with failed grafts or high rejection risk, this synthetic solution offers a new, potentially sight-restoring option.",
+    source: true,
+    sourceLink: "https://www.jpost.com/health-and-wellness/article-872530",
+    standaloneTweets: ["1986214945990541340"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-10",
+    claimIds: ["44"],
+    exampleId: "000004415",
+    keywordIds: [],
+    text: "Researchers from top Israeli and US universities unveiled a pioneering “living” biological implant—a self-regulating device that senses glucose levels, produces insulin inside the body, and uses a novel “crystalline shield” to evade immune rejection. This breakthrough could eliminate daily insulin injections for millions with Type 1 diabetes, representing a major advance in regenerative medicine and long-term diabetes treatment. The multinational team included partners from MIT, Harvard, Johns Hopkins, and others.",
+    source: true,
+    sourceLink: "https://technionuk.org/news-post/israeli-led-research-unveils-living-implant-that-could-end-insulin-shots/",
+    standaloneTweets: ["2021161863958950040"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-22",
+    claimIds: ["44"],
+    exampleId: "000004416",
+    keywordIds: [],
+    text: "Scientists at Rambam Health Care College have developed a novel deep-brain stimulation approach that may restore cognitive flexibility in people with schizophrenia - a condition affecting 21 million worldwide. Led by Dr. Nir Asch under the guidance of Israel Prize laureate Hagai Bergman from Hebrew University, the peer-reviewed study published in Nature found that targeted brain stimulation reversed key symptoms in preclinical trials.",
+    source: true,
+    sourceLink: "https://www.timesofisrael.com/in-breakthrough-israeli-scientists-use-deep-brain-stimulation-to-counter-schizophrenia/",
+    standaloneTweets: ["2025662377480397144"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-20",
+    claimIds: ["44"],
+    exampleId: "000004417",
+    keywordIds: [],
+    text: "GluFormer, a transformer model trained on 10M+ glucose readings, predicts diabetes and cardiovascular risk up to 12 years ahead - outperforming HbA1c. Built by NVIDIA Israel, Weizmann Science,  and clinical partners.",
+    source: true,
+    sourceLink: "https://www.calcalistech.com/ctechnews/article/sjwwjphbwg?ncid=so-twit-170539&linkId=100000403548689#google_vignette",
+    standaloneTweets: ["2013677993479090438"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-26",
+    claimIds: ["44"],
+    exampleId: "000004418",
+    keywordIds: [],
+    text: "Israeli scientists have made a groundbreaking discovery with the potential to treat cardiac fibrosis, which currently has no method of reversing damage.",
+    source: true,
+    sourceLink: "https://www.timesofisrael.com/in-surprising-breakthrough-scientists-in-israel-find-cancer-may-help-heal-the-failing-heart/",
+    standaloneTweets: ["2004935088438489558"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-18",
+    claimIds: ["44"],
+    exampleId: "000004419",
+    keywordIds: [],
+    text: "Israeli, US scientists uncover new RNA molecule enabling phages to hijack bacteria more efficiently, advancing treatments for antibiotic-resistant infections.",
+    source: true,
+    sourceLink: "https://www.jpost.com/science/article-880658",
+    standaloneTweets: ["2001687611736531167"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-12-21",
+    claimIds: ["44"],
+    exampleId: "000004420",
+    keywordIds: [],
+    text: "ISRAEL SAVES SYRIAN DRUZE TODDLER | A Druze mother fled war-torn Syria so her baby could get life-saving heart surgery in Israel. At Wolfson, Jewish & Arab doctors treated her child free of charge through Save a Child’s Heart. “Here there is peace. I wish we could live like this,” she said.",
+    source: true,
+    sourceLink: "https://www.jns.org/israel-news/saving-a-syrian-druze-childs-heart?utm_content=500579557&utm_medium=social&utm_source=twitter&hss_channel=tw-538525553",
+    standaloneTweets: ["2002733292903158022"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

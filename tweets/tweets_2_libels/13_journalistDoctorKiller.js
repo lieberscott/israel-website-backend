@@ -339,16 +339,16 @@ const examples13 = [
   },
   {
     dateAdded: "",
-    date: "2024-06-26",
+    date: "2024-03-31",
     claimIds: ["13", "41"],
     exampleId: "000001326",
     keywordIds: [],
-    text: "Mahdi Hassan Mohammed al-Mamlouk (ID#: 801389321, 38) was the deputy head of PIJ's central communications unit as well as a broadcast engineer for PIJ's satellite channel, al-Quds al-Youm TV. He was killed in a Nov 2024 airstrike, and is listed by the CPJ and IFJ (though not the Hamas-run GMO) as a journalist.",
+    text: "Mustafa Bahr was killed on March 31, 2024, in an apparent Israeli airstrike near the Kuwait Roundabout in Gaza City. According to the CPJ, Bahr was a reporter and co-founder of the Palestine Breaking News website. However, social media posts from the day of his death and in early 2026 identified him as a combatant, a “mujahid commander.” Various mourning posters and social media tributes confirmed that he had served as a special operations commander in Liwa al-Tawhid, part of the Nasser Salah al-Din Brigades. A video depicts him in uniform participating in military exercises. Despite the extensive documentation identifying his combatant role, Commmittee to Protect Journalists (CPJ) has continued to include Bahr on its list of journalists killed in Gaza.",
     source: false,
     standaloneTweets: [],
     thenVsNowFormat: false,
-    themTweets: ["1805708141390139848"],
-    usTweets: ["2026384071857942953", "2026646645794820370", "2026329846549193029"]
+    themTweets: ["2021588658755608867"],
+    usTweets: ["2021588661830115613", "2021588663809786026", "2021588666280222983", "2021588667815305552"]
   },
   {
     dateAdded: "",
@@ -444,6 +444,19 @@ const examples13 = [
     thenVsNowFormat: false,
     themTweets: ["1799548698537676981"],
     usTweets: ["1896329972870156523", "1802812500016066860"]
+  },
+  {
+    dateAdded: "",
+    date: "2024-10-06",
+    claimIds: ["13"],
+    exampleId: "000001334",
+    keywordIds: [],
+    text: "Abdul Rahman Bahr, the brother of Mustafa Bahr profiled previously, was killed on October 6, 2024, in an apparent drone strike in Gaza City. Bahr also worked for the Palestine Breaking News website. However, social media posts published the same day praised Bahr as a “mujahid” who was “advancing, not retreating,” and mourning posters identified him as a “mujahid martyr.” On February 15, 2025, the Facebook page of the Al-Omari Mosque in Jabalia issued a memorial poster referencing “Al-Aqsa Flood” and depicting Bahr as an armed 'mujahid' fighter. While CPJ and others claim that Mustafa and Abdul Bahr were innocent brothers in the media business, it was really a cover for the primary family business: the military. They were both killed in action.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1843349376250589511"],
+    usTweets: ["1952301779363954767"]
   },
 ]
 
