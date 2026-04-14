@@ -186,6 +186,17 @@ const deepDivesExamples = [
     standaloneTweets: ["2032882200115359936", "2033297367768699334", "2031070425879355632"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-11",
+    claimIds: ["6y", "25"],
+    exampleId: "InsaneLiberalism0015",
+    keywordIds: [],
+    text: "UNPROVOKED VIOLENT ASSAULT of Savanah Hernandez (@Savsays) by 𝗣𝗮𝗶𝗴𝗲 𝗢𝘀𝘁𝗿𝗼𝘂𝘀𝗵𝗸𝗼 (IG: @mnangrydaughter) and her father, 𝗖𝗵𝗿𝗶𝘀 𝗢𝘀𝘁𝗿𝗼𝘂𝘀𝗵𝗸𝗼 (IG: @mnangryman).",
+    standaloneTweets: ["2043130498889724284"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

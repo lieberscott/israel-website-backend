@@ -6,7 +6,18 @@ const claim27 = {
 }
 
 const examples27 = [
-
+  {
+    dateAdded: "",
+    date: "2026-04-12",
+    claimIds: ["27"],
+    exampleId: "27001",
+    keywordIds: [],
+    text: "Hamas condemns Ben-Gvir’s latest visit to the Al-Aqsa Mosque compound, calling it a “provocative incursion” and accusing Israel of advancing “Judaization” efforts with full government backing. The group says the move violates the site’s sanctity and will not change its status, insisting Al-Aqsa “belongs solely to Muslims.”",
+    source: false,
+    standaloneTweets: ["2043306552874897527"],
+    usTweets: [],
+    themTweets: [],
+  },
 ]
 
 module.exports = { claim27, examples27 };

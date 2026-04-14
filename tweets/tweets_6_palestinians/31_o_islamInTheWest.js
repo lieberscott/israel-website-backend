@@ -126,6 +126,18 @@ const examples31o = [
     standaloneTweets: ["1987667901009326372"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-11-19",
+    claimIds: ["31o"],
+    exampleId: "0000031o0010",
+    keywordIds: [],
+    text: "Palestinian Imam from Jerusalem: 'We will conquer America, we will kill their soldiers and capture their lands, as prophet Muhammad promised.'",
+    source: false,
+    standaloneTweets: ["1991208591026462979"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

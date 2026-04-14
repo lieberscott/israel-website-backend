@@ -471,6 +471,18 @@ const examples31e = [
     usTweets: [],
     themTweets: [],
   },
+  {
+    dateAdded: "",
+    date: "2026-04-13",
+    claimIds: ["31e"],
+    exampleId: "31e32",
+    keywordIds: [],
+    text: "Hezbollah asked children what they want to be when they grow up: 'Join the resistance.'; 'Destroy the tanks.'; 'Become a sniper.'; 'Stomp on the face of the Israelis.'; 'Plant mines.'",
+    source: false,
+    standaloneTweets: ["2043721443259699680"],
+    usTweets: [],
+    themTweets: [],
+  },
 ]
 
 module.exports = { claim31e, examples31e };

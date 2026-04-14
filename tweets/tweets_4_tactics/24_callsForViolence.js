@@ -6,7 +6,18 @@ const claim24 = {
 }
 
 const examples24 = [
-
+  {
+    dateAdded: "",
+    date: "2026-04-12",
+    claimIds: ["24"],
+    exampleId: "000002401",
+    keywordIds: [],
+    text: "Spain has a tradition called 'Kill the Jews' (matar judios), which consists of getting drunk on sangria to celebrate the medieval pogroms against Jews.",
+    source: false,
+    standaloneTweets: ["2043439037457801376", "2043038001198968887"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim24, examples24 };

@@ -17,6 +17,17 @@ const ZZiranExamples = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-03-02",
+    claimIds: ["Iran002"],
+    exampleId: "Iran0002",
+    keywordIds: ["car", "ramming"],
+    text: "These are IRGC killing ordinary people.",
+    standaloneTweets: ["2028456179727237566"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { ZZiran, ZZiranExamples };

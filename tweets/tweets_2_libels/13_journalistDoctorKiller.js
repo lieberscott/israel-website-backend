@@ -458,6 +458,32 @@ const examples13 = [
     themTweets: ["1843349376250589511"],
     usTweets: ["1952301779363954767"]
   },
+  {
+    dateAdded: "",
+    date: "2024-10-31",
+    claimIds: ["13"],
+    exampleId: "000001335",
+    keywordIds: [],
+    text: "Saeed Amin Saeed Abu Hassanein, journalist, was explicitly mentioned participating in the events of October 7 (the great crossing): 'storming Khaybar and striking its fatal blow on the great day of crossing.'",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1852029566329446522", "1852078039443620266"],
+    usTweets: ["1955275475867009108"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-01",
+    claimIds: ["13"],
+    exampleId: "000001336",
+    keywordIds: [],
+    text: "Saeed Amin Saeed Abu Hassanein, journalist, was explicitly mentioned participating in the events of October 7 (the great crossing): 'storming Khaybar and striking its fatal blow on the great day of crossing.'",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1730472183212732595"],
+    usTweets: ["1905731830181208198", "1905731836933992567", "1905731842948616289", "1955517463279354243"]
+  },
 ]
 
 module.exports = { claim13, examples13 };
