@@ -57,6 +57,19 @@ const examples31f = [
     standaloneTweets: ["2025324207119225132"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-18",
+    claimIds: ["31f"],
+    exampleId: "0000031f05",
+    keywordIds: [],
+    text: "Women living under Hamas rule in Gaza describe to the Mail how they are sexually abused by the terror group's fighters and forced to have sex in return for food aid.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["2045386706073886755"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

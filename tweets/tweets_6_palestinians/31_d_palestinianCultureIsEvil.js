@@ -57,6 +57,18 @@ const examples31d = [
     standaloneTweets: ["1844703189481730511"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-09-14",
+    claimIds: ["31d"],
+    exampleId: "00000031d06",
+    keywordIds: [],
+    text: "Yatta, near Hebron. Reports say a young Palestinian boy with special needs was tied to a wall by his Palestinian relatives over a small theft. They then beat him with rubber cables as he bled and begged them to stop — while neighbors and family laughed and filmed",
+    source: false,
+    standaloneTweets: ["1967291297213125013", "1967307783860318284"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

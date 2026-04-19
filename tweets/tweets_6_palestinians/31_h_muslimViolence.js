@@ -42,6 +42,18 @@ const examples31h = [
     standaloneTweets: ["2004500346891084235"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-18",
+    claimIds: ["31h"],
+    exampleId: "0000031h004",
+    keywordIds: [],
+    text: "Pakistan: A Christian girl Adan was abducted, raped, forcibly converted to Islam at gunpoint, & married to her Muslim abductor. She managed to flee, but now she is being labeled an apostate & faces death threats according to Islamic teachings. Adan is desperately begging for help to save her life.",
+    source: false,
+    standaloneTweets: ["2045440401557836259"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

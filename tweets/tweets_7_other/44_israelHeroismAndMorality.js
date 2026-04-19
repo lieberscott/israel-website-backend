@@ -258,6 +258,18 @@ const examples44 = [
     standaloneTweets: ["2002733292903158022"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-17",
+    claimIds: ["44"],
+    exampleId: "000004421",
+    keywordIds: [],
+    text: "14-year-old Israeli motocross rider Aya Vainer winning a Catalonia championship race in Spain and proudly waving the Israeli flag on the winners' podium.",
+    source: false,
+    standaloneTweets: ["2045116592812446117"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

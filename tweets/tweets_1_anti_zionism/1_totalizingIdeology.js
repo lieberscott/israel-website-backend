@@ -60,6 +60,17 @@ const examples1 = [
     standaloneTweets: [],
     themTweets: ["2008931744146227538"],
     usTweets: ["2011107983497871775"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-16",
+    claimIds: ["1", "5", "28"],
+    exampleId: "0000001006",
+    keywordIds: [],
+    text: "Nosheen Majid, Green Party candidate for Killingbeck and Seacroft (Leeds), telling an elderly couple that they can't get on their bus home in Leeds because Jews are modern Nazis and Hamas are fighting them.",
+    standaloneTweets: ["2044790919388369184"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
