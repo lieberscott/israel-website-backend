@@ -483,6 +483,18 @@ const examples31e = [
     usTweets: [],
     themTweets: [],
   },
+  {
+    dateAdded: "",
+    date: "2026-04-02",
+    claimIds: ["31e"],
+    exampleId: "31e33",
+    keywordIds: [],
+    text: "A group of young boys (roughly ages 5–12) in a militant/Islamist training or parade setting, likely in Gaza or a similar Palestinian area.",
+    source: false,
+    standaloneTweets: ["2039796203160789330"],
+    usTweets: [],
+    themTweets: [],
+  },
 ]
 
 module.exports = { claim31e, examples31e };
