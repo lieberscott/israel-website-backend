@@ -182,6 +182,17 @@ const examples31a = [
     text: "Palestinian supporters believe a hanging skelaton is that of an actual person. A skelaton can not hang together like this. Without muscles, tendons and ligaments, it falls apart.",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-13",
+    claimIds: ["31a"],
+    exampleId: "00000031a018",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "Israeli security forces discovered some 70 Palestinian men crammed inside the waste compartment of a garbage truck on Monday night as they attempted to cross into central Israel from the occupied West Bank.",
+    themTweets: ["2044023521634885670"],
+    usTweets: ["2044453196114858177"]
   }
 ]
 

@@ -187,6 +187,30 @@ const examples5 = [
     standaloneTweets: ["1082055673574248448"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-16",
+    claimIds: ["5"],
+    exampleId: "000005014",
+    keywordIds: ["Ana Kasparian", "Nick Fuentes"],
+    text: "Ana Kasaparian (Extreme Left Wing) and Nick Fuentes (Extreme Right Wing) paint themselves as polar opposites on the political spectrum. However, listen to them here, side by side. This is horseshoe theory on fully display.",
+    source: false,
+    standaloneTweets: ["1082055673574248448"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-12",
+    claimIds: ["5", "32"],
+    exampleId: "000005015",
+    keywordIds: ["L'Abuso", "L'Espresso", "settler", "magazine", "cover", "ape", "monkey", "ugly", "face"],
+    text: "",
+    source: false,
+    standaloneTweets: [],
+    themTweets: ["2044542888965513593", "2043626032758992997", "2043492585503625710"],
+    usTweets: ["2043406180865745363"]
   }
 ]
 

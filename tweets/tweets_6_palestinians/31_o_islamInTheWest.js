@@ -138,6 +138,18 @@ const examples31o = [
     standaloneTweets: ["1991208591026462979"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-18",
+    claimIds: ["31o"],
+    exampleId: "0000031o0011",
+    keywordIds: [],
+    text: "ENGLAND: A Palestinian refugee from Gaza, who arrived claiming to be fleeing a ‘genocide’, was arrested for attempting to rape a 14-year-old girl. He defends himself: “According to Sharia law, raping a non-Muslim girl is legal. I only follow Allah and Sharia law.”",
+    source: false,
+    standaloneTweets: ["2045496280332333322"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -65,8 +65,8 @@ const examples31f = [
     exampleId: "0000031f05",
     keywordIds: [],
     text: "Women living under Hamas rule in Gaza describe to the Mail how they are sexually abused by the terror group's fighters and forced to have sex in return for food aid.",
-    source: false,
-    sourceLink: "",
+    source: true,
+    sourceLink: "https://www.dailymail.co.uk/news/article-15732903/Women-living-Hamas-rule-Gaza-Mail-sexually-abused-terror-groups-fighters-forced-sex-return-food-aid.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_mailonline",
     standaloneTweets: ["2045386706073886755"],
     themTweets: [],
     usTweets: []

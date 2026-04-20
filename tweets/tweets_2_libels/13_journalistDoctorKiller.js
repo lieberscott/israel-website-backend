@@ -551,6 +551,19 @@ const examples13 = [
     themTweets: ["1863539137254424937", "1863162252880228668"],
     usTweets: ["1949183868650840539"]
   },
+  {
+    dateAdded: "",
+    date: "2023-12-01",
+    claimIds: ["13"],
+    exampleId: "000001342",
+    keywordIds: [],
+    text: "Alaa Hassan Abdullah Asbihi (ID#: 400060240, 29) was a nurse at the European Hospital in southern Gaza, as well as the deputy commander of PIJ's Military Manufacturing Unit.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1865990235609530876"],
+    usTweets: ["2026343126164517026"]
+  },
 ]
 
 module.exports = { claim13, examples13 };
