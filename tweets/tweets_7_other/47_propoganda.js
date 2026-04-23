@@ -40,6 +40,50 @@ const examples47 = [
     standaloneTweets: ["1953393076287717784"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-01-28",
+    claimIds: ["47"],
+    exampleId: "000004704",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "On the pro-Palestinian channels they cut the first two seconds. It does not matter. Even without the '3...2...1... action!' part we recognize #Pallywood when we see one, right?",
+    themTweets: ["1751615686630105256"],
+    usTweets: ["1751973058288468139", "1751992838491934850"]
+  },
+  {
+    dateAdded: "",
+    date: "2024-01-29",
+    claimIds: ["47", "13"],
+    exampleId: "000004705",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "The Palestinians report that this journalist collapsed due to lack of water and food.",
+    themTweets: ["1752020762251141425"],
+    usTweets: ["1752008434504126674"]
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-27",
+    claimIds: ["47"],
+    exampleId: "000004706",
+    keywordIds: [],
+    standaloneTweets: ["1762484514259886373"],
+    text: "Same guy is seen shaking babies everywhere, they claim that this is a broken-hearted father.",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-02-14",
+    claimIds: ["47"],
+    exampleId: "000004707",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "Same guy is seen shaking babies everywhere, they claim that this is a broken-hearted father.",
+    themTweets: ["1757762926273085766"],
+    usTweets: ["1757785650663727136"]
   }
 ]
 

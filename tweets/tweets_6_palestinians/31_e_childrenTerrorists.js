@@ -495,6 +495,19 @@ const examples31e = [
     usTweets: [],
     themTweets: [],
   },
+  {
+    dateAdded: "",
+    date: "2026-04-20",
+    claimIds: ["31e"],
+    exampleId: "31e34",
+    keywordIds: [],
+    text: "Footage released of a young boy recording a goodbye message before Hezbollah sent him to the front lines. He was confirmed killed.",
+    source: false,
+    standaloneTweets: ["2046293054450208841"],
+    usTweets: [],
+    themTweets: [],
+  },
+  
 ]
 
 module.exports = { claim31e, examples31e };

@@ -193,6 +193,83 @@ const examples31a = [
     text: "Israeli security forces discovered some 70 Palestinian men crammed inside the waste compartment of a garbage truck on Monday night as they attempted to cross into central Israel from the occupied West Bank.",
     themTweets: ["2044023521634885670"],
     usTweets: ["2044453196114858177"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-22",
+    claimIds: ["31a"],
+    exampleId: "00000031a019",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "Israeli security forces discovered some 70 Palestinian men crammed inside the waste compartment of a garbage truck on Monday night as they attempted to cross into central Israel from the occupied West Bank.",
+    themTweets: ["2046735404943167662", "2046794210087702828"],
+    usTweets: ["2046810033065787730", "2046876495365218475"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-20",
+    claimIds: ["31a"],
+    exampleId: "00000031a020",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "Another day, another Palestinian fake. Shocking images from Gaza turn out to be mummies from Bolivia.",
+    themTweets: ["2045486247519343049"],
+    usTweets: ["2045811595977097244", "2045844221899272593"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-19",
+    claimIds: ["31a"],
+    exampleId: "00000031a021",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "Another day, another Palestinian fake. Shocking images from Gaza turn out to be mummies from Bolivia.",
+    themTweets: ["2045722910560755741"],
+    usTweets: ["2045812500344590828"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-02-27",
+    claimIds: ["31a"],
+    exampleId: "00000031a022",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "This time they stole a video from Jordan and claimed that Israeli soldiers sent a dog on Palestinian children.",
+    themTweets: ["1630216215208554497"],
+    usTweets: ["1746581174124769310"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-07",
+    claimIds: ["31a"],
+    exampleId: "00000031a023",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "Captain Yasir reports that Hamas has bombed and killed hundreds of elite Israeli soldiers. They fake not only their own death, but also the death of the Jews. (This is actually the bombing in Syria in 2016 between Assad's soldiers).",
+    themTweets: ["1721778294310281477"],
+    usTweets: ["1746244393923645891"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-22",
+    claimIds: ["31a"],
+    exampleId: "00000031a024",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "Pro-Palestinian accounts are spreading a video, claiming it shows Palestinian prisoners in Israeli jails. The truth: it's footage from a maximum-security prison in El Salvador. Caught red-handed. Pallywood exposed. Again.",
+    themTweets: ["2046300383971336252"],
+    usTweets: ["2046849393114919189"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-12",
+    claimIds: ["31a"],
+    exampleId: "00000031a025",
+    keywordIds: [],
+    standaloneTweets: [],
+    text: "The video claiming to show a young boy crying for his sister in Gaza is from 2014 in Syria.",
+    themTweets: ["1712259806940344503"],
+    usTweets: ["1746438612286140519"]
   }
 ]
 

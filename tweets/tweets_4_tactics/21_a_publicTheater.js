@@ -27,6 +27,17 @@ const examples21a = [
     standaloneTweets: ["1783367448181272738"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2023-12-28",
+    claimIds: ["21a"],
+    exampleId: "000021a03",
+    keywordIds: [],
+    text: "n front of the White House, activists stage a performance to expose what’s happening to Palestinian citizens in Gaza.",
+    standaloneTweets: ["1740357266770120853"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
