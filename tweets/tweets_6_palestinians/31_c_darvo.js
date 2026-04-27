@@ -57,6 +57,21 @@ const examples31c = [
     thenVsNowFormat: true,
     thenTweets: ["2016372890568921249", "1972704175000629634"],
     nowTweets: ["2016255362450505807", "2015693913273536939"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-11-11",
+    claimIds: ["31c", "17"],
+    exampleId: "0000003105",
+    keywordIds: [],
+    text: "Mass murderer Bashar al-Assad, Assad condemns Israel and demands that the Palestinians be protected at the “Emergency Meeting” of the Arab League and the Organisation of Islamic Corporation in the Saudi Capital to discuss the Hamas-Israel war. Video 2:  Execution of dozens of  civilians in Syria by members of military Syrian intelligence. Unarmed civilians are taken blindfolded one by one to a pit in a suburb of Damascus,Tadamon. There they are shot in the head. “Greetings to the boss [teacher],” says one of the two perpetrators, smiling into the camera.",
+    deepDive: false,
+    source: true,
+    sourceLink: "https://www.syriahr.com/en/291981/",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1723340264163426514"],
+    usTweets: ["1740976877651517934", "1723671780164841946"]
   }
 ]
 

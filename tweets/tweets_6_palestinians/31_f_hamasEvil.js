@@ -70,6 +70,18 @@ const examples31f = [
     standaloneTweets: ["2045386706073886755"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-24",
+    claimIds: ["31f"],
+    exampleId: "0000031f06",
+    keywordIds: [],
+    text: "More than 40 Hamas militants attacked the Al Wahidi family house in the Al Remal neighborhood of Gaza city, attacked and beat everyone they saw inside the house with sticks and batons, including women and children, and stole many properties from the house before they fled. Many were wounded and were sent to the hospital. The story is happening because of a reported disagreement between one of the family members and Hamas.",
+    source: false,
+    standaloneTweets: ["2047801041823969673"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

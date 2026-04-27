@@ -150,6 +150,18 @@ const examples17 = [
     thenTweets: [],
     nowTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2021-10-11",
+    claimIds: ["17"],
+    exampleId: "0000017013",
+    keywordIds: [],
+    text: "When Ben Cohen was asked why Ben & Jerry’s doesn’t boycott U.S. states he disagrees with, he had no answer—yet still singled out Israel.",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["1417424092668612609"],
+    usTweets: ["2048765556459712569"]
+  },
 ]
 
 module.exports = { claim17, examples17 };

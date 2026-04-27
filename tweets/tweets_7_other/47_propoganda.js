@@ -81,9 +81,20 @@ const examples47 = [
     exampleId: "000004707",
     keywordIds: [],
     standaloneTweets: [],
-    text: "Same guy is seen shaking babies everywhere, they claim that this is a broken-hearted father.",
-    themTweets: ["1757762926273085766"],
+    text: "Antizionists claim some Palestinian woman was heroic in saving a Palestinian who was injured in an Israeli bombing, but it's all obviously badly staged.",
+    themTweets: ["1757762926273085766", "1789369551009820759"],
     usTweets: ["1757785650663727136"]
+  },
+  {
+    dateAdded: "",
+    date: "2024-03-27",
+    claimIds: ["47"],
+    exampleId: "000004708",
+    keywordIds: [],
+    standaloneTweets: ["1772933010137993330"],
+    text: "A Palestinian woman is interviewed on Al Jazeera, screaming and crying about the fake “genocide” in Gaza. Immediately after the interview, without knowing that she’s still being filmed, she bursts in laughs. ",
+    themTweets: [],
+    usTweets: []
   }
 ]
 
