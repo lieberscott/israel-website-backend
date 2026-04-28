@@ -162,6 +162,18 @@ const examples17 = [
     themTweets: ["1417424092668612609"],
     usTweets: ["2048765556459712569"]
   },
+  {
+    dateAdded: "",
+    date: "2026-04-23",
+    claimIds: ["17"],
+    exampleId: "0000017014",
+    keywordIds: ["Tucker Carlson", "Candace Owens", "Cenk Uygur"],
+    text: "Remember the world outrage when a statue of Jesus was destroyed in Lebanon? No, not the one destroyed by an Israeli soldier. The one destroyed by Islamists last December in the Christian Dora area of Beirut, because they were upset at the playing of Christmas carols. That desecration - virtually identical to the one done by the Israeli soldier - did not cause any international attention. It barely registered even in Lebanese media. So why is one incident so reprehensible and the other one business as usual? Could it be that the outrage is not at the action itself but an excuse to incite hatred against Jews while pretending to defend Christianity? Because any objective observer can see that the danger to Christians from Muslims is a hell of a lot higher than from Jews.",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["2046283478887784451", "2047201502041632892", "2046016030477033519", "2045875844573224991"],
+    usTweets: ["2047044444847821263", "2001189716142563779", "2046661737324167679"]
+  },
 ]
 
 module.exports = { claim17, examples17 };

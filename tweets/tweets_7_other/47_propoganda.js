@@ -95,6 +95,17 @@ const examples47 = [
     text: "A Palestinian woman is interviewed on Al Jazeera, screaming and crying about the fake “genocide” in Gaza. Immediately after the interview, without knowing that she’s still being filmed, she bursts in laughs. ",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-03-27",
+    claimIds: ["47"],
+    exampleId: "000004708",
+    keywordIds: [],
+    standaloneTweets: ["1772933010137993330"],
+    text: "A Palestinian woman is interviewed on Al Jazeera, screaming and crying about the fake “genocide” in Gaza. Immediately after the interview, without knowing that she’s still being filmed, she bursts in laughs. ",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

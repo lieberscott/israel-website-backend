@@ -20,15 +20,27 @@ const examples45 = [
   },
   {
     dateAdded: "",
-    date: "2026-04-21",
-    claimIds: ["45", "1", "53"],
+    date: "2026-04-20",
+    claimIds: ["45", "1", "53", "52", "55x"],
     exampleId: "0000045002",
     keywordIds: ["Southern Poverty Law Center"],
     text: "The SPLC is accused by the DOJ of paying millions to neo-Nazis, KKK members & far-right extremists to organize, and then using that as evidence that people needed to donate to the SPLC to fight right-wing hate.",
     source: false,
     standaloneTweets: [],
     themTweets: ["1833680063302398353", "1858570992508887461", "2046882307198402747"],
-    usTweets: ["2047054857165537571", "2046741442832257245", "2046707017343971355", "2047047984169279740"]
+    usTweets: ["2047125332030009656", "2047152228797133120", "2046723825774289375", "2047054857165537571", "2046741442832257245", "2046707017343971355", "2047047984169279740"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-21",
+    claimIds: ["45"],
+    exampleId: "0000045002",
+    keywordIds: ["Southern Poverty Law Center"],
+    text: "When a top-ranked, COPE-member sociology journal solicits a piece whose abstract treats 'Zionist colonial violence' and Israel's deliberate 'weaponization of starvation' against pregnant Palestinian women as settled fact — based entirely on WhatsApp messages from ONE woman — and to publish it trashes nearly every standard in its own rulebook, something bigger is happening. Gender & Society waived its prior-publication rule (the piece was solicited after running at an activist outlet), couldn't have done anonymous peer review (the author self-cites in the first person), required no methods section, no data availability, no ethics review for a named vulnerable subject in a war zone, and no disclosure of the author's advocacy-organization affiliation as a conflict of interest.",
+    source: false,
+    standaloneTweets: ["2045853451129704813"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

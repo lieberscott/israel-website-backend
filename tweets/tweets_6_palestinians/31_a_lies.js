@@ -479,6 +479,32 @@ const examples31a = [
     text: "Antizionists present this video as an Israeli tank being ambushed, but it's a video from the Red Star Rising trailer.",
     themTweets: ["1719897515183485325", "1719788535593496800", "1719789577701908738", "1719790030783385735"],
     usTweets: ["1781310637966078007"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-24",
+    claimIds: ["31a"],
+    exampleId: "00000031a044",
+    keywordIds: [],
+    standaloneTweets: ["2047775720022151314"],
+    source: true,
+    sourceLink: "https://archive.is/2026.04.24-203935/https://x.com/Parodyjeffx/status/2047721511025344901/",
+    text: "Parodyjeffx lifted a video of an Albanian celebrity named Ludjan Muçaraku dancing, added fake Arabic audio, and added a caption saying that he's actually an 'Israeli settler in a Palestinian home in the West Bank.' The predictable result: Hundreds of comments and thousands of retweets from people OUTRAGED at Israeli behavior (it was an Albanian celebrity doing a silly dance in his own home). If these people had the facts on their side, they wouldn't have to lie ALL THE TIME.",
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-23",
+    claimIds: ["31a"],
+    exampleId: "00000031a045",
+    keywordIds: ["AI"],
+    standaloneTweets: ["2047184189779308788"],
+    source: true,
+    sourceLink: "https://www.instagram.com/reel/DXXyMmmDEQN/",
+    text: "Rush Darwish claims he was called by name upon landing in Tel Aviv, but the video is so obviously fake.",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

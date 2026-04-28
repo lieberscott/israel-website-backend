@@ -270,6 +270,30 @@ const examples44 = [
     standaloneTweets: ["2045116592812446117"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-10-03",
+    claimIds: ["44"],
+    exampleId: "000004422",
+    keywordIds: [],
+    text: "21 year old Yazidi Fawzia was kidnapped as a child and taken by ISIS as a sex slave. She was passed around several countries before being held in Gaza for 10 years by a Palestinian ISIS member as a sex slave. The terrorist was also a Hamas member wanted by the IDF — which is how it came to be known that this poor woman was being held in Gaza This week, she was liberated in a complex effort involving Jordan, Israel, and Iraq. Israeli-Canadian Steve Maman made this possible.",
+    source: false,
+    standaloneTweets: ["1841799504913432992"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-07-06",
+    claimIds: ["44"],
+    exampleId: "000004423",
+    keywordIds: [],
+    text: "A Syrian Druze living in Venezuela speaks about how members of his family were massacred — and how Israel was the only country that came to help. Israel struck the terrorists and drove them out of Suwayda, saving thousands of innocent Druze lives.",
+    source: false,
+    standaloneTweets: ["1942031286782075182", "1948897922923274399", "1970935463407202587"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

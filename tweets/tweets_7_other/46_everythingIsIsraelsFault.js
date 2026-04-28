@@ -29,6 +29,31 @@ const examples46 = [
     standaloneTweets: ["1800582008017695191"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-23",
+    claimIds: ["46", "31c"],
+    exampleId: "0000046003",
+    keywordIds: [],
+    text: "Iran-backed Hezbollah kills two French soldiers. Macron’s response: sanction Israel.",
+    source: false,
+    standaloneTweets: [],
+    themTweets: ["2047022997421342941", "2047259339115675831"],
+    usTweets: ["2047353079368974475"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-27",
+    claimIds: ["46", "31c", "17"],
+    exampleId: "0000046004",
+    keywordIds: ["Ana Kasparian"],
+    text: "Kasparian condemned all Israelis as savages when she thought that an Israeli had run over an innocent Palestinian Arab. Then somebody told her that the driver was actually a Palestinian Arab. Now, she demands evidence. I'm noticing an inconsistent standard!",
+    source: true,
+    sourceLink: "https://www.facebook.com/permalink.php?story_fbid=pfbid02gH7f2aAAJs3CCmzhFFct7igVB1Ltriep2vA6njCapoVpumY5uh5oVeTKfZaD4ysBl&id=100064826525729&rdid=R5xQml96yQ3QEpRn#",
+    standaloneTweets: [],
+    themTweets: ["2048929504404664733", "2048934215811772827"],
+    usTweets: ["2048966369975153092", "2048876751950852299", "2048877609887338542", "2049121061716021730", "2048938478017155340", "2049079075377909848"]
   }
 ]
 
