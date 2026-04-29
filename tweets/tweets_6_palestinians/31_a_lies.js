@@ -505,6 +505,18 @@ const examples31a = [
     text: "Rush Darwish claims he was called by name upon landing in Tel Aviv, but the video is so obviously fake.",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-26",
+    claimIds: ["31a"],
+    exampleId: "00000031a046",
+    keywordIds: ["AI", "Jvnior"],
+    standaloneTweets: ["2048403526766694726", "2048405330778788079", "2048406336128364939", "2048408656308285762", "2048417815216972068"],
+    source: false,
+    text: "If you want to see how misinformation goes viral on here. An account with 350 followers posts an AI image of the shooter wearing an IDF sweatshirt and claims it’s from Insta. No link or anything. Mario then promotes that claim to his 3.4 million followers as if it’s factual.",
+    themTweets: [],
+    usTweets: []
   }
 ]
 

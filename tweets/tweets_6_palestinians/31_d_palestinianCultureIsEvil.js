@@ -69,6 +69,19 @@ const examples31d = [
     standaloneTweets: ["1967291297213125013", "1967307783860318284"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2021-08-05",
+    claimIds: ["31d"],
+    exampleId: "00000031d07",
+    keywordIds: ["Orlando Sentinel"],
+    text: "Rofayda Qaoud — raped by her brothers and impregnated — refused to commit suicide, her mother recalls, even after she bought the unwed teenager a razor with which to slit her wrists. So Amira Abu Hanhan Qaoud says she did what she believes any good Palestinian parent would: restored her family’s “honor” through murder. This is Palestinian culture.",
+    source: true,
+    sourceLink: "https://www.orlandosentinel.com/2003/11/16/honor-killings-on-rise-some-say-2/",
+    standaloneTweets: ["2049077675403124745"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
