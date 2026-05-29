@@ -174,6 +174,18 @@ const examples17 = [
     themTweets: ["2046283478887784451", "2047201502041632892", "2046016030477033519", "2045875844573224991"],
     usTweets: ["2047044444847821263", "2001189716142563779", "2046661737324167679"]
   },
+  {
+    dateAdded: "",
+    date: "2026-05-24",
+    claimIds: ["17"],
+    exampleId: "0000017015",
+    keywordIds: [],
+    text: "When yet another 'Flotilla to Gaza' participants were detained in Israel, Minister Itmar Ben-Gvir recorded a video mocking the participants, and the world had a collective shitfit. Ambassadors were summoned for a lecture. Ben-Gvir was banned from Australia and France, among other places. Israel was horrible. Yet mere days later — DAYS LATER — when the agitators were returned to Spain, they disrupted airport processes and were physically and violently confronted by Spanish police on video. Absolutely no outrage ensued.",
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2057318325516947721", "2057330690702594463", "2057123550406840715", "2057132406998450242", "2057509092617318661", "2057426434365538539", "1973668401869697440", "2058621896451604584"],
+    nowTweets: ["2058639468798595272", "2058658997108867293", "2058682520611246437", "2058669375008256451"]
+  },
 ]
 
 module.exports = { claim17, examples17 };

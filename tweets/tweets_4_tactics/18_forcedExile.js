@@ -29,6 +29,28 @@ const examples18 = [
     standaloneTweets: ["997203203388256256"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-22",
+    claimIds: ["18", "5"],
+    exampleId: "000001803",
+    keywordIds: [],
+    text: "Israeli couple harassed and filmed by antizionist resort employee in Cambria, California.  Judging from the interior, it appears to be the Cambria Pines Lodge.  'All I said was 'Free Palestine.' 'Israel is a Zionist state.' 'You are a Zionist.'",
+    standaloneTweets: ["2057959143210656239"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-08-05",
+    claimIds: ["18", "5", "6y"],
+    exampleId: "000001803",
+    keywordIds: ["United Kingdom"],
+    text: "Antisemites in Manchester, UK purposely target religious Jews by driving by & spraying water at them.",
+    standaloneTweets: ["1952881226232029206"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

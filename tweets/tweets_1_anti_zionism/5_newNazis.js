@@ -211,6 +211,44 @@ const examples5 = [
     standaloneTweets: [],
     themTweets: ["2044542888965513593", "2043626032758992997", "2043492585503625710"],
     usTweets: ["2043406180865745363"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-19",
+    claimIds: ["5"],
+    exampleId: "000005016",
+    keywordIds: [],
+    text: "",
+    source: true,
+    sourceLink: "https://www.sacurrent.com/news/politics-and-elections/house-candidate-maureen-galindo-pledges-to-send-american-zionists-to-internment-camp/",
+    standaloneTweets: ["2056795237540925858"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-25",
+    claimIds: ["5", "6y"],
+    exampleId: "000005017",
+    keywordIds: [],
+    text: "",
+    source: false,
+    standaloneTweets: ["2058995653968019944"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-24",
+    claimIds: ["5", "6z", "49"],
+    exampleId: "000005018",
+    keywordIds: [],
+    text: "",
+    source: true,
+    sourceLink: "https://torontosun.com/news/local-news/tearing-down-posters-missing-girl-new-low-toronto",
+    standaloneTweets: ["2058350903707480395", "2058616575536537732", "2059310033490297003", "2058686101334667735"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

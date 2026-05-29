@@ -18,6 +18,18 @@ const examples24 = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2025-03-04",
+    claimIds: ["24", "28"],
+    exampleId: "000002402",
+    keywordIds: [],
+    text: "Exposed by Canary Mission: Recent UCLA grad Emari Oyola watched the horrors of October 7 and cheered, 'Shout out Hamas, we love what you're doing,' doubling down with, 'If they're killing Israelis, I don't care.'",
+    source: false,
+    standaloneTweets: ["2043439037457801376", "2043038001198968887"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim24, examples24 };

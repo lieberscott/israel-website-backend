@@ -237,6 +237,30 @@ const examples25 = [
     usTweets: [],
     additionalNotes: []
   },
+  {
+    dateAdded: "",
+    date: "2026-05-19",
+    claimIds: ["25", "5", "18", "30y"],
+    exampleId: "0000025020",
+    keywordIds: [],
+    text: "A 22-year-old Israeli Jewish man named Shalev Ben Yakar was brutally beaten by a group of Islamists for speaking Hebrew in Golders Green, London. The Metropolitan Police are treating the assault as an antisemitic hate crime. No arrests have been made at this stage. The Islamist men chased the Jewish victim, dragged him across the road, and aggressively punched and kicked him for roughly six minutes. The victim stated that they 'kicked him like an animal'. During the attack, they repeatedly shouted 'Are you Jewish?' and hurled slurs at him in Arabic, including the phrase 'inta yahudi' (you are Jewish). The attackers tore his clothes, smashed his mobile phone, and stripped away one of his shoes before fleeing the scene.",
+    standaloneTweets: ["2056874872630882510"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-24",
+    claimIds: ["25"],
+    exampleId: "0000025021",
+    keywordIds: [],
+    text: "A North Carolina woman and a Houston-area teen were arrested and accused of conspiring to 'kill as many Jews as possible' at Congregation Beth Israel in Houston.",
+    standaloneTweets: ["2047642993511817225"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
+  },
 ]
 
 module.exports = { claim25, examples25 };

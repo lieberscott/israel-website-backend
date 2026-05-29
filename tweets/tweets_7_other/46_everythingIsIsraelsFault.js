@@ -54,6 +54,20 @@ const examples46 = [
     standaloneTweets: [],
     themTweets: ["2048929504404664733", "2048934215811772827"],
     usTweets: ["2048966369975153092", "2049112334426099918", "2048876751950852299", "2048877609887338542", "2049121061716021730", "2048938478017155340", "2049079075377909848"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-24",
+    claimIds: ["46", "30x"],
+    exampleId: "0000046005",
+    keywordIds: [],
+    text: "The Gaza Flotilla agitators, after being deported from Israel, were beaten by Spanish police for blocking the entryway at Bilboa airport in Spain. This, too, was Israel's fault.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2058672564189184099"],
+    nowTweets: ["2058579875183661373", "2058617463852433900"]
   }
 ]
 

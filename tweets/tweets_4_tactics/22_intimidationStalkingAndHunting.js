@@ -104,6 +104,28 @@ const examples22 = [
     standaloneTweets: ["2018306077268275559", "2018227983987667025"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-05",
+    claimIds: ["22", "6y", "21"],
+    exampleId: "000002210",
+    keywordIds: [],
+    text: "Manhattan, New York: Anti-Israel protesters swarmed outside Park East Synagogue, chanting “Israel should not exist” & “There is only one solution, intifada revolution.” A Hezbollah flag & Hamas-linked red triangle symbols were seen in the crowd.",
+    standaloneTweets: ["2052135563067801610"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-11",
+    claimIds: ["22", "6y", "21"],
+    exampleId: "000002211",
+    keywordIds: [],
+    text: "Imagine if this were a mob outside a mosque or a church? Last night, masked “demonstrators” surrounded the Young Israel of Midwood synagogue in Brooklyn, chanting for intifada, waving a Hezbollah flag, and screaming abuse at Jews attending an event inside. Hundreds of NYPD officers and rows of barricades were required just to keep them at bay. This is the reality for Jewish New Yorkers in 2026. You cannot walk into a house of worship without a police perimeter around it. No other minority community in this city is expected to tolerate this. No other community would be told this is just protected speech. The Lawfare Project will not stop fighting until Jewish civil rights receive the same protection, the same outrage, and the same legal accountability that every other community in America is guaranteed. Jew-hatred will not win.",
+    standaloneTweets: ["2054224881546358824"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
