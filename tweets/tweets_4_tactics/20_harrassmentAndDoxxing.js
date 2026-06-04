@@ -38,6 +38,17 @@ const examples20 = [
     standaloneTweets: ["2045718187153518801"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-22",
+    claimIds: ["20"],
+    exampleId: "000020004",
+    keywordIds: [],
+    text: "We’ve now reached the “confront random Jews and berate them about how disgusting they are, and blame them for all our problems” stage of Jew derangement syndrome.",
+    standaloneTweets: ["2057704656739172796"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

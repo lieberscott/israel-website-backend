@@ -51,7 +51,7 @@ const examples31d = [
     claimIds: ["31d"],
     exampleId: "00000031d05",
     keywordIds: [],
-    text: "Vittorio Arrigoni was an Italian pro-Palestine activist. In 2008, he moved to Gaza to support Palestinians. He often received death threats, but ignored them, claiming it was just the Mossad trying to scare him off. In 2011, he was kidnapped, tortured and murdered for being considered an ‘infidel’.",
+    text: "Vittorio Arrigoni was an Italian pro-Palestine activist. In 2008, he moved to Gaza to support Palestinians. He often received death threats, but ignored them, claiming it was just the Mossad trying to scare him off. In 2011, he was kidnapped, tortured and murdered for being considered an ‘infidel’. (Search 'Pippa Bacca' as well).",
     source: true,
     sourceLink: "https://www.bbc.com/news/world-middle-east-63174835?at_medium=RSS&at_campaign=KARANGA&utm_source=dlvr.it&utm_medium=twitter",
     standaloneTweets: ["1844703189481730511"],
@@ -80,6 +80,18 @@ const examples31d = [
     source: true,
     sourceLink: "https://www.orlandosentinel.com/2003/11/16/honor-killings-on-rise-some-say-2/",
     standaloneTweets: ["2049077675403124745"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-12-31",
+    claimIds: ["31d"],
+    exampleId: "00000031d08",
+    keywordIds: [],
+    text: "Palestinians commit rape at 12x the rate of native Danes. Palestinians commit theft at 8x the rate. Palestinians commit blackmail at 27x the rate. And across every single crime category — Palestinians are overrepresented. Every. Single. One. This isn't a right-wing blog. This is the Danish government. This is official Danish government data, 2008–2024.",
+    source: false,
+    standaloneTweets: ["2056440344703615345", "2056731008787955957"],
     themTweets: [],
     usTweets: []
   }

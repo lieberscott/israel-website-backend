@@ -49,6 +49,28 @@ const examples52 = [
     standaloneTweets: [],
     themTweets: ["2010376831934075140"],
     usTweets: ["2010842946455716179", "2011107983497871775"]
+  },
+  {
+    dateAdded: "",
+    date: "2008-04-01",
+    claimIds: ["52"],
+    exampleId: "00005204",
+    keywordIds: [],
+    text: "To teach Israel how to make peace, Pippa Bacca, the leftist Italian, decided in 2004 to hitchhike from Turkey to Israel. She even learned basic Arabic, to prove that Islam is not a violent.  Once she arrived in Turkey, she was gang-raped and murdered. She was 33 years old. (See 'Vittorio Arrigoni' for a similar story.)",
+    standaloneTweets: ["2057557138755440918"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2018-07-29",
+    claimIds: ["52"],
+    exampleId: "00005205",
+    keywordIds: [],
+    text: "Jay Austin and Lauren Geoghegan, two 29-year-old Americans, embarked on a bicycle journey with their mantra: 'By and large, humans are kind.' Their faith held for over a year—until July 29, 2018, in Tajikistan's Danghara district. Islamic State terrorists rammed their car into a group of foreign cyclists, then stabbed them, killing Jay, Lauren, and two others from Switzerland and the Netherlands.",
+    standaloneTweets: ["2014250385436033078"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

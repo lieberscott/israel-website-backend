@@ -261,6 +261,30 @@ const examples25 = [
     usTweets: [],
     additionalNotes: []
   },
+  {
+    dateAdded: "",
+    date: "2026-05-28",
+    claimIds: ["25"],
+    exampleId: "0000025022",
+    keywordIds: [],
+    text: "A man identified as Nay Min Tar (aka Tar Nay) exited his car in Santa Monica, CA, and chased a Jewish couple while screaming they were “genocidal,” brandished a baseball bat, then sicced his Cane Corso dog on them, biting the Jewish man on the thigh.",
+    standaloneTweets: ["2060019487538020466"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-31",
+    claimIds: ["25"],
+    exampleId: "0000025023",
+    keywordIds: [],
+    text: "NYC: A 23 year old Jewish woman sent CAM footage of her assault on a subway train. Around 2:15 PM, a woman told her she could “smell the babies” she had eaten and yelled that “Jews eat babies” before choking her, throwing her to the ground, and beating her.",
+    standaloneTweets: ["2062189513896530232"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
+  },
 ]
 
 module.exports = { claim25, examples25 };

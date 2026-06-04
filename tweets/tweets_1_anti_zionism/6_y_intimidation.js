@@ -170,6 +170,18 @@ const examples6y = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-05-27",
+    claimIds: ["6y", "5"],
+    exampleId: "6y14",
+    keywordIds: [],
+    text: "In Chicago, Manny's Deli, a Jewish-owned business, was broken into last night, leaving behind a smashed window. ",
+    source: false,
+    standaloneTweets: ["2059632018544046589"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim6y, examples6y };

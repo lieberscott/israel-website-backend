@@ -62,7 +62,7 @@ const examples16 = [
     title: "UPenn crowd heckling the Oct 7 massacre raw footage being shown, yelling “Liar, liar colonizer”.",
     titleId: "000000003",
     exampleId: "00000016003",
-    keywordIds: [],
+    keywordIds: ["rhyming"],
     sources: [
       {
         sourceLink: "",

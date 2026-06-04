@@ -150,6 +150,30 @@ const examples31o = [
     standaloneTweets: ["2045496280332333322"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-22",
+    claimIds: ["31o"],
+    exampleId: "0000031o0012",
+    keywordIds: [],
+    text: "Montreal Imam Adil Charkaoui: On Eid Al-Adha, the Most Beloved Act to Allah is to Shed Blood and Sacrifice for Him – It Is Not Just about Slaughtering Sheep.",
+    source: false,
+    standaloneTweets: ["2059974701397483613"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-23",
+    claimIds: ["31o"],
+    exampleId: "0000031o0013",
+    keywordIds: [],
+    text: "Karim Abu Zaid and Uthman Ibn Farooq, speaking at a conference in Texas: 'Islam will rule the world. Our goal is for America to become a Muslim country.'",
+    source: false,
+    standaloneTweets: ["2059534496387506243"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

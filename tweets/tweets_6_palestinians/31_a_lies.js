@@ -22,7 +22,7 @@ const examples31a = [
     claimIds: ["31a"],
     exampleId: "00000031a002",
     keywordIds: [],
-    text: "Released prisoner Mohammad Nazal says that guards in the Israeli prison beat him and that is why his hands are broken. But video from his prison release show he had healthy and functioning hands.",
+    text: "Released prisoner Mohammad Nazal says that guards in the Israeli prison beat him and that is why his hands are broken. But video from his prison release show he had healthy and functioning hands. This mirrors the fake Flotilla antizionist who pretended she was in a stretcher in Turkey after alleged mistreatment by Israel. See May 23, 2026.",
     themTweets: ["1729485394826207404", "1729482637406871626"],
     usTweets: ["1729588126266294432"]
   },
@@ -517,6 +517,19 @@ const examples31a = [
     text: "If you want to see how misinformation goes viral on here. An account with 350 followers posts an AI image of the shooter wearing an IDF sweatshirt and claims it’s from Insta. No link or anything. Mario then promotes that claim to his 3.4 million followers as if it’s factual.",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-05-23",
+    claimIds: ["31a", "47"],
+    exampleId: "00000031a047",
+    keywordIds: [],
+    standaloneTweets: [],
+    source: false,
+    thenVsNowFormat: true,
+    text: "If you want to see how misinformation goes viral on here. An account with 350 followers posts an AI image of the shooter wearing an IDF sweatshirt and claims it’s from Insta. No link or anything. Mario then promotes that claim to his 3.4 million followers as if it’s factual. Reminsicent of Mohammad Nazal (search 'Mohammad Nazal' to see entry).",
+    thenTweets: ["2058242583185207299"],
+    nowTweets: ["2058242588084179252", "2058242594899959980", "2058249949846835312"]
   }
 ]
 

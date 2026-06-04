@@ -34,7 +34,7 @@ const examples21a = [
     claimIds: ["21a"],
     exampleId: "000021a03",
     keywordIds: [],
-    text: "n front of the White House, activists stage a performance to expose what’s happening to Palestinian citizens in Gaza.",
+    text: "In front of the White House, activists stage a performance to expose what’s happening to Palestinian citizens in Gaza.",
     standaloneTweets: ["1740357266770120853"],
     themTweets: [],
     usTweets: []
