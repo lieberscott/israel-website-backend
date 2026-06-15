@@ -51,6 +51,39 @@ const examples18 = [
     standaloneTweets: ["1952881226232029206"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-02",
+    claimIds: ["18"],
+    exampleId: "000001804",
+    keywordIds: [],
+    text: "MONTREAL - Chief heart surgeon at Jewish General Hospital quits province amid rising antisemitism in Montreal. Dr. Emmanuel Moss's planned move to the U.S. follows a similar announcement last month by Concordia professor Gad Saad.",
+    standaloneTweets: ["2061857923576254851"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-02",
+    claimIds: ["18"],
+    exampleId: "000001805",
+    keywordIds: [],
+    text: "The story behind this clip is two Jewish American lesbians living in Barcelona, clearly unable to speak Spanish, booked a sauna / gym / relaxation therapy session. One of the organisers saw her Star of David, and called her a Zionist and that “genocide” is not tolerated. They were denied entry.",
+    standaloneTweets: ["2061068474038775850"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-03",
+    claimIds: ["18"],
+    exampleId: "000001806",
+    keywordIds: [],
+    text: "United Kingdom | The Last Jew of a 400-Year-Old British Family Packs His Bags for Israel. His parents have already left. His five sisters too. Baruch recounts that people shout “Free Palestine” and “You have no place here” at him in the street. He has even been threatened with acid to the face simply because he is Jewish His family had lived in England for nearly 400 years. Baruch is the last to leave",
+    standaloneTweets: ["2062116831813402674"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -18,6 +18,19 @@ const examples15 = [
     thenVsNowFormat: false,
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-01-02",
+    claimIds: ["15"],
+    exampleId: "000001502",
+    keywordIds: [],
+    text: "On the last night of Hanukkah, disgusting and hateful graffiti was discovered next to Chabad Oakland's Lake Merritt Menorah, comparing Israelis to Nazis. This incident follows the destruction of the menorah at the same location last year and a pattern of ongoing antisemitic vandalism.",
+    source: false,
+    standaloneTweets: ["1874872765045739857"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
   }
 ]
 

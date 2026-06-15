@@ -72,6 +72,20 @@ const examples31c = [
     thenVsNowFormat: false,
     themTweets: ["1723340264163426514"],
     usTweets: ["1740976877651517934", "1723671780164841946"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-08",
+    claimIds: ["31c", "17", "15"],
+    exampleId: "0000003106",
+    keywordIds: ["Graham Platner"],
+    text: "Leftists says she’s OK with the Nazi tattoo, but if he had an Israeli flag tattoo that would be a deal breaker for her because then he would support genocide…..",
+    deepDive: false,
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["2064544415998492888"],
+    usTweets: ["2064527638593450197"]
   }
 ]
 

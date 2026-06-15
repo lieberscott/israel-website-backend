@@ -126,6 +126,29 @@ const examples22 = [
     standaloneTweets: ["2054224881546358824"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-02",
+    claimIds: ["22"],
+    exampleId: "000002212",
+    keywordIds: ["United Kingdom"],
+    text: "ATTEMPTED ARSON ATTACK – GOLDERS GREEN. In the early hours of this morning, residents of a block of flats on Bridge Lane, NW11, where the majority of residents are Jewish and many are young families, were alerted by a fire alarm. Residents reported witnessing a suspect deliberately start a fire in a communal stairwell before fleeing when challenged. A resident acted swiftly to extinguish the fire, preventing what could have become a far more serious incident. Thankfully, no injuries were reported.",
+    standaloneTweets: ["2061906984484704722"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-03",
+    claimIds: ["5"],
+    exampleId: "000005021",
+    keywordIds: [],
+    text: "Pro-Pals are throwing things at Israeli tourists as they arrive in Athens. If your movement is targeting civilians including families with children with physical and verbal abuse you might be the bad guys.",
+    source: false,
+    standaloneTweets: ["2062121145755742662", "2062121577706053857"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

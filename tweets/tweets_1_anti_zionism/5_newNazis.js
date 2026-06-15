@@ -249,6 +249,31 @@ const examples5 = [
     standaloneTweets: ["2059310033490297003", "2058350903707480395", "2058616575536537732"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-01-02",
+    claimIds: ["5"],
+    exampleId: "000005019",
+    keywordIds: [],
+    text: "Islander Middle School on Mercer Island, WA was vandalized with antisemitic graffiti last night. The area is home to one of the biggest Jewish communities in Washington",
+    source: false,
+    standaloneTweets: ["1875219909086785765"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-01-03",
+    claimIds: ["5"],
+    exampleId: "000005020",
+    keywordIds: [],
+    text: "Antisemitic graffiti, swastikas on Winnipeg community centre during Hanukkah",
+    source: true,
+    sourceLink: "https://www.westernstandard.news/manitoba/antisemitic-graffiti-swastikas-on-winnipeg-community-centre-during-hanukkah/60878",
+    standaloneTweets: ["1875297332415119645"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
