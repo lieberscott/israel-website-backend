@@ -285,6 +285,18 @@ const examples25 = [
     usTweets: [],
     additionalNotes: []
   },
+  {
+    dateAdded: "",
+    date: "2026-06-16",
+    claimIds: ["25"],
+    exampleId: "0000025024",
+    keywordIds: [],
+    text: "Toronto police say they believe young people are being hired to carry out shootings at targets around Toronto, including Jewish schools and synagogues, and the U.S. consulate.",
+    standaloneTweets: ["2066907410795507877"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
+  },
 ]
 
 module.exports = { claim25, examples25 };

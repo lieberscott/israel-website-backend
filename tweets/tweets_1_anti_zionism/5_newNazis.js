@@ -274,6 +274,18 @@ const examples5 = [
     standaloneTweets: ["1875297332415119645"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-06-09",
+    claimIds: ["5"],
+    exampleId: "000005021",
+    keywordIds: [],
+    text: "Austin Franco, reportedly a student at Cornell University, told a potential employer he's 'Not interested in working for a jew.'",
+    source: false,
+    standaloneTweets: ["2064549919092805927"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

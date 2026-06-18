@@ -84,6 +84,50 @@ const examples18 = [
     standaloneTweets: ["2062116831813402674"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-17",
+    claimIds: ["18"],
+    exampleId: "000001807",
+    keywordIds: [],
+    text: "An Israeli fan at the FIFA World Cup was asked to remove his Israeli flag “for safety,” while a Palestinian flag displayed nearby was allowed to remain.",
+    standaloneTweets: ["2067216895422472487"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-17",
+    claimIds: ["18", "53"],
+    exampleId: "000001808",
+    keywordIds: [],
+    text: "New York: A woman decided to remove the Israeli flag from a display of international flags inside a restaurant. This is the open hostility toward Israel and Jews that has become normalized in parts of America. Instead of celebrating diversity, some now actively erase the only Jewish state from public view. When will this antisemitism finally be treated with the seriousness it deserves?",
+    standaloneTweets: ["2065745681923371158"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-04",
+    claimIds: ["18"],
+    exampleId: "000001809",
+    keywordIds: [],
+    text: "Alicia Lapp is running for Governor of California, and is making a campaign promise to deport 'every single Zionist.'",
+    standaloneTweets: ["2062634335384035674"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-05",
+    claimIds: ["18", "55"],
+    exampleId: "000001810",
+    keywordIds: [],
+    text: "The United Teachers Los Angeles’ House of Representatives voted Wednesday night to expel Jewish teacher and antisemitism watchdog Amy Leserman after members denounced her by name, declared Zionism “racism,” and accused her of targeting union activists, according to Leserman, who said she sat silently through the online meeting and was given no charges, hearing, or trial. The episode of antizionist purging marks an alarming escalation in anti-Jewish bigotry inside one of America’s most powerful teachers unions. ",
+    standaloneTweets: ["2063075193497522315"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

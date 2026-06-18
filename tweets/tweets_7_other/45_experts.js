@@ -41,6 +41,18 @@ const examples45 = [
     standaloneTweets: ["2045853451129704813"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-21",
+    claimIds: ["45"],
+    exampleId: "0000045003",
+    keywordIds: ["Southern Poverty Law Center"],
+    text: "]It's always projection, it's always a sham. It's always hypocrisy. - Federal charges reveal that employee-2, believed to be this woman in the picture, had a lover who was a prominent leader in a white supremacist group. - As a Director in the SPLC, she diverted $140k of doner funds into a bank account she held jointly with her nazi lover ...no it's right there, you can read all about it.  Yes I know it sounds crazy but that's what the SPLC is. There's a lot more in the nypost article. The SPLC had social media companies in what was, essentially, an extortion death-grip. The SPLC would demand censorship or-else they would put these companies on their hate-lists and get them blacklisted from advertisers.",
+    source: false,
+    standaloneTweets: ["2067026918206210268"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
