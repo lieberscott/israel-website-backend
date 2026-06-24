@@ -53,6 +53,18 @@ const examples31q = [
     standaloneTweets: ["2063349580175901076"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-21",
+    claimIds: ["31q"],
+    exampleId: "0000031q0005",
+    keywordIds: [],
+    text: "The Shin Bet says it thwarted dozens of Hamas terror plots in the Judea and Samaria area over the past year that were directed by Hamas operatives based in Turkey. According to the agency, Hamas’s West Bank Headquarters operates from Istanbul, recruiting attackers, transferring weapons and funds, and coordinating attacks inside Israel and the West Bank. The Shin Bet identified senior Hamas officials Zaher Jabarin and Ayman Abu Khalil, along with several other operatives based in Turkey, accusing them of financing, recruiting, and supporting terror activity while operating freely from Turkish territory.",
+    source: false,
+    standaloneTweets: ["2068638132631675068"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

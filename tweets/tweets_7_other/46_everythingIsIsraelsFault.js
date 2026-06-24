@@ -68,6 +68,20 @@ const examples46 = [
     thenVsNowFormat: true,
     thenTweets: ["2058672564189184099"],
     nowTweets: ["2058579875183661373", "2058617463852433900"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-22",
+    claimIds: ["46"],
+    exampleId: "0000046006",
+    keywordIds: [],
+    text: "NEW: Colombian President Gustavo Petro, after losing the election, is now claiming the voting software was hacked and that Israel was the only country capable of carrying it out.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["2068988553938292932"],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
   }
 ]
 

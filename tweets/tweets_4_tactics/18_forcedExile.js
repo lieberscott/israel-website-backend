@@ -128,6 +128,19 @@ const examples18 = [
     standaloneTweets: ["2063075193497522315"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-22",
+    claimIds: ["18", "3"],
+    exampleId: "000001811",
+    keywordIds: ["Dan Goldman", "Brad Lander"],
+    text: "NYC coffee shop bans pro-Israel politician in nasty post despite promise to treat all customers with 'unconditional dignity'.",
+    source: true,
+    sourceLink: "https://nypost.com/2026/06/22/us-news/nyc-coffee-shop-bans-pro-israel-politician-in-nasty-post-despite-promise-to-treat-all-customers-with-unconditional-dignity/?utm_medium=social&utm_campaign=nypost&utm_source=twitter",
+    standaloneTweets: ["2069091095628202294"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

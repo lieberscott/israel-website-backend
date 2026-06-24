@@ -51,6 +51,18 @@ const examples54 = [
     thenVsNowFormat: true,
     thenTweets: [],
     nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-23",
+    claimIds: ["54"],
+    exampleId: "00005405",
+    keywordIds: [],
+    text: "Former New York City Comptroller Brad Lander has bear-hugged Mayor Zohran Mamdani as he seeks to unseat Rep. Dan Goldman — but got a primary day cold shoulder from First Lady Rama Duwaji.",
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2049172304089768189"],
+    nowTweets: ["2069503567476539689"]
   }
 ]
 

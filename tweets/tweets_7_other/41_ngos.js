@@ -108,6 +108,17 @@ const examples41 = [
     standaloneTweets: ["1808918641280221609"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-21",
+    claimIds: ["41"],
+    exampleId: "000004110",
+    keywordIds: [],
+    text: "Doctors Without Borders (MSF) says an internal investigation uncovered 59 allegations of sexual exploitation, abuse, and harassment linked to its operations in eastern Chad. The investigation was launched after Sudanese refugee women reported abuse by MSF staff. The findings led to 18 staff members being fired and permanently barred from working for the organization. MSF said some allegations were substantiated and described the misconduct as a “serious breach” of its values. Survivors were offered medical, psychological, and legal support.",
+    standaloneTweets: ["2068678473770528998"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
