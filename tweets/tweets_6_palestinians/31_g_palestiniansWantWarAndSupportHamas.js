@@ -118,6 +118,28 @@ const examples31g = [
     standaloneTweets: ["1542438209015218177"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-01",
+    claimIds: ["31g", "31l", "31n"],
+    exampleId: "31g0010",
+    keywordIds: [],
+    text: "Lebanese Sunni scholar Sheikh Yahya Araji: 'There will be no peace or recognition of Israel. It will remain the enemy of every Muslim until it is destroyed. Al-Sharaa achieved victory by Allah instilling fear in his enemies, and Israel's 'real enemy' has now arrived.'",
+    standaloneTweets: ["2098009263612236051"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-06",
+    claimIds: ["31g", "31l", "31n"],
+    exampleId: "31g0011",
+    keywordIds: [],
+    text: "Jordanian Deputy Parliament Speaker Khamis Atieh: 'The Zionists cannot be trusted, the Jews deceived the prophets. We do not recognize the division of Jerusalem into East and West, we want all of it, all of Palestine. The Zionist entity is a cancer.'",
+    standaloneTweets: ["2085263466802151714"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

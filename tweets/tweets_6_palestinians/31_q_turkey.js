@@ -65,6 +65,18 @@ const examples31q = [
     standaloneTweets: ["2068638132631675068"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-05-30",
+    claimIds: ["31q"],
+    exampleId: "0000031q0006",
+    keywordIds: ["Turkey"],
+    text: "Erdogan: 'May Allah bring ruin and devastation upon Zionist Israel.'",
+    source: false,
+    standaloneTweets: ["1906359260151193998"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

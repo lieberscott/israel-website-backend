@@ -165,19 +165,6 @@ const examples5 = [
   },
   {
     dateAdded: "",
-    date: "1937-04-04",
-    claimIds: ["5", "30y"],
-    exampleId: "000005012",
-    keywordIds: [],
-    text: "Hitler's 'Mein Kampf,' once banned in Palestine, is now reported to be a best seller among the Arabs, who have joined with Nazi Germany in antagonism to the Jews.",
-    source: true,
-    sourceLink: "https://www.nytimes.com/1937/04/04/archives/books-and-authors-forthcoming-books.html?searchResultPosition=2",
-    standaloneTweets: ["2006424979592855979"],
-    themTweets: [],
-    usTweets: []
-  },
-  {
-    dateAdded: "",
     date: "2018-09-03",
     claimIds: ["5", "3"],
     exampleId: "000005013",
@@ -277,7 +264,7 @@ const examples5 = [
   },
   {
     dateAdded: "",
-    date: "2025-06-09",
+    date: "2026-06-09",
     claimIds: ["5"],
     exampleId: "000005021",
     keywordIds: [],
@@ -286,6 +273,72 @@ const examples5 = [
     standaloneTweets: ["2064549919092805927"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-28",
+    claimIds: ["5", "2", "6y", "6z", "18", "20", "21", "22", "54"],
+    exampleId: "000005022",
+    keywordIds: ["Scott Wiener"],
+    text: "Watch this disgrace. This is CA state senator Scott Weiner. Two lessons:  - Our enemies don’t care who you are or what you believe. A Jew is a Jew is a Jew. - You cannot appease these people. The more you try to prove to them that you’re just like them; the more they need to remind you that you’re not, and they do that using this tool called antisemitism. Look at this pathetic walk of shame.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2010614783179977093", "2041904375078252918", "2009132224747282508", "1757560528346456401"],
+    nowTweets: ["2071473394839634331", "2070200698176770406"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-30",
+    claimIds: ["5", "22"],
+    exampleId: "000005023",
+    keywordIds: [],
+    text: "On June 27, 2026, in Thessaloniki, the anarchist group Rouvikonas, supported by two other anarchist collectives, marched through the city center in black shirts with Palestinian flags as a self-proclaimed 'antizionist patrol.' The target was Platia Mavili, where, according to the group's account, 'Israeli capital has parasitically nested.' They expressed solidarity with the Palestinians and declared that they would enforce the fact that 'genocidaires and Zionists' were unwelcome in their cities. The Thessaloniki public prosecutor's office has initiated a preliminary investigation, among other things for the formation of a criminal organization and public incitement to violence and hatred. Almost exactly 95 years earlier, in the night from June 29 to 30, 1931, fascist groups in black shirts attacked the Jewish Campbell Quarter in Thessaloniki. They set houses on fire, looted, and terrorized the residents. It was the climax of an antisemitic campaign that had been ongoing since 1928. Many Jewish families lost their homes. The parallels are unmistakable.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["1790284374581162239", "1983579377389752573"],
+    nowTweets: ["2071978959663714732", "2071985843279913089"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-30",
+    claimIds: ["5", "25"],
+    exampleId: "000005024",
+    keywordIds: [],
+    text: "Arrest after ‘burglary and arson attack' on Jewish home hospitalises newborn: A young family was evacuated from their smoke-filled home in Stamford Hill by Shomrim as their attacker barricaded himself in their burning kitchen.",
+    source: true,
+    sourceLink: "https://www.thejc.com/news/uk/stamford-hill-arson-newborn-hospital-ftt2we7m",
+    standaloneTweets: ["2071989078384382037"],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-29",
+    claimIds: ["5", "2", "6y", "6z", "18", "20", "21", "22", "54"],
+    exampleId: "000005025",
+    keywordIds: [],
+    text: "“As a Jew” and Mamdani’s buddy Brad Lander being attacked by the pro-Palis he loves so much. Because you can never be pure enough.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2009658373231534414", "2009679109689926055", "2009766472592118122", "2009680818130825583", "2009740574538998200", "2009718212557189464", "2009806295403245783", "2009676070724010432", "2009886414075564400", "2009765761837842602", "2009778761168728314", "2009828470793089390"],
+    nowTweets: ["2093903697277297043"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-11",
+    claimIds: ["5", "6y", "6z"],
+    exampleId: "000005026",
+    keywordIds: [],
+    text: "The face of pure hatred. An Irish citizen visiting France, tells two Jewish visitors he's sorry Hitler didn't finish the job. They started videoing him and he threatens to kill them. Identified himself as 'Paddy from Ireland'.",
+    source: false,
+    standaloneTweets: ["2087278503226192191"],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
   }
 ]
 

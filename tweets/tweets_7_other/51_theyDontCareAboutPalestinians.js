@@ -40,6 +40,17 @@ const examples51 = [
     standaloneTweets: ["1969817713095688639"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-11",
+    claimIds: ["51"],
+    exampleId: "000005104",
+    keywordIds: [],
+    text: "Hamas abducted three Palestinian women in Gaza four days ago—two of them mothers of babies. Their families are demanding their release. And yet, Western pro-Palestinian organizations have been completely silent.",
+    standaloneTweets: ["2098527690122784947"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

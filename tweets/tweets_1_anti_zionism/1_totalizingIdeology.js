@@ -71,6 +71,17 @@ const examples1 = [
     standaloneTweets: ["2044790919388369184"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-13",
+    claimIds: ["1", "5"],
+    exampleId: "0000001007",
+    keywordIds: ["New York City"],
+    text: "“White socialists” wearing swastikas and chanting “Free Palestine” in NYC seem very confused.",
+    standaloneTweets: ["2099422719842406656"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -1,7 +1,7 @@
 const claim6 = {
   dateAdded: "",
   claimText: "Antizionism rejects/rewrites Jewish history",
-  claimShortText: "Rejecting Jewish history",
+  claimShortText: "Rewriting Jewish history",
   claimId: "6"
 }
 

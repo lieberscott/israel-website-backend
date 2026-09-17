@@ -305,6 +305,30 @@ const examples12 = [
     standaloneTweets: ["2021572884439703709"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-25",
+    claimIds: ["12", "31e"],
+    exampleId: "000001227",
+    keywordIds: [],
+    text: "Palestinian Islamic Jihad martyr posters. These are children.",
+    source: false,
+    standaloneTweets: ["2092168713306783954"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-16",
+    claimIds: ["12", "31e"],
+    exampleId: "000001228",
+    keywordIds: [],
+    text: "16-year old child solider Hamza Jarad was killed in action in Gaza City on Sept 1, 2025. His family lauds him as a hero along with his AK-47. Jarad is one of ~100 identified and confirmed child soldiers (so far) out of an estimated ~2,000 total killed and many more deployed.",
+    source: false,
+    standaloneTweets: ["2100232660417167504"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

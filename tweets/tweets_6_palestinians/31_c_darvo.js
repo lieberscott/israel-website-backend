@@ -86,6 +86,20 @@ const examples31c = [
     thenVsNowFormat: false,
     themTweets: ["2064544415998492888"],
     usTweets: ["2064527638593450197"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-10",
+    claimIds: ["31c"],
+    exampleId: "0000003107",
+    keywordIds: [],
+    text: "Yoseph Haddad was ATTACKED in the MOST COWARDICE way and during a DEBATE! You have him being grabbed UNPROVOKED, attacked from BEHIND, others trying to STEP IN to fight Yoseph, and some dude claiming victim after it didn't go their way LMAO",
+    deepDive: false,
+    source: false,
+    standaloneTweets: ["2087017973919965602"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
   }
 ]
 

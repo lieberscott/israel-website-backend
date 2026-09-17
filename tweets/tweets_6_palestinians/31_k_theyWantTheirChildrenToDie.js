@@ -120,6 +120,18 @@ const examples31k = [
     source: false,
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-31",
+    claimIds: ["31k"],
+    exampleId: "00031k011",
+    keywordIds: [],
+    text: "The mother of slain Hamas spokesman Abu Obaida, killed by Israel, says she is proud of her son and was prepared to lose her entire family as “martyrs.” “I was prepared to sacrifice all eight of my children and my husband as martyrs,” she said. Comparing her son to the fruit of a tree she had planted, she added: “When you plant a tree and then you see it bear good fruit — wouldn’t you be happy?”",
+    standaloneTweets: ["2099849573011239003"],
+    source: false,
+    themTweets: [],
+    usTweets: []
   }
 ]
 

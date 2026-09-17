@@ -564,6 +564,19 @@ const examples13 = [
     themTweets: ["1865990235609530876"],
     usTweets: ["2026343126164517026"]
   },
+  {
+    dateAdded: "",
+    date: "2026-07-31",
+    claimIds: ["13"],
+    exampleId: "000001343",
+    keywordIds: [],
+    text: "Shifa Hospital doctor who sexually abused hostage Romi Gonen and held dead body of Noa Marciano eliminated by IDF. “This is the man who destroyed my innocence. After four days in Gaza he couldn’t hold himself and followed me into the shower. His death won’t erase it, but justice was done today.” Survivor of Hamas captivity Romi Gonen responding to the elimination of her capture, Shifa Hospital doctor and Hamas terrorist.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2005885699292123254"],
+    nowTweets: ["2083226594785845422", "2083357149304881230"]
+  },
 ]
 
 module.exports = { claim13, examples13 };

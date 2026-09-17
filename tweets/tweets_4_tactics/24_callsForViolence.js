@@ -42,6 +42,18 @@ const examples24 = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-07-16",
+    claimIds: ["24"],
+    exampleId: "000002404",
+    keywordIds: [],
+    text: "A large number of stickers have been put up in Amsterdam with a call for hanging “Zionists.” Campaigns of incitement against Dutch Jews have intensified since October 7th, with frequent calls for violence against Jews being chanted at “pro-Palestine marches” in the Netherlands.",
+    source: false,
+    standaloneTweets: ["2077906129359630684"],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim24, examples24 };

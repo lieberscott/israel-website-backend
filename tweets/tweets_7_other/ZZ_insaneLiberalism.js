@@ -208,6 +208,42 @@ const deepDivesExamples = [
     standaloneTweets: [],
     themTweets: ["2065082385905877495"],
     usTweets: ["2066996804210589915", "2066940494018678918"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-11",
+    claimIds: ["3", "5"],
+    exampleId: "InsaneLiberalism0017",
+    keywordIds: [],
+    text: "NC candidate who is “running to restore human decency” says Trump voters belong in Nazi ovens",
+    standaloneTweets: ["2098547133733540217", "2098787466434257117"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-05",
+    claimIds: ["3", "5"],
+    exampleId: "InsaneLiberalism0018",
+    keywordIds: [],
+    text: "Gays for Gaza activist Cameron Davis Capara & his friend were murdered outside a gay bar in Tucson by an Islamist migrant from Gambia in a targeted attack. The attacker left a note suggesting the attack was motivated by hatred of the LGBTQ community.",
+    source: true,
+    sourceLink: "https://nypost.com/2026/09/05/us-news/pro-palestine-photographer-friend-shot-dead-by-muslim-man-in-anti-lgbtq-hate-crime/?utm_medium=social&utm_source=twitter&utm_campaign=nypost",
+    standaloneTweets: ["2096262755267248177"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-24",
+    claimIds: ["3", "5"],
+    exampleId: "InsaneLiberalism0019",
+    keywordIds: ["Narrative busting", "Narrative busters", "Bernie Sanders"],
+    text: "Bernie for the past 35 years: We are rapidly becoming an oligarchy! I'm working on a new Bernie video today. It will be just as funny. He's been working off a script for the past 40 years.",
+    source: false,
+    standaloneTweets: ["2091849093236625749"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

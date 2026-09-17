@@ -54,6 +54,18 @@ const examples31h = [
     standaloneTweets: ["2045440401557836259"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-09",
+    claimIds: ["31h"],
+    exampleId: "0000031h005",
+    keywordIds: [],
+    text: "The Houthis are recruiting and sending child soldiers to the frontline, with armed minors seen carrying rifles and chanting, “Death to America, Death to Israel.”",
+    source: false,
+    standaloneTweets: ["2097766687676170675"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

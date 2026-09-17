@@ -174,6 +174,54 @@ const examples31o = [
     standaloneTweets: ["2059534496387506243"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-11",
+    claimIds: ["31o"],
+    exampleId: "0000031o0014",
+    keywordIds: [],
+    text: "Daily Muslim prayer in Dearborn, Michigan: “Oh Allah, kill every Jew, Christian and American”",
+    source: false,
+    standaloneTweets: ["2098872940464849261"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-31",
+    claimIds: ["31o"],
+    exampleId: "0000031o0015",
+    keywordIds: [],
+    text: "UK Islamic scholar Haitham Al-Haddad: 'Islam aims to become a superpower. When Islam was a superpower there were no atrocities like we see today. Our nation cannot remain passive, it needs to become active.'",
+    source: false,
+    standaloneTweets: ["2094356289325318510"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-31",
+    claimIds: ["31o", "31g"],
+    exampleId: "0000031o0016",
+    keywordIds: [],
+    text: "Canadian Islamic scholar Younus Kathrada: 'Palestine is Muslim land. No infidel can rule it. It cannot be governed by democracy or infidel laws, only Sharia. It is the Muslims' duty to expel the Jews from Palestine.'",
+    source: false,
+    standaloneTweets: ["2087161607109394872"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-26",
+    claimIds: ["31o", "31p"],
+    exampleId: "0000031o0017",
+    keywordIds: [],
+    text: "Imam Hamaad El-Ameen, during a Friday sermon in Chattanooga, Tennessee: 'The Fourth of July has nothing to do with us. It is not a declaration of independence for us. Our allegiance is to Allah.'",
+    source: false,
+    standaloneTweets: ["2081452444635000923"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

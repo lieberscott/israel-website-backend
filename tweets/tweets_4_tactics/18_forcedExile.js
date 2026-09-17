@@ -139,6 +139,58 @@ const examples18 = [
     source: true,
     sourceLink: "https://nypost.com/2026/06/22/us-news/nyc-coffee-shop-bans-pro-israel-politician-in-nasty-post-despite-promise-to-treat-all-customers-with-unconditional-dignity/?utm_medium=social&utm_campaign=nypost&utm_source=twitter",
     standaloneTweets: ["2069091095628202294"],
+    thenTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-07",
+    claimIds: ["18", "5"],
+    exampleId: "000001812",
+    keywordIds: [],
+    text: "",
+    source: false,
+    text: "Shalev Biton lost his leg in a Hamas attack prior to the October 7 massacre. Hamas is a designated terror group across the world. Adidas shamefully apologized for including him in an advertisement with other disabled athletes.",
+    standaloneTweets: ["2096960812850016438", "2095863271786004580"],
+    thenTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-10-30",
+    claimIds: ["18", "5"],
+    exampleId: "000001813",
+    keywordIds: [],
+    text: "",
+    source: false,
+    text: "On Saturday, a Jewish man and his five-old-son were directed across the street to Jerusalem Coffee House in Oakland while looking for a restroom. After purchasing drinks and sitting down, the cafe owner confronted the man about the Star of David on his hat, stating it was violent and demanded to know if he was a Zionist. When the man asked what that had to do with anything, the owner insisted he leave. Later, when asking if the establishment did not allow Jews, the man was told they 'might not.'",
+    standaloneTweets: ["1851668935533564238"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-15",
+    claimIds: ["18", "5", "3"],
+    exampleId: "000001814",
+    keywordIds: [],
+    text: "",
+    source: false,
+    text: "Old Town Alexandria, Virginia — Karimi Brows Owner Fatana Karimi kicked out a client because she was Israeli American, then had the audacity to make a Tik Tok about it defending her bigoted actions. On their website, they say 'We serve men, women, LGBTQ+, and anyone who feels like eyebrows is the missing link in being the person they always envisioned themselves to be.'",
+    standaloneTweets: ["2088663089394663491", "2088733688582291490"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-01",
+    claimIds: ["18", "5"],
+    exampleId: "000001815",
+    keywordIds: [],
+    text: "",
+    source: false,
+    text: "What can only be described as a major hate crime occurred overnight at a popular Montreal kosher restaurant which has been burnt the ground. I am on the scene.",
+    standaloneTweets: ["2083560666862915811", "2083612967401124195"],
     themTweets: [],
     usTweets: []
   }

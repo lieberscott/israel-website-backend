@@ -297,6 +297,18 @@ const examples25 = [
     usTweets: [],
     additionalNotes: []
   },
+  {
+    dateAdded: "",
+    date: "2026-08-15",
+    claimIds: ["25", "22"],
+    exampleId: "0000025025",
+    keywordIds: [],
+    text: "A man entered Shabbat services at Central Synagogue, punched a 63-year-old woman in the face, and then attacked a security guard.",
+    standaloneTweets: ["2088653414842417450"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
+  },
 ]
 
 module.exports = { claim25, examples25 };
