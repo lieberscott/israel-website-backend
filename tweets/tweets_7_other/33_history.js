@@ -27,6 +27,17 @@ const examples33 = [
     standaloneTweets: ["2047032130153386298", "2047172947291378099"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "1945-01-01",
+    claimIds: ["33", "6", "31a", "31c", "52x"],
+    exampleId: "00003302",
+    keywordIds: ["March of Time", "documentary"],
+    text: "In this short clip from the same film, the narrator talks of massive Arab migration into Palestine as a result of the financial opportunities created by Jewish presence, as well as mentioning how large swaths of land were legally purchased by Jews from wealthy Arab landowners.",
+    standaloneTweets: ["2047032130153386298", "2047172947291378099"],
+    themTweets: ["2037135474410565772"],
+    usTweets: ["2037298760674382124", "2037298847345524875"]
   }
 ]
 

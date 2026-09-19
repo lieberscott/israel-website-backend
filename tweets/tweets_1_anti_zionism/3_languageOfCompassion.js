@@ -33,6 +33,20 @@ const examples3 = [
     thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-07-17",
+    claimIds: ["3"],
+    exampleId: "000000303",
+    keywordIds: [],
+    text: "Motaz Azaiza admits he filmed Israeli hostages being beaten in the streets of Gaza on October 7, and deliberately never published it, to protect the identities of the people beating them. Azaiza is an influential 'photojournalist' from Ghazza. TIME named him to the TIME 100. He was nominated for the 2024 Nobel Peace Prize. CNN, the Guardian and Sky all interviewed him. Ms. Rachel Griffin-Accurso, who has 16 million subscribers, made a video for preschoolers introducing 'my friend Motaz.' She deleted it later.",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2101070408556421184"],
+    nowTweets: ["2100991727595049171"]
   }
 ]
 

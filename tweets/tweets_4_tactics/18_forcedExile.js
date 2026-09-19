@@ -193,6 +193,19 @@ const examples18 = [
     standaloneTweets: ["2083560666862915811", "2083612967401124195"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-08-01",
+    claimIds: ["18", "5"],
+    exampleId: "000001815",
+    keywordIds: [],
+    text: "",
+    source: false,
+    text: "What can only be described as a major hate crime occurred overnight at a popular Montreal kosher restaurant which has been burnt the ground. I am on the scene.",
+    standaloneTweets: ["2083560666862915811", "2083612967401124195"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

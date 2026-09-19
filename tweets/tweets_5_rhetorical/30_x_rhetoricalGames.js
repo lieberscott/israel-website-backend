@@ -267,6 +267,19 @@ const examples30x = [
     thenTweets: [],
     nowTweets: [],
     standaloneTweets: ["2024981569472274515"],
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-22",
+    claimIds: ["30x"],
+    exampleId: "00000030x17",
+    keywordIds: [],
+    text: "Children’s YouTuber and pro Palestinian activist Ms. Rachel posted a video in which she appeared visibly emotional after acknowledging that she had ‘mistakenly’ liked an antisemitic comment. In the video, she said the that she liked a comment reading “Free America from the Jews.” After the video was posted, Ms. Rachel doubled down by responding “oooooohhhh” beneath the clip after PNN, the Palestinian News Network, suggested the comment may have been written by Jews themselves.",
+    source: false,
+    thenVsNowFormat: true,
+    thenTweets: ["2014131821580030106"],
+    nowTweets: ["2014279649069519310"],
+    standaloneTweets: [],
   }
 ]
 

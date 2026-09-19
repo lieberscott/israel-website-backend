@@ -44,8 +44,8 @@ const examples6y = [
   },
   {
     dateAdded: "",
-    date: "2023-11-10",
-    claimIds: ["5", "6y", "6z", "18", "21", "22"],
+    date: "2023-11-01",
+    claimIds: ["5", "6y", "6z", "18", "21", "22", "56"],
     exampleId: "6y05",
     keywordIds: [],
     text: "Harvard pro-Palesinian students, including Harvard divinity student Elom Tettey-Tamaklo, surround, block the pathway, and scream in the face of a Jewish student.",
@@ -179,6 +179,18 @@ const examples6y = [
     text: "In Chicago, Manny's Deli, a Jewish-owned business, was broken into last night, leaving behind a smashed window. ",
     source: false,
     standaloneTweets: ["2059632018544046589"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-27",
+    claimIds: ["6y", "5"],
+    exampleId: "6y15",
+    keywordIds: [],
+    text: "At Kraków Airport in Poland, a Polish airport employee is caught harassing and assaulting a visibly Jewish man, aggressively raising his hands and telling him, “Go back to Israel. Not here. This is my country.”",
+    source: false,
+    standaloneTweets: ["2016211892440608796"],
     themTweets: [],
     usTweets: []
   },

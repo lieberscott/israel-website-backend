@@ -53,6 +53,18 @@ const examples24 = [
     standaloneTweets: ["2077906129359630684"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-17",
+    claimIds: ["24"],
+    exampleId: "000002405",
+    keywordIds: [],
+    text: "Florida - Duncan MacDonald shows off a large arsonel of weaponry, along with bullet proof vests, as he proclaims he’s going to “hunt Jews”. Macdonald appears to be a chef/work in the catering business in/around Jacksonville.",
+    source: false,
+    standaloneTweets: ["2100740451271610500"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
