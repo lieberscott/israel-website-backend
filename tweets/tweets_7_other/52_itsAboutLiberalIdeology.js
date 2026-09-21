@@ -9,22 +9,11 @@ const examples52 = [
   {
     dateAdded: "",
     date: "2024-04-25",
-    claimIds: ["52"],
+    claimIds: ["52", "55x"],
     exampleId: "00005201",
     keywordIds: [],
     text: "UCLA pro-Palestine encampment doesn't like white people.",
     standaloneTweets: ["1783676944481140854"],
-    themTweets: [],
-    usTweets: []
-  },
-  {
-    dateAdded: "",
-    date: "2025-12-01",
-    claimIds: ["52"],
-    exampleId: "00005202",
-    keywordIds: [],
-    text: "Pro-Palestinian says that because Jews are an 'enriched class' compared to Palestinians that antisemitism isn’t really a problem for him.",
-    standaloneTweets: ["1995464924496052442"],
     themTweets: [],
     usTweets: []
   },

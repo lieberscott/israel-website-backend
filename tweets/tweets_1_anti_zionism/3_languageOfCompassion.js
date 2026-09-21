@@ -46,7 +46,7 @@ const examples3 = [
     standaloneTweets: [],
     thenVsNowFormat: true,
     thenTweets: ["2101070408556421184"],
-    nowTweets: ["2100991727595049171"]
+    nowTweets: ["2100991727595049171", "2101414389094011220"]
   }
 ]
 

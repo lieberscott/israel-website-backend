@@ -113,7 +113,21 @@ const examples31c = [
     standaloneTweets: [],
     thenVsNowFormat: true,
     thenTweets: ["2101098330369700327"],
-    nowTweets: ["2100991727595049171"]
+    nowTweets: ["2100991727595049171", "2101414389094011220"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-19",
+    claimIds: ["31c", "13", "31a"],
+    exampleId: "00000031c09",
+    keywordIds: ["Zohran Mamdani"],
+    text: "Just the mayor of New York meeting multiple times with a man (Motaz Azaiza) who admitted being in Hamas groups to coordinate propaganda, and who filmed Hamas terrorists kidnapping and torturing Israeli civilians (but didn’t take part because he didn’t want to be killed).",
+    deepDive: false,
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2101664242139107328"],
+    nowTweets: ["2100991727595049171", "2101414389094011220"]
   }
 ]
 

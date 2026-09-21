@@ -19,6 +19,20 @@ const examples52x = [
     thenVsNowFormat: false,
     themTweets: ["2047573830915285168"],
     usTweets: ["1309068936512765953", "2047687754432074187", "2047734888527204376"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-20",
+    claimIds: ["52x", "17", "31c", "32"],
+    exampleId: "0000052x002",
+    keywordIds: [],
+    text: "Just checked media coverage of the damning revelations from the Motaz Azaiza interview: CNN site: 0 mentions NBC News: 0 mentions  Reuters: 0 mentions AP: 0 mentions NYT: 0 mentions  Washington Post: 0 mentions. All of these orgs have repeatedly promoted him in the past.",
+    deepDive: false,
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["1760088208828756104", "1749841680822411307", "1985283034971558338"],
+    nowTweets: ["2101665216731746490", "2100991727595049171", "2101414389094011220"]
   }
 ]
 
