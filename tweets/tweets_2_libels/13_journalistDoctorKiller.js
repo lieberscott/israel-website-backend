@@ -577,6 +577,19 @@ const examples13 = [
     thenTweets: ["2005885699292123254"],
     nowTweets: ["2083226594785845422", "2083357149304881230"]
   },
+  {
+    dateAdded: "",
+    date: "2026-03-26",
+    claimIds: ["13", "30o"],
+    exampleId: "000001344",
+    keywordIds: ["Britain", "United Kingdom"],
+    text: "UK: Dr. Rahmeh Aladwan, a 31-year-old NHS trainee surgeon, was arrested on 26 March in South Gloucestershire for breaching bail conditions. She faces 4 charges of supporting Hamas, each carrying up to 14 years, and 2 other charges of inciting racial hatred, each carrying up to 7 years.",
+    source: false,
+    standaloneTweets: ["2037290189643513929"],
+    thenVsNowFormat: true,
+    thenTweets: [],
+    nowTweets: []
+  },
 ]
 
 module.exports = { claim13, examples13 };

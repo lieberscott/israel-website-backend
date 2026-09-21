@@ -128,6 +128,20 @@ const examples31c = [
     thenVsNowFormat: true,
     thenTweets: ["2101664242139107328"],
     nowTweets: ["2100991727595049171", "2101414389094011220"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-23",
+    claimIds: ["31c", "17"],
+    exampleId: "00000031c10",
+    keywordIds: ["Britain", "UK", "United Kingdom", "London", "Golders Green"],
+    text: "“British Muslims are scared,” says Sadiq Khan - after FOUR Jewish communities had their voluntary ambulance services torched.",
+    deepDive: false,
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2036012509270880767"],
+    nowTweets: ["2036016151998709999", "2036133501687242996"]
   }
 ]
 

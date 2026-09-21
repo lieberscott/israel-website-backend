@@ -77,6 +77,18 @@ const examples31q = [
     standaloneTweets: ["1906359260151193998"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-26",
+    claimIds: ["31q"],
+    exampleId: "0000031q0007",
+    keywordIds: ["Turkey"],
+    text: "Süleyman Soylu, Chairman of Turkey’s Parliament Internal Affairs Committee: 'If Israel tries to treat us like it treats other Muslims, we will give 300,000 or 400,000 martyrs, but Israel will be gone, with Allah’s permission!'",
+    source: false,
+    standaloneTweets: ["2037093276256248289"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

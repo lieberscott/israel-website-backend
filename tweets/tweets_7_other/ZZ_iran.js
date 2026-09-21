@@ -39,6 +39,28 @@ const ZZiranExamples = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-03-29",
+    claimIds: ["Iran"],
+    exampleId: "Iran0004",
+    keywordIds: [],
+    text: "IRGC trains them young. Sick society.",
+    standaloneTweets: ["2038201018098315525"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-26",
+    claimIds: ["Iran"],
+    exampleId: "Iran0005",
+    keywordIds: [],
+    text: "Iran reportedly lowers minimum age for war roles to 12. Children are now being drawn into patrols, checkpoints, and military logistics.",
+    standaloneTweets: ["2037249781374824781", "2037161514067476631"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { ZZiran, ZZiranExamples };

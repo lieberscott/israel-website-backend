@@ -194,6 +194,18 @@ const examples6y = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-03-23",
+    claimIds: ["6y", "5", "18"],
+    exampleId: "6y16",
+    keywordIds: ["Golders Green"],
+    text: "An antisemitic attack last night in London: Four Ambulances of United Hatzalah were set on fire by masked men. A Muslim organization called 'Atshab Alimin' claimed responsibility for the arson and published a video about the event. The organization has previously claimed responsibility for other incidents in Europe targeting the Jewish community.",
+    source: false,
+    standaloneTweets: ["2036016151998709999"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim6y, examples6y };

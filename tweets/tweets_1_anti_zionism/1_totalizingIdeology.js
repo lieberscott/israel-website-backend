@@ -82,6 +82,17 @@ const examples1 = [
     standaloneTweets: ["2099422719842406656"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-04",
+    claimIds: ["1", "5"],
+    exampleId: "0000001008",
+    keywordIds: [],
+    text: "Far-Left or Far-Right? Doesn’t matter. Same conspiracy theories and lies. Same hate, just in different packaging.",
+    standaloneTweets: ["2040571117937516712"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

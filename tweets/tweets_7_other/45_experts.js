@@ -53,6 +53,18 @@ const examples45 = [
     standaloneTweets: ["2067026918206210268"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-04-02",
+    claimIds: ["45"],
+    exampleId: "0000045004",
+    keywordIds: [],
+    text: "Former CIA Officer John Kiriakou:  “If Iranians sinks an aircraft carrier, it’s world War III” “There is no defense against hypersonic missiles, and the Iranians have them.”",
+    source: false,
+    standaloneTweets: ["2039771769834213580", "2039783160720875824"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

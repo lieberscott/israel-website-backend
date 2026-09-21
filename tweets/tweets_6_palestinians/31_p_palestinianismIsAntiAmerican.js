@@ -17,6 +17,18 @@ const examples31p = [
     standaloneTweets: ["1850568117090500850"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-26",
+    claimIds: ["31p", "28", "48"],
+    exampleId: "0000031p0002",
+    keywordIds: [],
+    text: "In Philadelphia: 'For every US soldier who comes back in a casket, we cheer!'",
+    source: false,
+    standaloneTweets: ["2037195060639342630"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

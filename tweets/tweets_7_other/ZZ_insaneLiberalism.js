@@ -244,6 +244,32 @@ const deepDivesExamples = [
     standaloneTweets: ["2091849093236625749"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-21",
+    claimIds: ["55"],
+    exampleId: "InsaneLiberalism0020",
+    keywordIds: ["Colin Kaepernick"],
+    text: "Breaking: Man who compared NFL to “slavery” is desperate to return to… checks notes…”slavery.”",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["1454562946017755136"],
+    nowTweets: ["2102018856029983062"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-20",
+    claimIds: ["55"],
+    exampleId: "InsaneLiberalism0021",
+    keywordIds: ["Colin Kaepernick"],
+    text: "619 Project founder Nikole Hannah-Jones says she regrets aspects of the decision to send her daughter to predominantly Black, high-poverty public schools in Brooklyn, acknowledging she put broader ideals about educational inequality ahead of her daughter's individual needs. Her now-16-year-old daughter told her, 'Sometimes I wish instead of always thinking about other kids, you would have thought about me. I never really got the education I wanted.' Hannah-Jones says she ultimately apologized, telling her daughter, 'I feel like you got cheated.'",
+    source: false,
+    standaloneTweets: ["2101792468832264312"],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
   }
 ]
 

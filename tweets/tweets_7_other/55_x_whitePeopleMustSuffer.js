@@ -27,6 +27,17 @@ const examples55x = [
     standaloneTweets: ["2011476449295749616"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-12",
+    claimIds: ["55x"],
+    exampleId: "000055x03",
+    keywordIds: [""],
+    text: "Carnegie Mellon professor Dr. Uju Anya is currently on leave after a racist rant on X: “Die First White Man”",
+    standaloneTweets: ["2098808431880646819"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -38,6 +38,17 @@ const examples48a = [
     standaloneTweets: ["1730184446303687000"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-30",
+    claimIds: ["48a"],
+    exampleId: "00048a04",
+    keywordIds: [],
+    text: "The Iranian Revolutionary Guards are connecting to messages from the Democratic Party protests against Trump over the weekend and wrote on one of their missiles: 'No Kings.'",
+    standaloneTweets: ["2038624404297441552"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

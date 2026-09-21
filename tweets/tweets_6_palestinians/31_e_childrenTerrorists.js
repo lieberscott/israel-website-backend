@@ -507,6 +507,19 @@ const examples31e = [
     usTweets: [],
     themTweets: [],
   },
+  {
+    dateAdded: "",
+    date: "2023-08-21",
+    claimIds: ["31e", "31g"],
+    exampleId: "31e35",
+    keywordIds: ["Askar – UNRWA: Cradle of Killers by David Bedein’s Center for Near East Policy Research / CFNEPR"],
+    text: "Palestinian children at an UNRWA school openly admit: “We are taught to kill Jews and sacrifice our souls for Allah.”",
+    source: true,
+    sourceLink: "https://vimeo.com/856467890",
+    standaloneTweets: ["2040061134774935643"],
+    usTweets: [],
+    themTweets: [],
+  },
   
 ]
 
