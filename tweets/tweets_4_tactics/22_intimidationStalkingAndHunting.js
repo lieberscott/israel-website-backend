@@ -149,6 +149,30 @@ const examples22 = [
     standaloneTweets: ["2062121145755742662", "2062121577706053857"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-21",
+    claimIds: ["5", "56"],
+    exampleId: "000005022",
+    keywordIds: [],
+    text: "I'm a journalist. And I happen to be Jewish. On Yom Kippur I went to a synagogue service in Toronto and was met by protesters trying to taunt and intimidate me from entering the building.",
+    source: false,
+    standaloneTweets: ["2102202761471291570"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-09",
+    claimIds: ["5", "27", "56"],
+    exampleId: "000005023",
+    keywordIds: [],
+    text: "WE DON'T WANT TWO STATES WE WANT ALL OF IT'. These are the chants Hamas of New York City yelled outside a Jewish elementary School in Queens last night.",
+    source: false,
+    standaloneTweets: ["2009637866213605382"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

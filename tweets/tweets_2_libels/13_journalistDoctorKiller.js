@@ -590,6 +590,19 @@ const examples13 = [
     thenTweets: [],
     nowTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-03-26",
+    claimIds: ["13", "30o"],
+    exampleId: "000001345",
+    keywordIds: ["journalist"],
+    text: "The Palestinian Islamic Jihad military wing has stated that journalist Mahmoud Essa was a Commander within its Gaza City Brigade's Information Unit, aka the PIJ's intelligence service. Source: The Saraya Al-Quds official military media channel.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    themTweets: ["1937929925664903347"],
+    usTweets: ["2075215603468501130"]
+  },
 ]
 
 module.exports = { claim13, examples13 };

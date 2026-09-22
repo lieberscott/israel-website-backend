@@ -68,9 +68,64 @@ const ZZiranExamples = [
     exampleId: "Iran0006",
     keywordIds: [],
     text: "The regime's Foreign Minister claimed only 3117 protesters were killed. Coincidentally, the regime also reported that 3117 people were killed in the 12-Day War, 3117 people were Covid positive, and 3117 people died of alcohol poisoning.",
-    standaloneTweets: [],
+    standaloneTweets: ["2025271468293063043"],
     themTweets: [],
-    usTweets: ["2025271468293063043"]
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-10",
+    claimIds: ["Iran"],
+    exampleId: "Iran0007",
+    keywordIds: [],
+    text: "The Islamic regime in Iran murdered his daughter and raped his wife. The Iranian man attempted suicide out of grief.",
+    standaloneTweets: ["2021243038165528628"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-09",
+    claimIds: ["Iran"],
+    exampleId: "Iran0008",
+    keywordIds: ["IRGC", "Basij"],
+    text: "The protests in Iran: regime security forces shoot at close range at two protesters in the city of Mashhad on January 9, 2026",
+    standaloneTweets: ["2018994379273453966"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-08",
+    claimIds: ["Iran"],
+    exampleId: "Iran0009",
+    keywordIds: ["IRGC", "Basij"],
+    text: "Video from protests in Iran on January 8-9 in the city of Ardabil in northwest Iran, showing a deliberate running over of protesters by an armored vehicle of the Iranian security forces. According to Iranian opposition sources, at least one woman was killed, and 3 others were injured in this incident.",
+    standaloneTweets: ["2019023502758596876"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-23",
+    claimIds: ["Iran"],
+    exampleId: "Iran0010",
+    keywordIds: ["IRGC"],
+    text: "Another live testimony to the cruelty in suppressing the current wave of protests in Iran: Iranian Basij forces fired iron pellets at 12-year-old Taher Malkeshaei in the city of Kermanshah in the Iranian Kurdistan region. The metal pellets hit his face, eyes, and hands.",
+    standaloneTweets: ["2014749753423155518"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-23",
+    claimIds: ["Iran"],
+    exampleId: "Iran0011",
+    keywordIds: [],
+    text: "Iran: Footage from 8.1 showing a Basij man dressed in civilian clothes holding a machete and an Iranian security forces man with a long weapon abusing a helpless protester, beating her, and apparently arresting her in southern Tehran",
+    standaloneTweets: ["2014711462363636061"],
+    themTweets: [],
+    usTweets: []
   },
 ]
 

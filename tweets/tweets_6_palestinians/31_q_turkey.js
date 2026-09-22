@@ -83,10 +83,22 @@ const examples31q = [
     date: "2026-03-26",
     claimIds: ["31q"],
     exampleId: "0000031q0007",
-    keywordIds: ["Turkey"],
+    keywordIds: [],
     text: "Süleyman Soylu, Chairman of Turkey’s Parliament Internal Affairs Committee: 'If Israel tries to treat us like it treats other Muslims, we will give 300,000 or 400,000 martyrs, but Israel will be gone, with Allah’s permission!'",
     source: false,
     standaloneTweets: ["2037093276256248289"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-25",
+    claimIds: ["31q"],
+    exampleId: "0000031q0008",
+    keywordIds: ["Turkey"],
+    text: "Watch as a Turkish (NATO member) politician fantasizes about conquering Jerusalem, after the 'conquest of Damascus' was completed.  This video is of  Devlet Bahçeli, the leader of the Turkish Nationalist Movement Party, addressing President Erdogan and urging him to become the 5th 'great Muslim leader' who conquered Jerusalem because 'according to history, whoever conquered Damascus also conquered Jerusalem'",
+    source: false,
+    standaloneTweets: ["2015461476249506086"],
     themTweets: [],
     usTweets: []
   }

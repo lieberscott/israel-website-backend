@@ -18,6 +18,18 @@ const examples27 = [
     usTweets: [],
     themTweets: [],
   },
+  {
+    dateAdded: "",
+    date: "2026-02-09",
+    claimIds: ["27"],
+    exampleId: "27002",
+    keywordIds: [],
+    text: "Disgraced former doctor Rahmeh Aladwan says that you are not truly anti-Zionist unless you support the violent removal of every single Jew from Israel in order to create a 100% Arab ethnostate.",
+    source: false,
+    standaloneTweets: ["2020914730873893290"],
+    usTweets: [],
+    themTweets: [],
+  },
 ]
 
 module.exports = { claim27, examples27 };

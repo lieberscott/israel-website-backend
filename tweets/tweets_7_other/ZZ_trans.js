@@ -98,6 +98,28 @@ const ZZtransExamples = [
     standaloneTweets: ["1762177702440690056"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-21",
+    claimIds: ["Trans001"],
+    exampleId: "Trans0009",
+    keywordIds: [],
+    text: "Meet “Kylie Palm,” another man who pretended to be pregnant and then faked a stillbirth. He even tried to raise money for a doll to “help him grieve” for his imaginary baby. Mr. Palm also joined a parental grief/stillbirth group, and he, too got women who had experienced the loss of an actual child kicked out of their own support group.",
+    standaloneTweets: ["2013959775885643793"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2024-12-18",
+    claimIds: ["Trans001"],
+    exampleId: "Trans0010",
+    keywordIds: [],
+    text: "This is “Gabrielle Darone,” the trans-identifying man who joined a support group for grieving mothers in order to carry out a simulated pregnancy and stillbirth. The women who objected to his presence, and to his requests to breastfeed someone else’s child, were banned.",
+    standaloneTweets: ["1869509198465372268"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

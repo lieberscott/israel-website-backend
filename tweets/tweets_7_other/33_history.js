@@ -32,7 +32,7 @@ const examples33 = [
     dateAdded: "",
     date: "1945-01-01",
     claimIds: ["33", "6", "31a", "31c", "52x"],
-    exampleId: "00003302",
+    exampleId: "00003303",
     keywordIds: ["March of Time", "documentary"],
     text: "In this short clip from the same film, the narrator talks of massive Arab migration into Palestine as a result of the financial opportunities created by Jewish presence, as well as mentioning how large swaths of land were legally purchased by Jews from wealthy Arab landowners.",
     standaloneTweets: [],
@@ -43,10 +43,21 @@ const examples33 = [
     dateAdded: "",
     date: "807-06-01",
     claimIds: ["33"],
-    exampleId: "00003303",
+    exampleId: "00003304",
     keywordIds: [],
     text: "The Nazis did not invent the yellow badge. In 807, Harun al-Rashid ordered Jews in the Abbasid realm to wear yellow so a Muslim could pick them out of a crowd. Christians got blue. That was ghiyār: a mark of inferiority so that the dhimmi rank was visible. Caliph al-Mutawakkil put it in a full edict. Two yellow patches, chest and back. No horse. Donkey or mule. Synagogues torn down or left as open ground. Graves leveled so they would not look Muslim. A Jew had to be readable at a glance, unarmed, on a lesser animal. Latin Christendom later wrote its own badge into canon law. The Third Reich industrialized a mark that empires had already used. Baghdad was the first to mark Jews in yellow.",
     standaloneTweets: ["2101702930361635117"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "1948-05-28",
+    claimIds: ["33"],
+    exampleId: "00003305",
+    keywordIds: [],
+    text: "In 1948, the Arab Legion intentionally starved/bombarded the Jews of Jerusalem’s Old City until all were killed or expelled. Watch in real time as British-officer-led Jordanian Arab Legion troops ethnically cleansed the ancient Jewish community with photos/diary entries from the man who documented it - John Phillips.",
+    standaloneTweets: ["2014079014999101723"],
     themTweets: [],
     usTweets: []
   }

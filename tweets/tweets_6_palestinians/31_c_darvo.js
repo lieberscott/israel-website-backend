@@ -156,6 +156,20 @@ const examples31c = [
     thenVsNowFormat: true,
     thenTweets: ["2021612189325340896"],
     nowTweets: ["2021423403505418394"]
+  },
+  {
+    dateAdded: "",
+    date: "2023-10-17",
+    claimIds: ["31c", "3", "51"],
+    exampleId: "00000031c12",
+    keywordIds: ["Al-Ahli", "Jeremy Corbyn"],
+    text: "10 days after Jeremy’s “friends” massacred and raped through Southern Israel, he posted this blood libel. A lie that reverberated around the world and endangered Jews. The “air strike” was an errant Islamic Jihad missile that hit the hospital's car park. Jeremy’s tweet is still up.",
+    deepDive: false,
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2016119299182600476"],
+    nowTweets: ["2016098279587524972"]
   }
 ]
 

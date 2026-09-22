@@ -38,6 +38,17 @@ const examples55x = [
     standaloneTweets: ["2098808431880646819"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-09",
+    claimIds: ["55x", "54"],
+    exampleId: "000055x04",
+    keywordIds: [""],
+    text: "Jewish Voice for Peace (JVP) activist Sim Kern minimizes rape accusations against Graham Platner because he just 'r*ped one white American woman.'",
+    standaloneTweets: ["2075245913002398083"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

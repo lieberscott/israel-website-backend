@@ -55,6 +55,18 @@ const examples31r = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "1939-01-01",
+    claimIds: ["31r"],
+    exampleId: "0000031r0005",
+    keywordIds: [],
+    text: "Grand Mufti al-Husseini, then the Arab leader of Jerusalem, recruited 30,000 Muslims to serve in the Nazi army, including the infamous Handschar SS unit that committed mass murder atrocities of unarmed Jews, Serbs and Roma - including women and children - through knifing, heart extraction, and burning people alive.",
+    source: false,
+    standaloneTweets: ["2016546756591247392"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim31q, examples31q };

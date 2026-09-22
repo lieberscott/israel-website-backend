@@ -339,6 +339,33 @@ const examples5 = [
     thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-06",
+    claimIds: ["5", "6y", "6z", "21", "56"],
+    exampleId: "000005027",
+    keywordIds: ["Spain"],
+    text: "Barcelona Horror: Mob Chases French Jews Through City Streets",
+    source: true,
+    sourceLink: "https://pjmedia.com/aaron-hanscom/2026/07/06/mob-chases-french-jews-in-barcelona-n4954721",
+    standaloneTweets: ["2074331741674696763"],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-06",
+    claimIds: ["5", "6y", "6z", "21", "30w", "56"],
+    exampleId: "000005028",
+    keywordIds: ["Spain"],
+    text: "SPAIN: Spotted at the San Fermin Festival. “Destroy Israel”",
+    source: false,
+    standaloneTweets: ["2074157895483007101"],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
   }
 ]
 

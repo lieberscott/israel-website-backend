@@ -283,6 +283,59 @@ const deepDivesExamples = [
     thenVsNowFormat: false,
     themTweets: ["2030738690163531891", "2030738698828915108", "2030738759981936821"],
     usTweets: ["2030809778642129145", "2031012541019664835"]
+  },
+  {
+    dateAdded: "",
+    date: "2020-03-01",
+    claimIds: ["55"],
+    exampleId: "InsaneLiberalism0023",
+    keywordIds: [],
+    text: "I think this is what Gad Saad means by suicidal empathy. In 1996, Travis Lewis broke into the Snowden family home in Arkansas during a burglary and murdered 75-year-old Sally Snowden McKay and her cousin. He was convicted and imprisoned. Years later, Sally’s daughter Martha McKay chose radical forgiveness. She visited Lewis in prison, advocated for his parole, and after his 2018 release, hired him to work at the same historic house she had converted into a bed and breakfast. In March 2020, after being confronted over suspected theft, Lewis attacked and killed Martha inside that very home. He fled but drowned while trying to escape police.",
+    source: false,
+    standaloneTweets: ["2027008229578879056"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2025-10-20",
+    claimIds: ["55"],
+    exampleId: "InsaneLiberalism0024",
+    keywordIds: [],
+    text: "Male students show more tolerance for their political enemies than females show for their own allies",
+    source: true,
+    sourceLink: "https://expression.fire.org/p/male-students-show-more-tolerance",
+    standaloneTweets: ["2016171570352345355"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-07",
+    claimIds: ["55"],
+    exampleId: "InsaneLiberalism0025",
+    keywordIds: [],
+    text: "I've been mugged 3 times in London, but it's rubbish to say it's not safe. Social media and MAGA types are spreading misinformation.",
+    source: false,
+    standaloneTweets: ["2009955737393607118"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-13",
+    claimIds: ["55"],
+    exampleId: "InsaneLiberalism0026",
+    keywordIds: [],
+    text: "An American transsexual man who applied for asylum in the Netherlands due to “oppression in Trump’s America” has been placed in the infamous asylum center Ter Apel famous for Islamist extremists and knife violence. He says he regrets his decision…",
+    source: false,
+    standaloneTweets: ["2077023859299979439"],
+    thenVsNowFormat: false,
+    themTweets: [],
+    usTweets: []
   }
 ]
 

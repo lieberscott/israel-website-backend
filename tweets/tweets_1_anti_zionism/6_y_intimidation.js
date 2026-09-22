@@ -218,6 +218,18 @@ const examples6y = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-02-10",
+    claimIds: ["6y", "5", "6z", "56"],
+    exampleId: "6y18",
+    keywordIds: ["AZAB", "swaskita"],
+    text: "Shaare Tefila congregation in Washington, D.C. suburbs defaced with antisemitic graffiti.",
+    source: false,
+    standaloneTweets: ["2021389402354618597"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim6y, examples6y };

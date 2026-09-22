@@ -82,6 +82,20 @@ const examples46 = [
     thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-22",
+    claimIds: ["46"],
+    exampleId: "0000046007",
+    keywordIds: [],
+    text: "Egyptian analyst Mohammad Nour, reacting to Egypt's FIFA World Cup defeat to Argentina, claimed: 'FIFA and Israel prevented Egypt from winning; Argentina is an 'Israeli team par excellence'; Benjamin Netanyahu is 'best friends' with President Milei; Yair Netanyahu brought Messi to play for Inter Miami.'",
+    source: false,
+    sourceLink: "",
+    standaloneTweets: ["2074801437142397264"],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
   }
 ]
 

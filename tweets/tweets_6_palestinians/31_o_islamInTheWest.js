@@ -222,6 +222,42 @@ const examples31o = [
     standaloneTweets: ["2081452444635000923"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-26",
+    claimIds: ["31o", "31p"],
+    exampleId: "0000031o0018",
+    keywordIds: [],
+    text: "A school in the United States. Listen to the lyrics. I added subtitles: “Die for the land,” “sacrifice yourself for the land.” This is what kids are being taught.",
+    source: false,
+    standaloneTweets: ["2020914685738877310"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-16",
+    claimIds: ["31o", "31p"],
+    exampleId: "0000031o0019",
+    keywordIds: [],
+    text: "During a Friday sermon in Brooklyn, NY MAS youth center director Mohammad Badawy said: “as a Muslim, my life’s mission is to fight the U.S government, the U.S army, and ICE until my last breath – that is my reason for existence.”",
+    source: false,
+    standaloneTweets: ["2013687925414732068"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-15",
+    claimIds: ["31o", "31i"],
+    exampleId: "0000031o0020",
+    keywordIds: [],
+    text: "Imam Zayd Mohammad, in a Chicago-area Friday sermon: 'Oh Allah, count the Zionists one by one, kill them to the very last one, do not spare a single one of them.'",
+    source: false,
+    standaloneTweets: ["2077288386239271078"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
