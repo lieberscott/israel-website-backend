@@ -82,6 +82,17 @@ const examples28 = [
     standaloneTweets: ["2025646103123890591"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-14",
+    claimIds: ["28"],
+    exampleId: "000002808",
+    keywordIds: ["New York City"],
+    text: "Yesterday, at NYC’s Al-Quds rally, protesters shout: “We support Hezbollah here, we support Hamas here.”",
+    standaloneTweets: ["2032911755140010165"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

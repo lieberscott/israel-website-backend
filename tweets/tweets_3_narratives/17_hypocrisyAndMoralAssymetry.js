@@ -191,11 +191,11 @@ const examples17 = [
     date: "2026-01-28",
     claimIds: ["17"],
     exampleId: "0000017016",
-    keywordIds: [],
-    text: "When yet another 'Flotilla to Gaza' participants were detained in Israel, Minister Itmar Ben-Gvir recorded a video mocking the participants, and the world had a collective shitfit. Ambassadors were summoned for a lecture. Ben-Gvir was banned from Australia and France, among other places. Israel was horrible. Yet mere days later — DAYS LATER — when the agitators were returned to Spain, they disrupted airport processes and were physically and violently confronted by Spanish police on video. Absolutely no outrage ensued.",
+    keywordIds: ["Wanting kids to live isn't antisemitic"],
+    text: "2 year old Ali Mohammad Sadeghi shot dead by the Iranian regime. Why is Ms. Rachel silent?",
     standaloneTweets: [],
-    thenVsNowFormat: true,
-    thenTweets: [""],
+    thenVsNowFormat: false,
+    thenTweets: ["1995580365868859697"],
     nowTweets: ["2016495461692014737"]
   },
 ]

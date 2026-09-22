@@ -13,9 +13,10 @@ const examples31k = [
     exampleId: "00031k001",
     keywordIds: [],
     text: "Libyan TV Show Host Afaf Abdel Mohsen Praises Palestinians for Having Many Children So They Can Push Them to Death, Martyrdom; Palestinian Journalist Muhammad Abd Al-Haqq: They Have Nuclear Bombs, We Have 'Offspring Bombs'",
-    standaloneTweets: ["1664242554689159170"],
-    themTweets: [],
-    usTweets: []
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2021423403505418394"],
+    nowTweets: ["1664242554689159170"]
   },
   {
     dateAdded: "",
@@ -24,9 +25,10 @@ const examples31k = [
     exampleId: "00031k002",
     keywordIds: [],
     text: "Umm Iyad Al-Ashqar, mother and aunt of Palestinian children killed in the conflict with Israel, during an interview on October 28, 2019, with the Palestinian Islamic Jihad-affiliated television channel Al-Quds Al-Youm: 'All Palestinian mothers should urge their children to wage jihad; death is inevitable, so why not die as martyrs?'",
-    standaloneTweets: ["1196368982363770881"],
-    themTweets: [],
-    usTweets: []
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2021423403505418394"],
+    nowTweets: ["1196368982363770881"]
   },
   {
     dateAdded: "",
@@ -35,9 +37,10 @@ const examples31k = [
     exampleId: "00031k003",
     keywordIds: [],
     text: "On the official Fatah Facebook page, a girl recites a poem about a mother encouraging her son to be a martyr: 'Our weapon is our Islam, and our ammunition is our children. And you, oh my son, are meant for martyrdom.'",
-    standaloneTweets: ["1200069095053570049"],
-    themTweets: [],
-    usTweets: []
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2021423403505418394"],
+    nowTweets: ["1200069095053570049"]
   },
   {
     dateAdded: "",
@@ -46,9 +49,10 @@ const examples31k = [
     exampleId: "00031k004",
     keywordIds: [],
     text: "Two young girls were broadcast singing 'In the name of freedom we’ll sacrifice our lives' on Palestinian TV recently, to honor a convicted terrorist.",
-    standaloneTweets: ["1453371486014685184"],
-    themTweets: [],
-    usTweets: []
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2021423403505418394"],
+    nowTweets: ["1453371486014685184"]
   },
   {
     dateAdded: "",
@@ -68,11 +72,12 @@ const examples31k = [
     exampleId: "00031k006",
     keywordIds: [],
     text: "Young boy on PA TV kid’s program recites poem encouraging “slaughter” of Israelis, glorifying death: 'For you, Yasser Arafat, for you we shall die.' ... 'We (Palestinian children), Fatah, are a storm, and our blood is food for the revolution.'",
-    standaloneTweets: ["829718539774881800"],
+    standaloneTweets: [],
     source: true,
     sourceLink: "https://www.youtube.com/watch?v=_HwHrxTFzzA",
-    themTweets: [],
-    usTweets: []
+    thenVsNowFormat: true,
+    thenTweets: ["2021423403505418394"],
+    nowTweets: ["829718539774881800"]
   },
   {
     dateAdded: "",
@@ -103,11 +108,12 @@ const examples31k = [
     exampleId: "00031k009",
     keywordIds: [],
     text: "Hamas to children: Shoot all the Jews. Child host: 'OK, so what does a policeman do?' Nahul (adult in giant bee costume): 'He catches thieves, and people who make trouble.' Child host: 'And shoots Jews, right?' Girl: 'Yes.' Child host: 'You want to be like him?' [Girl nods] Child host: 'Allah willing, when you grow up.' Girl: 'So that I can shoot Jews.' [Nahul the bee cheers] Child host: 'All of them? All of them?' Girl: 'Yes.' Child host: 'Good.'",
-    standaloneTweets: ["1998822407620960744"],
+    standaloneTweets: [],
     source: true,
     sourceLink: "https://www.youtube.com/watch?v=0ORAM-usqhQ",
-    themTweets: [],
-    usTweets: []
+    thenVsNowFormat: true,
+    thenTweets: ["2021423403505418394"],
+    nowTweets: ["1998822407620960744"]
   },
   {
     dateAdded: "",
@@ -128,7 +134,33 @@ const examples31k = [
     exampleId: "00031k011",
     keywordIds: [],
     text: "The mother of slain Hamas spokesman Abu Obaida, killed by Israel, says she is proud of her son and was prepared to lose her entire family as “martyrs.” “I was prepared to sacrifice all eight of my children and my husband as martyrs,” she said. Comparing her son to the fruit of a tree she had planted, she added: “When you plant a tree and then you see it bear good fruit — wouldn’t you be happy?”",
-    standaloneTweets: ["2099849573011239003"],
+    standaloneTweets: [],
+    source: false,
+    thenVsNowFormat: true,
+    thenTweets: ["2021423403505418394"],
+    nowTweets: ["2099849573011239003"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-08",
+    claimIds: ["31k"],
+    exampleId: "00031k012",
+    keywordIds: [],
+    text: "CNN asks senior Hamas official Ghazi Hamad: do you accept responsibility for the death and destruction in Gaza?His shocking response: Palestinian women and children must be sacrificed",
+    standaloneTweets: [],
+    source: false,
+    thenVsNowFormat: true,
+    thenTweets: ["2021423403505418394"],
+    nowTweets: ["2030634460677542285"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-05",
+    claimIds: ["31k", "31g", "31l"],
+    exampleId: "00031k013",
+    keywordIds: [],
+    text: "Palestinian Academic Mohammad Alnobani: The Islamic Nation Will Attain Complete Global Dominance; It Is Only Natural to Sacrifice a Million Martyrs for This Goal",
+    standaloneTweets: ["2024423086741680374"],
     source: false,
     themTweets: [],
     usTweets: []

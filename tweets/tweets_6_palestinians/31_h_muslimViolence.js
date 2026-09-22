@@ -66,6 +66,18 @@ const examples31h = [
     standaloneTweets: ["2097766687676170675"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2020-12-16",
+    claimIds: ["31h"],
+    exampleId: "0000031h006",
+    keywordIds: [],
+    text: "Lebanese TV shocker! Dude straight-up demos on a mannequin how he beats his 'disobedient' wife. “She’s just a commodity. She does whatever I want. Refuses sex? I force her—violently!”",
+    source: false,
+    standaloneTweets: ["2030757523423142301"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

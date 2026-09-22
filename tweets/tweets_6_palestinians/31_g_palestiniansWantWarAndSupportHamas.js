@@ -140,6 +140,17 @@ const examples31g = [
     standaloneTweets: ["2085263466802151714"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2022-06-23",
+    claimIds: ["31g", "31l", "31n"],
+    exampleId: "31g0012",
+    keywordIds: [],
+    text: "Jamil Ziyada Hamas TV commentator: We cannot coexist with the Jews, life is all about fighting, not negotiations",
+    standaloneTweets: ["1542438209015218177"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

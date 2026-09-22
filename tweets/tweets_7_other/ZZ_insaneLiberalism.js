@@ -270,6 +270,19 @@ const deepDivesExamples = [
     thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-03-08",
+    claimIds: ["55"],
+    exampleId: "InsaneLiberalism0022",
+    keywordIds: ["Yuri Bezmenov", "Jake Lang", "New York City"],
+    text: "A liberal man in NYC yelling about how everyone is welcome, as a Muslim man yells 'Allahu Akbar!' and uses him as a literal springboard to throw a homemade bomb. The West’s suicidal empathy on video.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["2030738690163531891", "2030738698828915108", "2030738759981936821"],
+    usTweets: ["2030809778642129145", "2031012541019664835"]
   }
 ]
 

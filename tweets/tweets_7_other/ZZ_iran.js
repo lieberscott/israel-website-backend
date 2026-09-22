@@ -61,6 +61,17 @@ const ZZiranExamples = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-02-21",
+    claimIds: ["Iran"],
+    exampleId: "Iran0006",
+    keywordIds: [],
+    text: "The regime's Foreign Minister claimed only 3117 protesters were killed. Coincidentally, the regime also reported that 3117 people were killed in the 12-Day War, 3117 people were Covid positive, and 3117 people died of alcohol poisoning.",
+    standaloneTweets: [],
+    themTweets: [],
+    usTweets: ["2025271468293063043"]
+  },
 ]
 
 module.exports = { ZZiran, ZZiranExamples };

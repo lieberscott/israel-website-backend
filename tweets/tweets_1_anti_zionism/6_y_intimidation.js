@@ -206,6 +206,18 @@ const examples6y = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-03-14",
+    claimIds: ["6y", "5", "18", "56"],
+    exampleId: "6y17",
+    keywordIds: [],
+    text: "An explosion occurred at a Jewish school in Amsterdam in targeted attack.",
+    source: false,
+    standaloneTweets: ["2032736103183086019"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim6y, examples6y };

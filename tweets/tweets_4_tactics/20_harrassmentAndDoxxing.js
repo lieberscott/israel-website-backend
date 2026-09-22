@@ -49,6 +49,17 @@ const examples20 = [
     standaloneTweets: ["2057704656739172796"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-02-19",
+    claimIds: ["20", "56"],
+    exampleId: "000020005",
+    keywordIds: ["New York City", "antagonize"],
+    text: "NYC - meet filmmaker Markie Hancock. Markie thinks it’s ok to harass Jews with Chabad doing mitzvahs (good deeds) with chants of “Free Palestine”",
+    standaloneTweets: ["2024493614903022040"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

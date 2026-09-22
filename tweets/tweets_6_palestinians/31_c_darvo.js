@@ -142,6 +142,20 @@ const examples31c = [
     thenVsNowFormat: true,
     thenTweets: ["2036012509270880767"],
     nowTweets: ["2036016151998709999", "2036133501687242996"]
+  },
+  {
+    dateAdded: "",
+    date: "2008-02-29",
+    claimIds: ["31c", "30x", "31k", "31g"],
+    exampleId: "00000031c11",
+    keywordIds: ["We teach life"],
+    text: "Hamas leader Fathi Hammad: '[The enemies of Allah] do not know that the Palestinian people has developed its [methods] of death and death-seeking. For the Palestinian people, death has become an industry, at which women excel, and so do all the people living on this land. The elderly excel at this, and so do the mujahideen and the children. This is why they have formed human shields of the women, the children, the elderly, and the mujahideen, in order to challenge the Zionist bombing machine. It is as if they were saying to the Zionist enemy: We desire death like you desire life.'",
+    deepDive: false,
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: ["2021612189325340896"],
+    nowTweets: ["2021423403505418394"]
   }
 ]
 
