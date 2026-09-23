@@ -72,6 +72,79 @@ const deepDivesExamples = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-01-17",
+    claimIds: [],
+    exampleId: "LiberalGestapo00007",
+    keywordIds: [],
+    text: "Anti-ICE protesters in Minneapolis made a man take off his American flag hoodie that said “Freedom”: 'Take it off and you won’t get hurt!'",
+    source: false,
+    standaloneTweets: ["2012644193408012652"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-17",
+    claimIds: ["5", "21", "22", "25"],
+    exampleId: "LiberalGestapo00008",
+    keywordIds: [],
+    text: "Leftists assaulting conservative Jake Lang just for being on the ground!",
+    source: false,
+    standaloneTweets: ["2012624305738158489"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2018-09-30",
+    claimIds: ["25"],
+    exampleId: "LiberalGestapo00009",
+    keywordIds: [],
+    text: "An evil and violent leftist named Jordan Hunt Democrat kicks a woman for being pro-life.",
+    source: true,
+    sourceLink: "https://www.the-independent.com/news/world/americas/us-politics/abortion-protest-kick-video-toronto-canada-pro-life-marie-claire-bissonnette-a8569386.html",
+    standaloneTweets: ["1047361358772097024"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-17",
+    claimIds: ["5", "21", "22"],
+    exampleId: "LiberalGestapo00010",
+    keywordIds: [],
+    text: "A group of white male engineers eating at Clancy's Deli in Minneapolis were surrounded and accosted by far-left extremists who mobilized to the scene because someone thought the men were ICE agents. This follows a driver being accosted for having an SUV.",
+    source: false,
+    standaloneTweets: ["2012675305048064330"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-18",
+    claimIds: ["5", "22", "25"],
+    exampleId: "LiberalGestapo00011",
+    keywordIds: [],
+    text: "Minneapolis: Terrorists beat an ICE supporter over the head with a flagpole, blood pouring. Another tries to mace him, hits the mob instead. Police stand there and watch him bleed.  They vandalize his vehicle and he barely escapes.",
+    source: false,
+    standaloneTweets: ["2012639414334480600"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-01-10",
+    claimIds: ["2", "5", "6y", "6z", "22", "24", "30x", "31c"],
+    exampleId: "LiberalGestapo00012",
+    keywordIds: [],
+    text: "LIBERAL STALKS CONSERVATIVE JOURNALIST CAM HIGBY: This is the individual who STALKED me for over a mile. He was insistent on riling up crowds so that they would harm me. I was trying to leave a MN protest. He says he believes it would be justified for people to HURT OR KILL ME based on my beliefs. Calls it “self defense”",
+    source: false,
+    standaloneTweets: ["2010117268101898747"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { deepDivesClaim, deepDivesExamples };

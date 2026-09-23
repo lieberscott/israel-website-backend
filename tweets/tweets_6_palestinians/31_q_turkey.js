@@ -101,6 +101,30 @@ const examples31q = [
     standaloneTweets: ["2015461476249506086"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-27",
+    claimIds: ["31q"],
+    exampleId: "0000031q0009",
+    keywordIds: ["Turkey", "Erdogan"],
+    text: "Turkish President Erdoğan: 'Zionism is a genocidal, expansionist ideology that threatens me personally, our party, and everyone. Our struggle against it is for the collective survival of our nation.'",
+    source: false,
+    standaloneTweets: ["2074121747150889153"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-07-03",
+    claimIds: ["31q"],
+    exampleId: "0000031q0010",
+    keywordIds: ["Hakan Fidan"],
+    text: "Turkish Foreign Minister on Israel: 'These people have become a burden that humanity can no longer bear. With these policies and this mindset, humanity cannot carry this burden any longer.'",
+    source: false,
+    standaloneTweets: ["2072942690040156583"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -258,6 +258,18 @@ const examples31o = [
     standaloneTweets: ["2077288386239271078"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-19",
+    claimIds: ["31o", "31k"],
+    exampleId: "0000031o0021",
+    keywordIds: [],
+    text: "Dearborn Shiite scholar Usama Abdulghani: 'Every Muslim should dream of engaging in jihad and raise their children with that ideal.' The crowd recited the Fatiha prayer for Khamenei and Nasrallah.",
+    source: false,
+    standaloneTweets: ["2069774780375453926"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

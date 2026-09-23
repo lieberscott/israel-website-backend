@@ -67,6 +67,18 @@ const examples31r = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "2026-06-21",
+    claimIds: ["31r", "13"],
+    exampleId: "0000031r0006",
+    keywordIds: [],
+    text: "Family therapist Dr. Mona Sobhy on a U.K. Muslim Brotherhood TV channel: “Jews knead the blood of gentile children into their matzah, and Muslims used to hide their children from Jews before Passover.”",
+    source: false,
+    standaloneTweets: ["2071514434091020440"],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim31q, examples31q };

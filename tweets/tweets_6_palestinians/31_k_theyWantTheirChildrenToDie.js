@@ -164,6 +164,18 @@ const examples31k = [
     source: false,
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2026-06-28",
+    claimIds: ["31k", "31g"],
+    exampleId: "00031k014",
+    keywordIds: [],
+    text: "Mother of a Hezbollah fighter killed in the war to her young grandson: 'You must continue your father's path.'",
+    standaloneTweets: ["2071189046378811575"],
+    source: false,
+    themTweets: [],
+    usTweets: []
   }
 ]
 

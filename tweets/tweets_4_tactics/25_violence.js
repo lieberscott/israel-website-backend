@@ -309,6 +309,19 @@ const examples25 = [
     usTweets: [],
     additionalNotes: []
   },
+  {
+    dateAdded: "",
+    date: "2026-07-02",
+    claimIds: ["25", "6y", "6z", "13"],
+    starred: true,
+    exampleId: "0000025026",
+    keywordIds: [],
+    text: "8 pro-Palestinian University of Michigan students have been indicted over allegations that they vandalized the homes of members of the local Jewish and pro-Israel community and participated in a conspiracy that included plans to poison and murder targeted individuals and their families. The defendants now face charges that could carry prison sentences of up to 20 years. Among those indicted is a former staffer for Abdul El-Sayed, a Democratic candidate for the U.S. Senate in Michigan. 'I'm going to be the dirtiest fucking doctor ever. I'm gonna be [victim's] doctor. I'm gonna poison her ass slowly.'",
+    standaloneTweets: ["2072756628223414475", "2072656029095993383"],
+    themTweets: [],
+    usTweets: [],
+    additionalNotes: []
+  },
 ]
 
 module.exports = { claim25, examples25 };
