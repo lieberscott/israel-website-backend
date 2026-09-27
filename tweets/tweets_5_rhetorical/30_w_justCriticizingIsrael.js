@@ -17,7 +17,19 @@ const examples30 = [
     thenVsNowFormat: true,
     thenTweets: ["2003299938688729527", "2011244396835135814", "2009548664822542789", "2010132407148831059"],
     nowTweets: ["2011235936659784096"]
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-16",
+    claimIds: ["30w", "30x"],
+    exampleId: "0000030w0002",
+    keywordIds: [],
+    text: "Red Pill Media: 'Free Palestine is not enough for me. I want to destroy Israel.'",
+    standaloneTweets: ["2100330388795310428"],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: []
+  }, 
 ]
 
 module.exports = { claim30, examples30 };

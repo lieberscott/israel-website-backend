@@ -91,6 +91,18 @@ const examples31k = [
     standaloneTweets: ["2039793190006317354"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "",
+    date: "2009-01-09",
+    claimIds: ["31l", "31j"],
+    exampleId: "00031l008",
+    keywordIds: [],
+    text: "A Qatari cleric on Qatar TV in 2009 said the Jews would still be the enemy even if they handed Palestine back, because they are infidels.",
+    source: false,
+    standaloneTweets: ["2100194856173764679"],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

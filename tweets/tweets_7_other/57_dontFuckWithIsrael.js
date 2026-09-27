@@ -2,10 +2,10 @@ const claim57 = {
   dateAdded: "",
   claimText: "Don't fuck with Israel",
   claimShortText: "Don't fuck with Israel",
-  claimId: "56"
+  claimId: "57"
 }
 
-const examples56 = [
+const examples57 = [
   {
     dateAdded: "",
     date: "2025-06-13",
@@ -20,4 +20,4 @@ const examples56 = [
   }
 ]
 
-module.exports = { claim56, examples56 };
+module.exports = { claim57, examples57 };

@@ -63,6 +63,18 @@ const examples54 = [
     thenVsNowFormat: true,
     thenTweets: ["2049172304089768189"],
     nowTweets: ["2069503567476539689"]
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-12",
+    claimIds: ["54"],
+    exampleId: "00005406",
+    keywordIds: ["Yuval Abraham", "Rachel Szor", "NAZA"],
+    text: "Yuval Abraham betrayed his nation with a blood libel for the applause of people who want him just as dead as they want the rest of us.",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    themTweets: ["2098425690890666216", "2098228711979888812", "2098377933861601417", "2098472080010346769", "2098110391532343344", "2098537094222053839", "2098052490583314524", "2098357272397090941", "2098462538166067650"],
+    usTweets: ["2098883130698719638"]
   }
 ]
 
