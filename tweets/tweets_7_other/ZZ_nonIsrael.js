@@ -233,7 +233,7 @@ const ZZNonIsraelExamples = [
     claimIds: ["3", "5", "25", "55x"],
     exampleId: "nonIsrael0019",
     keywordIds: ["persianmama11", "mitra", "Charlie Kirk"],
-    text: "Shameless liberal hyporcisy that is hard to diagnose regarding Charlie Kirk: 'happy kirkiversary from your fav hater <3'",
+    text: "Shameless liberal hypocrisy that is hard to diagnose regarding Charlie Kirk: 'happy kirkiversary from your fav hater <3'",
     source: false,
     standaloneTweets: ["2098046683116404960"],
     themTweets: [],

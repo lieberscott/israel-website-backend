@@ -79,6 +79,25 @@ const examples31r = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "",
+    date: "1936-11-26",
+    claimIds: [
+      "31r"
+    ],
+    exampleId: "0000031r0008",
+    keywordIds: [],
+    text: "A November 26, 1936 Evening Star clipping reports an Arabic translation of Hitler’s Mein Kampf becoming a bestseller among antisemites under the headline “Arabs Read Hitler.”",
+    source: false,
+    standaloneTweets: [
+      "1922658780019388647"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim31q, examples31q };

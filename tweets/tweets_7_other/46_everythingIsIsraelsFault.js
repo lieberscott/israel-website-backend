@@ -96,7 +96,28 @@ const examples46 = [
     thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: []
-  }
+  },
+  {
+    dateAdded: "",
+    date: "2026-09-03",
+    claimIds: [
+      "46"
+    ],
+    exampleId: "0000046008",
+    keywordIds: ["Spain","Morocco"],
+    text: "On August 31, Open Source Intel reported Pedro Sánchez blaming Israel, Russia and the far right for disinformation about migrant crossings into Ceuta. On September 3, it reported Sánchez saying intelligence had so far ruled out state actors including Israel behind social-media posts encouraging crossings.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2094383163535396904"
+    ],
+    nowTweets: [
+      "2095418948221370569"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
 ]
 
 module.exports = { claim46, examples46 };

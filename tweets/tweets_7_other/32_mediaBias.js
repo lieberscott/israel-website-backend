@@ -142,6 +142,26 @@ const examples32 = [
     themTweets: ["2033357765054267575"],
     usTweets: ["2032676592850235850",]
   },
+    {
+    dateAdded: "",
+    date: "2026-09-14",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "00003212",
+    keywordIds: ["NYT"],
+    text: "A screenshot shared by hilalove highlights The New York Times describing Israelis as still largely viewing themselves as victims of October 7.",
+    source: true,
+    standaloneTweets: [
+      "2100415920057508335"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jpost.com/diaspora/antisemitism/article-908875"
+  },
 ]
 
 module.exports = { claim32, examples32 };
