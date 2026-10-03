@@ -45,6 +45,30 @@ const examples31z = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-03-08",
+    claimIds: [
+      "31z",
+      "16"
+    ],
+    exampleId: "claude-b05-24",
+    keywordIds: [
+      "Drop Site"
+    ],
+    text: "As Briahna Joy Gray, Aaron Maté and Ryan Grim's Drop Site News denied sexual violence on October 7, survivors' accounts were set against them: Nova survivor Yuval Sharvit describing the rape she witnessed, and returned hostages describing abuse in captivity.",
+    source: false,
+    standaloneTweets: [
+      "2030742830734299156",
+      "2030757986474365021",
+      "2030452842775879715"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim31z, examples31z };

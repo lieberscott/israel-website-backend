@@ -603,6 +603,189 @@ const examples13 = [
     themTweets: ["1937929925664903347"],
     usTweets: ["2075215603468501130"]
   },
+  {
+    dateAdded: "2026-09-29",
+    date: "2023-12-01",
+    claimIds: [
+      "13"
+    ],
+    exampleId: "claude-b04-08",
+    keywordIds: [
+      "PIJ"
+    ],
+    text: "Mohammed Abu Huweidi, a journalist for Gaza's al-Istiqlal outlet whom the UN mourned as a journalist killed by Israel in December 2023, was listed by Palestinian Islamic Jihad itself in March 2026 as a commander in its Central Military Media Unit.",
+    source: false,
+    standaloneTweets: [
+      "2036577599007105232",
+      "2034987423570997328",
+      "2034987427966644452"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2024-04-25",
+    claimIds: [
+      "13",
+      "41"
+    ],
+    exampleId: "claude-b04-09",
+    keywordIds: [],
+    text: "Mohammed Bassam Al Jamal, listed by the Committee to Protect Journalists as a journalist killed in an Israeli strike in Rafah on April 25, 2024, was named by Hamas in a martyr notice as a field commander. CPJ removed him from its Killed database in September 2026.",
+    source: true,
+    sourceLink: "https://cpj.org/data/people/mohammed-al-jamal/",
+    standaloneTweets: [
+      "2035749272579141653"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2025-08-10",
+    claimIds: [
+      "13"
+    ],
+    exampleId: "claude-b04-11",
+    keywordIds: [],
+    text: "Al Jazeera correspondent Anas al-Sharif, killed in an Israeli strike in Gaza City on August 10, 2025, was identified by the IDF as the head of a Hamas cell in a Nukhba rocket-launching platoon. Eitan Fischberger notes that footage shows those killed weren't wearing press vests.",
+    source: false,
+    standaloneTweets: [
+      "1962263260012408841",
+      "1954721655973958038"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2024-11-27",
+    claimIds: [
+      "13"
+    ],
+    exampleId: "codexLikes20260929-2049477513642959228",
+    keywordIds: [],
+    text: "An Aizenberg comparison shows Alaa Fawzi Barhoum described as a journalist after his death and in a Hamas military-wing memorial identifying him as a fighter in the al-Tuffah–al-Daraj Battalion.",
+    source: true,
+    standaloneTweets: [
+      "2049477513642959228"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.terrorism-info.org.il/en/the-disclosure-of-the-names-of-fallen-military-operatives-by-hamas-and-the-palestinian-islamic-jihad-confirms-the-amit-institutes-research-findings-on-the-double-roles-of-journalists-in-the-gaza/"
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2024-07-13",
+    claimIds: [
+      "13"
+    ],
+    exampleId: "codexLikes20260929-2048760430168809863",
+    keywordIds: [],
+    text: "A comparison identifies Mohamed Manhal Abu Armana, previously listed as a journalist killed in Gaza, in a Hamas-linked memorial calling him a field commander. Airwars subsequently changed his classification from civilian to militant.",
+    source: true,
+    standaloneTweets: [
+      "2048760430168809863"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://airwars.org/incidents/ispt130724e-july-13-2024"
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2023-11-09",
+    claimIds: [
+      "13"
+    ],
+    exampleId: "codex-20261001-inclusive50-33",
+    keywordIds: [],
+    text: "Aizenberg challenges civilian-only descriptions of the Abu Musa family’s deaths, citing later material that allegedly identifies two family members as combatants.",
+    source: false,
+    standaloneTweets: [
+      "2040448121927291173"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2024-09-30",
+    claimIds: [
+      "13"
+    ],
+    exampleId: "codex-20261002-latest50-33",
+    keywordIds: [],
+    text: "Gabriel Epstein reports that the husband of killed Gaza journalist Wafa al-Adini was a Palestinian Islamic Jihad commander.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2029201002524451147"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.madacenter.org/files/flash/semiannualRep2025E.pdf"
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2024-12-13",
+    claimIds: [
+      "13"
+    ],
+    exampleId: "codex-20261002-latest50-35",
+    keywordIds: [],
+    text: "Aizenberg juxtaposes an ICU-nurse description of Jaber Muhammadin with a militant memorial identifying him as a military-manufacturing leader.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2029222658571706775"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.digiunogaza.it/wp-content/uploads/2025/09/elenco_sanitari_uccisi_Gaza.pdf"
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2023-10-24",
+    claimIds: [
+      "13"
+    ],
+    exampleId: "codex-20261003-next50-15",
+    keywordIds: [],
+    text: "Middle East Buka presents a PIJ mourning poster for Mohammed Fayez al-Hassani, a Rawasi Palestine media figure also listed by journalist organizations.",
+    source: false,
+    standaloneTweets: [
+      "2027044183920226746",
+      "1950143698856988940"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim13, examples13 };

@@ -29,6 +29,26 @@ const examples31p = [
     standaloneTweets: ["2037195060639342630"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-07",
+    claimIds: [
+      "31p",
+      "56"
+    ],
+    exampleId: "codex-20261002-latest50-22",
+    keywordIds: [],
+    text: "A post identifies Portland medical resident Sophie Goldman in a dancing protest chanting “US out of everywhere” and “Free Palestine.”",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2030477591740834134"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

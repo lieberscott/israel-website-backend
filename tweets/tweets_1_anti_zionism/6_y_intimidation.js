@@ -230,6 +230,50 @@ const examples6y = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-11",
+    claimIds: [
+      "6y",
+      "22"
+    ],
+    exampleId: "codexB03035",
+    keywordIds: [],
+    text: "A protester flashes a strobe light toward a Jewish boy during the Brooklyn synagogue protest.",
+    source: false,
+    standaloneTweets: [
+      "2054060634439090527"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-05-11",
+    claimIds: [
+      "6y",
+      "22",
+      "56"
+    ],
+    exampleId: "codex-20261001-inclusive50-15-r1",
+    keywordIds: [
+      "New York City"
+    ],
+    text: "A Brooklyn protest clip shows a strobe light directed toward a visibly Jewish boy; the liked reply calls for action against those involved.",
+    source: false,
+    standaloneTweets: [
+      "2054060634439090527",
+      "2054063534334525455"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim6y, examples6y };

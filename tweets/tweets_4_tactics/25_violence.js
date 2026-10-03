@@ -228,11 +228,11 @@ const examples25 = [
   {
     dateAdded: "",
     date: "2026-03-12",
-    claimIds: ["25", "5", "6y", "6z", "18", "30", "30y"],
+    claimIds: ["25", "5", "6y", "6z", "18", "30", "30y", "56"],
     exampleId: "0000025019",
     keywordIds: [],
-    text: "41-year-old Ayman Mohamad Ghazali, drove a truck into Temple Israel in West Bloomfield Township, MI on March 12. After an exchange of gunfire with the temple’s security, he died at the scene. One security officer was taken to a hospital after being struck by the truck. Ghazali’s truck bed contained large quantities of fireworks and jugs of flammable liquid believed to be gasoline.",
-    standaloneTweets: ["2032603238151639375", "2034710249374978346"],
+    text: "41-year-old Ayman Mohamad Ghazali, drove a truck into Temple Israel in West Bloomfield Township, MI on March 12. After an exchange of gunfire with the temple’s security, he died at the scene. One security officer was taken to a hospital after being struck by the truck. Ghazali’s truck bed contained large quantities of fireworks and jugs of flammable liquid believed to be gasoline. He had a brother in Hezbollah",
+    standaloneTweets: ["2032603238151639375", "2034710249374978346", "2032528515371769999"],
     themTweets: [],
     usTweets: [],
     additionalNotes: []
@@ -322,6 +322,117 @@ const examples25 = [
     usTweets: [],
     additionalNotes: []
   },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-21",
+    claimIds: [
+      "25",
+      "56"
+    ],
+    exampleId: "codexB03026",
+    keywordIds: [
+      "United Kingdom"
+    ],
+    text: "London — A man is charged with religiously aggravated assault after allegedly attacking Jewish congregants outside a Chabad synagogue in Hendon on Shavuot.",
+    source: true,
+    sourceLink: "https://www.politika.rs/sr/clanak/757535/nemac-daniel-nikzamir-optuzen-za-napad-u-londonu",
+    standaloneTweets: [
+      "2058310755271811092"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-04-27",
+    claimIds: [
+      "25",
+      "22",
+      "56"
+    ],
+    exampleId: "codexLikes20260929-2049783596244738358",
+    keywordIds: [],
+    text: "A Jewish man was assaulted outside Adas Torah synagogue in Los Angeles. The victim reported that the attacker said “Free Palestine”; police opened a felony battery and hate-crime investigation.",
+    source: true,
+    standaloneTweets: [
+      "2049783596244738358"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jns.org/news/u-s-news/jewish-man-assaulted-leaving-los-angeles-synagogue-israeli-envoy-says"
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-04-29",
+    claimIds: [
+      "25"
+    ],
+    exampleId: "codexLikes20260929-2049444323331035427",
+    keywordIds: [],
+    text: "Two Jewish men were stabbed in Golders Green, London. Counter Terrorism Policing declared a terrorist incident and said a Muslim suspect had been arrested on suspicion of attempted murder.",
+    source: true,
+    standaloneTweets: [
+      "2049444323331035427"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.counterterrorism.police.uk/news/declaration-of-a-terrorist-incident-in-golders-green-london/"
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-04-24",
+    claimIds: [
+      "25",
+      "20",
+      "56"
+    ],
+    exampleId: "codexLikes20260929-2049144176306974760",
+    keywordIds: [],
+    text: "Three Jewish men in Hasidic clothing were allegedly punched in Williamsburg, Brooklyn, within minutes of one another. Police arrested a suspect and charged him with hate-crime assaults.",
+    source: true,
+    standaloneTweets: [
+      "2049144176306974760",
+      "2048402945952096376"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://brooklyn.news12.com/2026/04/27/man-faces-hate-crime-charges-for-allegedly-punching-3-jewish-men-in-the-face-in-williamsburg/5qsAUfuWmaMj4tQKScYPp9"
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-04-29",
+    claimIds: [
+      "25",
+      "56"
+    ],
+    exampleId: "codex-20261001-inclusive50-23-r1",
+    keywordIds: [],
+    text: "Two Jewish men were stabbed in London’s Golders Green, United Kingdom on April 29; subsequent reporting described Ashab al-Yamin’s claim of responsibility.",
+    source: true,
+    standaloneTweets: [
+      "2049444323331035427",
+      "2049479801082163344",
+      "2049551965802152004"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.counterterrorism.police.uk/news/declaration-of-a-terrorist-incident-in-golders-green-london/"
+  }
 ]
 
 module.exports = { claim25, examples25 };

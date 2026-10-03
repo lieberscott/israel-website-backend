@@ -97,6 +97,27 @@ const examples31r = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2019-01-01",
+    claimIds: [
+      "31r"
+    ],
+    exampleId: "claude-b05-23r-3-hitler",
+    keywordIds: [
+      "Gaza"
+    ],
+    text: "At a 2019 March of Return protest in Gaza, a man shows a Hitler figure and says, “This is Hitler who burned them and turned them into soap. Three weeks ago we made this and brought it here and will do so every week.”",
+    source: false,
+    standaloneTweets: [
+      "2045620830202163486"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

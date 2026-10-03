@@ -294,6 +294,81 @@ const examples44 = [
     standaloneTweets: ["1942031286782075182", "1948897922923274399", "1970935463407202587"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "44",
+      "56"
+    ],
+    exampleId: "claude-b05-02",
+    keywordIds: [
+      "flydubai",
+      "hijacking"
+    ],
+    text: "A true miracle of awe-inspiring heroism. On flydubai's flight to Tel Aviv carrying 174 mostly Israeli passengers, an Arab pilot attempted to hijak the plane and commit a 9/11 style attack. The Arab pilot stabbed the co-pilot in the cockpit and the plane plunged before passengers forced their way in, subdued him and two passengers with flight experience helped bring the aircraft down safely in Saudi Arabia. Israeli officials describe it as an attempt to crash the plane.",
+    source: true,
+    sourceLink: "https://www.ynetnews.com/article/s1lpsm95ge",
+    standaloneTweets: [
+      "2105372381212483997",
+      "2105232653041500468",
+      "2105254933138202685",
+      "2105246527837045064",
+      "2105235416701976607",
+      "2105243493731811788",
+      "2105386995253919748"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-02",
+    claimIds: [
+      "44",
+      "57"
+    ],
+    exampleId: "codex-20261002-latest50-36",
+    keywordIds: [],
+    text: "Pete Hegseth praises Israel as a capable military partner with clear missions, contrasting it with allies who hesitate to act.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2028479141746520274"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-20",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261002-latest50-10-r1",
+    keywordIds: [],
+    text: "Footage from July 2025 reports Syrian government forces humiliating and killing Druze; posts describe Israeli intervention to protect them, followed by reported Israeli strikes after further attacks in March 2026.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1945480261178720766",
+      "1947212721541271663"
+    ],
+    usTweets: [
+      "2034885670548709561",
+      "1945469393858621908",
+      "1945500206612574209"
+    ],
+    sourceLink: "https://syriacpress.com/blog/2026/03/20/israeli-airstrikes-target-syrian-military-sites-in-suwayda-in-response-to-attacks-on-druze/"
   }
 ]
 

@@ -239,6 +239,47 @@ const ZZNonIsraelExamples = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-04-30",
+    claimIds: [
+      "NonIsrael"
+    ],
+    exampleId: "nonIsrael-codex-20261001-inclusive50-18-r1-r2",
+    keywordIds: [],
+    text: "Kangmin Lee comments on reporting that the University of Washington women’s soccer team lost a spring scrimmage 2–1 to Crossfire’s under-14 boys team.",
+    source: true,
+    standaloneTweets: [
+      "2052120507433066558",
+      "2052392640889458761"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://brobible.com/sports/article/washington-huskies-womens-college-soccer-lose-u14-crossfire-boys-scrimmage/"
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2025-06-19",
+    claimIds: [
+      "NonIsrael"
+    ],
+    exampleId: "nonIsrael-codex-feedback-20261002b-swiss",
+    keywordIds: [],
+    text: "Breitbart reports that Switzerland’s women’s national soccer team lost a training match 7–1 to FC Luzern’s under-15 boys team.",
+    source: true,
+    sourceLink: "https://www.blick.ch/sport/fussball/frauen-fussball/frauen-nati/haeme-wegen-17-pleite-nati-stars-muessen-reagieren/xkjt0ye",
+    standaloneTweets: [
+      "1937895623442706870"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { ZZNonIsrael, ZZNonIsraelExamples };

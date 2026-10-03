@@ -520,7 +520,89 @@ const examples31e = [
     usTweets: [],
     themTweets: [],
   },
-  
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-09-27",
+    claimIds: [
+      "31e"
+    ],
+    exampleId: "codexB03001",
+    keywordIds: [],
+    text: "IDF footage shows a child carrying weapons for an armed operative into a building in central Gaza.",
+    source: true,
+    sourceLink: "https://www.timesofisrael.com/liveblog_entry/idf-posts-footage-of-palestinian-child-being-used-to-transport-weapon-in-gaza/",
+    standaloneTweets: [
+      "2104138854416490994"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2024-02-05",
+    claimIds: [
+      "31e"
+    ],
+    exampleId: "codexB03027",
+    keywordIds: [],
+    text: "Israeli police footage shows a 14-year-old attempting to stab a Border Police officer near al-Eizariya.",
+    source: true,
+    sourceLink: "https://www.israelhayom.co.il/news/defense/article/15218484",
+    standaloneTweets: [
+      "2058280555968606463"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-15",
+    claimIds: [
+      "31e"
+    ],
+    exampleId: "codexB03033",
+    keywordIds: [],
+    text: "Lebanon’s MTV reports that Hezbollah uses scout movements to prepare children for combat and glorifies dead child fighters to encourage others.",
+    source: true,
+    sourceLink: "https://www.mtv.com.lb/news/1695647",
+    standaloneTweets: [
+      "2056014267531338091"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2024-06-08",
+    claimIds: [
+      "31e",
+      "41",
+      "45"
+    ],
+    exampleId: "claude-b05-17r",
+    keywordIds: [
+      "Hamas"
+    ],
+    text: "Hamas's official martyr video shows 17-year-old Fadi Abu Ghazala of the Qassam Brigades' Rafah Brigade at a youth military camp. Its notice gives his death as June 8, 2024. Aizenberg notes the silence from NGOs and “experts.”",
+    source: false,
+    standaloneTweets: [
+      "2105005195067601012"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim31e, examples31e };

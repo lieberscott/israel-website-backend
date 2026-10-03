@@ -1,7 +1,7 @@
 const claim21a = {
   dateAdded: "",
   claimText: "Blood libel as public theater",
-  claimShortText: "Flood public spaces",
+  claimShortText: "Public theater",
   claimId: "21a"
 }
 
@@ -36,6 +36,33 @@ const examples21a = [
     keywordIds: [],
     text: "In front of the White House, activists stage a performance to expose what’s happening to Palestinian citizens in Gaza.",
     standaloneTweets: ["1740357266770120853"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-04-18",
+    claimIds: [
+      "21a",
+      "6z",
+      "4",
+      "47",
+      "53",
+      "56"
+    ],
+    exampleId: "claude-b04-02",
+    keywordIds: [
+      "Sweden"
+    ],
+    text: "At a pro-Palestinian march in Stockholm, a protester dressed as a Jew in a kippah and a bloodstained apron acted out slaughtering a Palestinian woman and cutting a baby from her womb. Israel's ambassador called it centuries-old blood libel repackaged against “Zionists.” This is what they mean when they accuse Israel of killing children.",
+    source: true,
+    sourceLink: "https://www.theyeshivaworld.com/news/israel-news/2537822/this-is-europe-2026-shock-in-stockholm-over-gruesome-antisemitic-display.html",
+    standaloneTweets: [
+      "2045772626526630348"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
     themTweets: [],
     usTweets: []
   }

@@ -270,6 +270,210 @@ const examples31o = [
     standaloneTweets: ["2069774780375453926"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "claude-b05-14",
+    keywordIds: [
+      "Michigan",
+      "MEMRI"
+    ],
+    text: "Dearborn Shiite imam Usama Abdulghani says 9/11 was “a big lie,” that Muslims' apologies for it were shameful, and that Islam wants its absolute supremacy over everyone else.",
+    source: false,
+    standaloneTweets: [
+      "2105279425529200903"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2013-01-01",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261001-inclusive50-28",
+    keywordIds: [],
+    text: "A resurfaced Young Turks clip shows Cenk Uygur arguing that certain forms of bestiality should be legal.",
+    source: true,
+    standaloneTweets: [
+      "2047785507132703229"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://dailycaller.com/2019/11/28/cenk-uygur-legalize-bestiality/"
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-04-18",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261001-inclusive50-30",
+    keywordIds: [],
+    text: "A clip shared by Eyal Yakoby depicts a man described as a Palestinian in Belgium threatening nonbelievers, Israel and Britons.",
+    source: false,
+    standaloneTweets: [
+      "2045678703745654842"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-03-29",
+    claimIds: [
+      "31o",
+      "30"
+    ],
+    exampleId: "codex-20261001-inclusive50-36",
+    keywordIds: [],
+    text: "A clip described as filmed in Texas presents hatred of nonbelievers as worship and quotes a religious passage about preparing force to frighten enemies.",
+    source: false,
+    standaloneTweets: [
+      "2038212453503320196"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2023-08-01",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261001-inclusive50-47-r1",
+    keywordIds: [
+      "United Kingdom"
+    ],
+    text: "A Green Lane Mosque lecture describes stoning as a punishment for adultery; the resurfaced clip prompted criticism of the Birmingham institution.",
+    source: true,
+    standaloneTweets: [
+      "2033295785094484368"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.secularism.org.uk/news/2023/08/government-awards-22m-grant-to-homophobic-and-misogynistic-mosque"
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-04",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261002-latest50-34",
+    keywordIds: [],
+    text: "Laura Loomer shares a Dearborn mosque memorial for Ali Khamenei, describing praise for jihad and calls to raise children in that culture.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2029185036327481630"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2023-04-23",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261002-latest50-08-r1",
+    keywordIds: [],
+    text: "In a child-marriage debate, Daniel Haqiqatjou says intercourse with a five-year-old who has reached precocious puberty and is physically mature can be permissible under his interpretation of Islam.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2048758839462207723"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.youtube.com/watch?v=FfEUXndMFXA&t=3018s"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-11",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-37-r1",
+    keywordIds: [],
+    text: "A clip shared by Dr. Maalouf is described as showing a Christian preacher attacked in Tampa while sharing the Bible.",
+    source: true,
+    standaloneTweets: [
+      "2024251154457043269"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.usasupreme.com/islamification-in-florida-muslims-assault-christian-preacher-in-tampa-the-reason-is-infuriating/"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-16",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261003-next50-42-r1",
+    keywordIds: [],
+    text: "Megyn Kelly responds “wtf is this” to Randy Fine’s dogs-versus-Muslims post. Fine replies with a screenshot of reporting on Nerdeen Kiswani’s indoor-dogs post, while Erika supplies the earlier post’s context and criticizes Kelly’s response.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2023444718114271621"
+    ],
+    usTweets: [
+      "2023458485497999742",
+      "2023455695392194737"
+    ]
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2021-05-23",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-43-r1",
+    keywordIds: [],
+    text: "At a London counter-demonstration, Mohammed Hijab told a police officer that dogs brought by pro-Israel demonstrators would be killed if they came near his group again.",
+    source: true,
+    standaloneTweets: [
+      "1969904976844497268"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://cst.org.uk/public/data/file/4/a/The_Month_of_Hate.pdf"
   }
 ]
 

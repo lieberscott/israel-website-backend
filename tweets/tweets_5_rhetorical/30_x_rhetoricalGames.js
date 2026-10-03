@@ -280,6 +280,122 @@ const examples30x = [
     thenTweets: ["2014131821580030106"],
     nowTweets: ["2014279649069519310"],
     standaloneTweets: [],
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-03-12",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "claude-b04-17",
+    keywordIds: [
+      "AOC"
+    ],
+    text: "After the attack on Temple Israel in Michigan, Rep. Alexandria Ocasio-Cortez said antisemitism “has no place in our country.” Adam Mossoff lists her votes against Iron Dome funding and the Antisemitism Awareness Act, and her support for the pro-Hamas Columbia encampment.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2032183043171987657"
+    ],
+    usTweets: [
+      "2032934758028660911"
+    ]
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2026-04-29",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "codexLikes20260929-2049590762325630988",
+    keywordIds: [],
+    text: "Zarah Sultana condemns the Golders Green stabbing attack. J.K. Rowling responds by contrasting that statement with reporting that Sultana had clapped along to intifada chants at a Surrey protest.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2049521904503882240"
+    ],
+    usTweets: [
+      "2049590762325630988",
+      "2049599252972617968"
+    ],
+    sourceLink: "https://www.jns.org/news/world/jk-rowling-accuses-mp-zarah-sultana-of-hypocrisy-for-condemning-antisemitic-stabbing"
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2026-03-10",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "claude-b04-21",
+    keywordIds: [
+      "California"
+    ],
+    text: "Rep. Ro Khanna spent months calling Gaza a genocide, accusing Israel of man-made starvation and campaigning to cut off weapons to Israel. After Israeli Americans were assaulted in San Jose for speaking Hebrew, he called the attack horrific and said antisemitism has no place in his community.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1968420698071650808",
+      "2026115834561614000",
+      "1949113791729291566",
+      "1952382674481688646",
+      "1987737746929041903",
+      "1974677801807831179"
+    ],
+    nowTweets: [
+      "2031518375617134863",
+      "2031505792483078547"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-09-29",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "codex-20261001-inclusive50-16-r1-mamdani",
+    keywordIds: [],
+    text: "Zohran Mamdani defends the harassment at synagogues but announces a committee to combat antisemitism. He can start by denouncing what takes place outside of the synagogues, but we never will.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2053979094174363716"
+    ],
+    nowTweets: [
+      "2104949847421796398"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "1998-01-27",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "nonIsrael-codex-20261002-latest50-38-r1",
+    keywordIds: [],
+    text: "Hillary Clinton invokes a “vast right-wing conspiracy” in a Today interview during the Monica Lewinsky scandal.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2027456554417459623"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://americanarchive.org/catalog/cpb-aacip-507-pc2t43jt59"
   }
 ]
 

@@ -127,6 +127,26 @@ const ZZiranExamples = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-06-18",
+    claimIds: [
+      "Iran"
+    ],
+    exampleId: "codexB03016",
+    keywordIds: [],
+    text: "Iranian negotiator Mohammad Bagher Ghalibaf vows to avenge the supreme leader through the liberation of Jerusalem after the US-Iran agreement.",
+    source: true,
+    sourceLink: "https://www.thejc.com/news/world/iran-chief-negotiator-vows-to-avenge-supreme-leaders-death-with-liberation-of-jerusalem-wlz26r2n",
+    standaloneTweets: [
+      "2067564859068187004"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { ZZiran, ZZiranExamples };

@@ -130,6 +130,26 @@ const examples31d = [
     standaloneTweets: ["1975324569646006283"],
     thenTweets: [],
     nowTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-04-28",
+    claimIds: [
+      "31d",
+      "31h"
+    ],
+    exampleId: "codex-20261001-inclusive50-25",
+    keywordIds: [],
+    text: "Open Source Intel shares footage of a mass wedding for 300 couples in Gaza that turned into a riot, with Hamas police providing security.",
+    source: false,
+    standaloneTweets: [
+      "2049056299791306869"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

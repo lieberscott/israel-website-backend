@@ -60,6 +60,86 @@ const examples33 = [
     standaloneTweets: ["2014079014999101723"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "1948-10-02",
+    claimIds: [
+      "33"
+    ],
+    exampleId: "codexB03032",
+    keywordIds: [],
+    text: "An October 1948 Economist article records an account attributing part of the Arab departure from Haifa to appeals from Arab leadership.",
+    source: true,
+    sourceLink: "https://fpholyland.framer.media/source/the-arab-refugees",
+    standaloneTweets: [
+      "2055652741234462874"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "1968-03-18",
+    claimIds: [
+      "33"
+    ],
+    exampleId: "claude-b04-13",
+    keywordIds: [],
+    text: "On March 18, 1968, a school bus carrying Israeli children hit a landmine planted by Yasser Arafat's Fatah near Be'er Ora in the Negev, killing two and wounding 28 children. The attack led to Israel's raid on Fatah's base at Karameh.",
+    source: true,
+    sourceLink: "https://johnstonsarchive.net/terrorism/incidents/19680318a.html",
+    standaloneTweets: [
+      "2034301147708616806"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "1950-03-09",
+    claimIds: [
+      "33"
+    ],
+    exampleId: "claude-b04-20",
+    keywordIds: [],
+    text: "In March 1950, Iraq passed a law letting Jews emigrate only if they gave up their Iraqi citizenship; a 1951 law then froze the assets of those who left. Jews had made up about a third of Baghdad's population, and fewer than five remain in Iraq today, according to Avi Kaner.",
+    source: true,
+    sourceLink: "https://www.jewishrefugees.org.uk/2025/03/5-march-is-a-red-letter-day-for-jews-of-iraq.html",
+    standaloneTweets: [
+      "2029206121353802220"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "1936-08-14",
+    claimIds: [
+      "33"
+    ],
+    exampleId: "codex-20261002-latest50-39-r1",
+    keywordIds: [],
+    text: "Max Nordau counters the claim that Arabs uniformly welcomed Jews before 1948 with earlier attacks, including the 1936–1939 violence associated with Mishmar HaCarmel.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2027538335061688767"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://haipo.co.il/en/item/593346"
   }
 ]
 

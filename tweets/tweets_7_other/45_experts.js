@@ -65,6 +65,71 @@ const examples45 = [
     standaloneTweets: ["2039771769834213580", "2039783160720875824"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2026-03-11",
+    claimIds: [
+      "45",
+      "10"
+    ],
+    exampleId: "claude-b04-19",
+    keywordIds: [],
+    text: "Academic Alex de Waal wrote repeatedly that Israel was intentionally starving Gaza and that famine deaths had “without doubt” surpassed 10,000. Hamas and Gaza's Ministry of Health report 475 malnutrition deaths for the entire war. Famine is defined by a death rate above 2 per 10,000 people per day, which for Gaza's roughly 2.1 million people means about 420 deaths every day.",
+    source: true,
+    standaloneTweets: [
+      "2031755842710540621",
+      "1770058907546779680",
+      "1980777112236970128"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://news.un.org/en/node/1147661"
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "45"
+    ],
+    exampleId: "claude-b05-13",
+    keywordIds: [],
+    text: "International-law lecturer Alonso Gurmendi recirculated a 2009 NBC report of Israeli soldiers' testimonies about shooting civilians. Adin Haykin replies that the testimonies were exposed as fabricated in 2009.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2105247396733059494"
+    ],
+    usTweets: [
+      "2105258806494347498"
+    ]
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-04",
+    claimIds: [
+      "45",
+      "31a",
+      "41"
+    ],
+    exampleId: "codex-20261002-latest50-32",
+    keywordIds: [],
+    text: "Hillel Neuer challenges an image amplified by United Nations rapporteur Francesca Albanese, citing a Community Note and Hive’s assessment that the image is AI-generated.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2029112931292434891"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

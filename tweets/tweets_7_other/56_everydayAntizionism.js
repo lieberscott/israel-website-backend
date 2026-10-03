@@ -76,6 +76,91 @@ const examples56 = [
     source: false,
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-06",
+    claimIds: [
+      "56"
+    ],
+    exampleId: "codexLikes20260929-2052208256987107385",
+    keywordIds: [],
+    text: "A swastika was found carved into a window at the Inwood LIRR station in Lawrence, New York. Mayor Samuel Nahmias condemned it and announced a police investigation.",
+    source: true,
+    standaloneTweets: [
+      "2052208256987107385"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://dailyvoice.com/article/swastika-seen-at-inwood-lirr-station-window-cops-probe/"
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-24",
+    claimIds: [
+      "56"
+    ],
+    exampleId: "claude-b05-16",
+    keywordIds: [
+      "NYC"
+    ],
+    text: "In Crown Heights, Brooklyn, a man chased a visibly Jewish yeshiva student while brandishing a knife and shouting “Heil f---ing Hitler,” followed him to the door, said “Now I know where you live,” and appeared to slash bike tires. Police charged Bronx resident Devin Best with aggravated harassment as a hate crime and menacing.",
+    source: true,
+    sourceLink: "https://www.jns.org/news/u-s-news/bronx-man-charged-with-hate-crime-for-allegedly-threatening-jewish-man-in-crown-heights-with-knife",
+    standaloneTweets: [
+      "2105191665707409829"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-04-21",
+    claimIds: [
+      "56",
+      "20"
+    ],
+    exampleId: "codex-20261001-inclusive50-29",
+    keywordIds: [],
+    text: "Frum TikTok shares a video of someone invading a Jewish space and harassing Jews at a Chabad center in Virginia.",
+    source: false,
+    standaloneTweets: [
+      "2046754415441252381"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-20",
+    claimIds: [
+      "56",
+      "30x"
+    ],
+    exampleId: "codex-20261003-next50-29-r1",
+    keywordIds: [],
+    text: "Zohran Mamdani’s pledge to keep Jewish New Yorkers safe is contrasted with a report about a city health staffer in Mamdani's administration wishing Israelis were wiped out and Claire’s post connecting the staffer to an older taunt aimed at a hostage’s mother.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2000227476237173059"
+    ],
+    nowTweets: [
+      "2023354305281917182",
+      "2024996482529820858"
+    ],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

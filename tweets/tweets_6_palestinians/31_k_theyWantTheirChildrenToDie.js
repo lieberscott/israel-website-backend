@@ -176,6 +176,47 @@ const examples31k = [
     source: false,
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2022-04-16",
+    claimIds: [
+      "31k",
+      "30"
+    ],
+    exampleId: "codexB03028",
+    keywordIds: [],
+    text: "The mother of a Palestinian Islamic Jihad fighter says she would welcome all her children dying as martyrs and urges other mothers to send their sons to jihad.",
+    source: true,
+    sourceLink: "https://www.jns.org/news/mother-of-palestinian-terrorist-i-will-be-happy-if-all-my-children-are-martyred",
+    standaloneTweets: [
+      "2057982341184716879"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2016-12-01",
+    claimIds: [
+      "31k"
+    ],
+    exampleId: "codexLikes20260929-2047207775059554345",
+    keywordIds: [],
+    text: "A video circulated in December 2016 purports to show Syrian parents preparing their young daughters for suicide attacks, with the mother describing jihad as a duty regardless of age.",
+    source: true,
+    standaloneTweets: [
+      "2047207775059554345"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.newarab.com/news/syrian-militant-preps-daughters-suicide-attacks-disturbing-video"
   }
 ]
 

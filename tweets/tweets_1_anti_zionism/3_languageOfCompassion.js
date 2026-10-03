@@ -47,6 +47,28 @@ const examples3 = [
     thenVsNowFormat: true,
     thenTweets: ["2101070408556421184"],
     nowTweets: ["2100991727595049171", "2101414389094011220"]
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-03-21",
+    claimIds: [
+      "3",
+      "45"
+    ],
+    exampleId: "claude-b04-10",
+    keywordIds: [],
+    text: "Former British ambassador and human rights campaigner Craig Murray called an Iranian missile strike near Dimona in southern Israel “Heartwarming.”",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2035443901557817704"
+    ],
+    usTweets: [
+      "2035496154452938773"
+    ]
   }
 ]
 

@@ -121,6 +121,72 @@ const examples2 = [
     standaloneTweets: [],
     themTweets: ["2007628651928367545"],
     usTweets: ["2000939666502004802", "2006429342038114601"]
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-08-05",
+    claimIds: [
+      "2"
+    ],
+    exampleId: "codexB03007",
+    keywordIds: [],
+    text: "The Washington Free Beacon reports that Susan Abulhawa called her Zionist critics parasites and said they deserve contempt and hatred amid criticism of her Simon & Schuster book deal.",
+    source: false,
+    standaloneTweets: [
+      "2085019761188979093"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-03-16",
+    claimIds: [
+      "2",
+      "46",
+      "54",
+      "30w"
+    ],
+    exampleId: "claude-b04-15",
+    keywordIds: [],
+    text: "After Ayman Ghazali attacked Temple Israel in West Bloomfield, Michigan, influencer Matt Bernstein described him as an “extremely gentle and kind person” who was driven to attack the synagogue by Israel's actions.",
+    source: false,
+    standaloneTweets: [
+      "2033511539039408446"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-04-29",
+    claimIds: [
+      "2",
+      "46",
+      "31c"
+    ],
+    exampleId: "claude-b05-19",
+    keywordIds: [
+      "Golders Green",
+      "UK"
+    ],
+    text: "Hours after two Jewish men were stabbed in Golders Green, London, Irish comedian Tadhg Hickey blamed “the only Jewish state” and said Israel's “whole population” is genocidal.",
+    source: true,
+    sourceLink: "https://www.longwarjournal.org/archives/2026/04/2-jewish-men-stabbed-in-london-ashab-al-yamin-claims-attack.php",
+    standaloneTweets: [
+      "2049550079195848793"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

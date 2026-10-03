@@ -60,6 +60,74 @@ const examples6 = [
     standaloneTweets: ["2076939767581724721", "2077223627087294708"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-02-06",
+    claimIds: [
+      "6",
+      "56",
+      "5",
+      "30w"
+    ],
+    exampleId: "codex-20261002-latest50-41",
+    keywordIds: [],
+    text: "The Los Angeles statue of Chiune Sugihara, who rescued Jews during the Holocaust, was defaced with red paint.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2027532907812966748"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://rafu.com/2026/03/vandalism-of-little-tokyos-sugihara-statue-gets-attention-in-japan/"
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-02-26",
+    claimIds: [
+      "6",
+      "20",
+      "21",
+      "56"
+    ],
+    exampleId: "codex-20261003-next50-16",
+    keywordIds: [],
+    text: "Rachel Moiselle reports protests against Israeli attendees at a Google Ireland conference, including a placard displaying Hitler's face meshed with Benjamin Netanyahu.",
+    source: false,
+    standaloneTweets: [
+      "2027017517068059018"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-20",
+    claimIds: [
+      "6",
+      "1"
+    ],
+    exampleId: "codex-20261003-next50-32-r1",
+    keywordIds: [],
+    text: "Div calls the ending of Schindler’s List explicitly Zionist, while Luc Bernard objects to treating the Holocaust film as Zionist propaganda.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2024189644598862035"
+    ],
+    usTweets: [
+      "2024941941834846429"
+    ],
+    sourceLink: "https://letterboxd.com/div_vs_film/film/schindlers-list/"
   }
 ]
 

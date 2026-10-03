@@ -73,6 +73,25 @@ const examples16 = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-07",
+    claimIds: [
+      "16"
+    ],
+    exampleId: "codex-20261002-latest50-21",
+    keywordIds: [],
+    text: "Casey Babb challenges Briahna Joy Gray’s statement that there was no mass rape on October 7, citing survivors he has met and their public accounts.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2030355590682185924"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim16, examples16 };

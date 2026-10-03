@@ -75,6 +75,80 @@ const examples54 = [
     thenVsNowFormat: false,
     themTweets: ["2098425690890666216", "2098228711979888812", "2098377933861601417", "2098472080010346769", "2098110391532343344", "2098537094222053839", "2098052490583314524", "2098357272397090941", "2098462538166067650"],
     usTweets: ["2098883130698719638"]
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-15",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codexB03030",
+    keywordIds: [],
+    text: "At a Queens mosque event where Brad Lander speaks about Gaza, an imam prays for the Mahdi to kill infidels with his sword.",
+    source: true,
+    sourceLink: "https://www.memri.org/node/74993/",
+    standaloneTweets: [
+      "2057357547992940627"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2026-04-27",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codexLikes20260929-2048939836619608279",
+    keywordIds: [],
+    text: "Dave Smith, one of Israel's loudest critics, accused it of genocide and ethnic cleansing, called it no democracy, and called supporters of the Iran war 'traitors.' None of it spared him when Dan Bilzerian aimed an anti-Jewish insult at him during their dispute.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1775224751536906446",
+      "1887173085540893164",
+      "1976827279415427273",
+      "2028144713346187492",
+      "2032118174657761580"
+    ],
+    nowTweets: [
+      "2048939836619608279"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2018-05-15",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "claude-b05-23r-4-finkelstein",
+    keywordIds: [
+      "Gaza",
+      "March of Return"
+    ],
+    text: "In a May 2018 bookstore talk, Norman Finkelstein gave an impassioned speech calling Gaza's Great March of Return a peaceful protest met with mass murder (shared by Zei Squirrel in 2023). Martyrdom notices from May 14, 2018 showed Hamas and Islamic Jihad members among the dead, and Hamas official Salah al-Bardawil said 50 of the 62 killed that day were Hamas members.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1711023211201130738"
+    ],
+    usTweets: [
+      "1764317984116404520",
+      "996355929456238592",
+      "996410606633869313",
+      "996378101029404673",
+      "996790072996442113"
+    ],
+    sourceLink: "https://www.meforum.org/campus-watch/watch-norman-finkelstein-hopes-palestinians"
   }
 ]
 

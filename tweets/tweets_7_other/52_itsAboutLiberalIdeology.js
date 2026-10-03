@@ -60,6 +60,49 @@ const examples52 = [
     standaloneTweets: ["2014250385436033078"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-10",
+    claimIds: [
+      "52"
+    ],
+    exampleId: "codexB03043",
+    keywordIds: [],
+    text: "An Iranian woman who lost an eye during protests against Iran’s government is confronted at a pro-Palestinian demonstration in Berlin.",
+    source: true,
+    sourceLink: "https://www.jpost.com/international/article-895820",
+    standaloneTweets: [
+      "2053560860694794291"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-09-30",
+    claimIds: [
+      "52",
+      "14",
+      "46"
+    ],
+    exampleId: "codex-20261001-inclusive50-03-r1",
+    keywordIds: [],
+    text: "Responses to the September 30 plane hijacking: screenshots invoke Gaza to explain the attacker, Ana Kasparian suggests a possible false flag, and UNN questions whether the incident was real.",
+    source: false,
+    standaloneTweets: [
+      "2105376583024357615",
+      "2105617379916923092",
+      "2105336238500979170"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

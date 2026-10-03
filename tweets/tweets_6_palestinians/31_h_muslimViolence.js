@@ -78,6 +78,26 @@ const examples31h = [
     standaloneTweets: ["2030757523423142301"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2018-02-14",
+    claimIds: [
+      "31h"
+    ],
+    exampleId: "codexLikes20260929-2045929864696647859",
+    keywordIds: [],
+    text: "In a BBC interview with Stacey Dooley, an ISIS detainee claims to have killed hundreds of people and raped women and girls.",
+    source: true,
+    standaloneTweets: [
+      "2045929864696647859"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.youtube.com/watch?v=ECJqr3HN6_Q"
   }
 ]
 

@@ -120,6 +120,45 @@ const ZZtransExamples = [
     standaloneTweets: ["1869509198465372268"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2025-06-30",
+    claimIds: [
+      "Trans001"
+    ],
+    exampleId: "claude-b05-25",
+    keywordIds: [],
+    text: "J.K. Rowling notes that Stephen Ireland, who targeted her with endless abuse over her views on gender, was sentenced to 30 years in prison for child rape.",
+    source: false,
+    standaloneTweets: [
+      "1939783256620298492"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2025-11-03",
+    claimIds: [
+      "Trans001"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-08",
+    keywordIds: [],
+    text: "Elon Musk reacts to reporting about former New Hampshire legislator Stacie-Marie Laughton’s guilty plea in a child-exploitation case.",
+    source: true,
+    standaloneTweets: [
+      "2027078787821969454"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.laconiadailysun.com/news/courts_cops/former-state-rep-laconia-candidate-pleads-guilty-to-child-sex-crimes/article_552c0880-117e-4ba2-93d5-62bb79360221.html"
   }
 ]
 

@@ -253,6 +253,95 @@ const examples14 = [
     standaloneTweets: ["2011122727629853061"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-09-30",
+    claimIds: [
+      "14"
+    ],
+    exampleId: "codex-flydubai-20260930-01",
+    keywordIds: [],
+    text: "False-flag and crisis-actor claims about the September 30, 2026 attempted hijacking of Flydubai Flight FZ1073 from Dubai to Tel Aviv, contrasted with passenger footage and accounts of the wounded captain, passengers and off-duty pilots who helped prevent a catastrophe.",
+    source: true,
+    sourceLink: "https://www.airlineratings.com/articles/what-really-happened-on-the-flydubai-fz1073",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2106199505418772589",
+      "2106155985975013422",
+      "2106167543912431682",
+      "2106070607129673854",
+      "2106163142074286572",
+      "2105754227155087637",
+      "2106176676569002408"
+    ],
+    usTweets: [
+      "2105344723179426043",
+      "2105365423172489653",
+      "2105392931897069615",
+      "2106087058406068330"
+    ]
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2025-09-10",
+    claimIds: [
+      "14"
+    ],
+    exampleId: "codex-kirk-conspiracy-20250910-01-r1",
+    keywordIds: [],
+    text: "Posts blame Israel, Mossad or Jewish influence for Charlie Kirk’s September 10, 2025 murder.",
+    source: true,
+    sourceLink: "https://utahnewsdispatch.com/wp-content/uploads/2025/09/TJR-Information-1.pdf",
+    standaloneTweets: [
+      "2096458040182542706",
+      "2095906455098429454",
+      "2104607595176804464",
+      "1965986297614651903",
+      "2040515545616027734",
+      "2104055569313054915",
+      "2103686289581375593",
+      "2074848586530238768",
+      "2098376410117165448",
+      "2098640273806901514"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2023-10-07",
+    claimIds: [
+      "14"
+    ],
+    exampleId: "codex-hostage-conspiracy-20231007-01-r1",
+    keywordIds: [],
+    text: "Claims that Israeli hostages abducted on October 7, 2023 did not exist or were an Israeli setup, contrasted with English commentary on Hamas’s public handover ceremonies involving the Red Cross.",
+    source: true,
+    sourceLink: "https://www.icrc.org/en/news-release/israel-and-occupied-territories-icrc-facilitates-safe-transfer-three-hostages-and-343-detainees",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1848726860659859801",
+      "1776985469965775050",
+      "1869240512261271753",
+      "1868649162952343631",
+      "1867598655018184809",
+      "1869467092547989879"
+    ],
+    usTweets: [
+      "1883079012601475143",
+      "1888155522743914697",
+      "1892511403862290629"
+    ]
   }
 ]
 

@@ -530,6 +530,84 @@ const examples31a = [
     text: "If you want to see how misinformation goes viral on here. An account with 350 followers posts an AI image of the shooter wearing an IDF sweatshirt and claims it’s from Insta. No link or anything. Mario then promotes that claim to his 3.4 million followers as if it’s factual. Reminsicent of Mohammad Nazal (search 'Mohammad Nazal' to see entry).",
     thenTweets: ["2058242583185207299"],
     nowTweets: ["2058242588084179252", "2058242594899959980", "2058249949846835312"]
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "31a",
+      "52x"
+    ],
+    exampleId: "claude-b05-15",
+    keywordIds: [],
+    text: "An account posted that “Grok just confessed that Jews were behind the poisoning of the wells.” Asked whether the 1348 “confession” was coerced, Grok answered that records explicitly say it was obtained under torture, and that the Black Death was caused by plague bacteria, not poison.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2105106299021312076"
+    ],
+    usTweets: [
+      "2105192806884983125",
+      "2105192963521347691"
+    ]
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2018-05-14",
+    claimIds: [
+      "31a",
+      "52x"
+    ],
+    exampleId: "claude-b05-23r-3",
+    keywordIds: [
+      "Gaza",
+      "Hamas"
+    ],
+    text: "Abby Martin, Susan Abulhawa, Ash Sarkar and others describe Gaza's Great March of Return as a peaceful protest. On May 14, 2018, the day about 60 Gazans were killed at the border fence, martyrdom notices showed members of Hamas's security apparatus, its Qassam Brigades and Islamic Jihad's Al-Quds Brigades among the dead, and Hamas official Salah al-Bardawil said 50 of the 62 killed were Hamas members.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1396548454097162241",
+      "1995429678010499232",
+      "1847140747801133093",
+      "1720532680926691650"
+    ],
+    usTweets: [
+      "1764317984116404520",
+      "996355929456238592",
+      "996410606633869313",
+      "996378101029404673",
+      "996790072996442113"
+    ]
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-06-07",
+    claimIds: [
+      "31a",
+      "4",
+      "12"
+    ],
+    exampleId: "codex-20261001-inclusive50-11-r1",
+    keywordIds: [],
+    text: "A reply challenges an X-ray used in discussion of a Gaza child-shooting investigation, alleging that the image was staged.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2063563145101123812"
+    ],
+    usTweets: [
+      "2063633097837437313"
+    ]
   }
 ]
 

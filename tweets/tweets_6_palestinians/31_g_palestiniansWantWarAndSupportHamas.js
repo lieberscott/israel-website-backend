@@ -151,6 +151,69 @@ const examples31g = [
     standaloneTweets: ["1542438209015218177"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-06-26",
+    claimIds: [
+      "31g"
+    ],
+    exampleId: "codexB03014",
+    keywordIds: [],
+    text: "Mourners at Walid Majdi Haniyeh’s funeral in Gaza invoke Khaybar and chant that October 7 will return.",
+    source: true,
+    sourceLink: "https://www.terrorism-info.org.il/en/spotlight-on-terrorism-june-2026/",
+    standaloneTweets: [
+      "2070536134384381970"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-19",
+    claimIds: [
+      "31g",
+      "31k"
+    ],
+    exampleId: "codexB03025",
+    keywordIds: [],
+    text: "Nawaf Al-Takrouri defends October 7 in religious terms and describes Gaza’s destruction and potentially a million deaths as a price for liberating Al-Aqsa.",
+    source: true,
+    sourceLink: "https://www.newsrael.com/posts/ier5zzz6xo",
+    standaloneTweets: [
+      "2058475306755719541"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-08",
+    claimIds: [
+      "31g",
+      "30w",
+      "27",
+      "31l"
+    ],
+    exampleId: "codex-20261002-latest50-20",
+    keywordIds: [],
+    text: "Hussain Abdul-Hussain reports a Muslim Brotherhood senior media manager from Qatar, Waddah Khanfar, says that Islam must stand with Iran until Israe is destroyed even if tens of thousands of people are killed.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2030670837506887766"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

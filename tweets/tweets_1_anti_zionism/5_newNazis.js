@@ -366,6 +366,144 @@ const examples5 = [
     thenVsNowFormat: false,
     thenTweets: [],
     nowTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-25",
+    claimIds: [
+      "5"
+    ],
+    exampleId: "codexB03023",
+    keywordIds: [],
+    text: "A man in a Nazi costume marches on an Israeli flag outside Boston’s South Station.",
+    source: true,
+    sourceLink: "https://worldisraelnews.com/watch-adolf-hitler-cosplayer-stomps-on-israeli-flag-in-boston/",
+    standaloneTweets: [
+      "2059405559053398442"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-09-29",
+    claimIds: [
+      "5",
+      "6z",
+      "56"
+    ],
+    exampleId: "claude-b04-01",
+    keywordIds: [
+      "NYC"
+    ],
+    text: "A TikTok account that @DanTheZionist identifies as belonging to Bronx Writing Academy science teacher Meera Mangaroo replied to a comment noting that a Jewish-owned ice cream shop is minority-owned: “Yeah we don’t support Jews here.”",
+    source: false,
+    standaloneTweets: [
+      "2104919204109619437"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-04-10",
+    claimIds: [
+      "5",
+      "22",
+      "56"
+    ],
+    exampleId: "claude-b04-06",
+    keywordIds: [
+      "Germany"
+    ],
+    text: "Attackers threw pyrotechnic devices into Eclipse, an Israeli restaurant in Munich, overnight on April 10, 2026, smashing its windows. Police suspected an antisemitic motive; the owner said, “We will not be intimidated.”",
+    source: true,
+    sourceLink: "https://www.euronews.com/2026/04/10/israeli-restaurant-targeted-in-suspected-antisemitic-attack-in-munich",
+    standaloneTweets: [
+      "2042550515964194986"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-04-18",
+    claimIds: [
+      "5",
+      "56",
+      "20"
+    ],
+    exampleId: "claude-b05-21r",
+    keywordIds: [
+      "Vietnam"
+    ],
+    text: "British tourists harassed Israelis in Vietnam: on video, a woman asks a group where they're from, spits out “free Palestine” and shouts “You do not belong in Vietnam.” Reports describe the pair calling an Israeli couple “rats,” “murderers” and “savages”; GnasherJew identified them as Leeds activist Uzma Bashir and her daughter.",
+    source: true,
+    sourceLink: "https://www.timesofisrael.com/british-tourists-hurl-antisemitic-abuse-at-israeli-couple-in-vietnam-rats-running-away/",
+    standaloneTweets: [
+      "2045941173496213643",
+      "2045440570080768482"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-05-03",
+    claimIds: [
+      "5"
+    ],
+    exampleId: "codex-20261001-inclusive50-21-r1",
+    keywordIds: [],
+    text: "Rabbi Poupko contrasts a 1933 photograph of Joseph Goebbels with Rama Duwaji’s reported reaction to learning that Melanie Shiraz was Miss Israel during a Brooklyn cafe encounter.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2051983186767257889"
+    ],
+    nowTweets: [
+      "2051984907476369663"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://worldisraelnews.com/miss-israel-says-nyc-first-lady-ended-cafe-conversation-after-learning-she-was-israeli/amp/"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-15",
+    claimIds: [
+      "5",
+      "18",
+      "20",
+      "56",
+      "11",
+      "3"
+    ],
+    exampleId: "codex-20261003-next50-41",
+    keywordIds: [],
+    text: "Aviva Klompas highlights a campaign targeting Jewish summer camps for children in Canada over their support for Israel.",
+    source: false,
+    standaloneTweets: [
+      "2023233602444808262"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -93,6 +93,56 @@ const examples28 = [
     standaloneTweets: ["2032911755140010165"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-03-14",
+    claimIds: [
+      "28",
+      "31p",
+      "21",
+      "56"
+    ],
+    exampleId: "claude-b04-16",
+    keywordIds: [
+      "QudsDay"
+    ],
+    text: "At New York City's Al-Quds Day rally, protesters chanted “U.S.A., go to hell,” “Khamenei is the leader,” and “Death to Israel,” praised Sinwar, Nasrallah, the IRGC and the Houthis, and called on Iran and Hezbollah to strike Tel Aviv.",
+    source: true,
+    sourceLink: "https://combatantisemitism.org/cam-news/quds-day-rallies-across-western-cities-feature-terror-praise-blood-libels-and-calls-for-israels-destruction/",
+    standaloneTweets: [
+      "2033493200384516543"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-29",
+    claimIds: [
+      "28",
+      "56"
+    ],
+    exampleId: "claude-b05-07r",
+    keywordIds: [
+      "NYC",
+      "boycott"
+    ],
+    text: "Five Jewish members sued Brooklyn's Park Slope Food Coop, alleging an intimidation campaign over its Israel boycott: they were called “racist,” “genocide supporter” and “spiritually disfigured.” In the boycott organizers' Signal chat, one activist wrote “Long live Yahya Al-Sinwar.”",
+    source: true,
+    sourceLink: "https://freebeacon.com/america/long-live-yahya-al-sinwar-brooklyns-park-slope-food-coop-slapped-with-discrimination-suit-for-rampant-antisemitism-crushing-dissent-over-israel-boycott/",
+    standaloneTweets: [
+      "2105295077706698836",
+      "2105031372234735914"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

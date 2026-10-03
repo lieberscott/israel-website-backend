@@ -119,6 +119,223 @@ const examples41 = [
     standaloneTweets: ["2068678473770528998"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-07-15",
+    claimIds: [
+      "41"
+    ],
+    exampleId: "nonIsraelB03010",
+    keywordIds: [],
+    text: "Beira’s Place, the women-only sexual violence support service backed by J.K. Rowling, challenges Amnesty International’s description of it as an anti-rights organisation.",
+    source: false,
+    standaloneTweets: [
+      "2077410523822363105",
+      "2077366128620323213"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-07-16",
+    claimIds: [
+      "41",
+      "58"
+    ],
+    exampleId: "codex-20261001-inclusive50-07-r1",
+    keywordIds: [],
+    text: "D3Shabat posts footage described as an assault on a boy in the West Bank and alleges that people linked to foreign-funded NGOs were responsible.",
+    source: false,
+    standaloneTweets: [
+      "2077671136746242152"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2025-09-03",
+    claimIds: [
+      "41",
+      "45",
+      "31a",
+      "52x"
+    ],
+    exampleId: "codex-20261001-inclusive50-38-r1-r2",
+    keywordIds: [],
+    text: "IAGS’s Gaza genocide resolution is amplified by news outlets and commentators as expert authority; critics respond with screenshots questioning its open membership and the breadth of the vote.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1962510441919250557",
+      "1962478694049648937",
+      "1962473987092386273",
+      "1962490671731794025",
+      "1962548571712233981"
+    ],
+    usTweets: [
+      "1963149316006002934",
+      "1963277842508021818",
+      "1963109594659508652"
+    ],
+    sourceLink: "https://genocidescholars.org/reactions-to-iags-resolution-on-gaza/"
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-07",
+    claimIds: [
+      "41",
+      "52x",
+      "58"
+    ],
+    exampleId: "codex-20261002-latest50-18-r1",
+    keywordIds: [],
+    text: "Amichai Chikli counters B’Tselem’s account of the killing of Amir Shanaran in Khirbet Wadi a-Rakhim with footage he says shows an omitted earlier altercation.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2030315332313714713"
+    ],
+    usTweets: [
+      "2031012538205270238"
+    ]
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-02-18",
+    claimIds: [
+      "41",
+      "4"
+    ],
+    exampleId: "codex-20261003-next50-17",
+    keywordIds: [],
+    text: "CAIR Ohio director Khalid Turaani invokes an allegation about Israel harvesting Palestinian skin during an Ohio Senate hearing.",
+    source: true,
+    standaloneTweets: [
+      "2026490034031845404"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://jewishinsider.com/2026/02/cair-official-khalid-turaani-blood-libel-skin-harvesting-ohio-senate-ihra/"
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2025-04-01",
+    claimIds: [
+      "41",
+      "13"
+    ],
+    exampleId: "codex-20261003-next50-22",
+    keywordIds: [],
+    text: "Gabriel Epstein identifies Samir Suleiman Abu Shawish as a PIJ battalion commander reportedly also associated with the MAAN Development Center.",
+    source: false,
+    standaloneTweets: [
+      "2026369241511837776"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-02-25",
+    claimIds: [
+      "41",
+      "31f",
+      "45"
+    ],
+    exampleId: "codex-20261003-next50-23",
+    keywordIds: [],
+    text: "Eitan Fischberger relays Johnnie Moore’s allegation that Hamas killed Palestinian aid workers and that United Nations Secretary General António Guterres declined a request to condemn it.",
+    source: false,
+    standaloneTweets: [
+      "2026757220117971385"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2023-07-01",
+    claimIds: [
+      "41",
+      "45",
+      "4"
+    ],
+    exampleId: "codex-20261003-next50-34",
+    keywordIds: [],
+    text: "Canary Mission challenges a casualty figure attributed to United Nations special rapporteur Francesca Albanese, using a clip labeled July 2023.",
+    source: false,
+    standaloneTweets: [
+      "2025009110622605314"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2025-10-22",
+    claimIds: [
+      "41",
+      "45"
+    ],
+    exampleId: "codex-20261003-next50-36",
+    keywordIds: [],
+    text: "Hillel Neuer highlights a screenshot of United Nations special rapporteur Francesca Albanese sharing language calling Israel the incarnation of evil.",
+    source: false,
+    standaloneTweets: [
+      "2024617835989705067"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-26",
+    claimIds: [
+      "41"
+    ],
+    exampleId: "codex-20261003-next50-07-r1",
+    keywordIds: [],
+    text: "Eitan Fischberger alleges that Western governments and human-rights organizations ignored warnings about Palestinian charities funding Hamas.",
+    source: false,
+    standaloneTweets: [
+      "2027067141200003166",
+      "2027071081765302371"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

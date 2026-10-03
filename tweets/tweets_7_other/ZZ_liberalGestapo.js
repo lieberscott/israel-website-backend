@@ -145,6 +145,26 @@ const deepDivesExamples = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-14",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "LiberalGestapo-codex-20261003-next50-26-r1",
+    keywordIds: [],
+    text: "Quentin Deranque died on February 14, 2026 after being beaten in Lyon during a confrontation involving far-left activists. An English-language post shares footage of the beating and describes the attack.",
+    source: true,
+    standaloneTweets: [
+      "2022796644497129928"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.lemonde.fr/en/politics/article/2026/02/17/who-was-quentin-deranque-the-far-right-activist-killed-in-lyon_6750585_5.html"
+  }
 ]
 
 module.exports = { deepDivesClaim, deepDivesExamples };

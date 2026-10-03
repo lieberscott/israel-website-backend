@@ -173,6 +173,73 @@ const examples22 = [
     standaloneTweets: ["2009637866213605382"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-05",
+    claimIds: [
+      "22",
+      "21",
+      "56",
+      "28"
+    ],
+    exampleId: "codexB03036-park-east",
+    keywordIds: [],
+    text: "Masked protesters, including a person carrying a Hezbollah flag, gather outside Park East Synagogue in Manhattan.",
+    source: false,
+    standaloneTweets: [
+      "2051825719785722133",
+      "2052038829767278617"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-11",
+    claimIds: [
+      "22",
+      "21",
+      "56"
+    ],
+    exampleId: "codexB03036-brooklyn",
+    keywordIds: [],
+    text: "A march through Brooklyn’s Orthodox Jewish neighborhood approaches a synagogue; posts show the security preparations and the subsequent march.",
+    source: false,
+    standaloneTweets: [
+      "2053986208460513465",
+      "2053996050247983588"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-04-18",
+    claimIds: [
+      "22",
+      "5",
+      "56"
+    ],
+    exampleId: "codexLikes20260929-2045863595783934051",
+    keywordIds: [],
+    text: "Kenton United Synagogue in Harrow was targeted in an arson attack. Metropolitan Police later charged a 17-year-old in connection with the incident.",
+    source: true,
+    standaloneTweets: [
+      "2045842417757159697"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://news.met.police.uk/news/boy-charged-after-kenton-synagogue-arson-attack-508459"
   }
 ]
 

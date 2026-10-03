@@ -18,6 +18,28 @@ const examples31j= [
     usTweets: [],
     additionalNotes: []
   },
+  {
+    dateAdded: "2026-10-02",
+    date: "2014-09-12",
+    claimIds: [
+      "31j",
+      "31h",
+      "27"
+    ],
+    exampleId: "codex-20261002-latest50-43",
+    keywordIds: [],
+    text: "Egyptian scholar Suad Saleh describes enslaving captured women after what she calls a legitimate war and uses war against Israel as an example.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2027367601152663899"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.memri.org/node/14252/"
+  }
 ]
 
 module.exports = { claim31j, examples31j};

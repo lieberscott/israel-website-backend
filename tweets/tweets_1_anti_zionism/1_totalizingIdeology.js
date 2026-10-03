@@ -93,6 +93,66 @@ const examples1 = [
     standaloneTweets: ["2040571117937516712"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-07-02",
+    claimIds: [
+      "1",
+      "5"
+    ],
+    exampleId: "codexB03013",
+    keywordIds: [],
+    text: "David Duke praises far-left politician Darializa Avila Chevalier’s racial rhetoric; the same Free Beacon report describes his praise for Zohran Mamdani’s stance on Israel and his claim of Jewish control over US foreign policy.",
+    source: true,
+    sourceLink: "https://freebeacon.com/politics/darializa-avila-chevaliers-hostility-to-interracial-romances-and-ugly-colonizer-women-earns-praise-from-ex-kkk-grand-wizard-david-duke/",
+    standaloneTweets: [
+      "2072641645019886012"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-05-28",
+    claimIds: [
+      "1"
+    ],
+    exampleId: "codex-20261001-inclusive50-13",
+    keywordIds: [],
+    text: "Canary Mission contrasts Ana Kasparian and Cenk Uygur’s earlier criticism of Candace Owens with Kasparian’s later friendly interview with her.",
+    source: true,
+    standaloneTweets: [
+      "2061510778222465233"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://honestreporting.com/candace-and-ana-when-the-horseshoe-comes-full-circle-on-the-jews/"
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-04-15",
+    claimIds: [
+      "1"
+    ],
+    exampleId: "nonIsrael-codex-20261001-inclusive50-32",
+    keywordIds: [],
+    text: "Open Source Intel shares a compilation of Tucker Carlson discussing Sharia law favorably because it must be praised if it's remotely anti-Israel.",
+    source: false,
+    standaloneTweets: [
+      "2044380859088658583"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -206,6 +206,55 @@ const examples18 = [
     standaloneTweets: ["2083560666862915811", "2083612967401124195"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-23",
+    claimIds: [
+      "18",
+      "5"
+    ],
+    exampleId: "claude-b05-06",
+    keywordIds: [
+      "UK",
+      "Zack Polanski"
+    ],
+    text: "Britain's Green Party moved toward a conference vote on a motion treating Zionism “as any other form of racism.” According to Trisha Posner, members rejected an amendment protecting Jews who attend synagogues or community groups that call themselves Zionist, 67–24.",
+    source: true,
+    sourceLink: "https://www.jewishnews.co.uk/zack-polanski-labels-green-party-zionism-is-racism-motion-an-unhelpful-distraction/",
+    standaloneTweets: [
+      "2105428778520375347"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-11",
+    claimIds: [
+      "18",
+      "5",
+      "56",
+      "30x"
+    ],
+    exampleId: "codex-20261003-next50-45-r1",
+    keywordIds: [],
+    text: "Zohran Mamdani’s pledge to keep Jewish New Yorkers safe is contrasted with Easy Aerial’s Brooklyn Navy Yard lease nonrenewal after protests over the company’s Israeli military ties.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2000227476237173059"
+    ],
+    usTweets: [
+      "2023418826340040877"
+    ],
+    sourceLink: "https://hyperallergic.com/brooklyn-navy-yard-evicts-drone-manufacturer-after-months-of-protests/"
   }
 ]
 

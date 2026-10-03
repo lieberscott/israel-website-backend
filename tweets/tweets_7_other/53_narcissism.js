@@ -27,6 +27,27 @@ const examples53 = [
     standaloneTweets: ["2009862617268105352", "1248823584111439872"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-04",
+    claimIds: [
+      "53"
+    ],
+    exampleId: "nonIsrael-codex-20261002-latest50-30",
+    keywordIds: [],
+    text: "Masih Alinejad rebukes Elizabeth Warren for using Iranian suffering to attack Donald Trump while, she says, neglecting victims of Iran’s regime.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2028968354824745201"
+    ],
+    usTweets: [
+      "2029339196004110444"
+    ]
   }
 ]
 

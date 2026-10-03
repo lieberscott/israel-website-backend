@@ -203,6 +203,29 @@ const examples6z = [
     standaloneTweets: ["2009726630629924936"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "6z",
+      "56"
+    ],
+    exampleId: "claude-b05-05r",
+    keywordIds: [],
+    text: "After the foiled attack on the Israel-bound flydubai flight, Alissa Carrera, a manager at Sethi Law Group, responded “darn it” that Jews weren't harmed. StopAntisemitism later reported she was no longer employed there.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2105402413951881614",
+      "2105442858467827988"
+    ],
+    usTweets: [
+      "2105372381212483997"
+    ]
   }
 ]
 

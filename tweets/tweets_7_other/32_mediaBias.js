@@ -162,6 +162,267 @@ const examples32 = [
     usTweets: [],
     sourceLink: "https://www.jpost.com/diaspora/antisemitism/article-908875"
   },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-09-16",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "codexB03004",
+    keywordIds: [],
+    text: "Jeremy Musighi reports that Israel received the most international news coverage per capita in nine of the past ten years in his analysis of 14.7 million articles.",
+    source: true,
+    sourceLink: "https://jewishbreakingnews.com/huckabee-international-media-may-be-israels-toughest-enemy/",
+    standaloneTweets: [
+      "2100242808091103315",
+      "2100242806400827495",
+      "2100242807302582575"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-05-11",
+    claimIds: [
+      "32",
+      "31b"
+    ],
+    exampleId: "codexB03041",
+    keywordIds: [
+      "Nicolas Kristof",
+      "Nicholas Kristof"
+    ],
+    text: "David Collier challenges the New York Times’ allegations of the IDF training dogs to rape Palestinian prisoners by their reliance on Sami al-Sai, sharing a screenshot of al-Sai that praises fighters following October 7.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2053946218108072307"
+    ],
+    usTweets: [
+      "2053889266707550484"
+    ]
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2026-03-08",
+    claimIds: [
+      "32",
+      "55",
+      "17"
+    ],
+    exampleId: "claude-b04-23",
+    keywordIds: [
+      "Canada"
+    ],
+    text: "At a press conference outside a Toronto synagogue hit by gunfire, the third synagogue shooting in five days, a Toronto Star reporter asked the police chief whether he was worried about Islamophobia, according to Ezra Levant.",
+    source: false,
+    standaloneTweets: [
+      "2030699344014258207"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "32",
+      "52x"
+    ],
+    exampleId: "claude-b05-03r",
+    keywordIds: [
+      "CNN",
+      "New York Times",
+      "AFP",
+      "Wall Street Journal",
+      "Sky News",
+      "BBC"
+    ],
+    text: "An Arab pilot stabbed his co-pilot and attempted to hijak an Israel-bound flydubai flight when Israeli passengers miraculously saved the plane after a nosedive. CNN called it an “altercation,” the New York Times an “altercation between the pilot and co-pilot,” AFP said the pilots “fought,” the WSJ a “struggle,” Sky News a “brawl,” and the BBC a “fight between pilots.” Ben Shapiro: an attempt to murder 180 mostly Israeli passengers by crashing the plane.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2105348825359474896"
+    ],
+    usTweets: [
+      "2105372381212483997"
+    ]
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "claude-b05-03r-bbc",
+    keywordIds: [
+      "BBC"
+    ],
+    text: "The BBC reduced the attempted crash of an Israel-bound flydubai flight, in which one pilot stabbed the other, to a “fight between pilots.” Ben Shapiro: an attempt to murder 180 mostly Israeli passengers.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2105393311414448427"
+    ],
+    usTweets: [
+      "2105372381212483997"
+    ]
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "claude-b05-03r-nyt",
+    keywordIds: [
+      "New York Times"
+    ],
+    text: "In October 2023 the New York Times ran “Israeli Strike Kills Hundreds in Hospital, Palestinians Say” on Hamas's unverified al-Ahli hospital claim. In September 2026 it framed a likely terrorist attempt to crash an Israel-bound flight as an “altercation,” and its spokespeople said the paper doesn't publish speculation.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2105373595190886493"
+    ],
+    nowTweets: [
+      "2105313773179617599",
+      "2105418483487936929"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "claude-b05-03r-hamilton",
+    keywordIds: [
+      "New York Times"
+    ],
+    text: "A.G. Hamilton collects more BBC coverage framing the attack on an Israel-bound flydubai flight as a cockpit altercation. Ben Shapiro: an attempt to murder 180 mostly Israeli passengers by crashing the plane.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2105315785799291224"
+    ],
+    usTweets: [
+      "2105372381212483997"
+    ]
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-09-30",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "claude-b05-03r-yakoby",
+    keywordIds: [
+      "New York Times"
+    ],
+    text: "Eyal Yakoby on the New York Times's flydubai coverage: “Anything that happens to Israelis, the NYT downplays. Anything that happens to Palestinians they exaggerate and then issue a correction.” Ben Shapiro: an attempt to murder 180 mostly Israeli passengers by crashing the plane.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2105282046650458269"
+    ],
+    usTweets: [
+      "2105372381212483997"
+    ]
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-02-26",
+    claimIds: [
+      "32",
+      "45",
+      "17",
+      "4",
+      "31a",
+      "31b",
+      "12"
+    ],
+    exampleId: "codex-20261002-latest50-45",
+    keywordIds: [],
+    text: "Mark Zlochin challenges Zack Polanski’s Sky News claim that Israel kills a classroom of children daily, contrasting it with a recent UNICEF tally.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2027146588867404018"
+    ],
+    usTweets: [
+      "2027357452493095158"
+    ]
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-26",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "codex-20261003-next50-20-r1",
+    keywordIds: [],
+    text: "Yoni Michanie challenges a BBC report that Israeli soldiers left a wounded Palestinian boy to bleed to death; Alex Gandler responds with video and says medical aid was provided.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2027074355864174753"
+    ],
+    usTweets: [
+      "2027087199406039400"
+    ]
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "1995-05-10",
+    claimIds: [
+      "32",
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-38-r1",
+    keywordIds: [],
+    text: "Bill D’Agostino revisits the 1995 CBS 48 Hours episode “Slamming the Door” and its discussion of immigration and displaced American workers.",
+    source: true,
+    standaloneTweets: [
+      "2024579266151588005"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://thetvdb.com/series/48-hours-mystery/allseasons/official"
+  }
 ]
 
 module.exports = { claim32, examples32 };

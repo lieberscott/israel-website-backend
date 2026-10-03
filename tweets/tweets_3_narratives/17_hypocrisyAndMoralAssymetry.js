@@ -198,6 +198,150 @@ const examples17 = [
     thenTweets: ["1995580365868859697"],
     nowTweets: ["2016495461692014737", "2010226175382302829"]
   },
+  {
+    dateAdded: "2026-09-30",
+    date: "2026-03-08",
+    claimIds: [
+      "17",
+      "52x"
+    ],
+    exampleId: "claude-b04-22",
+    keywordIds: [],
+    text: "Rep. Rashida Tlaib posted that 30% of the people killed in Iran in the war were children. Iranian-American Sana Ebrahimi Ledene answers that Tlaib said nothing when the regime killed tens of thousands of protesters.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2030476239476056222"
+    ],
+    usTweets: [
+      "2030668699850399761"
+    ]
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2026-05-29",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codexB03021",
+    keywordIds: [],
+    text: "When an IDF soldier smashed a statue of Jesus in southern Lebanon in April 2026, antizionist commentators with millions of followers erupted; Israel condemned the act and jailed the soldiers. When Hezbollah rockets hit Saint Georges Orthodox Church in Marjaayoun a month later, the same voices were silent.",
+    source: true,
+    sourceLink: "https://5townscentral.com/2026/05/30/northern-israel-faces-heavy-fire-as-leaders-consider-broader-response/",
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2046283478887784451",
+      "2047111673316597764",
+      "2045866140694618237",
+      "2045863197060579648",
+      "2048088683576774970",
+      "2046014438969393616"
+    ],
+    nowTweets: [
+      "2060707801182470587",
+      "2060435812584419357"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2024-11-23",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codexB03005-b",
+    keywordIds: [],
+    text: "Antizionists say they single out Israel because U.S. tax dollars fund its military. Turkey, a NATO member that also buys U.S.-made fighter jets, faced no global outrage, protests or campus encampments over its own military's conduct under Erdogan.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1756348194034741352",
+      "1876997648021938667"
+    ],
+    usTweets: [
+      "1860313754761576882",
+      "1860691037372465630",
+      "1751062804793020780",
+      "1763459424192978988",
+      "2074410602131304738"
+    ]
+  },
+  {
+    dateAdded: "2026-09-30",
+    date: "2021-03-06",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codexB03005",
+    keywordIds: [],
+    text: "Antizionists say they single out Israel because U.S. tax dollars fund its military. Turkey, a NATO member that also receives U.S. weapons, has police detaining LGBT activists while its government says it won't allow “homosexuality propaganda,” and draws no comparable protest movement.",
+    source: true,
+    sourceLink: "https://www.duvarenglish.com/turkish-govt-says-it-wont-allow-homosexuality-propaganda-as-police-detain-lgbt-activists-news-56532",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1756348194034741352",
+      "1876997648021938667"
+    ],
+    usTweets: [
+      "1368811264206647296",
+      "1751062804793020780",
+      "1763459424192978988",
+      "2074410602131304738",
+      "1860313754761576882"
+    ]
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-06",
+    claimIds: [
+      "17",
+      "41",
+      "45"
+    ],
+    exampleId: "codex-20261002-latest50-26",
+    keywordIds: [],
+    text: "Hillel Neuer contrasts UN and Amnesty International campaigns against cluster bombs with their response to reported Iranian cluster-munition attacks on Israeli cities.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2029914553232855270"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-25",
+    claimIds: [
+      "17",
+      "32"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-18-r1",
+    keywordIds: [],
+    text: "Clay Travis contrasts a 2012 MSNBC response to Tim Thomas skipping Obama’s White House visit with reactions to hockey players visiting Trump.",
+    source: false,
+    standaloneTweets: [
+      "2026710161323159942"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim17, examples17 };

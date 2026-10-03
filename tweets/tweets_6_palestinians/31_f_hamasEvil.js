@@ -82,6 +82,28 @@ const examples31f = [
     standaloneTweets: ["2047801041823969673"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2025-12-09",
+    claimIds: [
+      "31f",
+      "51",
+      "10"
+    ],
+    exampleId: "codex-20261002-latest50-44",
+    keywordIds: [],
+    text: "A New York Post headline reports Ahmed Fouad Alkhatib’s allegation that Hamas stored infant formula and nutritional supplies instead of distributing them.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2027192210496614848"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jpost.com/middle-east/article-879971"
   }
 ]
 
