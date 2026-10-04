@@ -293,26 +293,7 @@ const examples31o = [
     themTweets: [],
     usTweets: []
   },
-  {
-    dateAdded: "2026-10-01",
-    date: "2013-01-01",
-    claimIds: [
-      "31o"
-    ],
-    exampleId: "nonIsrael-codex-20261001-inclusive50-28",
-    keywordIds: [],
-    text: "A resurfaced Young Turks clip shows Cenk Uygur arguing that certain forms of bestiality should be legal.",
-    source: true,
-    standaloneTweets: [
-      "2047785507132703229"
-    ],
-    thenVsNowFormat: false,
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: [],
-    sourceLink: "https://dailycaller.com/2019/11/28/cenk-uygur-legalize-bestiality/"
-  },
+  
   {
     dateAdded: "2026-10-01",
     date: "2026-04-18",
@@ -413,26 +394,7 @@ const examples31o = [
     usTweets: [],
     sourceLink: "https://www.youtube.com/watch?v=FfEUXndMFXA&t=3018s"
   },
-  {
-    dateAdded: "2026-10-03",
-    date: "2026-01-11",
-    claimIds: [
-      "31o"
-    ],
-    exampleId: "nonIsrael-codex-20261003-next50-37-r1",
-    keywordIds: [],
-    text: "A clip shared by Dr. Maalouf is described as showing a Christian preacher attacked in Tampa while sharing the Bible.",
-    source: true,
-    standaloneTweets: [
-      "2024251154457043269"
-    ],
-    thenVsNowFormat: false,
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: [],
-    sourceLink: "https://www.usasupreme.com/islamification-in-florida-muslims-assault-christian-preacher-in-tampa-the-reason-is-infuriating/"
-  },
+  
   {
     dateAdded: "2026-10-03",
     date: "2026-02-16",
@@ -455,26 +417,7 @@ const examples31o = [
       "2023455695392194737"
     ]
   },
-  {
-    dateAdded: "2026-10-03",
-    date: "2021-05-23",
-    claimIds: [
-      "31o"
-    ],
-    exampleId: "nonIsrael-codex-20261003-next50-43-r1",
-    keywordIds: [],
-    text: "At a London counter-demonstration, Mohammed Hijab told a police officer that dogs brought by pro-Israel demonstrators would be killed if they came near his group again.",
-    source: true,
-    standaloneTweets: [
-      "1969904976844497268"
-    ],
-    thenVsNowFormat: false,
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: [],
-    sourceLink: "https://cst.org.uk/public/data/file/4/a/The_Month_of_Hate.pdf"
-  }
+  
 ]
 
 module.exports = { claim31o, examples31o };

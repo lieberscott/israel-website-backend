@@ -50,25 +50,7 @@ const examples55x = [
     themTweets: [],
     usTweets: []
   },
-  {
-    dateAdded: "2026-10-02",
-    date: "2026-02-27",
-    claimIds: [
-      "55x"
-    ],
-    exampleId: "nonIsrael-codex-20261002-latest50-40-r2",
-    keywordIds: [],
-    text: "Drew Pavlou accuses Armand Decker of defending Pakistani grooming gangs by comparing harm to white and Pakistani girls.",
-    source: false,
-    thenVsNowFormat: false,
-    standaloneTweets: [
-      "2027558951915819230"
-    ],
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: []
-  }
+  
 ]
 
 module.exports = { claim55x, examples55x };

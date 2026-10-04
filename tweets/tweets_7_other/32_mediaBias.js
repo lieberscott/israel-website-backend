@@ -402,27 +402,7 @@ const examples32 = [
       "2027087199406039400"
     ]
   },
-  {
-    dateAdded: "2026-10-03",
-    date: "1995-05-10",
-    claimIds: [
-      "32",
-      "17"
-    ],
-    exampleId: "nonIsrael-codex-20261003-next50-38-r1",
-    keywordIds: [],
-    text: "Bill D’Agostino revisits the 1995 CBS 48 Hours episode “Slamming the Door” and its discussion of immigration and displaced American workers.",
-    source: true,
-    standaloneTweets: [
-      "2024579266151588005"
-    ],
-    thenVsNowFormat: false,
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: [],
-    sourceLink: "https://thetvdb.com/series/48-hours-mystery/allseasons/official"
-  }
+  
 ]
 
 module.exports = { claim32, examples32 };

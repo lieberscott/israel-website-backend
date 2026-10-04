@@ -322,26 +322,7 @@ const examples17 = [
     themTweets: [],
     usTweets: []
   },
-  {
-    dateAdded: "2026-10-03",
-    date: "2026-02-25",
-    claimIds: [
-      "17",
-      "32"
-    ],
-    exampleId: "nonIsrael-codex-20261003-next50-18-r1",
-    keywordIds: [],
-    text: "Clay Travis contrasts a 2012 MSNBC response to Tim Thomas skipping Obama’s White House visit with reactions to hockey players visiting Trump.",
-    source: false,
-    standaloneTweets: [
-      "2026710161323159942"
-    ],
-    thenVsNowFormat: false,
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: []
-  }
+  
 ]
 
 module.exports = { claim17, examples17 };

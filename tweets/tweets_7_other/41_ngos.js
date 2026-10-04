@@ -120,26 +120,7 @@ const examples41 = [
     themTweets: [],
     usTweets: []
   },
-  {
-    dateAdded: "2026-09-29",
-    date: "2026-07-15",
-    claimIds: [
-      "41"
-    ],
-    exampleId: "nonIsraelB03010",
-    keywordIds: [],
-    text: "Beira’s Place, the women-only sexual violence support service backed by J.K. Rowling, challenges Amnesty International’s description of it as an anti-rights organisation.",
-    source: false,
-    standaloneTweets: [
-      "2077410523822363105",
-      "2077366128620323213"
-    ],
-    thenVsNowFormat: false,
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: []
-  },
+  
   {
     dateAdded: "2026-10-02",
     date: "2026-07-16",

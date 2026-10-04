@@ -161,6 +161,32 @@ const examples56 = [
     ],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-15",
+    claimIds: [
+      "56",
+      "20"
+    ],
+    exampleId: "codex-20261003-next50-40-r1-r2",
+    keywordIds: [],
+    text: "Spike Lee wore Palestinian symbols during NBA All-Star weekend, when Deni Avdija made his debut as the first Israeli All-Star. Hen Mazzig criticizes the display as intruding on Avdija’s achievement; The Persian Jewess explicitly alleges Lee wore the flag to harass him. Emily Austin challenges Lee’s claim that he did not know who Avdija was.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2022841220540534935"
+    ],
+    usTweets: [
+      "2023389462219149486",
+      "2024502788999565760",
+      "2023969452962771339",
+      "2024025898081493334"
+    ],
+    sourceLink: "https://www.timesofisrael.com/spike-lee-wears-pro-palestinian-outfits-to-nba-all-star-game-featuring-1st-israeli/"
   }
 ]
 

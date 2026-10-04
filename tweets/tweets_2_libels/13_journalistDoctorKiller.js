@@ -785,6 +785,31 @@ const examples13 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2024-06-08",
+    claimIds: [
+      "13",
+      "44"
+    ],
+    exampleId: "codex-20261003-next50-21-r1-r2",
+    keywordIds: [],
+    text: "CTV’s reporting on journalists killed in Gaza is contrasted with rescue footage of Almog Meir Jan, Andrey Kozlov and Shlomi Ziv, who the IDF says were held in journalist and Hamas operative Abdallah Aljamal’s family home.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2026826946508730682"
+    ],
+    usTweets: [
+      "2063687120959488015",
+      "1800230129597403161"
+    ],
+    sourceLink: "https://www.idf.il/en/mini-sites/idf-press-releases-israel-at-war/operation-arnon-4-hostages-rescued-from-the-heart-of-gaza/hostages-held-in-abdallah-aljamals-family-home/",
+    starred: true
   }
 ]
 

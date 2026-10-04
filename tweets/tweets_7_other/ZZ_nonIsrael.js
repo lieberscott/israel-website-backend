@@ -279,6 +279,247 @@ const ZZNonIsraelExamples = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2026-04-15",
+    claimIds: [
+      "1"
+    ],
+    exampleId: "nonIsrael-codex-20261001-inclusive50-32",
+    keywordIds: [],
+    text: "Open Source Intel shares a compilation of Tucker Carlson discussing Sharia law favorably because it must be praised if it's remotely anti-Israel.",
+    source: false,
+    standaloneTweets: [
+      "2044380859088658583"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-25",
+    claimIds: [
+      "17",
+      "32"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-18-r1",
+    keywordIds: [],
+    text: "Clay Travis contrasts a 2012 MSNBC response to Tim Thomas skipping Obama’s White House visit with reactions to hockey players visiting Trump.",
+    source: false,
+    standaloneTweets: [
+      "2026710161323159942"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "1998-01-27",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "nonIsrael-codex-20261002-latest50-38-r1",
+    keywordIds: [],
+    text: "Hillary Clinton invokes a “vast right-wing conspiracy” in a Today interview during the Monica Lewinsky scandal.",
+    source: true,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2027456554417459623"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://americanarchive.org/catalog/cpb-aacip-507-pc2t43jt59"
+  },
+  {
+    dateAdded: "2026-10-01",
+    date: "2013-01-01",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261001-inclusive50-28",
+    keywordIds: [],
+    text: "A resurfaced Young Turks clip shows Cenk Uygur arguing that certain forms of bestiality should be legal.",
+    source: true,
+    standaloneTweets: [
+      "2047785507132703229"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://dailycaller.com/2019/11/28/cenk-uygur-legalize-bestiality/"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-11",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-37-r1",
+    keywordIds: [],
+    text: "A clip shared by Dr. Maalouf is described as showing a Christian preacher attacked in Tampa while sharing the Bible.",
+    source: true,
+    standaloneTweets: [
+      "2024251154457043269"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.usasupreme.com/islamification-in-florida-muslims-assault-christian-preacher-in-tampa-the-reason-is-infuriating/"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2021-05-23",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-43-r1",
+    keywordIds: [],
+    text: "At a London counter-demonstration, Mohammed Hijab told a police officer that dogs brought by pro-Israel demonstrators would be killed if they came near his group again.",
+    source: true,
+    standaloneTweets: [
+      "1969904976844497268"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://cst.org.uk/public/data/file/4/a/The_Month_of_Hate.pdf"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "1995-05-10",
+    claimIds: [
+      "32",
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-38-r1",
+    keywordIds: [],
+    text: "Bill D’Agostino revisits the 1995 CBS 48 Hours episode “Slamming the Door” and its discussion of immigration and displaced American workers.",
+    source: true,
+    standaloneTweets: [
+      "2024579266151588005"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://thetvdb.com/series/48-hours-mystery/allseasons/official"
+  },
+  {
+    dateAdded: "2026-09-29",
+    date: "2026-07-15",
+    claimIds: [
+      "41"
+    ],
+    exampleId: "nonIsraelB03010",
+    keywordIds: [],
+    text: "Beira’s Place, the women-only sexual violence support service backed by J.K. Rowling, challenges Amnesty International’s description of it as an anti-rights organisation.",
+    source: false,
+    standaloneTweets: [
+      "2077410523822363105",
+      "2077366128620323213"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-03-04",
+    claimIds: [
+      "53"
+    ],
+    exampleId: "nonIsrael-codex-20261002-latest50-30",
+    keywordIds: [],
+    text: "Masih Alinejad rebukes Elizabeth Warren for using Iranian suffering to attack Donald Trump while, she says, neglecting victims of Iran’s regime.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2028968354824745201"
+    ],
+    usTweets: [
+      "2029339196004110444"
+    ]
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-06-21",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "nonIsrael-codex-20261001-inclusive50-08-r1",
+    keywordIds: [],
+    text: "Birmingham footage shows a man being assaulted and then arrested; a later police statement says he punched an officer, while a Community Note disputes the police response.",
+    source: true,
+    standaloneTweets: [
+      "2072954221796671912",
+      "2072954497404473657"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://dailysceptic.org/2026/07/03/two-tier-justice-row-as-police-arrest-white-man-assaulted-by-black-men/"
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2026-02-27",
+    claimIds: [
+      "55x"
+    ],
+    exampleId: "nonIsrael-codex-20261002-latest50-40-r2",
+    keywordIds: [],
+    text: "Drew Pavlou accuses Armand Decker of defending Pakistani grooming gangs by comparing harm to white and Pakistani girls.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [
+      "2027558951915819230"
+    ],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2025-11-03",
+    claimIds: [
+      "Trans001"
+    ],
+    exampleId: "nonIsrael-codex-20261003-next50-08",
+    keywordIds: [],
+    text: "Elon Musk reacts to reporting about former New Hampshire legislator Stacie-Marie Laughton’s guilty plea in a child-exploitation case.",
+    source: true,
+    standaloneTweets: [
+      "2027078787821969454"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.laconiadailysun.com/news/courts_cops/former-state-rep-laconia-candidate-pleads-guilty-to-child-sex-crimes/article_552c0880-117e-4ba2-93d5-62bb79360221.html"
   }
 ]
 

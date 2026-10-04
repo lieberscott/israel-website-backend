@@ -29,6 +29,25 @@ const examples31b = [
       "2053890774769541416",
       "2053890665612812745"
     ]
+  },
+  {
+    dateAdded: "2026-10-02",
+    date: "2024-06-24",
+    claimIds: [
+      "31b"
+    ],
+    exampleId: "codex-20261001-inclusive50-17-r1-r2",
+    keywordIds: [],
+    text: "Brooke Goldstein condemns the allegation that the IDF trained dogs to rape Palestinians.",
+    source: false,
+    standaloneTweets: [
+      "1805243953454752011"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

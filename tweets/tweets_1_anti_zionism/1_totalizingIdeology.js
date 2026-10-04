@@ -135,25 +135,7 @@ const examples1 = [
     usTweets: [],
     sourceLink: "https://honestreporting.com/candace-and-ana-when-the-horseshoe-comes-full-circle-on-the-jews/"
   },
-  {
-    dateAdded: "2026-10-01",
-    date: "2026-04-15",
-    claimIds: [
-      "1"
-    ],
-    exampleId: "nonIsrael-codex-20261001-inclusive50-32",
-    keywordIds: [],
-    text: "Open Source Intel shares a compilation of Tucker Carlson discussing Sharia law favorably because it must be praised if it's remotely anti-Israel.",
-    source: false,
-    standaloneTweets: [
-      "2044380859088658583"
-    ],
-    thenVsNowFormat: false,
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: []
-  }
+  
 ]
 
 module.exports = { claim1, examples1 };

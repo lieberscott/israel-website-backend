@@ -377,26 +377,7 @@ const examples30x = [
     themTweets: [],
     usTweets: []
   },
-  {
-    dateAdded: "2026-10-02",
-    date: "1998-01-27",
-    claimIds: [
-      "30x"
-    ],
-    exampleId: "nonIsrael-codex-20261002-latest50-38-r1",
-    keywordIds: [],
-    text: "Hillary Clinton invokes a “vast right-wing conspiracy” in a Today interview during the Monica Lewinsky scandal.",
-    source: true,
-    thenVsNowFormat: false,
-    standaloneTweets: [
-      "2027456554417459623"
-    ],
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: [],
-    sourceLink: "https://americanarchive.org/catalog/cpb-aacip-507-pc2t43jt59"
-  }
+  
 ]
 
 module.exports = { claim30x, examples30x };

@@ -49,27 +49,7 @@ const examples55 = [
     themTweets: [],
     usTweets: []
   },
-  {
-    dateAdded: "2026-10-02",
-    date: "2026-06-21",
-    claimIds: [
-      "55"
-    ],
-    exampleId: "nonIsrael-codex-20261001-inclusive50-08-r1",
-    keywordIds: [],
-    text: "Birmingham footage shows a man being assaulted and then arrested; a later police statement says he punched an officer, while a Community Note disputes the police response.",
-    source: true,
-    standaloneTweets: [
-      "2072954221796671912",
-      "2072954497404473657"
-    ],
-    thenVsNowFormat: false,
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: [],
-    sourceLink: "https://dailysceptic.org/2026/07/03/two-tier-justice-row-as-police-arrest-white-man-assaulted-by-black-men/"
-  }
+  
 ]
 
 module.exports = { claim55, examples55 };
