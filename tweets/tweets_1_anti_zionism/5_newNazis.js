@@ -504,6 +504,25 @@ const examples5 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-09",
+    claimIds: [
+      "5"
+    ],
+    exampleId: "codex-20261003b-next50-12",
+    keywordIds: [],
+    text: "The MilkBarTV juxtaposes Candace Owens clips with Nazi propaganda about Jews.",
+    source: false,
+    standaloneTweets: [
+      "2021070236938797197"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

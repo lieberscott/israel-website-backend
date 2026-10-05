@@ -140,6 +140,90 @@ const examples33 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://haipo.co.il/en/item/593346"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "1960-06-23",
+    claimIds: [
+      "33",
+      "41",
+      "45"
+    ],
+    exampleId: "codex-20261003b-next50-30",
+    keywordIds: [],
+    text: "The United Nations Security Council voted 8-0 to condemn Israel’s capture of one of the architects of the Holocaust, Adolf Eichmann, from Argentina in June 1960.",
+    source: true,
+    standaloneTweets: [
+      "2015924508524224803"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://unscr.com/en/resolutions/138/"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "1967-01-01",
+    claimIds: [
+      "33",
+      "54"
+    ],
+    exampleId: "codex-20261003b-next50-46",
+    keywordIds: [],
+    text: "Nazi Hunters counters Zachary Foster’s denial of rhetoric about throwing Jews into the sea with an image described as Arab propaganda from 1967.",
+    source: false,
+    standaloneTweets: [
+      "2013972333099143181"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "1967-05-01",
+    claimIds: [
+      "33",
+      "31g",
+      "31r"
+    ],
+    exampleId: "codex-20261004-next100-017",
+    keywordIds: [],
+    text: "CptAllenHistory shares an attributed 1967 Arab broadcast threatening Jews before the Six-Day War. \"Slaughter! Have no mercy on a Jew … Kill, smash, slaughter and tomorrow we will throw the bodies of the Jews into the sea.\"",
+    source: false,
+    standaloneTweets: [
+      "2012932270793818449"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "1967-05-27",
+    claimIds: [
+      "33",
+      "31g",
+      "30w"
+    ],
+    exampleId: "codex-20261004-next100-026",
+    keywordIds: [],
+    text: "CptAllenHistory shares material presenting destruction of Israel as an Arab objective in 1967.",
+    source: false,
+    standaloneTweets: [
+      "2012199315947590140"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

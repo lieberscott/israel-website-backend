@@ -273,6 +273,28 @@ const examples11 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://threadreaderapp.com/thread/2047302389288292697.html"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-20",
+    claimIds: [
+      "11",
+      "17",
+      "30x",
+      "52"
+    ],
+    exampleId: "codex-20261003b-next50-41-r1",
+    keywordIds: [],
+    text: "Taylor Lorenz repeats “Hundreds of thousands of toddlers and BABIES” while rejecting casualty figures without “independent investigators”; Noam Blum highlights the contrasting standards in her posts.",
+    source: false,
+    standaloneTweets: [
+      "2013714349425062019"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

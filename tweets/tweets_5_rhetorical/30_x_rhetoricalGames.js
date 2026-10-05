@@ -377,7 +377,94 @@ const examples30x = [
     themTweets: [],
     usTweets: []
   },
-  
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-20",
+    claimIds: [
+      "30x",
+      "30w"
+    ],
+    exampleId: "codex-20261003b-next50-40",
+    keywordIds: [],
+    text: "Max Nordau contrasts a description of posts as merely “critical of Israel” with screenshots containing explicit calls to kill Jews.",
+    source: false,
+    standaloneTweets: [
+      "2013698926377857433"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-26",
+    claimIds: [
+      "30x",
+      "17"
+    ],
+    exampleId: "codex-20261003b-next50-22-r1",
+    keywordIds: [],
+    text: "Joo contrasts Zarah Sultana’s praise of Thiago Ávila, who attended Hassan Nasrallah’s funeral, with her Holocaust remembrance message.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2015915174885019865",
+      "2015562368462262560"
+    ],
+    nowTweets: [
+      "2015884577089405283"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://today.lorientlejour.com/article/1449088/influencers-aligned-with-hezbollah-invited-to-the-funeral.html"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2025-11-05",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "codex-20261004-next100-047",
+    keywordIds: [],
+    text: "Zohran Mamdani’s participation in an antizionist Free Palestine chant is contrasted with his later pledge to stand with Jewish New Yorkers and root antisemitism out of the city.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1983931613823037693"
+    ],
+    nowTweets: [
+      "1986116380735778835"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-09-27",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "codex-20261004-next100-083",
+    keywordIds: [],
+    text: "Antizionist chants at AOC’s September 2026 Ithaca event are contrasted with her January condemnation of pro-Hamas chanting in a Jewish Queens neighborhood.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2104658159444836486"
+    ],
+    nowTweets: [
+      "2009797398894452980",
+      "2009430503582257396"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://townhall.com/news/amy-curtis/2026/09/28/crowd-sings-from-river-to-the-sea-at-aoc-event-n2683687"
+  }
 ]
 
 module.exports = { claim30x, examples30x };

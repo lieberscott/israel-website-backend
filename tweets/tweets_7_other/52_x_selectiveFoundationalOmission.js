@@ -33,6 +33,26 @@ const examples52x = [
     thenVsNowFormat: true,
     thenTweets: ["1760088208828756104", "1749841680822411307", "1985283034971558338"],
     nowTweets: ["2101665216731746490", "2100991727595049171", "2101414389094011220"]
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-15",
+    claimIds: [
+      "52x",
+      "31a"
+    ],
+    exampleId: "codex-20261004-next100-032",
+    keywordIds: [],
+    text: "A compilation contrasts an edited accusation against Shabbos Kestenbaum with fuller remarks about prosecuting vandalism of a synagogue.",
+    source: false,
+    standaloneTweets: [
+      "2012010689649688886"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -810,6 +810,28 @@ const examples13 = [
     ],
     sourceLink: "https://www.idf.il/en/mini-sites/idf-press-releases-israel-at-war/operation-arnon-4-hostages-rescued-from-the-heart-of-gaza/hostages-held-in-abdallah-aljamals-family-home/",
     starred: true
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-04",
+    claimIds: [
+      "13"
+    ],
+    exampleId: "codex-20261003b-next50-14-r1",
+    keywordIds: [],
+    text: "The IDF says Muhammad Essam Hassan Habil, linked to Noa Marciano’s murder in captivity, was killed on February 4, 2026. Her father said a doctor murdered her by injecting air into her veins.",
+    source: true,
+    standaloneTweets: [
+      "2019124394187182375",
+      "2019425632862789730",
+      "2019129699059003696"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.euronews.com/2025/12/12/gaza-doctor-murdered-israeli-hostage-by-injecting-air-into-her-veins-father-claims"
   }
 ]
 

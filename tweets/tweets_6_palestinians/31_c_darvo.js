@@ -170,6 +170,56 @@ const examples31c = [
     thenVsNowFormat: true,
     thenTweets: ["2016119299182600476"],
     nowTweets: ["2016098279587524972"]
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-15",
+    claimIds: [
+      "31c",
+      "6",
+      "16",
+      "30x",
+      "52"
+    ],
+    exampleId: "codex-20261004-next100-030",
+    keywordIds: [],
+    text: "A post criticizes an Islamophobia-focused legislative response after the Bondi attack on Jews.",
+    source: false,
+    standaloneTweets: [
+      "2011889551799947643"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-13",
+    claimIds: [
+      "31c",
+      "52",
+      "30x"
+    ],
+    exampleId: "codex-20261004-next100-054",
+    keywordIds: [],
+    text: "After terrorists killed 15 people at a Jewish Hanukkah celebration at Bondi Beach, Australia’s response is prioritizing protection against Islamophobia over confronting Islamist extremism.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2000592575091331247",
+      "2000651544375509125",
+      "2000491143856070691",
+      "2000713056267989491",
+      "2000641812470333525"
+    ],
+    nowTweets: [
+      "2011096617164685814"
+    ],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

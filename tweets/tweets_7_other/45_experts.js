@@ -130,6 +130,72 @@ const examples45 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-19",
+    claimIds: [
+      "45",
+      "11",
+      "4",
+      "12"
+    ],
+    exampleId: "codex-20261003b-next50-42-r1",
+    keywordIds: [],
+    text: "Mark Zlochin introduces a thread challenging the origins and reasoning behind the claim that 680,000 Palestinians were killed in Gaza.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2012952176570540273"
+    ],
+    usTweets: [
+      "2013989971565150516",
+      "2013989974476042536",
+      "2013989977529430082",
+      "2013989980025074096",
+      "2013989982675870076",
+      "2013989986878558290",
+      "2013989990435344757",
+      "2013989993371295745",
+      "1879532794679820506",
+      "1879532799402619317",
+      "1879532802078556160",
+      "1879532804196732943",
+      "1879532806415462649",
+      "1879532808609103883",
+      "1879532811725521183",
+      "1879532814208540815",
+      "1879532817320751286",
+      "1879532820349034778"
+    ]
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-10",
+    claimIds: [
+      "45",
+      "24",
+      "1"
+    ],
+    exampleId: "codex-20261004-next100-066",
+    keywordIds: [],
+    text: "As Iran massacred anti-regime protesters, a screenshot attributes to scholar David Miller a demand to liquidate the Zionist threat rather than show leniency.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2010145223314120824",
+      "2010061611755569397",
+      "2012846128304156865"
+    ],
+    nowTweets: [
+      "2010103030142971932"
+    ],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

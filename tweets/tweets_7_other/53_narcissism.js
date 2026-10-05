@@ -28,7 +28,26 @@ const examples53 = [
     themTweets: [],
     usTweets: []
   },
-  
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-10",
+    claimIds: [
+      "53",
+      "55"
+    ],
+    exampleId: "codex-20261004-next100-070",
+    keywordIds: [],
+    text: "White Pro-Hamas liberals harass Iranians at an anti-Islamic Regime rally in Washington State.\n\nBecause nothing says moral narcissism like a white woman telling Iranian refugees that opposing the terrorist Islamic Regime is “Islamophobic.” ",
+    source: false,
+    standaloneTweets: [
+      "2010191800087224428"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim53, examples53 };

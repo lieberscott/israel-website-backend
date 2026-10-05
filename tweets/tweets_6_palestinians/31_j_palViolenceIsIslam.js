@@ -39,6 +39,27 @@ const examples31j= [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.memri.org/node/14252/"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-17",
+    claimIds: [
+      "31j",
+      "31i",
+      "31l"
+    ],
+    exampleId: "codex-20261004-next100-012",
+    keywordIds: [],
+    text: "A speaker is captioned as calling Jews and Christians monkeys and pigs, and saying that dehumanizing them makes it easier to kill them.",
+    source: false,
+    standaloneTweets: [
+      "2012702585463972115"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

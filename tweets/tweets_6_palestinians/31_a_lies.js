@@ -608,6 +608,57 @@ const examples31a = [
     usTweets: [
       "2063633097837437313"
     ]
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-18",
+    claimIds: [
+      "31a",
+      "45",
+      "11"
+    ],
+    exampleId: "codex-20261003b-next50-49-r1-r1",
+    keywordIds: [],
+    text: "Mark Zlochin and Wilfred Reilly challenge Nerdeen Kiswani and Sarah Wilkinson’s claims that Israel killed 680,000 Palestinians, including 380,000 children under five, citing Gaza’s prewar child population as reported by the Palestinian Bureau of statistics.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2012952176570540273",
+      "1966576333464477724"
+    ],
+    usTweets: [
+      "1966761302463791142",
+      "2013291775104852361",
+      "2014782688776093920"
+    ],
+    sourceLink: "https://www.pcbs.gov.ps/en/post-details/?postId=20542"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-14",
+    claimIds: [
+      "31a",
+      "52x"
+    ],
+    exampleId: "codex-20261004-next100-045",
+    keywordIds: [],
+    text: "David Bernstein challenges a claim that Ethiopian Jewish women were forcibly sterilized, distinguishing contraceptive injections from permanent sterilization.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2011523946131435712"
+    ],
+    usTweets: [
+      "2011643677223907538",
+      "2011737695920292342"
+    ],
+    sourceLink: "https://law.acri.org.il/en/wp-content/uploads/2013/02/Gamzu-letter.pdf"
   }
 ]
 

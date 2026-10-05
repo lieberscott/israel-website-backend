@@ -417,7 +417,84 @@ const examples31o = [
       "2023455695392194737"
     ]
   },
-  
+  {
+    dateAdded: "2026-10-03",
+    date: "1979-11-04",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261003b-next50-29-r1",
+    keywordIds: [],
+    text: "Nioh Berg contrasts Masoumeh Ebtekar’s anti-American rhetoric and role in the 1979 hostage crisis with the claim that her child lives in the United States.",
+    source: false,
+    standaloneTweets: [
+      "2016105424647266704"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-16",
+    claimIds: [
+      "31o",
+      "31l"
+    ],
+    exampleId: "codex-20261004-next100-004",
+    keywordIds: [],
+    text: "Drew Pavlou shares a Brisbane, Australia (Holland Park) imam's remarks describing Jews as enemies, alongside an earlier clip attributed to the same speaker.",
+    source: false,
+    standaloneTweets: [
+      "2013544868140704029"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-14",
+    claimIds: [
+      "31o",
+      "30"
+    ],
+    exampleId: "codex-20261004-next100-048",
+    keywordIds: [],
+    text: "A speaker is captioned as advocating Islamic rule in America and jihad by action or speech.",
+    source: false,
+    standaloneTweets: [
+      "2011371975537557984"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-08",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261005-feedback-094",
+    keywordIds: [],
+    text: "A Dearborn, Michigan man threatens to kill people who burn the Quran and their families during a discussion with Nick Shirley.",
+    source: false,
+    standaloneTweets: [
+      "2009447622151737612"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim31o, examples31o };

@@ -74,6 +74,26 @@ const examples31i = [
     sourceLink: "https://www.memri.org/tv/palestinian-sheikh-yusuf-makharza-muhammad-aisha-marry-nine-years-old-menstruation-marriage-cedaw-criticize",
     standaloneTweets: ["2025671808897486908"]
   },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-01",
+    claimIds: [
+      "31i"
+    ],
+    exampleId: "codex-20261003b-next50-23",
+    keywordIds: [],
+    text: "Open Source Intel shares a Pakistani JUI-F leader’s opposition to a minimum marriage age, framed as religious justification for child marriage.",
+    source: true,
+    standaloneTweets: [
+      "2015852758394359949"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://mmnews.tv/will-arrange-marriages-of-youth-maulana-vows-to-defy-under-18-marriage-law/"
+  }
 ]
 
 module.exports = { claim31i, examples31i };

@@ -155,6 +155,31 @@ const examples24 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.frontpagemag.com/florida-dem-senate-nominees-muslim-social-media-manager-called-for-white-jews-to-die/"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "24",
+      "28",
+      "6y",
+      "20",
+      "5",
+      "56",
+      "30w"
+    ],
+    exampleId: "codex-20261004-next100-095",
+    keywordIds: [],
+    text: "Heidi Bachram shares a London antizionist rally outside an Israeli food business with rhetoric supporting resistance and destruction of Israel by any means necessary.",
+    source: false,
+    standaloneTweets: [
+      "2009703089855717614"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

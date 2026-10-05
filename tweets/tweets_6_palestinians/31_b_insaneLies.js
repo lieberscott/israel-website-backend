@@ -48,6 +48,26 @@ const examples31b = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-21",
+    claimIds: [
+      "31b",
+      "4"
+    ],
+    exampleId: "codex-20261003b-next50-47",
+    keywordIds: [],
+    text: "Max Nordau challenges Sarah Wilkinson’s claim about Israeli soldiers raising kittens and killing them during training, comparing it to the film Kingsman.",
+    source: false,
+    standaloneTweets: [
+      "2013990231771369830"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

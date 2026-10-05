@@ -317,6 +317,162 @@ const examples41 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-20",
+    claimIds: [
+      "41",
+      "45"
+    ],
+    exampleId: "codex-20261003b-next50-38-r1",
+    keywordIds: [],
+    text: "UN Watch responds to the United Nations' Philippe Lazzarini with a report alleging extensive links between UNRWA personnel and terrorist organizations.",
+    source: true,
+    standaloneTweets: [
+      "2014024441634705470",
+      "1968321924733554870",
+      "1968321937656213944",
+      "1968321957021290627",
+      "1968321978236055715"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://unwatch.org/unrwa-terror-network/"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-10",
+    claimIds: [
+      "41",
+      "45"
+    ],
+    exampleId: "codex-20261003b-next50-13-r1",
+    keywordIds: [],
+    text: "Hen Mazzig contrasts the United Nations’s firing of Alice Nderitu, who refused to call Gaza a genocide, while renewing the contract of special rapporteur Francesca Albanese  who has made comments implying Israelis eat human flesh, saying Israelis have no humanity, and calling Israel the enemy of humanity. The neutral, professional United Nations.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2021246055744934324",
+      "1872548894225371578",
+      "2019361378461495666",
+      "2020971081150894366",
+      "2020983308818186721",
+      "2026995039038009430"
+    ],
+    usTweets: [
+      "2013979325977010525"
+    ]
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2024-12-27",
+    claimIds: [
+      "41",
+      "45",
+      "30x"
+    ],
+    exampleId: "codex-20261003b-next50-13-r1-flesh",
+    keywordIds: [],
+    text: "United Nations special rapporteur Francesca Albanese replies to a claim about Jews eating human flesh by noting that while Israelis may do that, Jews don't. And doesn't see any connection between this and global hatred of Jews.",
+    source: false,
+    standaloneTweets: [
+      "1872548894225371578"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-07",
+    claimIds: [
+      "41",
+      "45"
+    ],
+    exampleId: "codex-20261003b-next50-13-r1-forum",
+    keywordIds: [],
+    text: "United Nations special rapporteur Francesca Albanese participates in an Al Jazeera forum whose announced speakers include Hamas leader Khaled Mashaal and Iran’s foreign minister. Legitimizing this movement is what perpetuates the war.",
+    source: false,
+    standaloneTweets: [
+      "2019361378461495666"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-07",
+    claimIds: [
+      "41",
+      "45",
+      "30x"
+    ],
+    exampleId: "codex-20261003b-next50-13-r1-enemy-r1",
+    keywordIds: [],
+    text: "Hen Mazzig accuses Francesca Albanese of calling Israel humanity’s enemy; Albanese makes some rhetorical loops but this is why Jews are being hunted all over the world, because of antizionist rot and libel. They can not be separated.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2020983308818186721"
+    ],
+    usTweets: [
+      "2020971081150894366"
+    ]
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-14",
+    claimIds: [
+      "41"
+    ],
+    exampleId: "codex-20261004-next100-035",
+    keywordIds: [],
+    text: "Qatar secretly hired a Western PR firm to manipulate Wikipedia.\n\nQatar paid Portland Communications to remove, downplay, and reframe coverage of its human rights abuses, migrant labor exploitation, and 2022 World Cup scandals.",
+    source: false,
+    standaloneTweets: [
+      "2012231594975629771"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-11",
+    claimIds: [
+      "41",
+      "17",
+      "45"
+    ],
+    exampleId: "codex-20261004-next100-061",
+    keywordIds: [],
+    text: "Over the weekend, the United Nations posted about Gaza twice, the ozone layer, hate speech online, Uganda, Syria, and World Hindi Day. Not a single word about the hundreds of young Iranians slaughtered by the regime during protests.",
+    source: false,
+    standaloneTweets: [
+      "2010393338038370384"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

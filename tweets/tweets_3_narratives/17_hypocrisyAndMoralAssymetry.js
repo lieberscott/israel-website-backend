@@ -322,7 +322,99 @@ const examples17 = [
     themTweets: [],
     usTweets: []
   },
-  
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-25",
+    claimIds: [
+      "17",
+      "31c"
+    ],
+    exampleId: "codex-20261003b-next50-21",
+    keywordIds: [],
+    text: "Adin Haykin responds sarcastically to Sana Saeed’s criticism of unsourced Iranian protest-death estimates.",
+    source: false,
+    standaloneTweets: [
+      "2015802411059736845"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-28",
+    claimIds: [
+      "17",
+      "30x"
+    ],
+    exampleId: "codex-20261003b-next50-17-r1",
+    keywordIds: [],
+    text: "Barack Obama’s November 2023 remarks describe the occupation as unbearable; Neil Stone contrasts those remarks with Obama’s response to Iran’s crackdown, alongside footage and reported death estimates.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1720906811488751969"
+    ],
+    nowTweets: [
+      "2015456128331587924",
+      "2010383278222741523",
+      "2015668161329213915",
+      "2015370233800696303",
+      "2016602428771115056"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-25",
+    claimIds: [
+      "17",
+      "41"
+    ],
+    exampleId: "codex-20261003b-next50-44-r1",
+    keywordIds: [],
+    text: "South Africa announces its genocide case against Israel; UN Watch contrasts that action with South Africa’s reported failure to endorse an urgent Iran session, followed by reporting of a 30,000-plus Iranian death estimate.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1740801747528876533",
+      "1750834513666568469"
+    ],
+    nowTweets: [
+      "2014041805713727838",
+      "2015284388553015636"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-10",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codex-20261004-next100-060",
+    keywordIds: [],
+    text: "Videos of Columbia’s antizionist encampment are contrasted with the fact that the campus failed to show any outrage over Iran killing its own protesters.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1782251012863963544",
+      "1783154734997684250",
+      "1781018453358371283"
+    ],
+    nowTweets: [
+      "2010212846148431932"
+    ],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim17, examples17 };

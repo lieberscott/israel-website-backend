@@ -143,6 +143,50 @@ const examples28 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2024-10-07",
+    claimIds: [
+      "28",
+      "31p",
+      "56"
+    ],
+    exampleId: "codex-20261004-next100-024",
+    keywordIds: [],
+    text: "At a Vancouver rally on October 7, 2024, a speaker declares support for Hamas and Hezbollah and leads death chants against Canada and the United States. \"Death to the United States.\" \"Death to Canada\"",
+    source: true,
+    standaloneTweets: [
+      "2012197522802913369"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.fswc.ca/news/fswc-outraged-by-public-celebrations-of-october-7-atrocities-and-support-for-hamas-and-hezbollah-on-canadian-streets"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-08",
+    claimIds: [
+      "28",
+      "21",
+      "6y",
+      "56"
+    ],
+    exampleId: "codex-20261004-feedback-queens-pro-hamas",
+    keywordIds: [],
+    text: "Protesters in a predominantly Jewish Queens neighborhood chant: “Say it loud, say it clear, we support Hamas here.”",
+    source: false,
+    standaloneTweets: [
+      "2009430503582257396"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

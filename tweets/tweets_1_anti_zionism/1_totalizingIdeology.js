@@ -135,7 +135,65 @@ const examples1 = [
     usTweets: [],
     sourceLink: "https://honestreporting.com/candace-and-ana-when-the-horseshoe-comes-full-circle-on-the-jews/"
   },
-  
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-27",
+    claimIds: [
+      "1",
+      "5"
+    ],
+    exampleId: "codex-20261003b-next50-28",
+    keywordIds: [],
+    text: "Canary Mission juxtaposes older and newer Young Turks clips, alleging that Cenk Uygur and Ana Kasparian now repeat anti-Jewish tropes they once condemned.",
+    source: false,
+    standaloneTweets: [
+      "2016129042836046308"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-01",
+    claimIds: [
+      "1",
+      "17"
+    ],
+    exampleId: "codex-20261004-next100-044",
+    keywordIds: [],
+    text: "Free Palestiner uses all 3 of her braincells to explain why she won't call to FREE IRAN. \"Oh the brave women in Iran! I'm so sorry. Are there not women in Gaza?!\" Post by Dahlia Kurtz",
+    source: false,
+    standaloneTweets: [
+      "2011809070424916333"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-08",
+    claimIds: [
+      "1"
+    ],
+    exampleId: "codex-20261004-next100-097",
+    keywordIds: [],
+    text: "A post shows Iranian state television using Tucker Carlson material while reporting an internet blackout affecting protesters.",
+    source: false,
+    standaloneTweets: [
+      "2009374052389966266"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim1, examples1 };

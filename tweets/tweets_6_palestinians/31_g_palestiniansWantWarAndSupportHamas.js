@@ -214,6 +214,27 @@ const examples31g = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2022-12-12",
+    claimIds: [
+      "31g",
+      "31l",
+      "31p"
+    ],
+    exampleId: "codex-20261003b-next50-19",
+    keywordIds: [],
+    text: "A December 2022 Mahmoud al-Zahar interview invokes Islamic prophecy and describes a worldwide order without Zionism or “treacherous Christianity.”",
+    source: false,
+    standaloneTweets: [
+      "1712532259830407580"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

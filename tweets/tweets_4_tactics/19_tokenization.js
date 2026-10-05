@@ -16,6 +16,30 @@ const examples19 = [
     standaloneTweets: ["1785082357667799209"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-18",
+    claimIds: [
+      "19",
+      "54",
+      "55"
+    ],
+    exampleId: "codex-20261004-next100-013",
+    keywordIds: [],
+    text: "Jacqueline Outram denounces Israeli settlers as murderers and thieves, but invokes Aboriginal land when challenged about her own family living in Australia; replies expose her double standard.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2012972149711966509",
+      "2012753027594396059"
+    ],
+    usTweets: [
+      "2012882710440694002"
+    ]
   }
 ]
 

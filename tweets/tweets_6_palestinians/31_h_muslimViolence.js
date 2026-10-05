@@ -98,6 +98,27 @@ const examples31h = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.youtube.com/watch?v=ECJqr3HN6_Q"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-22",
+    claimIds: [
+      "31h",
+      "31i"
+    ],
+    exampleId: "codex-20261003b-next50-36-r1",
+    keywordIds: [],
+    text: "A Syrian fighter displays a braid he claims to have taken from a Kurdish female fighter, prompting outrage over humiliation and abuse.",
+    source: true,
+    standaloneTweets: [
+      "2015217662264000677"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.newarab.com/news/syrian-fighter-holds-braid-sdf-womans-hair-causes-outrage"
   }
 ]
 

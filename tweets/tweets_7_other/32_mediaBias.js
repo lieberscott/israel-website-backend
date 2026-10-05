@@ -402,7 +402,117 @@ const examples32 = [
       "2027087199406039400"
     ]
   },
-  
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-10",
+    claimIds: [
+      "32",
+      "52x"
+    ],
+    exampleId: "codex-20261003b-next50-07",
+    keywordIds: [],
+    text: "NPR says the Palestinian Authority's pay for slay program, which pays families of terrorists who murder or maim Jews, \"a controversial program that pays the families of Palestinians who are detained in Israeli jails or killed or injured by the Israeli military.\"",
+    source: false,
+    standaloneTweets: [
+      "2021141376507711583"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-27",
+    claimIds: [
+      "32",
+      "52x",
+      "46"
+    ],
+    exampleId: "codex-20261003b-next50-20-r1",
+    keywordIds: [],
+    text: "CNN and TRT report Gaza cemetery destruction in 2024; Aizenberg contrasts that reporting with the January 2026 recovery of Ran Gvili’s remains from a Gaza cemetery, accompanied by IDF footage and photographs.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1749427947746779334",
+      "1749420366970359923"
+    ],
+    nowTweets: [
+      "2016201281321189886",
+      "2015837229965255020",
+      "2016179393333277165"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://transcripts.cnn.com/show/ampr/date/2026-01-26/segment/01"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-18",
+    claimIds: [
+      "32",
+      "17",
+      "1"
+    ],
+    exampleId: "codex-20261004-next100-005",
+    keywordIds: [],
+    text: "A post contrasts claimed New York Times coverage totals for Gaza with Mosul, Tigray and Syria.",
+    source: false,
+    standaloneTweets: [
+      "2012921494297333866"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-20",
+    claimIds: [
+      "32",
+      "52x"
+    ],
+    exampleId: "codex-20261004-next100-002",
+    keywordIds: [],
+    text: "David Collier challenges the BBC's football-pitch demolition story for omitting the pitch's proximity to Israel's security fence and disputes the legality of its construction.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2013543231158378787"
+    ],
+    usTweets: [
+      "2013577832954270199",
+      "2013617018839175439"
+    ]
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "32",
+      "46"
+    ],
+    exampleId: "codex-20261004-next100-086",
+    keywordIds: [],
+    text: "Joe Truzman shares a Community Note challenging Sky News for foregrounding Iran’s claim that Israel and the United States caused the violence, pointing instead to regime forces shooting protesters.",
+    source: false,
+    standaloneTweets: [
+      "2009743905659785217"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim32, examples32 };

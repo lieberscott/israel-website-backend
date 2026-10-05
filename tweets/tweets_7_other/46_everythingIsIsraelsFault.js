@@ -118,6 +118,31 @@ const examples46 = [
     themTweets: [],
     usTweets: []
   },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-14",
+    claimIds: [
+      "46",
+      "1",
+      "14"
+    ],
+    exampleId: "codex-20261004-next100-051",
+    keywordIds: [],
+    text: "Candace Owens calls Iran’s uprising a Jewish psyop and denies reports of protesters being killed.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2011450237030949029"
+    ],
+    usTweets: [
+      "2012846128304156865",
+      "2012736424781484270",
+      "2015253685488554414"
+    ]
+  }
 ]
 
 module.exports = { claim46, examples46 };

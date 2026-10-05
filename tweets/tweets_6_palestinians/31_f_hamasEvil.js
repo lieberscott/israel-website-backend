@@ -104,6 +104,28 @@ const examples31f = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.jpost.com/middle-east/article-879971"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2008-02-29",
+    claimIds: [
+      "31f",
+      "31k",
+      "31g"
+    ],
+    exampleId: "codex-20261004-next100-010",
+    keywordIds: [],
+    text: "Fathi Hammad praises using women, children and elderly people as human shields in an Al-Aqsa TV appearance.",
+    source: true,
+    standaloneTweets: [
+      "2013405863898190142"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://palwatch.org/page/1382"
   }
 ]
 

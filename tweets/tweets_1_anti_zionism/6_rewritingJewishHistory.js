@@ -128,6 +128,46 @@ const examples6 = [
       "2024941941834846429"
     ],
     sourceLink: "https://letterboxd.com/div_vs_film/film/schindlers-list/"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-09",
+    claimIds: [
+      "6",
+      "41"
+    ],
+    exampleId: "codex-20261003b-next50-04-r1",
+    keywordIds: [],
+    text: "Michael Elgort and Shlomit Lir demonstrate that English Wikipedia editors removed Hebrew and Eretz Yisrael terminology from descriptions of Jewish history.",
+    source: false,
+    standaloneTweets: [
+      "2021024090610598127"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-02-09",
+    claimIds: [
+      "6",
+      "41"
+    ],
+    exampleId: "codex-20261003b-next50-04-r1-shlomit",
+    keywordIds: [],
+    text: "Shlomit Lir documents English Wikipedia edits replacing Hebrew terminology in descriptions of inscriptions from biblical Jerusalem with Canaanite terminology.",
+    source: false,
+    standaloneTweets: [
+      "2020949698958283104"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -520,6 +520,989 @@ const ZZNonIsraelExamples = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.laconiadailysun.com/news/courts_cops/former-state-rep-laconia-candidate-pleads-guilty-to-child-sex-crimes/article_552c0880-117e-4ba2-93d5-62bb79360221.html"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-01",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261003b-next50-48",
+    keywordIds: [],
+    text: "Collin Rugg shares footage of women calling a Black ICE agent a “race traitor” and insulting him during an anti-ICE confrontation.",
+    source: false,
+    standaloneTweets: [
+      "2013757469001163052"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-01",
+    claimIds: [
+      "4",
+      "11",
+      "12",
+      "30x",
+      "52"
+    ],
+    exampleId: "nonIsrael-codex-20261003b-next50-43-r1",
+    keywordIds: [],
+    text: "Wall Street Apes shares a Portland anti-ICE rally speech invoking babies, women and “systems of oppression” while organizing “freedom fighters.”",
+    source: false,
+    standaloneTweets: [
+      "2013831433337610655"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-01",
+    claimIds: [
+      "31l",
+      "21",
+      "51"
+    ],
+    exampleId: "nonIsrael-codex-20261003b-next50-24-r1",
+    keywordIds: [],
+    text: "Antizionist participants attacking anti-regime Iranians in Gothenburg, Sweden. They oppose Israel because Israel is \"occupying\" Palestine, whereas Iran literally is occupying Palestine through their proxy Hamas. But the protestors don't care because they don't care about Palestinians. It's just hate of Israel and all their excuses are lies.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2015745225067520144"
+    ],
+    usTweets: [
+      "1936319815418843316",
+      "1002551446708064256"
+    ],
+    sourceLink: "https://home.treasury.gov/news/press-releases/jy2036"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-25",
+    claimIds: [
+      "32",
+      "17",
+      "Iran"
+    ],
+    exampleId: "nonIsrael-codex-20261003b-next50-26-r1-r1",
+    keywordIds: [],
+    text: "Saul Sadka records BBC homepages with little visible Iran coverage; Raylan Givens contrasts Iran and Gaza death estimates, while a separate media study measures extensive coverage of Israel, including BBC airtime.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2015487248859365453",
+      "2015820189904814323"
+    ],
+    usTweets: [
+      "2100940151111426461",
+      "2015462355589542029",
+      "2100242808091103315",
+      "2100242807302582575"
+    ],
+    sourceLink: "https://profound.af/center-of-attention"
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2025-07-22",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261003b-next50-31-r1-r1",
+    keywordIds: [],
+    text: "A 2010 Obama immigration-enforcement clip is contrasted with Bernie Sanders opposing mass deportations and Democratic Rep. Lauren Underwood challenging the Trump administration’s deportation practices in 2025.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2015921101696585788"
+    ],
+    nowTweets: [
+      "1947691167992213886",
+      "1919814729402306866"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2025-12-22",
+    claimIds: [
+      "32",
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261003b-next50-06-r1-r1-r1",
+    keywordIds: [],
+    text: "A January 2024 CNN discussion cautions against conspiracy theories about Epstein documents and discusses Bill Clinton; ABC and CBS videos in late 2025 cover survivors’ and lawmakers’ demands to release the files.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2021048735023718800"
+    ],
+    nowTweets: [
+      "2003103879634751929",
+      "2002427953141932147",
+      "2002167873347744033",
+      "1999128898374664276",
+      "1991275414489018637",
+      "1990970634072158356"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2025-07-22",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261003b-next50-31-r1-r1-bernie-r1",
+    keywordIds: [],
+    text: "Bernie Sanders rejects open borders as a Koch brothers proposal in a 2015 interview, then argues in 2025 that undocumented immigrants perform essential work and opposes mass deportations.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2011870591004131714"
+    ],
+    nowTweets: [
+      "1947691167992213886"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.vox.com/2015/7/28/9014491/bernie-sanders-vox-conversation"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-19",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-006",
+    keywordIds: [],
+    text: "A Philadelphia reporter shares footage of an assault and pepper-spray incident on a bus, attributing it to an Antifa supporter who was calling him racist and fascist.",
+    source: false,
+    standaloneTweets: [
+      "2013389457001488420"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-19",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-007",
+    keywordIds: [],
+    text: "This chart/research report shows liberals are more likely than Conservatives and Moderates to think it's justified for citizens to use violence to achieve political goals. Young Liberals are especially open to violence.",
+    source: false,
+    standaloneTweets: [
+      "2013334463498068338"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-17",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-018",
+    keywordIds: [],
+    text: "A report criticizes the Stek Oost housing experiment after allegations of sexual assault and intimidation involving residents.",
+    source: false,
+    standaloneTweets: [
+      "2012470905931227493"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-16",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-025",
+    keywordIds: [],
+    text: "“We are not interested in peace...Fascism has arrived”. Operation Inflation, the far-left group that takes donations to buy costumes to make violent Antifa and far-left rioting look like a children’s event on camera, has released a video urging violence.  Post by Andy Ngo.",
+    source: false,
+    standaloneTweets: [
+      "2012286496472997953"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2021-08-16",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-042",
+    keywordIds: [],
+    text: "A screenshot contains a reply defending the Taliban and claiming the United States kills more gay people.",
+    source: false,
+    standaloneTweets: [
+      "2011823283377758267"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-01",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-059",
+    keywordIds: [],
+    text: "A video is presented by its poster as communists reacting angrily to firearms.",
+    source: false,
+    standaloneTweets: [
+      "2010100045375517092"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2021-11-25",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-069",
+    keywordIds: [],
+    text: "Carol Adams argues at the Oxford Union that meat consumption is connected to misogyny, racism and white supremacy.",
+    source: true,
+    standaloneTweets: [
+      "2010058990395564516"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://caroljadams.com/carol-adams-blog/the-oxford-union-debate-on-this-house-would-move-beyond-meat"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-10",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-072",
+    keywordIds: [],
+    text: "A post shares polling about approval of breaking the law to oppose ICE among young liberal women.",
+    source: false,
+    standaloneTweets: [
+      "2010062609177870355"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-073",
+    keywordIds: [],
+    text: "A video presents an anti-ICE confrontation in Rochester, Minnesota, as escalating obstruction of enforcement.",
+    source: false,
+    standaloneTweets: [
+      "2009797585339592914"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-076",
+    keywordIds: [],
+    text: "A clip shows Portland's police chief discussing alleged gang connections of people shot by federal agents and cautioning against victim-blaming.",
+    source: false,
+    standaloneTweets: [
+      "2010012142259581176"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-10",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-079",
+    keywordIds: [],
+    text: "A graphic claims the UK leads other countries in arrests for social-media comments.",
+    source: false,
+    standaloneTweets: [
+      "2009907467707396554"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-081",
+    keywordIds: [],
+    text: "One of our Real America’s Voice camera operators was peacefully eating at a diner when a radical liberal extremist suddenly exploded — screaming “Nazi” and “fascist” before throwing Fireball whiskey in his face.",
+    source: false,
+    standaloneTweets: [
+      "2009765287411773732"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2014-04-17",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-082",
+    keywordIds: [],
+    text: "TIME Magazine: Your baby is a racist",
+    source: true,
+    standaloneTweets: [
+      "2009538551483126097"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://time.com/67092/baby-racists-survival-strategy/"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-08",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-091",
+    keywordIds: [],
+    text: "A video is presented as a Minneapolis protest speaker calling for arson in response to Renee Good's death.",
+    source: false,
+    standaloneTweets: [
+      "2009425814941495537"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-19",
+    claimIds: [
+      "31o",
+      "30"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-001",
+    keywordIds: [],
+    text: "A UK cleric is captioned as saying Islam seeks to dominate through war rather than coexist with other religions.",
+    source: false,
+    standaloneTweets: [
+      "2013309132145619110"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-18",
+    claimIds: [
+      "2"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-011",
+    keywordIds: [],
+    text: "Protesters harass Christian families at Cities Church in St. Paul, calling worshippers Nazis and rapists while portraying their disruption as justified opposition to ICE.",
+    source: true,
+    standaloneTweets: [
+      "2013286726593032492"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.justice.gov/usao-mn/cities-church-case-information"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-18",
+    claimIds: [
+      "31i"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-014",
+    keywordIds: [],
+    text: "IShowSpeed is considering ending his African tour early after he went to Algeria and experienced how Algerians treat black people. He visited a stadium in Algeria, and the fans started throwing trash at him. He fought back tears as he had to leave the stadium.",
+    source: false,
+    standaloneTweets: [
+      "2012956701792583866"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-18",
+    claimIds: [
+      "55x"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-016",
+    keywordIds: [],
+    text: "A protester screams at worshippers in a Minnesota church and attacks them as comfortable white people living lavish lives.",
+    source: true,
+    standaloneTweets: [
+      "2013001721551712401"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.justice.gov/usao-mn/cities-church-case-information"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-16",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-023",
+    keywordIds: [],
+    text: "Tom Homan received a distinguished-service award under Obama, then faced accusations of racism and hostile confrontations from Democratic politicians and media commentary over immigration enforcement under Trump.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2012216913682731403"
+    ],
+    nowTweets: [
+      "1149800444362973186",
+      "1149861857223684099",
+      "1891162688534818887",
+      "1923174815109628228"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2022-06-04",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-029",
+    keywordIds: [],
+    text: "A 2022 study using OKCupid profile data reports an association between unnatural hair colors and self-reported depression.",
+    source: true,
+    standaloneTweets: [
+      "2011835298326417719"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.researchgate.net/publication/361085409_Blue_Hair_and_the_Blues_Dying_Your_Hair_Unnatural_Colours_is_Associated_with_Depression"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-15",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-031",
+    keywordIds: [],
+    text: "A Michigan teacher says she was forced to take a whiteness test and pressured to reduce discipline for Black students.",
+    source: false,
+    standaloneTweets: [
+      "2011924892640510092"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-15",
+    claimIds: [
+      "52",
+      "53"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-036",
+    keywordIds: [],
+    text: "Germany's delegation laughed at Trump's warning about dependence on Russian energy in 2018; in 2026 Chancellor Merz called Germany's nuclear phaseout a serious strategic mistake.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2011994457055641720"
+    ],
+    nowTweets: [
+      "2011884192075038998"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-15",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-037",
+    keywordIds: [],
+    text: "New York Times headline 12 years ago: \"Cancel the Midterms because they derail Obama's agenda and are too White.\" While Democrats clutch pearls about Trump saying something like that today.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2011921290295226560"
+    ],
+    nowTweets: [
+      "2011860207589007376"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://scholars.duke.edu/publication/1294590"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-15",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-038",
+    keywordIds: [],
+    text: "A claim that immigrants lived peacefully under Obama is contrasted with contemporary reporting on Obama-era immigration raids by ICE that children cried and they went into homes without warrants. But there was no widespread protests during Obama years.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2011950718748402068"
+    ],
+    usTweets: [
+      "2011955561626034303"
+    ]
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-14",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-039",
+    keywordIds: [],
+    text: "A Nick Shirley interview clip shows criticism of fraud investigations being answered with allegations of anti-Muslim racism.",
+    source: false,
+    standaloneTweets: [
+      "2011573462003806513"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-15",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-041",
+    keywordIds: [],
+    text: "Tim Walz blamed Trump’s rhetoric for January 6, then urged Minnesotans to document ICE activity; the posts contrast his treatment of political mobilization under the two circumstances.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1841307223533764787"
+    ],
+    nowTweets: [
+      "2011867037937606803"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://mspmag.com/arts-and-culture/minnesota-political-leaders-respond-insurrection-at-us-capitol/"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "1989-06-04",
+    claimIds: [
+      "55",
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-049",
+    keywordIds: [],
+    text: "The New York Times described Khomeini as an unwavering spiritual leader; a counterpoint cites Montazeri's account of female prisoners being raped before execution under the regime he led.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2011443938075541684"
+    ],
+    usTweets: [
+      "2011742286305247737"
+    ],
+    sourceLink: "https://wncri.org/2015/11/13/female-prisoners-virgins-raped/"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-14",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-052",
+    keywordIds: [],
+    text: "A post lists claimed welfare-dependency rates among Somali diaspora populations.",
+    source: false,
+    standaloneTweets: [
+      "2011326921808785778"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-10",
+    claimIds: [
+      "32",
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-057",
+    keywordIds: [],
+    text: "Videos show Biden faltering in the debate and at public events, contrasted with MAZE’s compilation of flattering Atlantic headlines about Biden and its later denunciation of Trump’s America.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1806497892548689921",
+      "1802370687845474327",
+      "1802743522895749456"
+    ],
+    nowTweets: [
+      "2010143763721793905"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-11",
+    claimIds: [
+      "53"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-064",
+    keywordIds: [],
+    text: "A video shows an exclusionary response to Trump supporters while invoking a liberal or inclusive self-image.",
+    source: false,
+    standaloneTweets: [
+      "2010187661257101519"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-10",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-071",
+    keywordIds: [],
+    text: "A compilation contrasts media responses to Ashli Babbitt's death with reactions to Renee Good's death.",
+    source: false,
+    standaloneTweets: [
+      "2010120421702881352"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-080",
+    keywordIds: [],
+    text: "An interview clip shows a woman labeling Trump and JD Vance white supremacists while struggling to explain the label in the excerpt.",
+    source: false,
+    standaloneTweets: [
+      "2009695189896704199"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-08",
+    claimIds: [
+      "55x",
+      "55"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-085",
+    keywordIds: [],
+    text: "A protester tells a woman mourning Renee Good that her white tears and white privilege are unhelpful, exposing racial hostility within the supposedly compassionate protest.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2009472976463495257"
+    ],
+    usTweets: [
+      "2009542321046441997"
+    ]
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "53",
+      "31c"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-088",
+    keywordIds: [],
+    text: "A post contrasts Houston Wade's accusations against Republicans with a reported child-sex-related arrest.",
+    source: false,
+    standaloneTweets: [
+      "2009732194533626065"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-089",
+    keywordIds: [],
+    text: "A short clip is presented as Seattle Mayor Katie Wilson refusing to investigate alleged daycare fraud.",
+    source: false,
+    standaloneTweets: [
+      "2009747330824864122"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-08",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-093",
+    keywordIds: [],
+    text: "A post shares a Thomas Sowell-attributed aphorism contrasting equal treatment with modern accusations of racism.",
+    source: false,
+    standaloneTweets: [
+      "2009357490937581857"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2019-07-12",
+    claimIds: [
+      "53",
+      "3"
+    ],
+    exampleId: "nonIsrael-codex-20261004-feedback-homan-garcia",
+    keywordIds: [],
+    text: "Chuy García accuses Tom Homan of not caring about migrant children because of their race; Homan responds that he held a dead five-year-old boy and that preventing such deaths is why he does the work.",
+    source: false,
+    standaloneTweets: [
+      "1856224083425321381",
+      "1149800444362973186"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-14",
+    claimIds: [
+      "32",
+      "52"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-050",
+    keywordIds: [],
+    text: "Commentators challenge no-contact accounts of Renee Good’s shooting with officer-perspective video and a CBS report that Jonathan Ross suffered internal injuries.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2011517320997585336",
+      "2009753179182014734",
+      "2009431744332619981"
+    ],
+    usTweets: [
+      "2011479226885558314"
+    ],
+    sourceLink: "https://www.cbsnews.com/amp/news/ice-officer-who-shot-renee-good-internal-injuries-sources-say/"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-08",
+    claimIds: [
+      "32",
+      "17",
+      "30x"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-090",
+    keywordIds: [],
+    text: "NPR labeled anti-Maduro opposition leader and Nobel Peace Prize winner María Corina Machado far-right while she thanked Trump for supporting Venezuela’s freedom; her own posts supply the context of opposition to Maduro’s dictatorship.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2009463504663896490"
+    ],
+    usTweets: [
+      "1976642376119549990",
+      "2008194629200498801"
+    ],
+    sourceLink: "https://www.nprillinois.org/2025-10-11/nobel-prize-winner-machado-says-venezuela-is-in-chaos-under-current-regime"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "17",
+      "52x"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-092",
+    keywordIds: [],
+    text: "A no-one-is-above-the-law montage about Trump is contrasted with condemnation of ICE raids from Schiff, Goldman, Swalwell and Pelosi, alongside CNN coverage and Maddow’s comments.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2009667884491125081"
+    ],
+    usTweets: [
+      "2008981916955898281",
+      "2009645093616230802",
+      "1150396524075114496",
+      "1942397832255734137",
+      "2019121256155738416",
+      "1985789726226595906"
+    ]
   }
 ]
 

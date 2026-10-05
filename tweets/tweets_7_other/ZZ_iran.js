@@ -146,6 +146,83 @@ const ZZiranExamples = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-09",
+    claimIds: [
+      "Iran"
+    ],
+    exampleId: "codex-20261003b-next50-34",
+    keywordIds: [],
+    text: "Raylan Givens cites a Time report that Iranian health officials estimated more than 30,000 deaths on January 8–9.",
+    source: false,
+    standaloneTweets: [
+      "2015284388553015636"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-23",
+    claimIds: [
+      "Iran"
+    ],
+    exampleId: "codex-20261003b-next50-37",
+    keywordIds: [],
+    text: "Raylan Givens cites a Canadian human-rights group’s claims of more than 43,000 killed, 350,000 injured and 10,000 blinded in Iran’s protests.",
+    source: false,
+    standaloneTweets: [
+      "2014782013987836004"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-18",
+    claimIds: [
+      "Iran"
+    ],
+    exampleId: "codex-20261004-next100-020",
+    keywordIds: [],
+    text: "A post claims Erfan Soltani was killed in custody; contemporaneous reporting instead quoted his family saying they had seen him alive.",
+    source: true,
+    standaloneTweets: [
+      "2012848269315997813"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://apnews.com/article/95207b62fb2c8a4f3745d981ea0f9849"
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-08",
+    claimIds: [
+      "Iran"
+    ],
+    exampleId: "codex-20261004-next100-021",
+    keywordIds: [],
+    text: "An opposition account alleges that authorities burned a Rasht market and shot protesters trying to escape.",
+    source: false,
+    standaloneTweets: [
+      "2012846128304156865"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

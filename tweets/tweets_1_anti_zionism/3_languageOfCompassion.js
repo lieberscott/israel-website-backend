@@ -69,6 +69,29 @@ const examples3 = [
     usTweets: [
       "2035496154452938773"
     ]
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "3",
+      "5",
+      "18",
+      "56",
+      "21"
+    ],
+    exampleId: "codex-20261004-next100-075",
+    keywordIds: [],
+    text: "‘What I love about this area is its diversity. We’ve got all sorts of people so what I want to tell Jews is, you’re not welcome here.’\n\nVery confused messaging from someone protesting a Jewish restaurant in Notting Hill, London, United Kingdom.",
+    source: false,
+    standaloneTweets: [
+      "2010004600322244995"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
