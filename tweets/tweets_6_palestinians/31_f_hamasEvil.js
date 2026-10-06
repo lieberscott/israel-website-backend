@@ -126,6 +126,40 @@ const examples31f = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://palwatch.org/page/1382"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-06-11",
+    claimIds: [
+      "31f",
+      "51",
+      "17",
+      "41"
+    ],
+    exampleId: "codex-20261005-next100-021-r1",
+    keywordIds: [
+      "UNRWA",
+      "Amnesty International",
+      "Human Rights Watch",
+      "Francesca Albanese",
+      "António Guterres",
+      "Ken Roth",
+      "Greta Thunberg",
+      "Drop Site News",
+      "Mehdi Hasan"
+    ],
+    text: "Eitan Fischberger reports that Hamas killed Gaza Humanitarian Foundation aid workers and challenges humanitarian organizations’ silence about attacks on Palestinians delivering food.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1932978755229655065"
+    ],
+    usTweets: [
+      "1933020283176362349"
+    ]
   }
 ]
 

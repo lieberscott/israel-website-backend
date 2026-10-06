@@ -1503,6 +1503,190 @@ const ZZNonIsraelExamples = [
       "2019121256155738416",
       "1985789726226595906"
     ]
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2026-01-08",
+    claimIds: [
+      "53"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-003",
+    keywordIds: [],
+    text: "A Venezuelan woman rebukes Western liberals who lecture her about Nicolás Maduro’s capture while ignoring Venezuelans’ experience of his dictatorship.",
+    source: false,
+    standaloneTweets: [
+      "2009155964402835815"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2026-01-03",
+    claimIds: [
+      "17",
+      "30a"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-013",
+    keywordIds: [],
+    text: "Hillel Neuer contrasts the UN chief’s alarm over Maduro’s capture with his apparent silence at that point about Iranian protesters killed by their own regime.",
+    source: false,
+    standaloneTweets: [
+      "2007525162825199724"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2026-01-03",
+    claimIds: [
+      "17",
+      "3"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-015",
+    keywordIds: [],
+    text: "Sarah Idan argues that Venezuelans celebrating Maduro’s removal expose the hypocrisy of socialists who defend dictatorships while claiming to stand for oppressed people.",
+    source: false,
+    standaloneTweets: [
+      "2007652258637590979"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2026-01-03",
+    claimIds: [
+      "17",
+      "30a"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-016",
+    keywordIds: [],
+    text: "Hillel Neuer contrasts Zohran Mamdani’s condemnation of Maduro’s capture with María Corina Machado’s account of Venezuela’s domination by foreign authoritarian allies.",
+    source: false,
+    standaloneTweets: [
+      "2007544059678601493"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-16",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-054",
+    keywordIds: [],
+    text: "Jillian Michaels challenges a New York Times writer’s accusation of white nationalism after she raises concerns about Islamist extremism, exposing the use of a racism accusation to shut down the argument.",
+    source: false,
+    standaloneTweets: [
+      "2001013990017614068"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2024-11-30",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-087",
+    keywordIds: [],
+    text: "Elizabeth Kinney says eleven police officers entered her home while she was naked in the bath to arrest her over offensive private messages about a man she says assaulted her. Britain, United Kingdom.",
+    source: true,
+    standaloneTweets: [
+      "1995952778699833356"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.ibtimes.co.uk/terrified-naked-mum-four-arrested-after-texts-branded-hate-speech-1759907"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2026-01-07",
+    claimIds: [
+      "52x"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-006-r1",
+    keywordIds: [],
+    text: "A leftist calls for revolution over an image of an ICE officer confronting a man in Minneapolis; Luke Rudkowski posts a video response challenging that framing.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2009080226874265834"
+    ],
+    usTweets: [
+      "2009129579823460630"
+    ]
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2026-01-04",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-017-r1",
+    keywordIds: [],
+    text: "Earlier media and Democratic criticism of Trump for tolerating Maduro is contrasted with CNN interviews in which Democrats Seth Moulton and Chris Murphy condemn the operation that captured him as illegal.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2007555911339126836",
+      "2007491725774729473"
+    ],
+    nowTweets: [
+      "2007531205777076591",
+      "2007864349805695233"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-26",
+    claimIds: [
+      "52"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-100-r1",
+    keywordIds: [],
+    text: "Elissa Slotkin warns that National Guardsmen might shoot civilians; days later, Sarah Beckstrom and Andrew Wolfe are ambushed and shot while serving in Washington. Reality is literally the opposite of their worldview, and they are stoking violence.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1993779623034016053"
+    ],
+    nowTweets: [
+      "1993800868056178808",
+      "1994076616763560441"
+    ],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

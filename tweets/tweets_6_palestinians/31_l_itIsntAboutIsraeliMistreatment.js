@@ -103,6 +103,27 @@ const examples31k = [
     standaloneTweets: ["2100194856173764679"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2024-08-14",
+    claimIds: [
+      "31l",
+      "31g",
+      "31p"
+    ],
+    exampleId: "codex-20261005-next100-078-r1",
+    keywordIds: [],
+    text: "A clip of Palestinian jihadists threatening Jews and Christians with religious conquest is circulated with a caption calling for conversion or death, exposing hostility that extends beyond Israeli policy. Published Aug. 14, 2024",
+    source: false,
+    standaloneTweets: [
+      "1999689149960585418"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

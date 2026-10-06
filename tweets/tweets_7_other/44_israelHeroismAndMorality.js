@@ -369,6 +369,46 @@ const examples44 = [
       "1945500206612574209"
     ],
     sourceLink: "https://syriacpress.com/blog/2026/03/20/israeli-airstrikes-target-syrian-military-sites-in-suwayda-in-response-to-attacks-on-druze/"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2024-10-01",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261005-next100-031",
+    keywordIds: [],
+    text: "Fawzia Amin Sido, a Yazidi woman sex trafficked by ISIS and held in Gaza, was evacuated in an Israeli operation and reunited with her family.",
+    source: true,
+    standaloneTweets: [
+      "2006387920844800368"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.voanews.com/a/yazidi-sex-slave-rescued-from-gaza-in-rare-internationally-collaborative-mission/7809579.html"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-10-29",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261005-next100-091",
+    keywordIds: [],
+    text: "An Israeli hospital implants a lab-grown, 3D-bioprinted cornea in a legally blind patient in an early clinical trial, demonstrating Israeli medical innovation that can restore sight.",
+    source: true,
+    standaloneTweets: [
+      "1996068654862258459"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://rss.globenewswire.com/de/news-release/2025/11/19/3190933/0/en/precise-bio-achieves-world-s-first-3d-bio-printed-corneal-implant.html"
   }
 ]
 

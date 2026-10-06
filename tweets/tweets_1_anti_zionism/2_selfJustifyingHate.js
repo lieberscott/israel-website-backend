@@ -187,6 +187,28 @@ const examples2 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-06",
+    claimIds: [
+      "2",
+      "20",
+      "56",
+      "21"
+    ],
+    exampleId: "codex-20261005-next100-080",
+    keywordIds: [],
+    text: "Antizionists protest outside a Los Angeles synagogue and Jewish school while calling Jews “genocide supporters,” using Gaza accusations to justify targeting Jewish communal life.",
+    source: false,
+    standaloneTweets: [
+      "1997191870204760575"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

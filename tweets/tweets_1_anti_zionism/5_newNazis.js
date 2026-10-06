@@ -523,6 +523,74 @@ const examples5 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-12",
+    claimIds: [
+      "5",
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-077",
+    keywordIds: [],
+    text: "A Melbourne antizionist carrying a bag with a Palestinian flag told an Australian rabbi and his children to go to the gas chambers.",
+    source: true,
+    standaloneTweets: [
+      "1999781878929236303"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jewishnews.co.uk/rabbi-confronts-woman-who-allegedly-told-his-family-to-go-to-a-gas-chamber/"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2023-11-15",
+    claimIds: [
+      "5",
+      "18",
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-089",
+    keywordIds: [],
+    text: "A court filing alleges Harvard sorted Jewish students into “peaceful” and “protester” lists and excluded the latter from an event, institutionalizing different treatment of Jews according to their views.",
+    source: true,
+    standaloneTweets: [
+      "1995927592738951533"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jns.org/u.s.-news/harvard-blacklisted-jewish-students-from-event-court-documents-allege"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-12-14",
+    claimIds: [
+      "5",
+      "25"
+    ],
+    exampleId: "codex-20261005-next100-055-r1",
+    keywordIds: [],
+    text: "Convicted ISIS recruiter Youssef Uweinat waves a jihadist flag at a Sydney antizionist rally in August in Australia; months later, he was one of the gunmen who massacred Jews at Bondi Beach’s Hanukkah celebration. The rallies are Nazi rallies and full of violent individuals. This is not a peace movement.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2001013623523827844"
+    ],
+    nowTweets: [
+      "2000118989708841165",
+      "2000142553815847148",
+      "2000146744198201555"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.abc.net.au/news/2025-12-19/asio-grim-reality-bondi-intelligence-gaps/106153836"
   }
 ]
 

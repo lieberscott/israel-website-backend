@@ -53,6 +53,51 @@ const examples52x = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-08-22",
+    claimIds: [
+      "52x"
+    ],
+    exampleId: "codex-20261005-next100-019-r1",
+    keywordIds: [],
+    text: "Kenneth Roth claims 83% of Gaza’s dead were civilians, but Aizenberg points out that that figure is only deaths the IDF can not ID by first and last name. Second Aizenberg post links to his proof.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2007197240809463886"
+    ],
+    usTweets: [
+      "2007686664291053961",
+      "1958890065632879049"
+    ]
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "1941-01-11",
+    claimIds: [
+      "52x"
+    ],
+    exampleId: "codex-20261005-next100-043-r1",
+    keywordIds: [],
+    text: "Mehdi Hasan attempts to \"gotcha\" us by claiming former Israeli Prime Minister Yitzhak Shamir attempted to ally with the Nazis in World War II. But Shamir wasn't in Israeli paramilitary group Lehi at the time. And the so-called \"alliance\" was about getting German Jews out of Germany so they can come safely to Israel, and to get the British out of Palestine, not to support the Nazis. And it failed because the Nazis were loyal to the Arabs. So it's doubly bullshit from Mehdi.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2006006011119931596"
+    ],
+    usTweets: [
+      "2006102048111235551",
+      "2006102994975146149"
+    ],
+    sourceLink: "https://lehi.org.il/en/yitzhak-shamir/"
   }
 ]
 

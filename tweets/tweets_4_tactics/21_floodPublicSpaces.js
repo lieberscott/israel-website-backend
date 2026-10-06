@@ -126,6 +126,25 @@ const examples21 = [
     standaloneTweets: ["1974902972636111194"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-11",
+    claimIds: [
+      "21"
+    ],
+    exampleId: "codex-20261005-next100-075",
+    keywordIds: [],
+    text: "Antizionists invade BBC premises in a public protest, using workplace disruption to push their campaign against Israel.",
+    source: false,
+    standaloneTweets: [
+      "1999227716151967972"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -494,6 +494,64 @@ const examples31o = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-04-24",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261005-next100-005",
+    keywordIds: [],
+    text: "An Islamic scholar at North Carolina State University defends an adult marrying a nine-year-old girl, invoking Muhammad’s marriage to Aisha as justification.",
+    source: false,
+    standaloneTweets: [
+      "1922608224110256500"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2024-11-30",
+    claimIds: [
+      "31o",
+      "30"
+    ],
+    exampleId: "codex-20261005-next100-010",
+    keywordIds: [],
+    text: "A Birmingham Muslim community leader is presented as preaching religious war against Jews while insisting that his hostility is Islam rather than antisemitism.",
+    source: false,
+    standaloneTweets: [
+      "2008987466498290098"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-03",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261005-next100-027",
+    keywordIds: [],
+    text: "A woman interviewed in Minnesota predicts that Islam will overtake Christianity worldwide and invokes polygamy as a reason: religious expansion is described openly.",
+    source: false,
+    standaloneTweets: [
+      "1996402266845446329"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -49,7 +49,72 @@ const examples55 = [
     themTweets: [],
     usTweets: []
   },
-  
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-09-09",
+    claimIds: [
+      "55",
+      "31o"
+    ],
+    exampleId: "codex-20261005-next100-024",
+    keywordIds: [],
+    text: "Dearborn mayor Abdullah Hammoud calls a resident an “Islamophobe” and tells him he is unwelcome after he objects to honoring Osama Siblani, whose remarks praised militant violence.",
+    source: true,
+    standaloneTweets: [
+      "1968057543290392952"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://tech.deadlinedetroit.com/articles/33656/video_dearborn_s_muslim_mayor_calls_christian_resident_islamophobe_and_says_you_re_not_welcome_here"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-30",
+    claimIds: [
+      "55",
+      "52",
+      "16"
+    ],
+    exampleId: "codex-20261005-next100-028",
+    keywordIds: [],
+    text: "After the Bondi massacre of Jews, a leftist response focuses on fear of Islamophobia; Drew Pavlou criticizes the shift away from the victims of jihadist violence.",
+    source: false,
+    standaloneTweets: [
+      "2005871202871750958"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-12-16",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "codex-20261005-next100-059-r1",
+    keywordIds: [],
+    text: "Drew Pavlou criticizes Anthony Albanese’s initial Bondi response for discussing other forms of extremism while avoiding the Islamist motive of the massacre targeting Jews at Hanukkah.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2000890365902250272"
+    ],
+    usTweets: [
+      "2000118989708841165",
+      "2000142553815847148",
+      "2000770357230494019",
+      "2000876660737106308"
+    ]
+  }
 ]
 
 module.exports = { claim55, examples55 };

@@ -473,6 +473,28 @@ const examples41 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-08-14",
+    claimIds: [
+      "41"
+    ],
+    exampleId: "codex-20261005-next100-026-r1",
+    keywordIds: [],
+    text: "Gaza Humanitarian Foundation spokesman says Doctors Without Borders (MSF) refused treatment to GHF aid workers wounded by Hamas at Nasser Hospital and left them to die in the parking lot, because they don't like that another organization has control of aid.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1806173491902750847"
+    ],
+    nowTweets: [
+      "1956341230817706157"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.timesofisrael.com/idf-slain-gazan-named-as-doctors-without-borders-staffer-was-islamic-jihad-rocket-maker/"
   }
 ]
 

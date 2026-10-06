@@ -106,6 +106,68 @@ const examples47 = [
     text: "A Palestinian woman is interviewed on Al Jazeera, screaming and crying about the fake “genocide” in Gaza. Immediately after the interview, without knowing that she’s still being filmed, she bursts in laughs. ",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-16",
+    claimIds: [
+      "47"
+    ],
+    exampleId: "codex-20261005-next100-065",
+    keywordIds: [],
+    text: "GAZAWOOD shows that a Gaza scene in which a girl is supposedly carrying her dead brother was staged and that prominent journalist Motaz Azaiza acknowledged the girl was acting. He admits: \"The video is false and fabricated.\" Click through to view on X, post is not visible on embeds.",
+    source: false,
+    standaloneTweets: [
+      "2000880779786625407"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-08-26",
+    claimIds: [
+      "47"
+    ],
+    exampleId: "codex-20261005-next100-034-r1-performances",
+    keywordIds: [],
+    text: "Ms. Rachel promotes a well-known Pallywood actor who regularly uses his son in staged, deceptive performances. Click through to see the Tweets, they don't show up on this interface.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1960415951180165285"
+    ],
+    usTweets: [
+      "2006312383489155263",
+      "2006311494057898418"
+    ]
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-08-06",
+    claimIds: [
+      "47"
+    ],
+    exampleId: "codex-20261005-next100-034-r1-renad",
+    keywordIds: [],
+    text: "Ms. Rachel promotes a wealthy child (who is not currently in Gaza), says she's starving, but is an actress from a BBC film that @mishtal revealed to have alleged connections to Hamas. ",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1953083096271626423"
+    ],
+    usTweets: [
+      "2006312903205589449"
+    ]
   }
 ]
 

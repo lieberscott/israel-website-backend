@@ -60,6 +60,50 @@ const examples20 = [
     standaloneTweets: ["2024493614903022040"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-31",
+    claimIds: [
+      "20",
+      "6z",
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-022",
+    keywordIds: [],
+    text: "Antizionists confront the bereaved family of hostage Ran Gvili outside a Miami synagogue event.",
+    source: true,
+    standaloneTweets: [
+      "2006688809107198179"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jns.org/israel-news/israel-condemns-harassment-of-slain-hostages-family-in-miami"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-14",
+    claimIds: [
+      "20",
+      "56",
+      "18"
+    ],
+    exampleId: "codex-20261005-next100-070",
+    keywordIds: [],
+    text: "Antizionists protest a Hanukkah concert in Amsterdam featuring Israeli cantor Shai Abramson.",
+    source: true,
+    standaloneTweets: [
+      "2000297790421999894"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.timesofisrael.com/liveblog_entry/amsterdam-protests-against-hanukkah-concert-with-idf-cantor-said-to-be-subdued/"
   }
 ]
 

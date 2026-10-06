@@ -142,6 +142,50 @@ const examples46 = [
       "2012736424781484270",
       "2015253685488554414"
     ]
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2026-01-07",
+    claimIds: [
+      "46",
+      "54"
+    ],
+    exampleId: "codex-20261005-next100-002-r1",
+    keywordIds: [],
+    text: "Max Blumenthal blames “Zionist tech plutocrats” for the ICE shooting of Renee Good in Minneapolis, dragging Zionists into an unrelated American controversy.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "2009027212524007905"
+    ],
+    nowTweets: [
+      "2009070719217651964"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-12-30",
+    claimIds: [
+      "46",
+      "1"
+    ],
+    exampleId: "codex-20261005-next100-042-r1",
+    keywordIds: [],
+    text: "Antizionist blames Israel for the Somali fraud scandal in Minnesota.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1996482765391307152"
+    ],
+    nowTweets: [
+      "2006129972507734464"
+    ],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

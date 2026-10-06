@@ -602,6 +602,28 @@ const examples31e = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2018-11-21",
+    claimIds: [
+      "31e",
+      "31k",
+      "31d"
+    ],
+    exampleId: "codex-20261005-next100-096-r1",
+    keywordIds: [],
+    text: "Palestinian children point toy rifles at Israeli police on the Temple Mount while their mother laughs and films them.",
+    source: true,
+    standaloneTweets: [
+      "1993219825427247467"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.israelunwired.com/palestinian-pretend-shoot-soldiers/"
   }
 ]
 

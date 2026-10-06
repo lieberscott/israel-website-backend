@@ -118,6 +118,27 @@ const examples31r = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2015-11-05",
+    claimIds: [
+      "31r",
+      "31d"
+    ],
+    exampleId: "codex-20261005-next100-074",
+    keywordIds: [],
+    text: "Gaza’s “Hitler 2” clothing shop uses Nazi branding and displays knife-wielding mannequins; a customer praises Hitler for being anti-Jewish.",
+    source: true,
+    standaloneTweets: [
+      "1999315772771037570"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.ibtimes.co.uk/gaza-hitler-2-clothing-store-displays-knife-wielding-palestinian-mannequins-1527422"
   }
 ]
 

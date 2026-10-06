@@ -68,6 +68,25 @@ const examples31z = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-25",
+    claimIds: [
+      "31z"
+    ],
+    exampleId: "codex-20261005-next100-044",
+    keywordIds: [],
+    text: "Freed Israeli hostage Romi Gonen describes repeated sexual assaults and death threats by her captors in Gaza, exposing the brutality hidden behind the language of “resistance.”",
+    source: false,
+    standaloneTweets: [
+      "2004367476277285063"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

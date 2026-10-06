@@ -512,6 +512,51 @@ const examples32 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2023-11-25",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "codex-20261005-next100-088",
+    keywordIds: [],
+    text: "BBC editor Jeremy Bowen admits his al-Ahli hospital reporting was inaccurate but says he regrets nothing, exposing the refusal to fully confront a damaging rush to blame Israel.",
+    source: true,
+    standaloneTweets: [
+      "1858956527677436284"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.thewrap.com/bbc-errors-gaza-hospital-explosi-al-ahli-jeremy-bowen/"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-12-16",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "codex-20261005-next100-066-r1",
+    keywordIds: [],
+    text: "HonestReporting shows Newsweek, BBC, Sky News Australia and the Irish Times humanizing the Bondi terrorists through “good boy” family accounts, perpetrator-first coverage and omissions while Jews murdered at Hanukkah recede from view.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2000945666428920019",
+      "2000945669813756180",
+      "2000945672888193276",
+      "2000945676381721077"
+    ],
+    usTweets: [
+      "2000945662716985502",
+      "2000945679557099688"
+    ]
   }
 ]
 

@@ -224,6 +224,108 @@ const examples33 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "1921-05-01",
+    claimIds: [
+      "33",
+      "31l"
+    ],
+    exampleId: "codex-20261005-next100-007",
+    keywordIds: [],
+    text: "In the 1921 Jaffa riots, Arab mobs killed Jews decades before Israel existed: hatred and violence against Jews did not begin with Israeli government policy.",
+    source: true,
+    standaloneTweets: [
+      "2008542764951101572"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://cojs.org/may-1st-1921-palestine-disturbances/"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "1924-06-15",
+    claimIds: [
+      "33"
+    ],
+    exampleId: "codex-20261005-next100-014",
+    keywordIds: [],
+    text: "A 1924 guide published by the Supreme Muslim Council acknowledges the Temple Mount’s Jewish history, contradicting attempts to erase the Jewish connection to Jerusalem.",
+    source: true,
+    standaloneTweets: [
+      "2007606838540320836"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://openlibrary.org/works/OL44780537W/A_brief_guide_to_al-Haram_al-Sharif_Jerusalem"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "1929-08-24",
+    claimIds: [
+      "33",
+      "27"
+    ],
+    exampleId: "codex-20261005-next100-025",
+    keywordIds: [],
+    text: "The 1929 Hebron massacre targeted Jews long before Israel existed, exposing the claim that violence against Jews began as a reaction to Israeli mistreatment.",
+    source: true,
+    standaloneTweets: [
+      "2006446192578925032"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://hebronfund.org/1929-hebron-massacre/"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "1948-05-14",
+    claimIds: [
+      "33"
+    ],
+    exampleId: "codex-20261005-next100-037",
+    keywordIds: [],
+    text: "Israel’s Declaration of Independence appeals to Arab residents for peace and equal citizenship, contradicting the claim that its founding declaration demanded their expulsion.",
+    source: true,
+    standaloneTweets: [
+      "2006300274118344746"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.gov.il/BlobFolder/generalpage/facts-about-israel-2018/en/English_ABOUT_ISRAEL_PDF_Democracy.pdf"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2008-03-29",
+    claimIds: [
+      "33",
+      "31l"
+    ],
+    exampleId: "codex-20261005-next100-072-r1",
+    keywordIds: [],
+    text: "Muammar Gaddafi asks Arab leaders why they did not establish a Palestinian state during the twenty years before 1967: “Why didn’t you establish a Palestinian state?” He asks why they fought Israel before it controlled the West Bank and Gaza: “Whatever happened to the Palestinian cause we had before 1967?”",
+    source: false,
+    standaloneTweets: [
+      "1999757537001009224"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

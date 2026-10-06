@@ -187,6 +187,66 @@ const examples56 = [
       "2024025898081493334"
     ],
     sourceLink: "https://www.timesofisrael.com/spike-lee-wears-pro-palestinian-outfits-to-nba-all-star-game-featuring-1st-israeli/"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-23",
+    claimIds: [
+      "56",
+      "25"
+    ],
+    exampleId: "codex-20261005-next100-045",
+    keywordIds: [],
+    text: "Two men are convicted of plotting an ISIS-inspired mass shooting against Jews in Manchester, England, United Kingdom; a third is convicted of failing to disclose the plot.",
+    source: true,
+    standaloneTweets: [
+      "2003492114035040753"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.thejc.com/news/two-convicted-of-plotting-isis-inspired-gun-attack-on-hundreds-of-jews-kqxmmytb"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-15",
+    claimIds: [
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-053",
+    keywordIds: [],
+    text: "A Jewish customer reports finding a “Free Palestine” note inside Hanukkah pajamas ordered from Bloomingdale’s",
+    source: false,
+    standaloneTweets: [
+      "2000688445929181461"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-10",
+    claimIds: [
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-073",
+    keywordIds: [],
+    text: "Congress investigates allegations that the American Psychological Association tolerated antisemitism, including events that attacked Zionism and Jewish members while receiving continuing-education credit.",
+    source: true,
+    standaloneTweets: [
+      "1999604715282469254"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://edworkforce.house.gov/uploadedfiles/apa_letter_12.10.2025.pdf"
   }
 ]
 

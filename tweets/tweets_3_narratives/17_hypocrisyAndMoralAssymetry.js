@@ -414,6 +414,48 @@ const examples17 = [
     ],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2026-01-06",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codex-20261005-next100-008",
+    keywordIds: [],
+    text: "Bambie Thug boycotts Eurovision over Israel but says they would perform in Russia if they could: the cultural boycott singles out the Jewish state.",
+    source: true,
+    standaloneTweets: [
+      "2008986429746188746"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://eurovisionfun.com/en/2026/01/bambie-thug-if-i-had-the-opportunity-to-sing-in-russia-i-would-have-already-done-so/"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-12-29",
+    claimIds: [
+      "17",
+      "41",
+      "44"
+    ],
+    exampleId: "codex-20261005-next100-033-r1",
+    keywordIds: [],
+    text: "More people died in the Somaliland genocide than in Palestine conflict. However the Somaliland genocide was only brought up twice in the United Nations ever! Both in 1990 and 2025 both times by Israel.",
+    source: true,
+    standaloneTweets: [
+      "2005767682512281648"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://documents.un.org/api/symbol/access?l=en&s=S%2FPV.10084&t=pdf"
   }
 ]
 

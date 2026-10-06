@@ -187,6 +187,28 @@ const examples28 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-30",
+    claimIds: [
+      "28",
+      "56",
+      "52",
+      "31p"
+    ],
+    exampleId: "codex-20261005-next100-035",
+    keywordIds: [],
+    text: "Antizionists at a Los Angeles anti-ICE protest display support for Hamas and call for death to Israeli soldiers, linking their American activism to jihadist violence.",
+    source: false,
+    standaloneTweets: [
+      "2006187696352620560"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

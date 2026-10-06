@@ -93,6 +93,50 @@ const examples31i = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://mmnews.tv/will-arrange-marriages-of-youth-maulana-vows-to-defy-under-18-marriage-law/"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-21",
+    claimIds: [
+      "31i",
+      "31h",
+      "18",
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-048",
+    keywordIds: [],
+    text: "Protesters outside Istanbul’s Neve Shalom synagogue reportedly demand that Jews leave Turkey during Hanukkah, targeting a Jewish community for its identity.",
+    source: false,
+    standaloneTweets: [
+      "2002820163192676576"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2015-10-14",
+    claimIds: [
+      "31i"
+    ],
+    exampleId: "codex-20261005-next100-098-r1",
+    keywordIds: [],
+    text: "Kuwaiti cleric Othman al-Khamis says non-Muslims must convert, pay jizya or face enslavement and fighting.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1993397244587049422"
+    ],
+    usTweets: [
+      "1993648419030938076"
+    ],
+    sourceLink: "https://www.memri.org/tv/kuwaiti-cleric-othman-khamis-no-feel-bad-infidels-enslaved-refuse-convert-islam-apostasy-death"
   }
 ]
 

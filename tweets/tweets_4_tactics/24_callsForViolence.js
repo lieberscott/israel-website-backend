@@ -180,6 +180,70 @@ const examples24 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-02",
+    claimIds: [
+      "24",
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-032",
+    keywordIds: [],
+    text: "Bob Vylan leads a Brussels concert audience in “Death to the IDF,” turning a public musical performance into a celebration of killing Israeli soldiers.",
+    source: true,
+    standaloneTweets: [
+      "2006380353041113504"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://ejpress.org/european-jewish-association-initiates-legal-action-against-bob-vylan-following-his-performance-at-brussels-concert-hall/"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-30",
+    claimIds: [
+      "24",
+      "6z",
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-036",
+    keywordIds: [],
+    text: "A post identifies a Massachusetts pediatric nurse shooting archery, singing along to “Death to the IDF,” celebrating violence against Israeli soldiers.",
+    source: false,
+    standaloneTweets: [
+      "2006144294617297210"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-08-31",
+    claimIds: [
+      "24",
+      "3",
+      "30x"
+    ],
+    exampleId: "codex-20261005-next100-038",
+    keywordIds: [],
+    text: "At the People’s Conference for Palestine, Nidal Jboor says Zionist leaders in Israel, Washington and Europe must be “taken out” and “neutralized,” cloaking threatening rhetoric in love for children and humanity.",
+    source: true,
+    standaloneTweets: [
+      "2006030479556776084"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.govinfo.gov/content/pkg/BILLS-119hres674ih/pdf/BILLS-119hres674ih.pdf"
   }
 ]
 

@@ -432,6 +432,96 @@ const examples25 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.counterterrorism.police.uk/news/declaration-of-a-terrorist-incident-in-golders-green-london/"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-31",
+    claimIds: [
+      "25",
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-041",
+    keywordIds: [],
+    text: "Israeli graffiti artist Dudi Shuval is attacked by antizionists in Barcelona while covering anti-Israel graffiti: hostility to Israel spills into violence against an Israeli abroad.",
+    source: true,
+    standaloneTweets: [
+      "2006381574518882450"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://worldisraelnews.com/watch-israeli-artist-attacked-in-barcelona-by-hamas-supporters/"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-12",
+    claimIds: [
+      "25",
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-060",
+    keywordIds: [],
+    text: "An antizionist firebombs San Francisco Hillel, a Jewish student center.",
+    source: false,
+    standaloneTweets: [
+      "2001154338740457644"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-12-14",
+    claimIds: [
+      "25"
+    ],
+    exampleId: "codex-20261005-next100-058-r1",
+    keywordIds: [],
+    text: "ISIS-inspired gunmen massacre 15 people at Bondi Beach’s Hanukkah celebration in Australia.",
+    source: true,
+    standaloneTweets: [
+      "2000118989708841165",
+      "2000142553815847148",
+      "2000146744198201555",
+      "2000770357230494019",
+      "2000993718271094847",
+      "2000876660737106308",
+      "2000391610329448685",
+      "2000310691857887270"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.ynetnews.com/article/r1uqkvhgzx"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2024-08-06",
+    claimIds: [
+      "25",
+      "53"
+    ],
+    exampleId: "codex-20261005-next100-097-r1",
+    keywordIds: [],
+    text: "During Palestine Action’s antizionist raid on Elbit’s Bristol factory, Samuel Corner strikes a policewoman with a sledgehammer and fractures her spine.",
+    source: true,
+    standaloneTweets: [
+      "1993677609239286153",
+      "1820857200320885033"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.itv.com/news/westcountry/2024-08-06/employees-and-police-officers-hurt-in-sledgehammer-attack-at-business-park"
   }
 ]
 

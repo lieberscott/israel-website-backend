@@ -217,6 +217,28 @@ const examples31k = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.newarab.com/news/syrian-militant-preps-daughters-suicide-attacks-disturbing-video"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2012-12-17",
+    claimIds: [
+      "31k"
+    ],
+    exampleId: "codex-20261005-next100-049-r1",
+    keywordIds: [],
+    text: "\"I will ask you again, if you lose your daughter, your beloved and sweet daughter, if she decides she wants to blow herself up, you will be happy about that?\" \"I will help her and encourage her.\" Broadcast Dec. 17, 2012.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2001608793147211820"
+    ],
+    usTweets: [
+      "2001940696140492888"
+    ],
+    sourceLink: "https://www.youtube.com/watch?v=kuEZOW6AXc4"
   }
 ]
 

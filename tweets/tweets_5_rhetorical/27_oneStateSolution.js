@@ -30,6 +30,26 @@ const examples27 = [
     usTweets: [],
     themTweets: [],
   },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-12-31",
+    claimIds: [
+      "27",
+      "30w"
+    ],
+    exampleId: "codex-20261005-next100-030",
+    keywordIds: [],
+    text: "A doctor’s antizionist post demands that Jews leave Palestine and that talk of antisemitism in Palestinian activist spaces be silenced: the aim is Jewish expulsion, not policy criticism.",
+    source: false,
+    standaloneTweets: [
+      "2006376312311550392"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  }
 ]
 
 module.exports = { claim27, examples27 };

@@ -255,6 +255,52 @@ const examples18 = [
       "2023418826340040877"
     ],
     sourceLink: "https://hyperallergic.com/brooklyn-navy-yard-evicts-drone-manufacturer-after-months-of-protests/"
+  },
+  {
+    dateAdded: "2026-10-05",
+    date: "2025-02-10",
+    claimIds: [
+      "18",
+      "45",
+      "56"
+    ],
+    exampleId: "codex-20261005-next100-009",
+    keywordIds: [],
+    text: "Cornell professor Eric Cheyfitz drove Israeli Jewish student Oren Renard out of a Gaza seminar because of his Israeli identity and presumed views; the university found national-origin discrimination.",
+    source: true,
+    standaloneTweets: [
+      "2008919596502335880"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://spme.org/spme-in-the-news/how-a-cornell-professor-drove-an-israeli-student-out-of-his-class/29029/"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-30",
+    claimIds: [
+      "18",
+      "5",
+      "56",
+      "6z"
+    ],
+    exampleId: "codex-20261005-next100-095-r1",
+    keywordIds: [],
+    text: "A Stockholm restaurant rejects Israelis and tells Zionists to “go fuck themselves,” turning antizionism into nationality-based exclusion from an ordinary business.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1774731688658055287"
+    ],
+    nowTweets: [
+      "1995171899630854424"
+    ],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
