@@ -495,6 +495,38 @@ const examples41 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.timesofisrael.com/idf-slain-gazan-named-as-doctors-without-borders-staffer-was-islamic-jihad-rocket-maker/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-15",
+    claimIds: [
+      "41",
+      "45",
+      "31z",
+      "16"
+    ],
+    exampleId: "codex-20261006-next100-096",
+    keywordIds: [
+      "United Nations"
+    ],
+    text: "UN rapporteur Reem Alsalem denies independent findings of October 7 rape; Danny Danon and a documented evidence thread counter her claim with the UN’s findings of sexual violence during the attack and against Israeli hostages.",
+    source: true,
+    sourceLink: "https://www.un.org/unispal/document/sc-meeting-record-11mar24/",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1989315118358745148"
+    ],
+    usTweets: [
+      "1989822608666218805",
+      "1801373801369755689",
+      "1801373803324522994",
+      "1801373805312463045",
+      "1801373806998573234",
+      "1801373808781066588"
+    ]
   }
 ]
 

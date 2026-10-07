@@ -1687,6 +1687,223 @@ const ZZNonIsraelExamples = [
     ],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-26",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-010",
+    keywordIds: [],
+    text: "Footage and reporting identify Rahmanullah Lakanwal as the Afghan suspect in the Washington National Guard shooting; Eric Daugherty relays a report that the attacker shouted “Allahu Akbar.”",
+    source: false,
+    standaloneTweets: [
+      "1993840141803323707",
+      "1993829856673443926"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-05-02",
+    claimIds: [
+      "45"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-025",
+    keywordIds: [],
+    text: "UN tribunal judge and Oxford human-rights law doctoral student Lydia Mugambe was sentenced to prison for trafficking a woman to Britain and forcing her to work as an unpaid housekeeper and nanny.",
+    source: true,
+    sourceLink: "https://www.cps.gov.uk/cps/news/ugandan-judge-sentenced-over-six-years-modern-slavery-offences",
+    standaloneTweets: [
+      "1993150680039559331"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2024-12-20",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-029",
+    keywordIds: [],
+    text: "A Michigan imam’s Christmas message describes Christians as infidels and tells Muslims not to mix with them or celebrate their holiday.",
+    source: true,
+    sourceLink: "https://www.newsrael.com/posts/5qx7c1kt8gg",
+    standaloneTweets: [
+      "1993116411825471666"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-23",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-039",
+    keywordIds: [],
+    text: "A former Antifa member explains how branding opponents fascists gives activists permission to dehumanize and attack them.",
+    source: false,
+    standaloneTweets: [
+      "1992743855200801005"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2023-10-07",
+    claimIds: [
+      "31z"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-051",
+    keywordIds: [],
+    text: "Shani Louk's body being driven through Gaza on Oct. 7 as masses of people cheer and film with their phones.",
+    source: false,
+    standaloneTweets: [
+      "1871955308928750037"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-16",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-070",
+    keywordIds: [],
+    text: "A clip captioned as showing a Palestinian in Germany includes the threat “With God’s help, we will finish you off. We will destroy the last Christian.”",
+    source: false,
+    standaloneTweets: [
+      "1990229833880859070"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-16",
+    claimIds: [
+      "31h"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-075",
+    keywordIds: [],
+    text: "A video of Shia self-flagellation of Arab men covered in blood is an Ashura mourning ritual for an imam from 1400 years ago. Click through to see, the video is flagged for being too violent.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1990193600240460121"
+    ],
+    usTweets: [
+      "1990240300087050565"
+    ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-07-15",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-015-r1",
+    keywordIds: [],
+    text: "Tara Sabah, an antizionist activist in Sweden, says she uses Swedish taxpayers’ money and benefits “to the max” and that Swedes cannot stop her.",
+    source: true,
+    standaloneTweets: [
+      "1993696249468387447"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://leadstories.com/hoax-alert/2025/12/fact-check-woman%2Bwho-brags-about-using-sweden-benefits-to-the-max-says-video-was-sarcasm.html"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2026-03-16",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261002-latest50-13-pending-review-20261007",
+    keywordIds: [],
+    text: "Sana Ebrahimi Ledene challenges Joy Reid’s comparison of women’s lives in America and Iran, invoking the incident of Iranian nurses being tortured and raped for treating wounded protestors.",
+    source: false,
+    thenVsNowFormat: false,
+    standaloneTweets: [],
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2033196221997732223"
+    ],
+    usTweets: [
+      "2033647531222319363"
+    ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2026-01-10",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-065-pending-review-20261007",
+    keywordIds: [],
+    text: "Renee Good, who was shot by ICE in Minnesota, was protecting a Somalian sex offender here illegally.",
+    source: false,
+    standaloneTweets: [
+      "2010186763948703839"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-23",
+    claimIds: [
+      "31a"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-043-pending-review-20261007",
+    keywordIds: [],
+    text: "A speaker claims Muslims discovered America and converted Indigenous peoples, then uses that claim to portray Muslims as the real Americans.",
+    source: false,
+    standaloneTweets: [
+      "1992623921212879266"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

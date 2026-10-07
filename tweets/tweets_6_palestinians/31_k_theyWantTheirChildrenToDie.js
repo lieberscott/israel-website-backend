@@ -239,6 +239,28 @@ const examples31k = [
       "2001940696140492888"
     ],
     sourceLink: "https://www.youtube.com/watch?v=kuEZOW6AXc4"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-18",
+    claimIds: [
+      "31k",
+      "31g"
+    ],
+    exampleId: "codex-20261006-next100-057-r1",
+    keywordIds: [],
+    text: "The father of a perpetrator in the deadly Gush Etzion attack says becoming the father of a martyr was what he most anticipated in life.",
+    source: true,
+    standaloneTweets: [
+      "1990869964786467008",
+      "2024372970353828188"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://afmda.org/news/gush-etzion-stabbing/"
   }
 ]
 

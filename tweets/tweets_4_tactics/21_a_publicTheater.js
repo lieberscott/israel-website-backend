@@ -65,6 +65,26 @@ const examples21a = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-23",
+    claimIds: [
+      "21a",
+      "53"
+    ],
+    exampleId: "codex-20261006-next100-037-pending-review-20261007",
+    keywordIds: [],
+    text: "Antizionist demonstrators wear blood-splattered costumes in a street performance; GAZAWOOD mocks their obsession with Israel.",
+    source: false,
+    standaloneTweets: [
+      "1992716853446316150"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

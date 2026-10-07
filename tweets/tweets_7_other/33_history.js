@@ -326,6 +326,25 @@ const examples33 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "1924-09-24",
+    claimIds: [
+      "33"
+    ],
+    exampleId: "codex-20261006-next100-045",
+    keywordIds: [],
+    text: "Peter Baum cites documented Arab land sales to Zionist buyers, including sales by Arab political leaders who publicly opposed Jewish land purchases.",
+    source: false,
+    standaloneTweets: [
+      "1992485621638615442"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

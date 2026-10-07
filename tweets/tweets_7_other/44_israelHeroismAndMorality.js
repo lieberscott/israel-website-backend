@@ -409,6 +409,528 @@ const examples44 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://rss.globenewswire.com/de/news-release/2025/11/19/3190933/0/en/precise-bio-achieves-world-s-first-3d-bio-printed-corneal-implant.html"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-24",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-026",
+    keywordIds: [],
+    text: "Antizionist accounts recast Jewish achievement as overrepresentation and tribal supremacy; Ayn Reagan challenges their collective attacks on Jews.",
+    source: false,
+    standaloneTweets: [
+      "1993135433811959822",
+      "1993323022208712888",
+      "1993313270732853566"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-10-29",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-058",
+    keywordIds: [],
+    text: "Israeli doctors implant a bio-printed corneal graft in a woman with severe vision loss, demonstrating a potential alternative to scarce donor tissue.",
+    source: true,
+    sourceLink: "https://rss.globenewswire.com/de/news-release/2025/11/19/3190933/0/en/precise-bio-achieves-world-s-first-3d-bio-printed-corneal-implant.html",
+    standaloneTweets: [
+      "1991238289164997112"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-10",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-067",
+    keywordIds: [],
+    text: "Israeli companies Remilk and Gad Dairies launch cow-free milk using precision fermentation, offering dairy proteins without raising cows.",
+    source: true,
+    sourceLink: "https://markets.financialcontent.com/wss/article/bizwire-2025-11-10-where-tradition-meets-tomorrow-a-new-milk-is-born-remilk-and-gad-dairies-launch-the-new-milk-milk-without-cows",
+    standaloneTweets: [
+      "1990397347461804483"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-09-10",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-093",
+    keywordIds: [],
+    text: "Israeli companies Strauss and Imagindairy introduce Yotvata CowFree drinks made with dairy protein from fermentation rather than cows.",
+    source: true,
+    sourceLink: "https://agfundernews.com/strauss-group-launches-cow-free-range-featuring-animal-free-whey-from-imagindairy",
+    standaloneTweets: [
+      "1989964481028321634"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-10-20",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-097",
+    keywordIds: [],
+    text: "Tel Aviv University scientists identify a protein that restricts myelin formation, opening an experimental approach to restoring nerve insulation in disease models.",
+    source: true,
+    sourceLink: "https://english.tau.ac.il/research/boosting-myelin-production",
+    standaloneTweets: [
+      "1989941362129776763"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2001-08-01",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-pillcam",
+    keywordIds: [],
+    text: "Israel’s Given Imaging developed the swallowable PillCam camera, allowing doctors to examine the small intestine for bleeding and other abnormalities.",
+    source: true,
+    standaloneTweets: [
+      "2089429073734910421"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/ingestible-telemetric-gastrointestinal-capsule-imaging-system-final-class-ii-special-controls"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1996-12-20",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-copaxone",
+    keywordIds: [],
+    text: "Developed at Israel’s Weizmann Institute and commercialized by Teva, Copaxone treats relapsing multiple sclerosis by reducing the frequency of relapses. FDA marketing approval of Copaxone on December 20, 1996.",
+    source: true,
+    standaloneTweets: [
+      "2106789096135807473"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=24087"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2006-05-16",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-azilect",
+    keywordIds: [],
+    text: "Israeli-developed Azilect, commercialized by Teva, provides a once-daily treatment for Parkinson’s disease. FDA approval on May 16, 2006.",
+    source: true,
+    standaloneTweets: [
+      "1950168494336516324"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://ir.tevapharm.com/news-and-events/press-releases/press-release-details/2006/Teva-Announces-FDA-Grants-Approval-of-Azilect-Rasagiline-for-Parkinsons-Disease/default.aspx"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1979-02-15",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-tomatoes",
+    keywordIds: [],
+    text: "Hebrew University researchers Nachum Kedar and Haim Rabinowitch developed tomato varieties with a longer shelf life, reducing spoilage and improving the commercial value of cherry tomatoes.",
+    source: true,
+    standaloneTweets: [
+      "2059678394540003688"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://cris.huji.ac.il/en/publications/the-potential-of-ripening-mutants-for-extending-the-storage-life-/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2014-06-26",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-rewalk",
+    keywordIds: [],
+    text: "Israeli inventor Amit Goffer’s ReWalk exoskeleton enables people with spinal cord injuries to stand and walk; the FDA cleared the system for home and community use in 2014.",
+    source: true,
+    standaloneTweets: [
+      "489816579753123841"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://ir.rewalk.com/news-releases/news-release-details/rewalktm-personal-exoskeleton-system-cleared-fda-home-use"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1993-06-15",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-babysense",
+    keywordIds: [],
+    text: "Israeli engineers developed Babysense, a non-contact infant movement monitor that alerts caregivers when breathing movements stop or become dangerously slow.",
+    source: true,
+    standaloneTweets: [
+      "1108360040338149377"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://x.com/AmbDermer/status/1108360040338149377"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2013-06-11",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-waze",
+    keywordIds: [],
+    text: "Israeli-developed Waze uses reports from drivers to provide live traffic information and help people find faster routes; Google acquired the navigation service in 2013.",
+    source: true,
+    standaloneTweets: [
+      "344495883905277953"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://blog.google/products-and-platforms/products/maps/google-maps-and-waze-outsmarting/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1996-11-15",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-icq",
+    keywordIds: [],
+    text: "Israeli company Mirabilis created ICQ, an early internet instant messaging service that connected users around the world.",
+    source: true,
+    standaloneTweets: [
+      "440627113750573056"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://innovationisrael.mag.calltext.co.il/magazine/80/articles/1689"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1994-06-02",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-checkpoint",
+    keywordIds: [],
+    text: "Israel’s Check Point pioneered commercial stateful inspection firewalls, helping protect computer networks against unauthorized traffic and cyberattacks.",
+    source: true,
+    standaloneTweets: [
+      "1909688422283067487"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://community.checkpoint.com/t5/Check-Point-for-Beginners/Brief-History-of-Check-Point-Firewalls/bc-p/262807/highlight/true"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1979-06-15",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-intel8088",
+    keywordIds: [],
+    text: "Engineers at Intel’s Haifa center designed the Intel 8088, the processor used in the original IBM PC, helping shape the personal computer revolution. IEEE’s firsthand engineering history identifies Haifa designers Rafi Retter and Dany Star.",
+    source: true,
+    standaloneTweets: [
+      "1910056830203564310"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://spectrum.ieee.org/chip-hall-of-fame-intel-8088-microprocessor"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2003-03-12",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-centrino",
+    keywordIds: [],
+    text: "Intel’s Israeli engineering team developed the Pentium M processor at the heart of Centrino, helping make laptops more power-efficient and practical for mobile wireless use. Intel’s Centrino launch release was March 12, 2003",
+    source: true,
+    standaloneTweets: [
+      "1101127948512518151"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.intel.com/pressroom/archive/releases/2003/20030312comp.htm"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2011-04-07",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-iron-dome",
+    keywordIds: [],
+    text: "Israel’s Rafael developed Iron Dome to intercept rockets aimed at populated areas, protecting civilians; its first operational interception took place on April 7, 2011.",
+    source: true,
+    standaloneTweets: [
+      "1909287761024000501"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.rafael.co.il/system/iron-dome/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1949-06-02",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-uzi",
+    keywordIds: [],
+    text: "Israeli engineer Uziel Gal designed the compact Uzi submachine gun, which became one of the world’s best-known military and security weapons. Uziel Gal’s design, dated by the IDF in 1949.",
+    source: true,
+    standaloneTweets: [
+      "2049161573370110359"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.idf.il/en/articles/2023/israel-at-75-take-a-look-at-the-idfs-technological-powerhouse/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2011-03-15",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-trophy",
+    keywordIds: [],
+    text: "Israel’s Rafael developed Trophy, an active protection system that intercepts anti-tank missiles and rockets before they strike armored vehicles.",
+    source: true,
+    standaloneTweets: [
+      "1641507941525118995"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://x.com/RAFAELdefense/status/1641507941525118995"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1948-06-15",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-krav-maga",
+    keywordIds: [],
+    text: "Imi Lichtenfeld developed Krav Maga to defend Jews from antisemitic violence and later taught it in Israel’s military; the self-defense system spread worldwide. Lichtenfeld became the IDF’s chief instructor following the army’s establishment in 1948.",
+    source: true,
+    standaloneTweets: [
+      "2059425098151629138"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.idf.il/en/articles/2023/a-brief-look-into-the-methods-of-krav-maga/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2017-01-18",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-arrow",
+    keywordIds: [],
+    text: "Israel’s Arrow missile defense program, developed with the United States, intercepts ballistic missiles; Arrow 3 entered operational service in January 2017.",
+    source: true,
+    standaloneTweets: [
+      "821790456363286535",
+      "821734336609316868"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.missiledefenseadvocacy.org/wp-content/uploads/2017/01/Arrow3_Jan2017.pdf"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1997-05-13",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-emergency-bandage",
+    keywordIds: [],
+    text: "Israeli medic Bernard Bar-Natan developed the Emergency Bandage, combining a sterile dressing and pressure applicator to control severe bleeding in battlefield and civilian emergencies. U.S. emergency bandage patent 5,628,723 was granted May 13, 1997.",
+    source: true,
+    standaloneTweets: [
+      "1984053325797478854"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://patents.google.com/patent/US5628723A/en"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1982-04-08",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-quasicrystals",
+    keywordIds: [],
+    text: "Israeli scientist Dan Shechtman discovered quasicrystals while working at the U.S. National Bureau of Standards, overturning accepted ideas about the structure of matter and earning the Nobel Prize in Chemistry.  The Nobel Prize announcement dates the discovery to April 8, 1982.",
+    source: true,
+    standaloneTweets: [
+      "1115143743991054346"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.nobelprize.org/prizes/chemistry/2011/press-release/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2004-10-06",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-ubiquitin",
+    keywordIds: [],
+    text: "Israeli scientists Aaron Ciechanover and Avram Hershko, together with Irwin Rose, discovered how cells label proteins for destruction through ubiquitin, a breakthrough recognized with the 2004 Nobel Prize in Chemistry.  Nobel Prize announcement October 6, 2004.",
+    source: true,
+    standaloneTweets: [
+      "1211891490785570818"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2004.pdf"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1986-06-03",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-epilady",
+    keywordIds: [],
+    text: "Israel’s Epilady introduced the electric home epilator, creating a widely used alternative to shaving and waxing.",
+    source: true,
+    standaloneTweets: [
+      "1910056881755959341"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.epilady.com/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2016-06-21",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261006-next100-087-r1-orcam",
+    keywordIds: [],
+    text: "Israel’s OrCam developed MyEye, a wearable assistive device that reads text aloud and recognizes faces and objects, helping people with visual impairments live more independently. OrCam’s dated announcement marks its Canadian launch on June 21, 2016.",
+    source: true,
+    standaloneTweets: [
+      "1899871220050301268"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.orcam.com/en-us/blog/assistive-technology-for-visually-impaired-launches-in-canada"
   }
 ]
 

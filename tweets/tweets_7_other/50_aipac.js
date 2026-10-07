@@ -27,6 +27,47 @@ const examples50 = [
     standaloneTweets: ["1751994718785855512"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-24",
+    claimIds: [
+      "50",
+      "17",
+      "31c"
+    ],
+    exampleId: "codex-20261006-next100-032",
+    keywordIds: [],
+    text: "Eyal Yakoby reports that Track AIPAC’s founder is a Marxist based in Germany while the group brands pro-Israel American politicians foreign agents.",
+    source: false,
+    standaloneTweets: [
+      "1992974011391766931"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-22",
+    claimIds: [
+      "50",
+      "31c"
+    ],
+    exampleId: "codex-20261006-next100-049",
+    keywordIds: [],
+    text: "Paul Brown contrasts accusations that AIPAC represents foreign influence with X account-location screenshots placing CounterAIPAC in Egypt.",
+    source: false,
+    standaloneTweets: [
+      "1992411639816261929"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

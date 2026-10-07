@@ -87,6 +87,65 @@ const examples31z = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-24",
+    claimIds: [
+      "31z"
+    ],
+    exampleId: "codex-20261006-next100-034",
+    keywordIds: [],
+    text: "A former antizionist activist says the Nova exhibition exposed October 7 atrocities she had not understood and made her realize the movement had misled her.",
+    source: false,
+    standaloneTweets: [
+      "1992828881682739267"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2023-10-07",
+    claimIds: [
+      "31z",
+      "44",
+      "27"
+    ],
+    exampleId: "codex-20261006-next100-072",
+    keywordIds: [],
+    text: "Eyal Waldman invested in Palestinian engineering jobs and coexistence; Hamas terrorists murdered his daughter Danielle on October 7.",
+    source: false,
+    standaloneTweets: [
+      "1990139437448130933"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2023-10-07",
+    claimIds: [
+      "31z"
+    ],
+    exampleId: "codex-20261006-next100-092",
+    keywordIds: [],
+    text: "A video compilation recalls the violence that began the October 7 war.",
+    source: false,
+    standaloneTweets: [
+      "1989779936509354135"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

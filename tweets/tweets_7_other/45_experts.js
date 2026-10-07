@@ -196,6 +196,47 @@ const examples45 = [
     ],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-23",
+    claimIds: [
+      "45",
+      "41"
+    ],
+    exampleId: "codex-20261006-next100-035",
+    keywordIds: [],
+    text: "Tony Aguilar continues receiving antizionist speaking invitations after his account of Israeli forces killing Amir was challenged by evidence that the boy survived.",
+    source: false,
+    standaloneTweets: [
+      "1992672411381104849"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-17",
+    claimIds: [
+      "45",
+      "54",
+      "6z"
+    ],
+    exampleId: "codex-20261006-next100-068",
+    keywordIds: [],
+    text: "Academic Shaiel Ben-Ephraim tells Israel advocate David Lange to have a stroke and die and insults his family as “deformed”; Lange preserves the deleted posts.",
+    source: false,
+    standaloneTweets: [
+      "1990339990069354534"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

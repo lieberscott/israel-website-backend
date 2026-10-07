@@ -295,6 +295,28 @@ const examples11 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2014-09-27",
+    claimIds: [
+      "11"
+    ],
+    exampleId: "codex-20261006-next100-088",
+    keywordIds: [
+      "Muhammad Abbas",
+      "Abu Mazen"
+    ],
+    text: "Palestinian leader accuses Israel of genocide at the United Nations",
+    source: false,
+    standaloneTweets: [
+      "1990082621469020361"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

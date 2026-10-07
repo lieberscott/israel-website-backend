@@ -149,6 +149,27 @@ const examples54 = [
       "996790072996442113"
     ],
     sourceLink: "https://www.meforum.org/campus-watch/watch-norman-finkelstein-hopes-palestinians"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-15",
+    claimIds: [
+      "54",
+      "56"
+    ],
+    exampleId: "codex-20261006-next100-084",
+    keywordIds: [],
+    text: "Antisemitic graffiti brands Mexico’s Jewish president Claudia Sheinbaum a “Jewish whore” and crosses out a Star of David; Her leftist politics and criticism of Israel offer no protection.",
+    source: true,
+    sourceLink: "https://www.timesofisrael.com/antisemitic-graffiti-sprayed-in-mexico-during-protests-against-sheinbaums-government/amp/",
+    standaloneTweets: [
+      "1989851127332884808"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

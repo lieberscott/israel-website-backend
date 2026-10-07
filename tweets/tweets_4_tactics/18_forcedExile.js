@@ -301,6 +301,34 @@ const examples18 = [
     ],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-19",
+    claimIds: [
+      "18",
+      "6y",
+      "20",
+      "21",
+      "56",
+      "15"
+    ],
+    exampleId: "codex-20261006-next100-041",
+    keywordIds: [
+      "New York City"
+    ],
+    text: "Antizionists obstruct and harass Jews entering Park East Synagogue in Manhattan while chanting “Death to the IDF.”",
+    source: false,
+    standaloneTweets: [
+      "1992606561907388505",
+      "1992254410487906653",
+      "1991354750017937554"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

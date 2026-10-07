@@ -659,6 +659,50 @@ const examples31a = [
       "2011737695920292342"
     ],
     sourceLink: "https://law.acri.org.il/en/wp-content/uploads/2013/02/Gamzu-letter.pdf"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-25",
+    claimIds: [
+      "31a"
+    ],
+    exampleId: "codex-20261006-next100-001",
+    keywordIds: [],
+    text: "An antizionist account recycles a photograph of Syrian refugees in Turkey from August 2015; Eyal Yakoby and community-note sources identify its real origin.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1923842033665348069"
+    ],
+    usTweets: [
+      "1993424526328447486"
+    ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-26",
+    claimIds: [
+      "31a",
+      "45"
+    ],
+    exampleId: "codex-20261006-next100-013-r1",
+    keywordIds: [],
+    text: "Anthony Aguilar continues claiming that Israeli forces killed a Gazan boy named Amir, despite reporting and footage identifying the boy alive.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1993664245246882213"
+    ],
+    usTweets: [
+      "1963598608692887963"
+    ],
+    sourceLink: "https://www.timesofisrael.com/gaza-aid-group-says-boy-reported-killed-at-site-is-actually-still-living-and-safe/"
   }
 ]
 

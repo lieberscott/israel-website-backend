@@ -247,6 +247,47 @@ const examples56 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://edworkforce.house.gov/uploadedfiles/apa_letter_12.10.2025.pdf"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-21",
+    claimIds: [
+      "56",
+      "21a",
+      "5",
+      "3"
+    ],
+    exampleId: "codex-20261006-next100-055",
+    keywordIds: [],
+    text: "A video presented as recorded at Washington’s Union Station shows hostility directed at Jews.",
+    source: false,
+    standaloneTweets: [
+      "1991864459862974716"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-15",
+    claimIds: [
+      "56"
+    ],
+    exampleId: "codex-20261006-next100-090",
+    keywordIds: [],
+    text: "Montreal antizionist Mahmoud Khalil verbally abuses Israel supporters.",
+    source: false,
+    standaloneTweets: [
+      "1989770710030733312"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

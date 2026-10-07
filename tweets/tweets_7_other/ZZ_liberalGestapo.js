@@ -164,6 +164,25 @@ const deepDivesExamples = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.lemonde.fr/en/politics/article/2026/02/17/who-was-quentin-deranque-the-far-right-activist-killed-in-lyon_6750585_5.html"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-23",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "codex-20261006-next100-044-r1-liberalGestapo",
+    keywordIds: [],
+    text: "Salman Sima shows how antizionists followed, pushed and blocked him as he tried to leave a Toronto book event and walk to a bus stop.",
+    source: false,
+    standaloneTweets: [
+      "1992690973499965578"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -98,6 +98,30 @@ const examples52x = [
       "2006102994975146149"
     ],
     sourceLink: "https://lehi.org.il/en/yitzhak-shamir/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-18",
+    claimIds: [
+      "52x"
+    ],
+    exampleId: "codex-20261006-next100-063-r1",
+    keywordIds: [],
+    text: "A Hamas recruitment announcement identifies the struck Ain al-Hilweh site as a training facility, contradicting the group’s denial of military use.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1990876313478181130",
+      "1990882938649469074"
+    ],
+    usTweets: [
+      "1991088797144981597",
+      "1991218431266603512"
+    ],
+    sourceLink: "https://apnews.com/article/84a26c919c2636e6bd8d0a86ae166b3a"
   }
 ]
 

@@ -273,6 +273,94 @@ const examples6y = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-24",
+    claimIds: [
+      "6y",
+      "21",
+      "56",
+      "20"
+    ],
+    exampleId: "codex-20261006-next100-031",
+    keywordIds: [],
+    text: "Outside St John’s Wood Synagogue, an antizionist antagonist answers a Jewish woman’s objection to targeting a house of worship with “it’s the Jews, not us.”",
+    source: false,
+    standaloneTweets: [
+      "1992942492770259047"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-23",
+    claimIds: [
+      "6y",
+      "20",
+      "21",
+      "56"
+    ],
+    exampleId: "codex-20261006-next100-038",
+    keywordIds: [],
+    text: "Antizionist protesters block sidewalks in a Toronto Jewish neighbourhood and shout at Jews while police are present.",
+    source: false,
+    standaloneTweets: [
+      "1992749253483970765"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-16",
+    claimIds: [
+      "6y",
+      "21",
+      "28",
+      "56",
+      "22"
+    ],
+    exampleId: "codex-20261006-next100-074",
+    keywordIds: [],
+    text: "Masked antizionists march through a Toronto Jewish neighbourhood, with a leader dressed like Hamas spokesman Abu Obaida.",
+    source: false,
+    standaloneTweets: [
+      "1990148564853354988"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-23",
+    claimIds: [
+      "6y",
+      "20",
+      "56"
+    ],
+    exampleId: "codex-20261006-next100-044-r1",
+    keywordIds: [],
+    text: "Salman Sima shows how antizionists followed, pushed and blocked him as he tried to leave a Toronto book event and walk to a bus stop.",
+    source: false,
+    standaloneTweets: [
+      "1992690973499965578"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

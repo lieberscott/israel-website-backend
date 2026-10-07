@@ -329,6 +329,27 @@ const examples12 = [
     standaloneTweets: ["2100232660417167504"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2019-08-15",
+    claimIds: [
+      "12",
+      "31e"
+    ],
+    exampleId: "codex-20261006-next100-069-pending-review-20261007",
+    keywordIds: [],
+    text: "Two Palestinian teenagers stab an Israeli police officer at Jerusalem’s Chain Gate before police shoot them; the footage exposes what claims about Israel shooting children omit.",
+    source: true,
+    sourceLink: "https://www.timesofisrael.com/cop-injured-in-stabbing-attack-in-jerusalems-old-city-2-assailants-shot/",
+    standaloneTweets: [
+      "1846870179902304304"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

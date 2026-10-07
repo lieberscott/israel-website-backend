@@ -456,6 +456,26 @@ const examples17 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://documents.un.org/api/symbol/access?l=en&s=S%2FPV.10084&t=pdf"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-15",
+    claimIds: [
+      "17",
+      "31c"
+    ],
+    exampleId: "codex-20261006-next100-095",
+    keywordIds: [],
+    text: "Tucker Carlson accuses Ben Shapiro of promoting pornography even though Shapiro wrote against it, while Carlson hosted Andrew Tate, whose webcam business made money from pornography.",
+    source: false,
+    standaloneTweets: [
+      "1989623341020582208"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -99,6 +99,29 @@ const examples30 = [
     usTweets: [
       "2105420602437943330"
     ]
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-26",
+    claimIds: [
+      "30w",
+      "27",
+      "15",
+      "31l"
+    ],
+    exampleId: "codex-20261006-next100-003",
+    keywordIds: [],
+    text: "Huwaida Arraf rejects dialogue and a two-state solution, calls Israel a Nazi, racist and fascist entity, and demands that it be dismantled.",
+    source: false,
+    standaloneTweets: [
+      "1993654289995317372",
+      "1993665178546982945"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

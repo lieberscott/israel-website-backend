@@ -209,6 +209,27 @@ const examples28 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-23",
+    claimIds: [
+      "28",
+      "24",
+      "56"
+    ],
+    exampleId: "codex-20261006-next100-046",
+    keywordIds: [],
+    text: "A street-interview clip from Ireland shows young people signing a petition as the interviewer invokes “October 7th ASAP”; Noa Magid condemns the support for Hamas.",
+    source: false,
+    standaloneTweets: [
+      "1992703425684144549"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

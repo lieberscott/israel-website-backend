@@ -186,6 +186,76 @@ const examples46 = [
     ],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-16",
+    claimIds: [
+      "46",
+      "5"
+    ],
+    exampleId: "codex-20261006-next100-077",
+    keywordIds: [],
+    text: "Omri Ceren compares The Nation’s framing of American evictions through an Israeli parent company with a 1938 Nazi message blaming Jews for housing shortages.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1988336012645277775"
+    ],
+    nowTweets: [
+      "1990062644292665376"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-26",
+    claimIds: [
+      "46",
+      "45",
+      "14"
+    ],
+    exampleId: "codex-20261006-next100-002",
+    keywordIds: [
+      "Anthony Aguilar"
+    ],
+    text: "Tony Aguilar claims Israel murdered Charlie Kirk to threaten Donald Trump. Aguilar is the same \"whistleblower\" who made up the story about a child named Amir who was gunned down in Gaza by the IDF.",
+    source: false,
+    standaloneTweets: [
+      "1993661993266401353"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-16",
+    claimIds: [
+      "46",
+      "17"
+    ],
+    exampleId: "codex-20261006-next100-086-r1-r1",
+    keywordIds: [],
+    text: "A post blames Jews for flooding America with illegal immigrants, while US Catholic bishops oppose mass deportations and Pope Leo criticizes the treatment of immigrants; Laura Loomer challenges the selective blame placed on Jews.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1888006352489812112"
+    ],
+    usTweets: [
+      "1990050555470004314",
+      "1989292224723530166",
+      "1973355194294374620"
+    ],
+    sourceLink: "https://www.usccb.org/news/2025/us-bishops-issue-special-message-immigration-plenary-assembly-baltimore"
   }
 ]
 

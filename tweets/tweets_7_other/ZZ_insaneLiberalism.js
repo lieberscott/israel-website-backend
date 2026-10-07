@@ -336,6 +336,25 @@ const deepDivesExamples = [
     thenVsNowFormat: false,
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-15",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "codex-20261006-next100-089-r1",
+    keywordIds: [],
+    text: "Dries Van Langenhove criticizes Belgium’s compensation of Nizar Trabelsi after unlawful extradition and presents it as a double standard in protecting terrorists’ rights.",
+    source: false,
+    standaloneTweets: [
+      "1989667245623013520"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

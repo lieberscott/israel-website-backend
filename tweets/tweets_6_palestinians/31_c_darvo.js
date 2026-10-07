@@ -220,6 +220,30 @@ const examples31c = [
     ],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2026-02-20",
+    claimIds: [
+      "31c"
+    ],
+    exampleId: "codex-20261006-next100-098-r1",
+    keywordIds: [],
+    text: "Tucker Carlson accuses Israel of sheltering accused child molesters while reporting on St George’s School describes failures to protect pupils during the tenure of his father-in-law, headmaster George Andrews.",
+    source: true,
+    sourceLink: "https://www.boston.com/news/local-news/2016/09/01/report-trainer-abused-1-in-5-girls-at-st-georges-prep-school-in-1970s/",
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "2024971428529865199"
+    ],
+    usTweets: [
+      "1944774555836297546",
+      "1944774760530841757",
+      "1989912506135888269"
+    ]
   }
 ]
 

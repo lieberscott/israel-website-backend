@@ -514,7 +514,8 @@ const examples25 = [
     source: true,
     standaloneTweets: [
       "1993677609239286153",
-      "1820857200320885033"
+      "1820857200320885033",
+      "1993072297553633594"
     ],
     thenVsNowFormat: false,
     thenTweets: [],
@@ -522,6 +523,51 @@ const examples25 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.itv.com/news/westcountry/2024-08-06/employees-and-police-officers-hurt-in-sledgehammer-attack-at-business-park"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-26",
+    claimIds: [
+      "25",
+      "6y",
+      "21",
+      "56"
+    ],
+    exampleId: "codex-20261006-next100-017",
+    keywordIds: [],
+    text: "The Flag Guy posts footage of antizionists disrupting a pro-Israel event behind the Los Angeles Holocaust Museum and says members of the mob attacked him.",
+    source: false,
+    standaloneTweets: [
+      "1993808571340083709"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-02-21",
+    claimIds: [
+      "25",
+      "56",
+      "31o"
+    ],
+    exampleId: "codex-20261006-next100-016-r1",
+    keywordIds: [],
+    text: "An attacker motivated by a desire to kill Jews slashes a Spanish tourist’s throat at Berlin’s Holocaust Memorial.",
+    source: true,
+    sourceLink: "https://apnews.com/article/f55c1f363184d81c68858692542880bc",
+    standaloneTweets: [
+      "1893305018473701544",
+      "1993670395493224466"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

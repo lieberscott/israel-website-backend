@@ -552,6 +552,26 @@ const examples31o = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2024-08-31",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261006-next100-030-r1",
+    keywordIds: [],
+    text: "Nihad Awad’s ISNA 61 convention appearance in 2024 reveals his ambition to elect 50 Muslim members of Congress, portraying the political project as a means of dismantling America.",
+    source: true,
+    standaloneTweets: [
+      "1993014363071103098"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.scribd.com/document/873385331/Convention-Program-August-17-PDF-crdownload"
   }
 ]
 

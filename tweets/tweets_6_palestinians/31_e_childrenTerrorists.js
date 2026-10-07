@@ -203,19 +203,6 @@ const examples31e = [
   },
   {
     dateAdded: "",
-    date: "2025-12-20",
-    claimIds: ["31e", "31f", "31g", "31k"],
-    exampleId: "31e11",
-    keywordIds: [],
-    text: "Reporter: 'If your daughter decides she wants to blow herself up, will you be happy about that?' Palestinian father: 'I will help her and encourage her.' (Unable to find original air date of clip.)",
-    standaloneTweets: ["2002245074068095349"],
-    source: false,
-    sourceLink: "",
-    themTweets: [],
-    usTweets: []
-  },
-  {
-    dateAdded: "",
     date: "2024-07-11",
     claimIds: ["31e", "31g", "31j", "31k"],
     exampleId: "31e12",
@@ -624,6 +611,89 @@ const examples31e = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.israelunwired.com/palestinian-pretend-shoot-soldiers/"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2024-12-02",
+    claimIds: [
+      "31e",
+      "31l",
+      "27",
+      "31k"
+    ],
+    exampleId: "codex-20261006-next100-059",
+    keywordIds: [],
+    text: "A Palestinian girl identifying herself as a UNRWA pupil says she hates Jews, wants to shoot them and hopes to become a martyr for Allah.",
+    source: true,
+    sourceLink: "https://unwatch.org/unrwa-student-they-teach-that-we-dont-like-israel-that-well-shoot-them/",
+    standaloneTweets: [
+      "1991271965298958499"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2023-01-04",
+    claimIds: [
+      "31e",
+      "31d"
+    ],
+    exampleId: "codex-20261006-next100-048-pending-review-20261007",
+    keywordIds: [],
+    text: "A video shows Palestinian children practicing attacks on Jewish children with knives.",
+    source: false,
+    standaloneTweets: [
+      "1610674743035793408"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2023-02-15",
+    claimIds: [
+      "31e",
+      "31k"
+    ],
+    exampleId: "codex-20261006-next100-052-pending-review-20261007",
+    keywordIds: [],
+    text: "A clip of a Palestinian kindergarten promotes killing Jews, dying for Allah and producing more martyrs.",
+    source: false,
+    standaloneTweets: [
+      "1625903491863523346"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-17",
+    claimIds: [
+      "31e"
+    ],
+    exampleId: "codex-20261006-next100-066-pending-review-20261007",
+    keywordIds: [],
+    text: "Palestinian children’s terror training shows boys handling weapons and ammunition belts, preparing another generation for violence against Jews.",
+    source: false,
+    standaloneTweets: [
+      "1990450104629604696",
+      "1990116843424448996"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

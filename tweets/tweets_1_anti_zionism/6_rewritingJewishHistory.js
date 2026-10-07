@@ -168,6 +168,28 @@ const examples6 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-16",
+    claimIds: [
+      "6",
+      "31a"
+    ],
+    exampleId: "codex-20261006-next100-094",
+    keywordIds: [],
+    text: "An account uses a 1722 book titled Palestine to imply Jews’ country was invented by the Rothschilds; a response points to ancient Judean history predating that book.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1989887396176077272"
+    ],
+    usTweets: [
+      "1989960186644369762"
+    ]
   }
 ]
 

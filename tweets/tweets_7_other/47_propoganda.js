@@ -168,6 +168,26 @@ const examples47 = [
     usTweets: [
       "2006312903205589449"
     ]
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-25",
+    claimIds: [
+      "47",
+      "31a"
+    ],
+    exampleId: "codex-20261006-next100-019",
+    keywordIds: [],
+    text: "GAZAWOOD identifies a clip depicting the IDF burning the American flag as AI used to provoke outrage against Israel. Click through to view, posts not loading on page.",
+    source: false,
+    standaloneTweets: [
+      "1993298623128654283"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
