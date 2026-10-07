@@ -557,6 +557,69 @@ const examples32 = [
       "2000945662716985502",
       "2000945679557099688"
     ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-13",
+    claimIds: [
+      "32",
+      "52x"
+    ],
+    exampleId: "codex-20261007-048",
+    keywordIds: [],
+    text: "Aizenberg challenges Reuters’ presentation of Gaza war-crime allegations, pointing to the article’s account that US government lawyers could not make a legal finding.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1988683546693890225"
+    ],
+    usTweets: [
+      "1988994588900569301"
+    ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-08-12",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "codex-20261007-046-r1-hospital-death",
+    keywordIds: [],
+    text: "The BBC removed “malnourished” from its headline about a Gaza woman’s death in Italy after her serious pre-existing medical conditions came to light.",
+    source: true,
+    standaloneTweets: [
+      "1988692089962405917"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://committees.parliament.uk/publications/50118/documents/270340/download"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-10",
+    claimIds: [
+      "32"
+    ],
+    exampleId: "codex-20261007-046-r1-corrections",
+    keywordIds: [],
+    text: "CAMERA documented 215 corrections to BBC Arabic coverage of Israel and Gaza over two years.",
+    source: true,
+    standaloneTweets: [
+      "1987609936017154102",
+      "1987829210757439498"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://hk.news.yahoo.com/bbc-forced-correct-two-gaza-140000522.html"
   }
 ]
 

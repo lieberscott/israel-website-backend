@@ -104,6 +104,31 @@ const examples20 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.timesofisrael.com/liveblog_entry/amsterdam-protests-against-hanukkah-concert-with-idf-cantor-said-to-be-subdued/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-05",
+    claimIds: [
+      "20",
+      "56",
+      "31c",
+      "31a"
+    ],
+    exampleId: "codex-20261007-069",
+    keywordIds: [],
+    text: "Antizionist intruders disrupt an Israeli speakers’ event in Toronto; video shows an injured attendee and an Israeli veteran removing intruders while activists portray the removal as an attack on them.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1987127473423765634"
+    ],
+    usTweets: [
+      "1987487404194705571"
+    ],
+    sourceLink: "https://www.timesofisrael.com/liveblog_entry/pro-israel-student-group-in-toronto-says-event-with-idf-veterans-stormed-by-anti-israel-activists/"
   }
 ]
 

@@ -68,6 +68,26 @@ const examples31b = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-13",
+    claimIds: [
+      "31b",
+      "4"
+    ],
+    exampleId: "codex-20261007-041",
+    keywordIds: [],
+    text: "Free Palestine TV accuses Jews of treating humans as a safari and killing children for sport.",
+    source: false,
+    standaloneTweets: [
+      "1989109878884110572"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -591,6 +591,28 @@ const examples5 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.abc.net.au/news/2025-12-19/asio-grim-reality-bondi-intelligence-gaps/106153836"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-11",
+    claimIds: [
+      "5",
+      "18",
+      "20",
+      "56"
+    ],
+    exampleId: "codex-20261007-032",
+    keywordIds: [],
+    text: "Outside a Bob Vylan concert in Kentish Town, posters declare Zionists unwelcome and Mark Birbeck faces hostility for wearing a \"Some people are Zionists. Get over it.\" T-shirt a day after posters appeared in Kentish Town declaring \"Zionists are not welcome.\"",
+    source: false,
+    standaloneTweets: [
+      "1989373733543227845"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

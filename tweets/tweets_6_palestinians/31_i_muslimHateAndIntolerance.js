@@ -137,6 +137,45 @@ const examples31i = [
       "1993648419030938076"
     ],
     sourceLink: "https://www.memri.org/tv/kuwaiti-cleric-othman-khamis-no-feel-bad-infidels-enslaved-refuse-convert-islam-apostasy-death"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-13",
+    claimIds: [
+      "31i",
+      "31l"
+    ],
+    exampleId: "codex-20261007-039",
+    keywordIds: [],
+    text: "A compilation of clerics portrays Jews and Christians as enemies because they are non-Muslims, expressing religious hostility rather than a dispute over Israeli policies.",
+    source: false,
+    standaloneTweets: [
+      "1988967539855306923"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-09",
+    claimIds: [
+      "31i"
+    ],
+    exampleId: "codex-20261007-071",
+    keywordIds: [],
+    text: "Two men threaten to rape, gas and murder a Jewish woman, using explicitly antisemitic threats and Nazi imagery.",
+    source: false,
+    standaloneTweets: [
+      "1987578407144620084"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -160,6 +160,26 @@ const examples31f = [
     usTweets: [
       "1933020283176362349"
     ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-13",
+    claimIds: [
+      "31f",
+      "51"
+    ],
+    exampleId: "codex-20261007-038",
+    keywordIds: [],
+    text: "Gaza channels report that Hamas kidnapped and tortured Jabalia shopkeeper Mahmoud Khalla to death, depicting Hamas’s violence against Gazans.",
+    source: false,
+    standaloneTweets: [
+      "1989280293228781663"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

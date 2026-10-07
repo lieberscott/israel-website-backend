@@ -244,6 +244,30 @@ const examples31c = [
       "1944774760530841757",
       "1989912506135888269"
     ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1994-02-25",
+    claimIds: [
+      "31c"
+    ],
+    exampleId: "codex-20261007-052-r1-r2",
+    keywordIds: [],
+    text: "Max Nordau contrasts Israel’s rejection of Baruch Goldstein’s massacre with Palestinian glorification of terrorists, challenging the attempt to treat the two responses as equivalent.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1036600275174350849",
+      "878577177809309697",
+      "2065753060711006530"
+    ],
+    usTweets: [
+      "1988348778449965376"
+    ],
+    sourceLink: "https://www.jta.org/archive/hebron-massacre-inquiry-exonerates-government-idf-blames-goldstein-only"
   }
 ]
 

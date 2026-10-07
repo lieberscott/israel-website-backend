@@ -1904,6 +1904,109 @@ const ZZNonIsraelExamples = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-14",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261007-017",
+    keywordIds: [],
+    text: "A transgender influencer says an Islamist crowd beat her in Brussels despite her support for Palestine, exposing the clash between progressive solidarity and Islamist hostility.",
+    source: false,
+    standaloneTweets: [
+      "1989404990956507348"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-14",
+    claimIds: [
+      "32",
+      "45",
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261007-037",
+    keywordIds: [],
+    text: "BBC Verify’s promise of rigorous verification is contrasted with a whistleblower memo alleging that Panorama spliced Donald Trump’s January 6 speech to mislead viewers.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1985405649443000758"
+    ],
+    nowTweets: [
+      "1989240383134466181"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2022-03-06",
+    claimIds: [
+      "32",
+      "45"
+    ],
+    exampleId: "nonIsrael-codex-20261007-040",
+    keywordIds: [],
+    text: "BBC Chief Correspondent Jeremy Bowen pretending to be under Russian attack when an elderly Ukrainian lady walking her dog stops to make sure he's okay.",
+    source: false,
+    standaloneTweets: [
+      "1988982285924978805"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-09",
+    claimIds: [
+      "45"
+    ],
+    exampleId: "nonIsrael-codex-20261007-066",
+    keywordIds: [],
+    text: "Joel Mowbray challenges Robert Amsterdam’s presentation as an independent expert on Christian killings in Nigeria, highlighting paid representation and alleged Qatari connections behind his appearance with Tucker Carlson.",
+    source: false,
+    standaloneTweets: [
+      "1987602563534123446",
+      "1987735337805001032",
+      "1987623569506079097"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-09",
+    claimIds: [
+      "45"
+    ],
+    exampleId: "nonIsrael-codex-20261007-067",
+    keywordIds: [],
+    text: "Joel Mowbray highlights Robert Amsterdam’s paid work connected to Venezuela while criticizing Tucker Carlson’s use of him as an apparently independent voice on the country.",
+    source: false,
+    standaloneTweets: [
+      "1987671533104648517",
+      "1987602563534123446"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

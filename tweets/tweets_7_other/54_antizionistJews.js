@@ -170,6 +170,106 @@ const examples54 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1942-09-04",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codex-20261007-027-r1-rumkowski",
+    keywordIds: [],
+    text: "Chaim Rumkowski, head of the Łódź Jewish council, urged parents to surrender their children for Nazi deportation in his “Give Me Your Children” speech. The deported children were murdered at Chełmno. In August 1944, Rumkowski and his family joined the last transport to Auschwitz.",
+    source: true,
+    standaloneTweets: [
+      "2088942059025818000"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://encyclopedia.ushmm.org/content/en/article/give-me-your-children-voices-from-the-lodz-ghetto"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1942-08-20",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codex-20261007-027-r1-szerynski",
+    keywordIds: [],
+    text: "Józef Szeryński commanded Warsaw’s Jewish ghetto police and collaborated in deporting Jews to Treblinka. He ultimately committed suicide.",
+    source: true,
+    standaloneTweets: [
+      "1303373398546944002"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://wwv.yadvashem.org/YV/en/exhibitions/warsaw_ghetto_testimonies/preparing_uprising.asp"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1940-12-15",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codex-20261007-027-r1-gancwajch",
+    keywordIds: [],
+    text: "Abraham Gancwajch organized Group 13 in the Warsaw ghetto, whose members worked as agents for Nazi Germany’s security service while presenting their operation as policing fair trade. Yad Vashem dates Group 13’s establishment to December 1940.",
+    source: true,
+    standaloneTweets: [
+      "1303373401193496577"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://wwv.yadvashem.org/yv/he/research/ghettos_encyclopedia/ghetto_details.asp?cid=1120"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1944-04-08",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codex-20261007-027-r1-van-dijk",
+    keywordIds: [],
+    text: "Ans van Dijk lured Jews out of hiding and delivered them to the Gestapo. One documented betrayal led to the arrest of a hidden Jewish girl and her rescuers on April 8, 1944.",
+    source: true,
+    standaloneTweets: [
+      "1705850594500485190"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.joodsmonument.nl/nl/page/374740/arrestatie"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1943-09-15",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codex-20261007-027-r1-goldschlag",
+    keywordIds: [],
+    text: "Stella Goldschlag worked for the Gestapo in Berlin, identifying Jews living in hiding and exposing them to arrest and deportation. Research places her collaboration in 1943–1945.",
+    source: true,
+    standaloneTweets: [
+      "1097566931505369093"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://wwv.yadvashem.org/odot_pdf/Microsoft%20Word%20-%203327.pdf"
   }
 ]
 

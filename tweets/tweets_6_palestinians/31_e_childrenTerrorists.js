@@ -694,6 +694,47 @@ const examples31e = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-05-16",
+    claimIds: [
+      "31e",
+      "31p"
+    ],
+    exampleId: "codex-20261007-003",
+    keywordIds: [],
+    text: "Yemeni children at a Houthi rally threaten to drink Americans’ blood and chant death to America, death to Israel and curses upon Jews.",
+    source: true,
+    standaloneTweets: [
+      "1926081715740520768"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.youtube.com/watch?v=jYvCL6EeFfA"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2024-12-10",
+    claimIds: [
+      "31e",
+      "29"
+    ],
+    exampleId: "codex-20261007-010",
+    keywordIds: [],
+    text: "Footage from Jenin shows children carrying guns among portraits of terrorists, normalizing armed militancy for Palestinian children.",
+    source: false,
+    standaloneTweets: [
+      "1866488055093248042"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

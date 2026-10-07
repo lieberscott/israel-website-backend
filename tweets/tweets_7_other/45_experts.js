@@ -237,6 +237,57 @@ const examples45 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-03-30",
+    claimIds: [
+      "45",
+      "31a",
+      "41",
+      "10"
+    ],
+    exampleId: "codex-20261007-022",
+    keywordIds: [],
+    text: "Antizionist Ryan Grim repeatedly warns that Gaza is about to run out of food. He deleted his earlier prediction that it w0uld run out in 10 days, too, which is why Max Nordau's response has no Tweet quoted from. Of course, Gaza did not run out of food, they did not acknowledge they were wrong, and simply moved on to the next thing to justify their hate.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1906252829418754079",
+      "1906353104481550735"
+    ],
+    usTweets: [
+      "1906487580243243066",
+      "1906485794279129390"
+    ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-16",
+    claimIds: [
+      "45",
+      "54",
+      "4"
+    ],
+    exampleId: "codex-20261007-004-r1",
+    keywordIds: [],
+    text: "Dr. Mark Perlmutter recounts allegations of Israeli soldiers burying children alive and sexually torturing a Palestinian surgeon; his own account identifies those stories as testimony he collected from others. Grok confirms Adin's assertion in the second Tweet on the right.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1989415360035172668"
+    ],
+    usTweets: [
+      "1990012296421159172",
+      "2053340633725567194"
+    ],
+    sourceLink: "https://aohr.org.uk/webinar-report-bodies-of-detainees-and-messages-of-torture-what-is-happening-inside-israeli-prisons/"
   }
 ]
 

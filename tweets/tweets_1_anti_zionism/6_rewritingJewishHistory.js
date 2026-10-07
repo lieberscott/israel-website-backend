@@ -190,6 +190,31 @@ const examples6 = [
     usTweets: [
       "1989960186644369762"
     ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-13",
+    claimIds: [
+      "6",
+      "56",
+      "54",
+      "1",
+      "5"
+    ],
+    exampleId: "codex-20261007-042",
+    keywordIds: [],
+    text: "The satirical musical Slam Frank depicts a play within a play in which Anne Frank alerts the Nazis to prevent Israel’s creation.",
+    source: true,
+    standaloneTweets: [
+      "1989019955212288405",
+      "1989086822723383580"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jewishnews.co.uk/anne-frank-musical-shows-holocaust-diarist-alerting-nazis-to-stop-israels-creation/"
   }
 ]
 

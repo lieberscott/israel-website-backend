@@ -31,6 +31,27 @@ const examples15 = [
     thenVsNowFormat: false,
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-12",
+    claimIds: [
+      "15",
+      "56",
+      "5"
+    ],
+    exampleId: "codex-20261007-049",
+    keywordIds: [],
+    text: "A Canadian passport applicant is told that Kfar Saba, Israel cannot appear as her birthplace because of the political conflict, prompting Neil Oberman to challenge the erasure of Israel.",
+    source: false,
+    standaloneTweets: [
+      "1988803925361807470"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -125,6 +125,27 @@ const examples31q = [
     standaloneTweets: ["2072942690040156583"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-10",
+    claimIds: [
+      "31q"
+    ],
+    exampleId: "codex-20261007-065-r1",
+    keywordIds: [],
+    text: "Turkey describes the men trapped in Rafah tunnels as civilians, while Hamas’s own Qassam Brigades statement calls them “our fighters” and says they will not surrender.",
+    source: true,
+    standaloneTweets: [
+      "1987831979509739892",
+      "1987465606535201225"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.aa.com.tr/en/middle-east/hamas-holds-israel-responsible-for-any-clashes-with-its-fighters-in-gaza-s-rafah/3739055"
   }
 ]
 

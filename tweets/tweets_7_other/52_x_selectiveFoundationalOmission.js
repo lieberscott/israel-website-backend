@@ -122,6 +122,28 @@ const examples52x = [
       "1991218431266603512"
     ],
     sourceLink: "https://apnews.com/article/84a26c919c2636e6bd8d0a86ae166b3a"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-10",
+    claimIds: [
+      "52x",
+      "31a"
+    ],
+    exampleId: "codex-20261007-059-r1",
+    keywordIds: [],
+    text: "The Mossad challenges Dilly Hussain’s use of a cropped age-of-consent headline and an unrelated Israel-account reply to portray Israel as endorsing child sexual abuse.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1987486024147112414"
+    ],
+    usTweets: [
+      "1987804541568327822"
+    ]
   }
 ]
 

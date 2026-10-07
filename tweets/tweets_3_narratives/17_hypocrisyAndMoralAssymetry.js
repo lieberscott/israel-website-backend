@@ -476,6 +476,155 @@ const examples17 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-15",
+    claimIds: [
+      "17",
+      "54",
+      "19"
+    ],
+    exampleId: "codex-20261007-008",
+    keywordIds: [
+      "pound of flesh"
+    ],
+    text: "Amelia Adams challenges the demand that the ADL abandon its focus on antisemitism while other civil-rights organizations are allowed to concentrate on the communities they represent.",
+    source: false,
+    standaloneTweets: [
+      "1989886844280906151"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-12",
+    claimIds: [
+      "17",
+      "8",
+      "31b",
+      "52x"
+    ],
+    exampleId: "codex-20261007-055",
+    keywordIds: [],
+    text: "Avi Yemini counters Abier’s claim that Muslim-majority states lack religious supremacy, citing discrimination in Saudi Arabia, Pakistan and Iran while she singles out the Jewish state.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1988501738224009683"
+    ],
+    usTweets: [
+      "1988502728193307013"
+    ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-09",
+    claimIds: [
+      "17",
+      "32",
+      "31b",
+      "41",
+      "52x"
+    ],
+    exampleId: "codex-20261007-058",
+    keywordIds: [],
+    text: "Adam Fisher has a great thread contrasting how British and Irish organ-retention scandals are described with accusations of Israeli organ harvesting, tracing the leap from a documented tissue-retention scandal to lurid allegations against Israel.",
+    source: false,
+    standaloneTweets: [
+      "1987746023041810523",
+      "1987746026388586638",
+      "1987746029496635685",
+      "1987746032885588067",
+      "1987746036081713564",
+      "1987746039147696258",
+      "1987746041593237519",
+      "1987746045653086554",
+      "1987746048207413756",
+      "1987746051629978055",
+      "1987746054645662174"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-08",
+    claimIds: [
+      "17",
+      "30x"
+    ],
+    exampleId: "codex-20261007-072",
+    keywordIds: [],
+    text: "TheMilkBarTV contrasts Tucker Carlson’s claim that Israel distracts Americans from Ukraine with Carlson’s own repeated focus on Israel.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1987181348713332915"
+    ],
+    usTweets: [
+      "1987181343294489083"
+    ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-06",
+    claimIds: [
+      "17",
+      "18",
+      "56"
+    ],
+    exampleId: "codex-20261007-077-r1",
+    keywordIds: [],
+    text: "Amsterdam mayor Femke Halsema defended Bob Vylan’s right to perform and refused to intervene in the venue’s programming, then rejected a Hanukkah invitation involving Israeli cantor Shai Abramson.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1968305693003563336"
+    ],
+    nowTweets: [
+      "1986525428522360863"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.at5.nl/artikelen/234509/halsema-na-kritiek-op-bob-vylan-ik-val-niet-als-een-kleine-dictator-cultuurhuizen-binnen"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-10",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codex-20261007-059-r1-iraq",
+    keywordIds: [],
+    text: "Iraq passed amendments allowing religious marriage rules that can permit girls to marry at nine. Months later, Dilly Hussain used a cropped headline to portray Israel as endorsing child sexual abuse, and The Mossad supplied the missing context.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1882002401856569597"
+    ],
+    nowTweets: [
+      "1987804541568327822",
+      "1987486024147112414"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.irishnews.com/news/world/iraq-passes-bill-that-critics-say-legalises-child-marriage-LORPIGUJINNYHKN6NVLMYJ53XM/"
   }
 ]
 

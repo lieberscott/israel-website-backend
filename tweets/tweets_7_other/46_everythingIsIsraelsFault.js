@@ -201,10 +201,10 @@ const examples46 = [
     standaloneTweets: [],
     thenVsNowFormat: true,
     thenTweets: [
-      "1988336012645277775"
+      "1990062644292665376"
     ],
     nowTweets: [
-      "1990062644292665376"
+      "1988336012645277775"
     ],
     themTweets: [],
     usTweets: []

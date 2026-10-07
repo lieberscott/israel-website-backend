@@ -931,6 +931,46 @@ const examples44 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.orcam.com/en-us/blog/assistive-technology-for-visually-impaired-launches-in-canada"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "1892-07-18",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261007-028",
+    keywordIds: [],
+    text: "Jewish scientist Waldemar Haffkine pioneered cholera and plague vaccines, a historic contribution to saving lives. July 18 is the reported self-inoculation date.",
+    source: true,
+    standaloneTweets: [
+      "1989452782798004535"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://collection.sciencemuseumgroup.org.uk/people/cp118785/waldemar-mordecai-wolfe-haffkine"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2023-06-15",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261007-050",
+    keywordIds: [],
+    text: "Hadassah surgeons save Palestinian boy Suleiman Hassan after a traffic collision causes internal decapitation, demonstrating Israeli medical care for a Palestinian child.",
+    source: true,
+    standaloneTweets: [
+      "1988414770815414366"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.mdedge.com/fedprac/article/265111/injuries/decapitated-boy-saved-surgery-team"
   }
 ]
 

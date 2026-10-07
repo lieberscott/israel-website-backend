@@ -235,6 +235,89 @@ const examples31g = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-10",
+    claimIds: [
+      "31g",
+      "30"
+    ],
+    exampleId: "codex-20261007-001",
+    keywordIds: [],
+    text: "Hamas official Osama Hamdan celebrates October 7 and urges supporters abroad to wage jihad wherever and however they can.",
+    source: true,
+    standaloneTweets: [
+      "1989692612710658385"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jns.org/israel-news/top-hamas-terrorist-oct-7-proved-that-israel-would-not-survive"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-15",
+    claimIds: [
+      "31g"
+    ],
+    exampleId: "codex-20261007-002",
+    keywordIds: [],
+    text: "A Palestinian man interviewed by Al Jazeera says he would not regret October 7, rejecting regret for the attack on Israel.",
+    source: false,
+    standaloneTweets: [
+      "1989666014070804744"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2018-07-29",
+    claimIds: [
+      "31g",
+      "31j"
+    ],
+    exampleId: "codex-20261007-012",
+    keywordIds: [],
+    text: "In Pierre Rehov’s interviews, a Palestinian suicide-bombing advocate says he would blow himself up in a nursery and feel no sorrow for Israeli children.",
+    source: true,
+    standaloneTweets: [
+      "1892324060962422874"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.wnd.com/2018/07/in-their-own-words-suicide-bombers-justify-murdering-kids/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2019-07-12",
+    claimIds: [
+      "31g",
+      "30",
+      "27"
+    ],
+    exampleId: "codex-20261007-013",
+    keywordIds: [],
+    text: "Hamas official Fathi Hammad urges Palestinians abroad to slaughter Jews around the world with knives and explosive belts.",
+    source: true,
+    standaloneTweets: [
+      "1813207849498984694"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.terrorism-info.org.il/app/uploads/2019/07/E_160_19.pdf"
   }
 ]
 

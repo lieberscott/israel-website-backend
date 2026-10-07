@@ -49,6 +49,26 @@ const examples27 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2003-03-18",
+    claimIds: [
+      "27"
+    ],
+    exampleId: "codex-20261007-060-r1",
+    keywordIds: [],
+    text: "Aizenberg contrasts promises that a one-state Palestine would be religiously neutral with the Palestinian Basic Law’s Arab identity, official religion of Islam and role for Sharia. Palestinian Basic Law passed on March 18, 2003.",
+    source: true,
+    standaloneTweets: [
+      "1987896269738480033"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.palestinianbasiclaw.org/basic-law/2003-amended-basic-law"
   }
 ]
 

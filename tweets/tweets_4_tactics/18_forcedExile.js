@@ -329,6 +329,27 @@ const examples18 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-13",
+    claimIds: [
+      "18",
+      "5",
+      "56"
+    ],
+    exampleId: "codex-20261007-035",
+    keywordIds: [],
+    text: "Flyers at the New School demand the expulsion of Hillel from campus, targeting Jewish communal life for exclusion under antizionist slogans.",
+    source: false,
+    standaloneTweets: [
+      "1989008417113977182"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

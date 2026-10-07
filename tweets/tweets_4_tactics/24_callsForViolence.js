@@ -244,6 +244,47 @@ const examples24 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.govinfo.gov/content/pkg/BILLS-119hres674ih/pdf/BILLS-119hres674ih.pdf"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-06-08",
+    claimIds: [
+      "24",
+      "21",
+      "56"
+    ],
+    exampleId: "codex-20261007-021",
+    keywordIds: [],
+    text: "At the Resistance Festival in Brussels, a crowd chants “Intifada,” glorifying the violence associated with attacks on Jews and Israelis.",
+    source: false,
+    standaloneTweets: [
+      "1931732534058193332"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-07",
+    claimIds: [
+      "24",
+      "56"
+    ],
+    exampleId: "codex-20261007-076",
+    keywordIds: [],
+    text: "Jewish and Israeli students at the Fashion Institute of Technology report being called “Zionist pigs,” excluded and threatened with violence, prompting a civil-rights complaint.",
+    source: false,
+    standaloneTweets: [
+      "1986865889724051636"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

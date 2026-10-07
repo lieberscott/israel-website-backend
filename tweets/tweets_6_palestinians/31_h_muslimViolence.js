@@ -119,6 +119,26 @@ const examples31h = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.newarab.com/news/syrian-fighter-holds-braid-sdf-womans-hair-causes-outrage"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-06",
+    claimIds: [
+      "31h",
+      "31i"
+    ],
+    exampleId: "codex-20261007-075",
+    keywordIds: [],
+    text: "Hamas propagandist Ahmed Hijazee’s wife alleges years of domestic violence and death threats after fleeing their home in Qatar.",
+    source: false,
+    standaloneTweets: [
+      "1986775564657836335"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

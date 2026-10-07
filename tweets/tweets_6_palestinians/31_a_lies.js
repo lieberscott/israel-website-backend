@@ -703,6 +703,77 @@ const examples31a = [
       "1963598608692887963"
     ],
     sourceLink: "https://www.timesofisrael.com/gaza-aid-group-says-boy-reported-killed-at-site-is-actually-still-living-and-safe/"
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-15",
+    claimIds: [
+      "31a",
+      "47"
+    ],
+    exampleId: "codex-20261007-009",
+    keywordIds: [],
+    text: "Michal Sabra shows a Gaza tent appeal from so-called journalist Osama Abu Rabee using a photograph that was actually Syrian children in flooded shelters as if it was Gaza.",
+    source: false,
+    standaloneTweets: [
+      "1989891269980467413"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-08",
+    claimIds: [
+      "31a",
+      "4"
+    ],
+    exampleId: "codex-20261007-074",
+    keywordIds: [],
+    text: "A fabricated quotation is circulated as Jewish scripture. \"To communicate anything to a Goy about our religious relations would be equal to the killing of all Jews, for if the Goyim knew what we teach about them, they would kill us openly.\" Goy is Yiddish; the Talmud is written in Hebrew. And there is no \"Libbre David.\"",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1986997438415061149"
+    ],
+    usTweets: [
+      "1986997758566502792",
+      "1987044206129651865"
+    ]
+  },
+  {
+    dateAdded: "2026-10-07",
+    date: "2025-11-09",
+    claimIds: [
+      "31a",
+      "31c"
+    ],
+    exampleId: "codex-20261007-068-r1",
+    keywordIds: [
+      "rocket alert",
+      "red alert",
+      "sex offenders"
+    ],
+    text: "Hila corrects a red-alert rocket-warning map that Tiberius misrepresents as a map of sexual offenders in Israel.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1987122805868056862"
+    ],
+    usTweets: [
+      "1730543506660204884",
+      "1987429393111699473"
+    ],
+    sourceLink: "https://leadstories.com/hoax-alert/2024/01/fact-check-image-of-map-does-not-show-location-of-sex-offenders-in-israel.html"
   }
 ]
 
