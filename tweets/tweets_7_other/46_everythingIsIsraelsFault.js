@@ -256,6 +256,25 @@ const examples46 = [
       "1973355194294374620"
     ],
     sourceLink: "https://www.usccb.org/news/2025/us-bishops-issue-special-message-immigration-plenary-assembly-baltimore"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2015-02-16",
+    claimIds: [
+      "46"
+    ],
+    exampleId: "codex-20261008-076",
+    keywordIds: [],
+    text: "The Mossad are behind ISIL, ISIS, Boko Haram, and the massacres in Nigeria.",
+    source: false,
+    standaloneTweets: [
+      "1984657921699910010"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

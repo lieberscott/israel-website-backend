@@ -268,6 +268,26 @@ const examples31c = [
       "1988348778449965376"
     ],
     sourceLink: "https://www.jta.org/archive/hebron-massacre-inquiry-exonerates-government-idf-blames-goldstein-only"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-02",
+    claimIds: [
+      "31c",
+      "30x"
+    ],
+    exampleId: "codex-20261008-048",
+    keywordIds: [],
+    text: "A screenshot juxtaposes an “Anti Eyal Yakoby Club” account calling Israel the new Nazi with the same account posting “Heil Hitler.”",
+    source: false,
+    standaloneTweets: [
+      "1985085226532401594"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

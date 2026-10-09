@@ -572,6 +572,107 @@ const examples31o = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.scribd.com/document/873385331/Convention-Program-August-17-PDF-crdownload"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2024-04-05",
+    claimIds: [
+      "31o",
+      "31p"
+    ],
+    exampleId: "codex-20261008-016",
+    keywordIds: [],
+    text: "At an April 5, 2024 Quds Day rally in Dearborn, participants chant “Death to America” and “Death to Israel.”",
+    source: true,
+    standaloneTweets: [
+      "1986185197272879368"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.memri.org/node/64969/"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2009-10-15",
+    claimIds: [
+      "31o",
+      "30"
+    ],
+    exampleId: "codex-20261008-082",
+    keywordIds: [],
+    text: "In a CNN interview, Younus Abdullah Muhammad says the Quran commands believers to terrorize disbelievers.",
+    source: true,
+    standaloneTweets: [
+      "1983897787000369526"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://ctc.westpoint.edu/the-growing-danger-from-radical-islamist-groups-in-the-united-states/"
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2011-06-07",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261008-041-r1",
+    keywordIds: [],
+    text: "A repost discusses a 2011 study reporting violent material in 81 of 100 sampled American mosques. “81% of the mosques that he surveilled were in some way or other preaching jihadism and hatred of non-Muslims” including establishing Sharia Law in America.",
+    source: true,
+    standaloneTweets: [
+      "1985368874347319652"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://cris.biu.ac.il/en/publications/sharia-adherence-mosque-survey-correlations-between-sharia-adhere/"
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2025-11-02",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261008-051-r1",
+    keywordIds: [],
+    text: "Muslim streamer Sneako calls dogs haram and urges Muslims to have children instead of dogs.",
+    source: false,
+    standaloneTweets: [
+      "1985078207251366352"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2013-10-09",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261008-077-r1",
+    keywordIds: [],
+    text: "An undercover ITV investigation finds clerics willing to conduct a marriage between a 14-year-old girl and an older man.",
+    source: true,
+    standaloneTweets: [
+      "1984594339784507582"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.aneeta.com/evidence-index"
   }
 ]
 

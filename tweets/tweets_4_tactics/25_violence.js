@@ -568,6 +568,30 @@ const examples25 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-05",
+    claimIds: [
+      "25",
+      "22",
+      "56"
+    ],
+    exampleId: "codex-20261008-021",
+    keywordIds: [
+      "Canada"
+    ],
+    text: "Demonstrators force entry into a Toronto venue hosting an Israeli speaker event; police report arrests and a person injured by broken glass.",
+    source: true,
+    standaloneTweets: [
+      "1986257991285301606"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://toronto.citynews.ca/2025/11/05/multiple-arrests-made-after-group-of-demonstrators-force-their-way-into-building-downtown/"
   }
 ]
 

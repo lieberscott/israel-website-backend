@@ -613,6 +613,103 @@ const examples5 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-05",
+    claimIds: [
+      "5",
+      "6y",
+      "18",
+      "22",
+      "56"
+    ],
+    exampleId: "codex-20261008-001",
+    keywordIds: [
+      "England",
+      "United Kingdom"
+    ],
+    text: "Masked men put up “Zionists Not Welcome” signs in Birmingham, including a sign telling residents to report a Zionist to an anti-terror hotline.",
+    source: true,
+    standaloneTweets: [
+      "1986652626402918612"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.timesofisrael.com/700-cops-deployed-ahead-of-maccabi-match-in-uk-activists-plaster-city-with-anti-israel-posters/amp/"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-06",
+    claimIds: [
+      "5",
+      "18",
+      "56"
+    ],
+    exampleId: "codex-20261008-010",
+    keywordIds: [],
+    text: "Emily Schrader reports a complaint to Aston Villa that her Zioness shirt was offensive because it supported Israel, and an attempt to have her removed during halftime.",
+    source: false,
+    standaloneTweets: [
+      "1986606258405736505"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-31",
+    claimIds: [
+      "5",
+      "18",
+      "3",
+      "56"
+    ],
+    exampleId: "codex-20261008-073",
+    keywordIds: [
+      "Australia"
+    ],
+    text: "A Melbourne nursery rejects an Israeli job applicant with a message invoking humanity, plants and the environment, accusing her of complicity and saying she hopes she leaves Melbourne.",
+    source: false,
+    standaloneTweets: [
+      "1984868498485428314"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2024-12-26",
+    claimIds: [
+      "5",
+      "20",
+      "18",
+      "56"
+    ],
+    exampleId: "codex-20261008-081-r1",
+    keywordIds: [],
+    text: "Demonstrators target an Indigo bookstore in Ontario during Boxing Day shopping because of its owners’ support for Israel.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1785081844834173061"
+    ],
+    nowTweets: [
+      "1872466805199135173"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://canarymission.org/individual/Amjad_Ramadan"
   }
 ]
 

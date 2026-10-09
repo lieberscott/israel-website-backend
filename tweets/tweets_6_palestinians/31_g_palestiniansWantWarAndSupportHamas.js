@@ -318,6 +318,29 @@ const examples31g = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.terrorism-info.org.il/app/uploads/2019/07/E_160_19.pdf"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-28",
+    claimIds: [
+      "31g",
+      "29"
+    ],
+    exampleId: "codex-20261008-098",
+    keywordIds: [],
+    text: "An October 2025 Palestinian survey reports 60% satisfaction with Hamas’s wartime performance and a plurality choosing armed struggle as the most effective route forward.",
+    source: true,
+    standaloneTweets: [
+      "1984092015009882515",
+      "1984092010605899907",
+      "1984092004813619487"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.pcpsr.org/sites/default/files/Poll%2096%20press%20release%20FINAL%20ENGLISH%2028%20Oct%202025.pdf"
   }
 ]
 

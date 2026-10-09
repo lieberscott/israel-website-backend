@@ -30,6 +30,26 @@ const examples4 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.ucl.ac.uk/arts-humanities/news/2025/nov/statement-hjs-blood-libel-incident"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2024-08-08",
+    claimIds: [
+      "4"
+    ],
+    exampleId: "codex-20261008-053",
+    keywordIds: [],
+    text: "Surgeon Alon Pikarsky’s medical opinion said no evidence of rectal injury of sexual assault at Sde Teiman. The worst libel of the war came from Israel itself. Horrific. As it was once said, \"There is no worse antisemite than the Jewish antisemite.\"",
+    source: true,
+    standaloneTweets: [
+      "1821536914203115878"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jns.org/israel-news/medical-opinion-suggests-raped-hamas-terrorist-wounded-himself"
   }
 ]
 

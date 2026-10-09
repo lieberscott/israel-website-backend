@@ -16,6 +16,29 @@ const examples7 = [
     standaloneTweets: ["2001776636371382575"],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-04",
+    claimIds: [
+      "7",
+      "31c",
+      "17"
+    ],
+    exampleId: "codex-20261008-030",
+    keywordIds: [],
+    text: "British Palestinian Doctor Rahmeh Aladwan denies Jewish indigeneity to Palestine; Adin answers by poointing out the Aladwan clan is from Arabia, not Palestine, and that she is herself not indigenous.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1985707577708105975"
+    ],
+    usTweets: [
+      "1985827120925270166"
+    ]
   }
 ]
 

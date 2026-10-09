@@ -288,6 +288,42 @@ const examples45 = [
       "2053340633725567194"
     ],
     sourceLink: "https://aohr.org.uk/webinar-report-bodies-of-detainees-and-messages-of-torture-what-is-happening-inside-israeli-prisons/"
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2025-02-05",
+    claimIds: [
+      "45",
+      "19"
+    ],
+    exampleId: "codex-20261008-092-r2",
+    keywordIds: [],
+    text: "Aizenberg exposes fabricated quotations and faulty analysis in Daniel Blatman and Amos Goldberg’s Haaretz genocide article, documenting the inserted “destroy Amalek” wording, the “second Nakba” quotation and the unsupported “no innocents” attribution.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1887173995876733013"
+    ],
+    usTweets: [
+      "1887173997764177977",
+      "1887173999806796262",
+      "1887174002000417088",
+      "1887174004139598067",
+      "1887174006027296901",
+      "1887174008405119275",
+      "1887174010418385237",
+      "1887174011920031760",
+      "1887174013488615617",
+      "1887174015602856199",
+      "1887174017976520929",
+      "1887174019394195903",
+      "1887174021608780045",
+      "1887174023270043743",
+      "1887174025014575571"
+    ]
   }
 ]
 

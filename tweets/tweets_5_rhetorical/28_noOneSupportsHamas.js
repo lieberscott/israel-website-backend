@@ -230,6 +230,47 @@ const examples28 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2024-03-21",
+    claimIds: [
+      "28",
+      "31o"
+    ],
+    exampleId: "codex-20261008-020",
+    keywordIds: [],
+    text: "A Pew survey found that 37% of Muslim American respondents had a favorable view of Hamas.",
+    source: true,
+    standaloneTweets: [
+      "1986245147533996297"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.pewresearch.org/short-reads/2024/04/02/how-us-muslims-are-experiencing-the-israel-hamas-war/"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2023-10-07",
+    claimIds: [
+      "28",
+      "42"
+    ],
+    exampleId: "codex-20261008-029",
+    keywordIds: [],
+    text: "Mia Khalifa’s October 7 post urged Palestinian fighters to film horizontally while the massacre was unfolding, implying the film the dead Jews who were laying horizontally on the ground.",
+    source: false,
+    standaloneTweets: [
+      "1985731028846071819"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

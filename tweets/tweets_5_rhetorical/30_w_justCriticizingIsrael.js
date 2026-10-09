@@ -122,6 +122,47 @@ const examples30 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-02",
+    claimIds: [
+      "30w",
+      "30y",
+      "27",
+      "30x"
+    ],
+    exampleId: "codex-20261008-044",
+    keywordIds: [],
+    text: "From 'Criticism of Israel' to 'calling for the end of Israel' in less than 240 characters. If antizionism isn't antisemitism it's their permission slip for anything.",
+    source: false,
+    standaloneTweets: [
+      "1985290796854137002"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-29",
+    claimIds: [
+      "30w"
+    ],
+    exampleId: "codex-20261008-085",
+    keywordIds: [],
+    text: "Apostate Prophet answers a claim that a Texas man was targeted merely for criticizing Israel with screenshots of posts saying Jews must be eliminated.",
+    source: false,
+    standaloneTweets: [
+      "1984165012865417405"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

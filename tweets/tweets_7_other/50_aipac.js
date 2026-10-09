@@ -68,6 +68,66 @@ const examples50 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-03",
+    claimIds: [
+      "50",
+      "17"
+    ],
+    exampleId: "codex-20261008-043",
+    keywordIds: [],
+    text: "Max Nordau contrasts AIPAC Tracker’s endorsement of Zohran Mamdani with the fact he is majorly financed by foreign involvement in his political support network.",
+    source: false,
+    standaloneTweets: [
+      "1985458506787336524"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-08-15",
+    claimIds: [
+      "50"
+    ],
+    exampleId: "codex-20261008-047",
+    keywordIds: [],
+    text: "Ohio representative Ismail Mohamed describes a group of Somali American officials working together to lobby on issues concerning Somalia.",
+    source: true,
+    standaloneTweets: [
+      "1985066274796536111"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.breitbart.com/politics/2025/08/15/our-aim-lobby-for-somalia-ohio-state-rep-ismail-mohamed-urges-support-for-somali-causes-in-non-english-video/amp/"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2022-01-21",
+    claimIds: [
+      "50"
+    ],
+    exampleId: "codex-20261008-086",
+    keywordIds: [],
+    text: "Deqa Dhalac says her goal is to help \"our country of Somalia\" in an ABC interview after becoming South Portland’s mayor.",
+    source: true,
+    standaloneTweets: [
+      "1984086707482857530"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://abcnews.com/video/82401048/"
   }
 ]
 

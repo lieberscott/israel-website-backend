@@ -114,6 +114,46 @@ const examples55 = [
       "2000770357230494019",
       "2000876660737106308"
     ]
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-30",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "codex-20261008-088",
+    keywordIds: [],
+    text: "A parody of Zohran Mamdani is called racism, which is the accusation and fear driving Western Palestinianism.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1983728072429072537"
+    ],
+    usTweets: [
+      "1983911233905410287"
+    ]
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2025-10-29",
+    claimIds: [
+      "55"
+    ],
+    exampleId: "codex-20261008-100-r1",
+    keywordIds: [],
+    text: "Nioh Berg challenges Alonso Gurmendi’s claim that ranking cultures is racism, attaching a description of the abusive bacha bazi practice in which old Afghani men enslave and sexually abuse young boys.",
+    source: false,
+    standaloneTweets: [
+      "1983846214207729929"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

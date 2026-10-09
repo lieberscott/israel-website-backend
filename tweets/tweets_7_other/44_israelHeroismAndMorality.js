@@ -971,6 +971,26 @@ const examples44 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.mdedge.com/fedprac/article/265111/injuries/decapitated-boy-saved-surgery-team"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-07",
+    claimIds: [
+      "44"
+    ],
+    exampleId: "codex-20261008-005",
+    keywordIds: [],
+    text: "Israeli athlete Omri Haviv wins world-championship gold after his Kazakh opponent is disqualified for an illegal kick and then refuses a handshake; an earlier Kuwaiti opponent refused to face him.",
+    source: true,
+    standaloneTweets: [
+      "1986871279236833329"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.timesofisrael.com/israels-omri-haviv-wins-jiu-jitsu-gold-as-kazakh-rival-disqualified-for-illegal-kick/"
   }
 ]
 

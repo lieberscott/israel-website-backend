@@ -350,6 +350,26 @@ const examples18 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-05",
+    claimIds: [
+      "18",
+      "27"
+    ],
+    exampleId: "codex-20261008-025",
+    keywordIds: [],
+    text: "Canary Mission shares a Palestinian influencer's demand that Jews \"return to Poland\" following Zohran Mamdani’s election.",
+    source: false,
+    standaloneTweets: [
+      "1986084569326501952"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

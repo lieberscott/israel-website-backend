@@ -145,6 +145,27 @@ const examples21 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2024-09-02",
+    claimIds: [
+      "21",
+      "56"
+    ],
+    exampleId: "codex-20261008-018",
+    keywordIds: [],
+    text: "Vivid reposts footage of a New York pro-Palestinian march following the recovery of six murdered hostages, including an American, Hersh Goldberg-Polin.",
+    source: true,
+    standaloneTweets: [
+      "1986120072344313888"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.adl.org/resources/report/one-year-later-antisemitic-trends-post-107/"
   }
 ]
 

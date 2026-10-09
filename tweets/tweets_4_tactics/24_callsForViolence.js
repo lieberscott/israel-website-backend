@@ -285,6 +285,28 @@ const examples24 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-31",
+    claimIds: [
+      "24",
+      "30",
+      "31o"
+    ],
+    exampleId: "codex-20261008-003",
+    keywordIds: [],
+    text: "In an October 31, 2025 Kansas-area sermon, Muhammad Tarife prays for the destruction of Zionists and asks that none be spared.",
+    source: true,
+    standaloneTweets: [
+      "1986679394979430877"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://alford.house.gov/UploadedFiles/Islamic_Center_of_Kansas_Letter.pdf"
   }
 ]
 

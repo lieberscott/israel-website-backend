@@ -124,6 +124,48 @@ const examples31k = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-02",
+    claimIds: [
+      "31l",
+      "31i"
+    ],
+    exampleId: "codex-20261008-046",
+    keywordIds: [],
+    text: "Abu Gaza quotes a religious commentary calling Jews and Christians enemies of Islam and forbidding friendship.",
+    source: false,
+    standaloneTweets: [
+      "1985127135556600244"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2024-01-21",
+    claimIds: [
+      "31l",
+      "31g",
+      "31p"
+    ],
+    exampleId: "codex-20261008-084",
+    keywordIds: [],
+    text: "Tareq Al-Suwaidan frames the battle beyond Palestine’s liberation, saying a prophetic promise entails Islam prevailing and ruling the world.",
+    source: true,
+    standaloneTweets: [
+      "1984100214370636146"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.memri.org/node/65994/"
   }
 ]
 

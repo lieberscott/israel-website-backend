@@ -223,6 +223,25 @@ const ZZiranExamples = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-29",
+    claimIds: [
+      "Iran"
+    ],
+    exampleId: "codex-20261008-089",
+    keywordIds: [],
+    text: "Masih Alinejad celebrates 25-year sentences for two men convicted in the Iranian-backed plot to assassinate her in Brooklyn.",
+    source: false,
+    standaloneTweets: [
+      "1983608456587440369"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

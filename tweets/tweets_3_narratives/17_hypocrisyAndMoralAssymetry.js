@@ -625,6 +625,151 @@ const examples17 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.irishnews.com/news/world/iraq-passes-bill-that-critics-say-legalises-child-marriage-LORPIGUJINNYHKN6NVLMYJ53XM/"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-07",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codex-20261008-006",
+    keywordIds: [],
+    text: "Adin contrasts Tadhg Hickey’s accusation about Israeli organ harvesting with a 2021 report of an illegal transplant ring involving Palestinian and Jordanian nationals in Istanbul.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1986743166381203759"
+    ],
+    usTweets: [
+      "1986774214066716898"
+    ],
+    sourceLink: "https://www.arabnews.com/middle-east/illegal-organ-transplant-network-busted-in-istanbul-1985316"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-01",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codex-20261008-049",
+    keywordIds: [],
+    text: "Antizionist account criticizes Nicki Minaj for speaking about Nigeria instead of Palestine, then says it does not care about Congo or Nigeria.",
+    source: false,
+    standaloneTweets: [
+      "1985014036379975924"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-02",
+    claimIds: [
+      "17",
+      "50"
+    ],
+    exampleId: "codex-20261008-052",
+    keywordIds: [],
+    text: "Laura Loomer contrasts Jeremy Corbyn’s phone bank for Zohran Mamdani with complaints about Israeli influence in American elections.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1985055159274070308"
+    ],
+    usTweets: [
+      "1985085996535537747"
+    ]
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2021-05-25",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codex-20261008-078",
+    keywordIds: [],
+    text: "John Cena’s apology to China over calling Taiwan a country as a counterpoint to claims that Israel controls the media.",
+    source: false,
+    standaloneTweets: [
+      "1984697251986313628"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2025-11-02",
+    claimIds: [
+      "17",
+      "52x",
+      "50"
+    ],
+    exampleId: "codex-20261008-071-r1",
+    keywordIds: [],
+    text: "Aizenberg and AG Hamilton challenge the use of American aid to Israel as a uniquely decisive reason for protest, discussing other aid recipients and the terms of US–Israel military assistance.",
+    source: false,
+    standaloneTweets: [
+      "1984983112502096092"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2025-10-30",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codex-20261008-090-r1",
+    keywordIds: [],
+    text: "Rabid antizionist Jew Peter Beinart claims progressive opposition to US weapons sales to Saudi Arabia when it was bombing Yemen to claim moral consistency with opposition to US arms sales to Gaza, but Aizenberg points out that he never Tweeted about Saudi Arabia or Yemen while US arms sales to Saudi were taking place.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1983627633280843891"
+    ],
+    usTweets: [
+      "1983795341506867561"
+    ]
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2025-10-30",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codex-20261008-090-r1-sudan",
+    keywordIds: [],
+    text: "Rabid antizionist Jew Peter Beinart invokes progressive opposition to US weapons sales to Saudi Arabia as evidence of no hypocrisy in opposing US weapons sales to Israel. But in addition to never Tweeting about US arms sales to Saudi Arabia while it was happening (see other entry for this date), Beinart also has near-silence about the Sudan war and weapons sales connected to it.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1983627633280843891"
+    ],
+    usTweets: [
+      "1984068978768261303"
+    ]
   }
 ]
 

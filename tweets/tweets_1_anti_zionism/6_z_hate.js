@@ -226,6 +226,28 @@ const examples6z = [
     usTweets: [
       "2105372381212483997"
     ]
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2025-05-03",
+    claimIds: [
+      "6z",
+      "56",
+      "5"
+    ],
+    exampleId: "codex-20261009-feedback-sign-r1",
+    keywordIds: [],
+    text: "A “Fuck the Jews” sign is displayed at Barstool’s Philadelphia bar by Mo Khan.",
+    source: true,
+    standaloneTweets: [
+      "1919981032134091018"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.timesofisrael.com/students-behind-f-the-jews-sign-at-dave-portnoys-bar-to-go-on-auschwitz-tour/"
   }
 ]
 

@@ -577,6 +577,67 @@ const examples41 = [
       "1994247520936186026"
     ],
     sourceLink: "https://press.un.org/en/2024/sc15621.doc.htm"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-27",
+    claimIds: [
+      "41",
+      "47"
+    ],
+    exampleId: "codex-20261008-091",
+    keywordIds: [],
+    text: "The Red Cross allows Hamas to bury a hostage body so they can \"dig up\" the very same body they just buried, staging a fake “discovery” right in front of the Red Cross team as a propaganda stunt to make them look like they are recovering a body buried beneath rubble caused by Israel. The Red Cross also said there was \"no trace of installations for exterminating civilian populations\" at Auschwitz in 1944.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1983875038987096417"
+    ],
+    nowTweets: [
+      "1983609522817061056"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://transcripts.cnn.com/show/cnr/date/2025-10-29/segment/19"
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2025-01-22",
+    claimIds: [
+      "41",
+      "45",
+      "32"
+    ],
+    exampleId: "codex-20261008-054-r1",
+    keywordIds: [
+      "United Nations",
+      "Francesca Albanese"
+    ],
+    text: "UN health rapporteur Tlaleng Mofokeng, who oversees all human rights experts, calls Hillel Neuer “evil scum” and a “white man,” invokes Gaza to dismiss criticism of her abuse, says Hamas is not terrorist, and calls Israel “Israhell.” Hillel Neuer documents these statements alongside her leadership of UN human-rights experts, and a complaint from women’s organizations. AFP and other media organizations take her seriously because of her prestigious position.",
+    source: true,
+    standaloneTweets: [
+      "1882174985122504749",
+      "1882176631600820566",
+      "1882183117659852994",
+      "1882185932885074276",
+      "1882187647818535290",
+      "1882189647889207489",
+      "1882190544387834012",
+      "1882191044454072769",
+      "1882191268249526730",
+      "1882192284374233157",
+      "1882193208341635189",
+      "1882199139414593798",
+      "1882200012689694951",
+      "1882239289754562607"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.migrantwomennetwork.org/wp-content/uploads/Letter-to-HRC-Coordinating-Committee-re-Code-of-Conduct-November-2024-B.pdf"
   }
 ]
 

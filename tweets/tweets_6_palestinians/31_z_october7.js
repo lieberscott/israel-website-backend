@@ -146,6 +146,45 @@ const examples31z = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2023-10-07",
+    claimIds: [
+      "31z"
+    ],
+    exampleId: "codex-20261008-007",
+    keywordIds: [],
+    text: "Footage from October 7 shows a man boasting that he killed three people with a knife and brought back a stolen bicycle.",
+    source: false,
+    standaloneTweets: [
+      "1986607058108469688"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-05",
+    claimIds: [
+      "31z"
+    ],
+    exampleId: "codex-20261008-022",
+    keywordIds: [],
+    text: "Released hostage Rom Braslavski says Palestinian Islamic Jihad captors sexually assaulted and tortured him in Gaza.",
+    source: true,
+    standaloneTweets: [
+      "1986206341153554507"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://ktvz.com/news/national-world/cnn-world/2025/11/05/newly-freed-israeli-hostage-says-he-was-sexually-assaulted-in-captivity/"
   }
 ]
 

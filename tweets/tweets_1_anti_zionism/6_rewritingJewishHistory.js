@@ -215,6 +215,28 @@ const examples6 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.jewishnews.co.uk/anne-frank-musical-shows-holocaust-diarist-alerting-nazis-to-stop-israels-creation/"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-15",
+    claimIds: [
+      "6",
+      "56",
+      "30x"
+    ],
+    exampleId: "codex-20261008-034",
+    keywordIds: [],
+    text: "California’s education department finds Oakland Unified discriminated against Jewish students: 1) Passed out Middle East maps that ERASED ISRAEL, again, and again, and AGAIN, 2) Flew a Palestinian flag for a month after October 7, but not an Israeli one, and 3) Organized a schoolwide “teach-in” on Gaza that didn’t include a single Jewish or Israeli perspective.",
+    source: true,
+    standaloneTweets: [
+      "1985538662667616396"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jns.org/u.s.-news/bay-area-districts-map-deleting-israel-discriminated-against-jews-california-ed-dept-says"
   }
 ]
 

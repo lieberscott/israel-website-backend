@@ -270,6 +270,47 @@ const examples54 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://wwv.yadvashem.org/odot_pdf/Microsoft%20Word%20-%203327.pdf"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-05",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codex-20261008-019",
+    keywordIds: [
+      "Pound of flesh"
+    ],
+    text: "Antizionist Jew still not good enough",
+    source: false,
+    standaloneTweets: [
+      "1985753224624709955"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-30",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codex-20261008-087",
+    keywordIds: [],
+    text: "Haaretz fires journalist Chaim Levinson after learning his company received at least 200,000 shekels from a firm owned by Qatargate suspect Srulik Einhorn.",
+    source: true,
+    standaloneTweets: [
+      "1984050053519135127"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.timesofisrael.com/senior-journalist-fired-from-haaretz-for-earning-nis-200000-from-qatargate-suspect/amp/"
   }
 ]
 

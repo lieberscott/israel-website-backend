@@ -774,6 +774,77 @@ const examples31a = [
       "1987429393111699473"
     ],
     sourceLink: "https://leadstories.com/hoax-alert/2024/01/fact-check-image-of-map-does-not-show-location-of-sex-offenders-in-israel.html"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-01-02",
+    claimIds: [
+      "31a"
+    ],
+    exampleId: "codex-20261008-036",
+    keywordIds: [],
+    text: "“Torah Jews”, a fierce antizionist defender of Palestine on X, says he’s a Hassid from Brooklyn and acknowledges he’s from “Galicia” Brooklyn, which doesn't exist. Here he confirms he knows the totally real Brooklyn Yeshiva “Ahavat Banot” (I love little girls) and Yeshiva “Bul-Bul Ketana” (Small Peepee). It's a person pretending to be an antizionist Jew.",
+    source: false,
+    standaloneTweets: [
+      "1874914851044405592",
+      "1874914857520402559",
+      "1874914869251911744",
+      "1874914875845333007"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-02",
+    claimIds: [
+      "31a",
+      "47"
+    ],
+    exampleId: "codex-20261008-042",
+    keywordIds: [],
+    text: "Three posts juxtapose Ramy Abdu’s use of the same girl’s photograph with different names and dates in reports of an Israeli killing.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1984912213627556308"
+    ],
+    usTweets: [
+      "1985218011410674013",
+      "1984940246975271108"
+    ]
+  },
+  {
+    dateAdded: "2026-10-09",
+    date: "2025-07-07",
+    claimIds: [
+      "31a",
+      "52x",
+      "58",
+      "4"
+    ],
+    exampleId: "codex-20261008-068-r1",
+    keywordIds: [],
+    text: "Matt Gaetz blames settlers for a Taybeh church fire, but the church was not burned, the fire nearby was started by Arabs, and settlers actually helped put out the fire.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1984687081428299882"
+    ],
+    usTweets: [
+      "1984754054996578350",
+      "1947390091099279539"
+    ],
+    sourceLink: "https://www.israelhayom.com/2025/07/22/us-envoy-i-did-not-blame-jews-for-taybeh-fire/"
   }
 ]
 

@@ -193,6 +193,26 @@ const examples1 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-10-30",
+    claimIds: [
+      "1",
+      "53"
+    ],
+    exampleId: "codex-20261008-083",
+    keywordIds: [],
+    text: "Dahlia Kurtz shares a clip of an adult asking starving children in Sudan to pray for children in Gaza. The stunning narcissism of this cause.",
+    source: false,
+    standaloneTweets: [
+      "1983885294752403772"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

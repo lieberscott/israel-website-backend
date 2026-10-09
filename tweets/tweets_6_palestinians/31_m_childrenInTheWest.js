@@ -44,6 +44,28 @@ const examples31m = [
     sourceLink: "",
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2019-04-17",
+    claimIds: [
+      "31m",
+      "30",
+      "31o"
+    ],
+    exampleId: "codex-20261008-023",
+    keywordIds: [],
+    text: "\"We will chop off their heads, liberate Al-Aqsa Mosque, and lead the army of Allah, fulfilling His promise, and we will subject them to eternal torture. The blood of martyrs protects us.\"   -- Muslim American Society Islamic Center in Philadelphia.",
+    source: true,
+    standaloneTweets: [
+      "1986161597635801353"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.washingtonexaminer.com/news/1266294/we-will-chop-off-their-heads-young-girl-in-philadelphia-muslim-group-reads-bloodthirsty-poem/"
   }
 ]
 

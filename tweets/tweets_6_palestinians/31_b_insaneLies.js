@@ -88,6 +88,25 @@ const examples31b = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2024-03-27",
+    claimIds: [
+      "31b"
+    ],
+    exampleId: "codex-20261008-072",
+    keywordIds: [],
+    text: "A Palestinian woman claims London’s Big Ben originated in Jerusalem and was taken by the British.",
+    source: false,
+    standaloneTweets: [
+      "1984934410412540364"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

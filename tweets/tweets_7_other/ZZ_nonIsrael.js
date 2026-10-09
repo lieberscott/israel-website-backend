@@ -2007,6 +2007,66 @@ const ZZNonIsraelExamples = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-06",
+    claimIds: [
+      "Trans001"
+    ],
+    exampleId: "nonIsrael-codex-20261008-002",
+    keywordIds: [],
+    text: "Women Read Women shares reporting about Alexis Freeman, a transgender woman accused of exposing herself in a women’s locker room, and cites a prior conviction for assaulting her wife.",
+    source: false,
+    standaloneTweets: [
+      "1986546572218237042",
+      "1986728011115483167"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-07-15",
+    claimIds: [
+      "6z",
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261008-040",
+    keywordIds: [],
+    text: "Helena commission candidate Haley McKnight leaves Senator Tim Sheehy a voicemail wishing he would develop cancer and die.",
+    source: true,
+    standaloneTweets: [
+      "1985497401843478812"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://montanafreepress.org/2025/11/03/helena-commission-candidate-wished-cancer-and-death-to-sen-tim-sheehy-in-a-july-voice-message-report-says/"
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-11-02",
+    claimIds: [
+      "31b"
+    ],
+    exampleId: "nonIsrael-codex-20261008-070",
+    keywordIds: [],
+    text: "A repost features a speaker claiming African Muslims reached America before Columbus and became Alaska’s first indigenous people.",
+    source: false,
+    standaloneTweets: [
+      "1984823382714540051"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 
