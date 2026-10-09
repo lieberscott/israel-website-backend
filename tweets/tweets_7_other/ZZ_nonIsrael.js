@@ -2048,25 +2048,6 @@ const ZZNonIsraelExamples = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://montanafreepress.org/2025/11/03/helena-commission-candidate-wished-cancer-and-death-to-sen-tim-sheehy-in-a-july-voice-message-report-says/"
-  },
-  {
-    dateAdded: "2026-10-08",
-    date: "2025-11-02",
-    claimIds: [
-      "31b"
-    ],
-    exampleId: "nonIsrael-codex-20261008-070",
-    keywordIds: [],
-    text: "A repost features a speaker claiming African Muslims reached America before Columbus and became Alaska’s first indigenous people.",
-    source: false,
-    standaloneTweets: [
-      "1984823382714540051"
-    ],
-    thenVsNowFormat: false,
-    thenTweets: [],
-    nowTweets: [],
-    themTweets: [],
-    usTweets: []
   }
 ]
 
