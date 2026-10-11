@@ -39,6 +39,50 @@ const examples7 = [
     usTweets: [
       "1985827120925270166"
     ]
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-28",
+    claimIds: [
+      "7",
+      "17"
+    ],
+    exampleId: "codex-20261009-037-r1",
+    keywordIds: [],
+    text: "Palestinian novelist Susan Abulhawa denies Jewish ties to Israel using a European surname; Adin counters with records describing Yemeni and Kurdish origins among clans from her family’s village.",
+    source: false,
+    standaloneTweets: [
+      "1983207384735527096"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-24",
+    claimIds: [
+      "7",
+      "52x",
+      "0000009009",
+      "31c"
+    ],
+    exampleId: "codex-20261009-061-r1",
+    keywordIds: [],
+    text: "Ahmed Ashour says his family left Jaffa in 1948 expecting to return the next day; Adin asks what they expected to happen before that return. They expected the Jews to be killed so they could return. This is the fake Nakba they claim. If they were truly ejected by Israel, there would be no reason for them to hope \"to return the next day.\" They expected the Arabs to completely wipe out the Jews. ",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1981475595214114834"
+    ],
+    usTweets: [
+      "1981605809646702594"
+    ]
   }
 ]
 

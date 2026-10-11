@@ -183,6 +183,243 @@ const deepDivesExamples = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-22",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "codex-feedback-20261010-LiberalGestapo-1981097587978449389",
+    keywordIds: [],
+    text: "Winsome Earle-Sears describes racist slurs aimed at her as a Black immigrant Republican by people presenting themselves as tolerant.",
+    source: false,
+    standaloneTweets: [
+      "1981097587978449389"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-09-19",
+    claimIds: [
+      "LiberalGestapo",
+      "54",
+      "48a"
+    ],
+    exampleId: "LiberalGestapo-feedback-20261011-sanders",
+    keywordIds: [],
+    text: "Jewish senator Bernie Sanders buckles to pressure to use the magic word 'genocide'.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1759656939724624332",
+      "1950585583425778128",
+      "1758259252035047748"
+    ],
+    nowTweets: [
+      "1968974580703219960"
+    ],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-03",
+    date: "2026-01-01",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261003b-next50-48",
+    keywordIds: [],
+    text: "Collin Rugg shares footage of women calling a Black ICE agent a “race traitor” and insulting him during an anti-ICE confrontation.",
+    source: false,
+    standaloneTweets: [
+      "2013757469001163052"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-19",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-006",
+    keywordIds: [],
+    text: "A Philadelphia reporter shares footage of an assault and pepper-spray incident on a bus, attributing it to an Antifa supporter who was calling him racist and fascist.",
+    source: false,
+    standaloneTweets: [
+      "2013389457001488420"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-19",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-007",
+    keywordIds: [],
+    text: "This chart/research report shows liberals are more likely than Conservatives and Moderates to think it's justified for citizens to use violence to achieve political goals. Young Liberals are especially open to violence.",
+    source: false,
+    standaloneTweets: [
+      "2013334463498068338"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-16",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-025",
+    keywordIds: [],
+    text: "“We are not interested in peace...Fascism has arrived”. Operation Inflation, the far-left group that takes donations to buy costumes to make violent Antifa and far-left rioting look like a children’s event on camera, has released a video urging violence.  Post by Andy Ngo.",
+    source: false,
+    standaloneTweets: [
+      "2012286496472997953"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-10",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-079",
+    keywordIds: [],
+    text: "A graphic claims the UK leads other countries in arrests for social-media comments.",
+    source: false,
+    standaloneTweets: [
+      "2009907467707396554"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-09",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-081",
+    keywordIds: [],
+    text: "One of our Real America’s Voice camera operators was peacefully eating at a diner when a radical liberal extremist suddenly exploded — screaming “Nazi” and “fascist” before throwing Fireball whiskey in his face.",
+    source: false,
+    standaloneTweets: [
+      "2009765287411773732"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-04",
+    date: "2026-01-08",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261004-next100-091",
+    keywordIds: [],
+    text: "A video is presented as a Minneapolis protest speaker calling for arson in response to Renee Good's death.",
+    source: false,
+    standaloneTweets: [
+      "2009425814941495537"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2024-11-30",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261005-next100-087",
+    keywordIds: [],
+    text: "Elizabeth Kinney says eleven police officers entered her home while she was naked in the bath to arrest her over offensive private messages about a man she says assaulted her. Britain, United Kingdom.",
+    source: true,
+    standaloneTweets: [
+      "1995952778699833356"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.ibtimes.co.uk/terrified-naked-mum-four-arrested-after-texts-branded-hate-speech-1759907"
+  },
+  {
+    dateAdded: "2026-10-06",
+    date: "2025-11-23",
+    claimIds: [
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261006-next100-039",
+    keywordIds: [],
+    text: "A former Antifa member explains how branding opponents fascists gives activists permission to dehumanize and attack them.",
+    source: false,
+    standaloneTweets: [
+      "1992743855200801005"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-08",
+    date: "2025-07-15",
+    claimIds: [
+      "6z",
+      "LiberalGestapo"
+    ],
+    exampleId: "nonIsrael-codex-20261008-040",
+    keywordIds: [],
+    text: "Helena commission candidate Haley McKnight leaves Senator Tim Sheehy a voicemail wishing he would develop cancer and die.",
+    source: true,
+    standaloneTweets: [
+      "1985497401843478812"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://montanafreepress.org/2025/11/03/helena-commission-candidate-wished-cancer-and-death-to-sen-tim-sheehy-in-a-july-voice-message-report-says/"
   }
 ]
 

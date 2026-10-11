@@ -845,6 +845,70 @@ const examples31a = [
       "1947390091099279539"
     ],
     sourceLink: "https://www.israelhayom.com/2025/07/22/us-envoy-i-did-not-blame-jews-for-taybeh-fire/"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-28",
+    claimIds: [
+      "31a"
+    ],
+    exampleId: "codex-20261009-018",
+    keywordIds: [
+      "Claiming",
+      "Taking",
+      "Stealing"
+    ],
+    text: "Mehdi Hasan claims one in three enslaved people in America were Muslim; a community note challenges the figure with competing historical estimates. Palestinianism steals history.",
+    source: false,
+    standaloneTweets: [
+      "1983254923417661471"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-20",
+    claimIds: [
+      "31a",
+      "30x"
+    ],
+    exampleId: "codex-20261009-097",
+    keywordIds: [],
+    text: "Mo Khan claims Eyal Yakoby shortened “Yakobowitz” to hide his Jewish name; Yakoby shares a community note identifying the name-change story as false.",
+    source: false,
+    standaloneTweets: [
+      "1980236874896802233"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-20",
+    claimIds: [
+      "31a"
+    ],
+    exampleId: "codex-20261009-099",
+    keywordIds: [],
+    text: "Gentile News promotes a purported “Rabbi Rabinovich” speech as evidence of a Jewish plot against white people. \"I can state with assurance that hte last generation of white children is now being born.\" \"The white women must cohabit with members of the dark races.\" \"Thus the white race will disappear.\" Max Nordau asks Grok, which identifies the text as an antisemitic hoax.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1980403491484102913"
+    ],
+    usTweets: [
+      "1980403635667513360"
+    ]
   }
 ]
 

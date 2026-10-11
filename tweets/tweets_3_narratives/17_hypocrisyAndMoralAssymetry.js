@@ -770,6 +770,76 @@ const examples17 = [
     usTweets: [
       "1984068978768261303"
     ]
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2021-10-10",
+    claimIds: [
+      "17",
+      "54"
+    ],
+    exampleId: "codex-20261009-006",
+    keywordIds: [],
+    text: "Ben Cohen defends Ben & Jerry’s Judea and Samaria (West Bank) boycott but is stumped when asked why the company does not also boycott Texas and Georgia over policies he opposes.",
+    source: true,
+    standaloneTweets: [
+      "1983538991434449212"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://jewishinsider.com/2021/10/ben-jerrys-cofounders-defend-companys-decision-to-cease-sales-in-occupied-palestinian-territories/"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-22",
+    claimIds: [
+      "17",
+      "55",
+      "54"
+    ],
+    exampleId: "codex-20261009-070",
+    keywordIds: [],
+    text: "Matt Bernstein condemns mispronouncing Mamdani’s name as racism; Amelia Adams contrasts that with his laughter when a podcast guest says Gal Gadot’s name “doesn’t matter with her.”",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1981143670343815603"
+    ],
+    usTweets: [
+      "1981143887847837959"
+    ]
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-29",
+    claimIds: [
+      "17",
+      "46"
+    ],
+    exampleId: "codex-20261009-007-r1",
+    keywordIds: [],
+    text: "Political streamer Hasan Piker singles out the NYPD’s Israel connection saying the NYPD and other US police departments are trained by Israel or trained by the IDF; US police departments have relationships also with Jordan and Qatar and outposts in Columbia and dozens of other countries and only Israel attracts this scrutiny.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1983277440844882111"
+    ],
+    usTweets: [
+      "1983509844775612681",
+      "1479007631373221891",
+      "1752805407314018583",
+      "1752697875069534475"
+    ],
+    sourceLink: "https://www.nyc.gov/assets/nypd/downloads/pdf/publications/pc-report-2017.pdf"
   }
 ]
 

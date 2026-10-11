@@ -341,6 +341,27 @@ const examples31g = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.pcpsr.org/sites/default/files/Poll%2096%20press%20release%20FINAL%20ENGLISH%2028%20Oct%202025.pdf"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-28",
+    claimIds: [
+      "31g",
+      "31i",
+      "31n"
+    ],
+    exampleId: "codex-20261009-015",
+    keywordIds: [],
+    text: "In a video chat, a Hamas supporter says he would kill an Israeli baby first so the mother cries, then shoot the mother; he laughs when asked whether Islam is a religion of peace.",
+    source: false,
+    standaloneTweets: [
+      "1983272180785000504"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

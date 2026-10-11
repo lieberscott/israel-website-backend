@@ -317,6 +317,33 @@ const examples11 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-26",
+    claimIds: [
+      "11",
+      "4",
+      "12"
+    ],
+    exampleId: "codex-20261009-030-r1",
+    keywordIds: [],
+    text: "Aizenberg uses WHO’s 603,000 vaccinated Gaza children and Palestinian birth figures to challenge claims of a huge uncounted death toll and Israel preventing births.",
+    source: true,
+    standaloneTweets: [
+      "1982455498063417633",
+      "1982455500466778506",
+      "1982455502907830477",
+      "1982455505499881648",
+      "1982455508075262209",
+      "1982455511107715391"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.who.int/news/item/28-02-2025-humanitarian-access-improves-quality-of-polio-vaccination-campaign-in-the-gaza-strip"
   }
 ]
 

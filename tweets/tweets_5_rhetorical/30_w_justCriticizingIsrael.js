@@ -163,6 +163,26 @@ const examples30 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-27",
+    claimIds: [
+      "30w",
+      "27"
+    ],
+    exampleId: "codex-20261009-035-r1",
+    keywordIds: [],
+    text: "Palestinian novelist Susan Abulhawa calls to wipe Israel off the map and describes Israelis as “soulless, cultureless, demonic parasites.”",
+    source: false,
+    standaloneTweets: [
+      "1983066567504974149"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

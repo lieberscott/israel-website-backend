@@ -248,6 +248,31 @@ const examples6z = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.timesofisrael.com/students-behind-f-the-jews-sign-at-dave-portnoys-bar-to-go-on-auschwitz-tour/"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-22",
+    claimIds: [
+      "6z",
+      "5",
+      "56"
+    ],
+    exampleId: "codex-20261009-066",
+    keywordIds: [
+      "Comments section"
+    ],
+    text: "Antisemitic replies target Christian company Wasson Watch Company after he criticizes Jew-hatred, including attempts to calculate the fraction of his ancestry that is Jewish.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1981114225742549044"
+    ],
+    usTweets: [
+      "1980961558768345431"
+    ]
   }
 ]
 

@@ -271,6 +271,27 @@ const examples28 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-06-10",
+    claimIds: [
+      "28",
+      "31o",
+      "56"
+    ],
+    exampleId: "codex-20261009-068",
+    keywordIds: [],
+    text: "A Palestinian woman interviewed in Canada says she supports Hamas, calls its members the true fighters for Palestine and adds “alhamdulillah.”",
+    source: false,
+    standaloneTweets: [
+      "1981012673593762170"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -150,6 +150,31 @@ const examples31d = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2015-09-04",
+    claimIds: [
+      "31d",
+      "30x",
+      "31a",
+      "31c"
+    ],
+    exampleId: "codex-20261009-059",
+    keywordIds: [],
+    text: "Antizionist claims the idea that Palestinians hate Jews is one of the most nefarious lies ever told.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1981607794785873962"
+    ],
+    usTweets: [
+      "1981709843510779936"
+    ],
+    sourceLink: "https://blog.camera.org/2015/09/on-hamas-tv-child-wants-to-become-an-engineer-to-blow-up-jews/"
   }
 ]
 

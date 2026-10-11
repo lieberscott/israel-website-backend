@@ -673,6 +673,47 @@ const examples31o = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.aneeta.com/evidence-index"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-27",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261009-013",
+    keywordIds: [],
+    text: "A man filmed in Arlington, Texas says people who reject Muhammad and people who leave Islam should be put to death.",
+    source: false,
+    standaloneTweets: [
+      "1982823524642468165"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-25",
+    claimIds: [
+      "31o"
+    ],
+    exampleId: "codex-20261009-014",
+    keywordIds: [
+      "United Kingdom"
+    ],
+    text: "In London street interviews, one man says he is ready to repeat the war in Syria in Britain; another says “we’re here to take over your country” and uphold Sharia law.",
+    source: false,
+    standaloneTweets: [
+      "1983190302522540220",
+      "1983089038790639863"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

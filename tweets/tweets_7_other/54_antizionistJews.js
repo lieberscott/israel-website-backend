@@ -311,6 +311,50 @@ const examples54 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.timesofisrael.com/senior-journalist-fired-from-haaretz-for-earning-nis-200000-from-qatargate-suspect/amp/"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-22",
+    claimIds: [
+      "54"
+    ],
+    exampleId: "codex-feedback-20261010-platner-lovett",
+    keywordIds: [],
+    text: "Jewish podcaster Jon Lovett answers criticism of Graham Platner’s Nazi tattoo by mocking demands for perfect candidates and urging critics to listen to Platner’s interview.",
+    source: false,
+    standaloneTweets: [
+      "1981063743837774109",
+      "1980783543354810546"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-09-19",
+    claimIds: [
+      "54",
+      "48a"
+    ],
+    exampleId: "codex-feedback-20261010-platner-sanders-r1",
+    keywordIds: [],
+    text: "Jewish senator Bernie Sanders buckles to pressure to use the magic word 'genocide'.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1759656939724624332",
+      "1950585583425778128",
+      "1758259252035047748"
+    ],
+    nowTweets: [
+      "1968974580703219960"
+    ],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

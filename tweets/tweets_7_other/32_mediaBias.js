@@ -620,6 +620,27 @@ const examples32 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://hk.news.yahoo.com/bbc-forced-correct-two-gaza-140000522.html"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-24",
+    claimIds: [
+      "32",
+      "10"
+    ],
+    exampleId: "codex-20261009-060",
+    keywordIds: [],
+    text: "A leaked BBC memo tells journalists the argument over how much aid entered Gaza is irrelevant; Yakoby criticizes the instruction for directing coverage against Israel.",
+    source: true,
+    standaloneTweets: [
+      "1981696483071299693"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://europeanconservative.com/articles/news-corner/bbc-reporters-instructed-to-blame-israel-for-gaza-hunger/"
   }
 ]
 

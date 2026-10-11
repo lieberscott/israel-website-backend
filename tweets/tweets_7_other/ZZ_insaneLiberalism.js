@@ -355,6 +355,29 @@ const deepDivesExamples = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-18",
+    claimIds: [
+      "InsaneLiberalism",
+      "5",
+      "52",
+      "56",
+      "30x"
+    ],
+    exampleId: "codex-feedback-20261010-InsaneLiberalism-1981138497600680421",
+    keywordIds: [],
+    text: "A No Kings protester calls Kaitlin Bennett fascist, then says Germany deserves an apology for recognizing “the issues that the Jews had.”",
+    source: false,
+    standaloneTweets: [
+      "1981138497600680421"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

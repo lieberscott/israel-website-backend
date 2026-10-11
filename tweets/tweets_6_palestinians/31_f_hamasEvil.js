@@ -180,6 +180,27 @@ const examples31f = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-20",
+    claimIds: [
+      "31f",
+      "51"
+    ],
+    exampleId: "codex-20261009-093",
+    keywordIds: [],
+    text: "Palestinian Authority reporting says Hamas is using schools and hospitals to interrogate Gazan opponents and rebuild its control during the ceasefire.",
+    source: true,
+    standaloneTweets: [
+      "1980406149594902817"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://palwatch.org/page/41622"
   }
 ]
 

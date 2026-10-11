@@ -288,6 +288,49 @@ const examples31c = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2023-10-07",
+    claimIds: [
+      "31c",
+      "42"
+    ],
+    exampleId: "codex-20261009-088",
+    keywordIds: [],
+    text: "On October 7, 2023, Qatar’s foreign ministry holds Israel solely responsible for the escalation while Hamas is massacring Israelis and taking hostages.",
+    source: true,
+    standaloneTweets: [
+      "1710625372348576116"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://mofa.gov.qa/en/latest-articles/statements/qatar-expresses-concern-over-the-developments-in-gaza-strip-and-calls-for-de-escalation"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-20",
+    claimIds: [
+      "31c",
+      "31a"
+    ],
+    exampleId: "codex-20261009-095",
+    keywordIds: [],
+    text: "Eye on Palestine accuses Israeli soldiers of stealing a scooter in Nablus; a response compares the visible payment module with Israeli Lime rental scooters and identifies it as a stolen Israeli scooter.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1980393459895927134"
+    ],
+    usTweets: [
+      "1980405366291587404"
+    ]
   }
 ]
 

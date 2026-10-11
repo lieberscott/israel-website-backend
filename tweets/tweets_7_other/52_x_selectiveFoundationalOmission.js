@@ -144,6 +144,32 @@ const examples52x = [
     usTweets: [
       "1987804541568327822"
     ]
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2015-02-17",
+    claimIds: [
+      "52x",
+      "47"
+    ],
+    exampleId: "codex-20261009-096",
+    keywordIds: [
+      "Rock throwing",
+      "Throwing rocks"
+    ],
+    text: "A response to “he only threw a rock” recalls four-year-old Adele Biton, who died after a Palestinian rock attack caused the car carrying her to crash.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1980258340178403430"
+    ],
+    usTweets: [
+      "1980426858077573248"
+    ],
+    sourceLink: "https://www.jpost.com/arab-israeli-conflict/five-year-old-girl-hurt-in-2013-rock-throwing-terror-attack-dies-391317"
   }
 ]
 

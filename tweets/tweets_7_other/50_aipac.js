@@ -128,6 +128,57 @@ const examples50 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://abcnews.com/video/82401048/"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-21",
+    claimIds: [
+      "50",
+      "17"
+    ],
+    exampleId: "codex-20261009-078",
+    keywordIds: [],
+    text: "Seth Moulton rejects AIPAC donations after taking a Qatar-funded trip and receiving campaign contributions from a firm that lobbies for Qatar.",
+    source: true,
+    standaloneTweets: [
+      "1980798982373748954",
+      "1980801770755617171"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://freebeacon.com/democrats/seth-moulton-who-rejected-aipac-donations-took-qatari-junket-and-lobbyist-cash/"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-28",
+    claimIds: [
+      "50"
+    ],
+    exampleId: "codex-20261009-047-r1-r1",
+    keywordIds: [],
+    text: "Attorney Marina Medvin challenges the fixation on Israel and AIPAC through a Grok exchange citing 2016–2024 registered foreign lobbying totals of $195 million for Israel, $312 million for Saudi Arabia, $260 million for Qatar and $246 million for the UAE, alongside billions in Gulf funding for US universities and think tanks.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1983187168777679099"
+    ],
+    usTweets: [
+      "1983187311862087937",
+      "1983187739475648625",
+      "1983187879003336907",
+      "1983188469339042272",
+      "1983188649127846292",
+      "1983189173562700024",
+      "1983189389640634834",
+      "1983207203617083547",
+      "1983207303701770682"
+    ]
   }
 ]
 

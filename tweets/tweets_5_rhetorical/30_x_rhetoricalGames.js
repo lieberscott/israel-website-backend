@@ -464,6 +464,25 @@ const examples30x = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://townhall.com/news/amy-curtis/2026/09/28/crowd-sings-from-river-to-the-sea-at-aoc-event-n2683687"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-28",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "codex-20261009-009",
+    keywordIds: [],
+    text: "Mo Khan calls antisemitism a made-up term and writes about Jews taking over American cities while copying Megyn Kelly’s statement about Islamophobia; Awesome Jew challenges the Jew-hatred in his analogy.",
+    source: false,
+    standaloneTweets: [
+      "1983202577010569521"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

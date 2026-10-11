@@ -592,6 +592,32 @@ const examples25 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://toronto.citynews.ca/2025/11/05/multiple-arrests-made-after-group-of-demonstrators-force-their-way-into-building-downtown/"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-05-27",
+    claimIds: [
+      "25",
+      "5",
+      "2",
+      "30y"
+    ],
+    exampleId: "codex-20261009-053-r1",
+    keywordIds: [],
+    text: "The DSA Liberation Caucus calls to free Elias Rodriguez, charged with murdering Israeli embassy staffers Sarah Milgrim and Yaron Lischinsky outside Washington’s Capital Jewish Museum, and endorses violence against Zionists in America as righteous resistance. Charging documents describe Rodriguez shooting Milgrim again as she crawled away.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1982590045044523499"
+    ],
+    usTweets: [
+      "1925436642170404885",
+      "1925671899603841322"
+    ],
+    sourceLink: "https://forward.com/fast-forward/723997/dsa-free-elias-rodriguez-post/"
   }
 ]
 

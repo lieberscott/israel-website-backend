@@ -139,6 +139,25 @@ const examples31h = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-21",
+    claimIds: [
+      "31h"
+    ],
+    exampleId: "codex-20261009-071",
+    keywordIds: [],
+    text: "An Afghan man describes punching his pregnant wife in the back and causing a miscarriage after she upset him.",
+    source: false,
+    standaloneTweets: [
+      "1980720963919704319"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

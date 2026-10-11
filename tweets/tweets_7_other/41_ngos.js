@@ -638,6 +638,69 @@ const examples41 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.migrantwomennetwork.org/wp-content/uploads/Letter-to-HRC-Coordinating-Committee-re-Code-of-Conduct-November-2024-B.pdf"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-27",
+    claimIds: [
+      "41",
+      "10"
+    ],
+    exampleId: "codex-20261009-023",
+    keywordIds: [],
+    text: "World Health Organization representative Michel Thieren describes a December 2023 meeting where international officials discussed using a famine libel to exert political pressure on Israel.",
+    source: true,
+    standaloneTweets: [
+      "1982943194242228398",
+      "1983028878814609565"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jpost.com/international/article-871851"
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-27",
+    claimIds: [
+      "41"
+    ],
+    exampleId: "codex-20261009-033",
+    keywordIds: [],
+    text: "Retired Canadian Red Cross worker Brian Vanderlip mocks a released hostage for recovering quickly from Hamas abuse and wishes that Israel would “fall hard and fast.”",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1982840364185825776"
+    ],
+    usTweets: [
+      "1982842894970216754"
+    ]
+  },
+  {
+    dateAdded: "2026-10-10",
+    date: "2025-10-11",
+    claimIds: [
+      "41"
+    ],
+    exampleId: "codex-20261009-077",
+    keywordIds: [],
+    text: "Former MSF secretary-general Alain Destexhe says Doctors Without Borders abandoned neutrality, sided with Hamas and employed Gaza staff who celebrated October 7.",
+    source: true,
+    standaloneTweets: [
+      "1980836108687773983"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.foxnews.com/world/former-doctors-without-borders-leader-calls-group-accomplices-hamas-over-gaza-war-response"
   }
 ]
 
