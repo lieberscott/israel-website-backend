@@ -826,6 +826,46 @@ const examples5 = [
       "1981097156565225711",
       "1981135955991155089"
     ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-16",
+    claimIds: [
+      "5",
+      "18",
+      "2"
+    ],
+    exampleId: "codex-20261011-027",
+    keywordIds: [],
+    text: "British activist Shola Mos-Shogbamimu calls to “dezionise Britain” like Germany was denazified: remove Zionists from every position of power, ban Zionist ideology, and proscribe Zionist organizations as terrorist groups.",
+    source: false,
+    standaloneTweets: [
+      "1978965362390466607"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-16",
+    claimIds: [
+      "5"
+    ],
+    exampleId: "codex-20261011-054",
+    keywordIds: [],
+    text: "In 1933 Hitler banned all Jews from working in civil service. Today mayoral candidate Zohran Mamdani announces exclusion of pro-Israel Democrats from his political coalition.",
+    source: false,
+    standaloneTweets: [
+      "1978644932152983971"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

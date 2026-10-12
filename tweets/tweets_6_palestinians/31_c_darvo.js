@@ -331,6 +331,31 @@ const examples31c = [
     usTweets: [
       "1980405366291587404"
     ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-08",
+    claimIds: [
+      "31c",
+      "1",
+      "10",
+      "17"
+    ],
+    exampleId: "codex-20261011-b2-012",
+    keywordIds: [],
+    text: "Greta Thunberg shares a post about Palestinian prisoners’ suffering using Hamas footage of starved Israeli hostage Evyatar David, then quietly deletes the slide without apology, accountability or explanation after being called out. She doesn't care about famine, and she doesn't care about peace.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1975574089940242760"
+    ],
+    nowTweets: [
+      "1975944871572652497"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://www.jpost.com/diaspora/antisemitism/article-869703"
   }
 ]
 

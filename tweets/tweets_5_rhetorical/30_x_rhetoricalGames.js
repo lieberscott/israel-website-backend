@@ -483,6 +483,69 @@ const examples30x = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-14",
+    claimIds: [
+      "30x",
+      "31a",
+      "3"
+    ],
+    exampleId: "codex-20261011-067",
+    keywordIds: [],
+    text: "Broadcaster Richard Bacon says October 7 deeply affected him while pressing Jewish actress Tracy-Ann Oberman about Gaza; Rachel Moiselle reproduces his only October 7 post in which he is aghast at Netanyahu’s warning to evacuate.",
+    source: false,
+    standaloneTweets: [
+      "1978208997824946428"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-04",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "codex-20261011-b2-029",
+    keywordIds: [],
+    text: "Irish Labour leader Ivana Bacik condemns the Manchester synagogue attack; Mark Humphrys contrasts her words with a photograph of her marching in Dublin in front of a PFLP flag. They don't understand that you can not separate antizionism and violence against Jews.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1973765774335725720"
+    ],
+    usTweets: [
+      "1974369915198230567"
+    ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-02",
+    claimIds: [
+      "30x"
+    ],
+    exampleId: "codex-20261011-b2-045",
+    keywordIds: [],
+    text: "Antizionist commentator Bushra Shaikh celebrates the October 7 attack as humiliating Israel in 2023, then blames Netanyahu for the 2025 Manchester synagogue attack while professing horror.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1973801067277127757"
+    ],
+    nowTweets: [
+      "1973704428588052918"
+    ],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

@@ -1899,6 +1899,127 @@ const ZZNonIsraelExamples = [
     ],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-12",
+    claimIds: [
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261011-091",
+    keywordIds: [],
+    text: "Ayn Reagan shares a short video criticizing liberal rhetoric as deceptive and explaining what the speaker describes as techniques of political manipulation.",
+    source: false,
+    standaloneTweets: [
+      "1977382793790337402"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-10",
+    claimIds: [
+      "32",
+      "17"
+    ],
+    exampleId: "nonIsrael-codex-20261011-093",
+    keywordIds: [],
+    text: "A CNN compilation contrasts the network’s treatment of mortgage-fraud allegations involving Trump associates with its treatment of allegations against Letitia James.",
+    source: false,
+    standaloneTweets: [
+      "1976659158402576509"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-03",
+    claimIds: [
+      "3",
+      "5",
+      "55"
+    ],
+    exampleId: "nonIsrael-codex-20261011-b2-039",
+    keywordIds: [],
+    text: "A woman beside “Stand Up to Racism” and “Refugees welcome” signs makes a Nazi salute while using two fingers to imitate Hitler’s moustache.",
+    source: false,
+    standaloneTweets: [
+      "1974149488425189538"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-01",
+    claimIds: [
+      "31c",
+      "53"
+    ],
+    exampleId: "nonIsrael-codex-20261011-b2-073",
+    keywordIds: [],
+    text: "A woman accused of stealing sunglasses at an airport denies the theft, accuses the shop of racism and threatens legal action before police find the item in her purse.",
+    source: false,
+    standaloneTweets: [
+      "1973393221670621373"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-01",
+    claimIds: [
+      "25",
+      "5",
+      "53"
+    ],
+    exampleId: "nonIsrael-codex-20261011-b2-085",
+    keywordIds: [],
+    text: "A Portland Antifa protester burns a MAGA hat, taunts Turning Point USA and says Charlie Kirk deserved to die because he was a “fascist.”",
+    source: false,
+    standaloneTweets: [
+      "1973628234739884249"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-09-30",
+    claimIds: [
+      "45",
+      "InsaneLiberalism"
+    ],
+    exampleId: "nonIsrael-codex-20261011-b2-095",
+    keywordIds: [],
+    text: "Steve Milloy contrasts Al Gore’s 2007 Nobel speech warning that Arctic summer sea ice could disappear within seven years with surviving Arctic ice in September 2025.",
+    source: false,
+    standaloneTweets: [
+      "1973198372506050608"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

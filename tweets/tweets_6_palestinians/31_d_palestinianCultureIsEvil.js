@@ -175,6 +175,30 @@ const examples31d = [
       "1981709843510779936"
     ],
     sourceLink: "https://blog.camera.org/2015/09/on-hamas-tv-child-wants-to-become-an-engineer-to-blow-up-jews/"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-16",
+    claimIds: [
+      "31d",
+      "30x"
+    ],
+    exampleId: "codex-20261011-052",
+    keywordIds: [],
+    text: "Posts contrast Israeli hostages Avinatan Or and Alon Ohel with released convict Nabil Abu-Hadir, sentenced to life for stabbing his sister to death 23 times in front of her three children.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1978059772013273352"
+    ],
+    usTweets: [
+      "1977599804936188388",
+      "1978689701721571598"
+    ],
+    sourceLink: "https://www.israelnationalnews.com/news/143617"
   }
 ]
 

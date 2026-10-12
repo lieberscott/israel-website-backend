@@ -840,6 +840,148 @@ const examples17 = [
       "1752697875069534475"
     ],
     sourceLink: "https://www.nyc.gov/assets/nypd/downloads/pdf/publications/pc-report-2017.pdf"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-16",
+    claimIds: [
+      "17",
+      "31o",
+      "1"
+    ],
+    exampleId: "codex-20261011-048",
+    keywordIds: [],
+    text: "Rabid Jew hater Jake Shields promotes an interview with Islamist commentator Daniel Haqiqatjou; Apostate Prophet points to Haqiqatjou’s defense of consummating marriages with infants if parents consent. Jew hatred consumes everything else.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1978801521006346308"
+    ],
+    usTweets: [
+      "1978849929255587995"
+    ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-18",
+    claimIds: [
+      "17",
+      "0000009009"
+    ],
+    exampleId: "codex-20261011-015-r1",
+    keywordIds: [
+      "New York City"
+    ],
+    text: "Zohran Mamdani rejects supporting a state with a religious hierarchy of citizenship, which Israel does not have by the way, and then celebrates Pakistan Day despite Pakistan being an Islamic republic.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1930716893423239610"
+    ],
+    nowTweets: [
+      "1979557693133365581"
+    ],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://mondoweiss.net/2025/06/mamdani-attacked-for-supporting-equal-rights-in-the-middle-east/"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-02",
+    claimIds: [
+      "17"
+    ],
+    exampleId: "codex-20261011-018-r1",
+    keywordIds: [],
+    text: "Al Jazeera dismisses claims of Christian genocide in Nigeria while contemporary reports document thousands of Christians killed.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1979738125384696290"
+    ],
+    usTweets: [
+      "1976335006973952283",
+      "1971577087980163489",
+      "1980995726222987570"
+    ],
+    sourceLink: "https://persecution.org/2025/10/02/boko-haram-kills-4-christians-destroys-church-in-nigeria/"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-13",
+    claimIds: [
+      "17",
+      "52x",
+      "31a",
+      "30x"
+    ],
+    exampleId: "codex-20261011-081-r1",
+    keywordIds: [],
+    text: "TYT host Ana Kasparian says Israeli cyber official Tom Alexandrovich was caught attempting to rape teenagers: the case involved an undercover, 15-year-old decoy who Alexandrovich matched with on an 18+ hookup app. She never said she was 15 in their texts, he met her for dinner, never touched her, and was arrested, and his bail and right to fly are standard and legal. Read the source link to see the whole story. Haviv Rettig Gur exposes her selective outrage by contrasting Turkish daycare worker Gokhan Bagci, charged with sexually abusing children in Sacramento.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1977594247705702893"
+    ],
+    usTweets: [
+      "1957877205989765543",
+      "1977706941464842743",
+      "1977699789295722862",
+      "1963746460303765726"
+    ],
+    sourceLink: "https://www.mtracey.net/p/was-an-israeli-pedophile-really-allowed"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-01",
+    claimIds: [
+      "17",
+      "50"
+    ],
+    exampleId: "codex-20261011-b2-096",
+    keywordIds: [],
+    text: "Twenty-five posts reject dying or fighting for Israel; Raylan Givens contrasts that rhetoric with Trump’s new security assurance for Qatar and asks why the same outrage is missing over a commitment that could put American lives at risk.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1779325811780391303",
+      "1886999912560140561",
+      "1935589765665169663",
+      "1932962036880658700",
+      "1710764302158774587",
+      "1933314826450649480",
+      "1825665291734704515",
+      "1818729751344709748",
+      "1973165040057684130",
+      "1973002689077502226",
+      "1972884142749839687",
+      "1972327830899052856",
+      "1971362029878604142",
+      "1971357838200144311",
+      "1971335498384933049",
+      "1971304316356133116",
+      "1971272998985609607",
+      "1971243229900308724",
+      "1971508699396288585",
+      "1973025531735187829"
+    ],
+    usTweets: [
+      "1973365825626345900",
+      "1973352249775534313"
+    ]
   }
 ]
 

@@ -179,6 +179,124 @@ const examples50 = [
       "1983207203617083547",
       "1983207303701770682"
     ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-15",
+    claimIds: [
+      "50"
+    ],
+    exampleId: "codex-20261011-061",
+    keywordIds: [],
+    text: "Joe Redden challenges fixation on AIPAC spending while critics ignore lobbying by China, Japan, Saudi Arabia and pharmaceutical interests.",
+    source: false,
+    standaloneTweets: [
+      "1978453930599129138"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-10",
+    claimIds: [
+      "50"
+    ],
+    exampleId: "codex-20261011-100",
+    keywordIds: [],
+    text: "Former U.S. education secretary William Bennett registers to work for Qatar; a reply highlights Qatar’s earlier campaign targeting 250 Trump influencers to change U.S. policy.",
+    source: false,
+    standaloneTweets: [
+      "1976714443578130483",
+      "1976489347496157678"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2018-08-29",
+    claimIds: [
+      "50"
+    ],
+    exampleId: "codex-20261011-b2-026",
+    keywordIds: [],
+    text: "A 2018 Wall Street Journal report describes Qatar’s campaign targeting 250 Trump influencers to change US policy; Eyal Yakoby demands the names of those paid to advocate for Qatar.",
+    source: false,
+    standaloneTweets: [
+      "1974512458212761675"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-04",
+    claimIds: [
+      "50"
+    ],
+    exampleId: "codex-20261011-b2-035",
+    keywordIds: [],
+    text: "Max Nordau highlights a report tallying Qatar’s $93.7 billion US footprint, including business, arms, energy, an air base, education and lobbying, challenging the fixation on Israeli influence.",
+    source: false,
+    standaloneTweets: [
+      "1974322898417701030"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-01",
+    claimIds: [
+      "50"
+    ],
+    exampleId: "codex-20261011-b2-083",
+    keywordIds: [],
+    text: "The United States grants Qatar a security assurance; Eitan Fischberger contrasts that protection with a screenshot of Qatar’s defense minister declaring, “We are all Hamas,” and the absence of an equivalent US defense treaty with Israel.",
+    source: false,
+    standaloneTweets: [
+      "1973367886690521120",
+      "1973369197607657717",
+      "1973362501225267234"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-02",
+    claimIds: [
+      "50"
+    ],
+    exampleId: "codex-20261011-b2-047",
+    keywordIds: [],
+    text: "Brad Parscale highlights billions of dollars in Qatari university funding, including Texas A&M and Cornell, contrasting that influence with smaller reported Israeli contributions.",
+    source: true,
+    standaloneTweets: [
+      "1973834714772365389"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://townhall.com/news/amy-curtis/2025/10/02/funding-the-fall-of-the-west-qatars-dirty-money-on-american-campuses-n2664360"
   }
 ]
 

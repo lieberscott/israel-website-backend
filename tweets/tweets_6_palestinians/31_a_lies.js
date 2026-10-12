@@ -909,6 +909,74 @@ const examples31a = [
     usTweets: [
       "1980403635667513360"
     ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-18",
+    claimIds: [
+      "31a",
+      "53",
+      "31c"
+    ],
+    exampleId: "codex-20261011-022",
+    keywordIds: [],
+    text: "Greta Thunberg’s claim of torture in Israeli detention is challenged by Elica Le Bon and by Daniel Schatz’s report that she raised no abuse complaint with visiting Swedish diplomats or the Israeli judge.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1976026157960266087"
+    ],
+    usTweets: [
+      "1979522209434448276",
+      "1976401994677092599"
+    ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-12",
+    claimIds: [
+      "31a",
+      "47",
+      "17"
+    ],
+    exampleId: "codex-20261011-090",
+    keywordIds: [],
+    text: "The official Flotilla account — the boat funded by Hamas that carried Greta and other Instagram activists — accused Israel of trying to kill children. When someone pointed out that the footage was actually from Yemen, where children are killed by their allies, the post disappears, and they have no concern for children in Yemen.",
+    source: false,
+    standaloneTweets: [
+      "1977375779253096456"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-06",
+    claimIds: [
+      "31a",
+      "31c"
+    ],
+    exampleId: "codex-20261011-b2-021",
+    keywordIds: [],
+    text: "Miss Israel Melanie Shiraz exposes Miss Palestine Nadeen Ayoub’s use of images of the murdered Bibas children as though they were Palestinian children killed by Israel.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1989115056894992490"
+    ],
+    usTweets: [
+      "1975160506156544223"
+    ],
+    sourceLink: "https://www.jns.org/israel-news/miss-israel-decries-lies-in-miss-palestines-gaza-war-posts"
   }
 ]
 

@@ -735,6 +735,49 @@ const examples31e = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2024-12-10",
+    claimIds: [
+      "31e",
+      "31d",
+      "29"
+    ],
+    exampleId: "codex-20261011-b2-033",
+    keywordIds: [],
+    text: "Palestinian boys carry rifles beside masked militants in footage illustrating the normalization of armed militancy among children.",
+    source: false,
+    standaloneTweets: [
+      "1866488055093248042"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2024-06-01",
+    claimIds: [
+      "31e",
+      "31d",
+      "29"
+    ],
+    exampleId: "codex-20261011-b2-017",
+    keywordIds: [],
+    text: "Palestinian children in Tulkarm, West Bank, gather with armed, masked Islamic Jihad militants and carry rifles in footage identified as a display of new recruits to the terrorist group.",
+    source: false,
+    standaloneTweets: [
+      "1797106044893532568",
+      "1975064474349687151"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

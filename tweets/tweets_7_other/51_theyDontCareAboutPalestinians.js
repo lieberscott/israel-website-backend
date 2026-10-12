@@ -1,7 +1,7 @@
 const claim51 = {
   dateAdded: "",
   claimText: "Antizionist protestors don't actually care about Palestinians. They only care about fighting.",
-  claimShortText: "Propoganda",
+  claimShortText: "They don't care about Palestinians",
   claimId: "51"
 }
 
@@ -49,6 +49,28 @@ const examples51 = [
     keywordIds: [],
     text: "Hamas abducted three Palestinian women in Gaza four days ago—two of them mothers of babies. Their families are demanding their release. And yet, Western pro-Palestinian organizations have been completely silent.",
     standaloneTweets: ["2098527690122784947"],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-03",
+    claimIds: [
+      "51",
+      "53"
+    ],
+    exampleId: "codex-20261011-b2-050",
+    keywordIds: [],
+    text: "An Israeli police tour finds no humanitarian supplies on one intercepted flotilla boat; Global Sumud Flotilla implicitly confirms that there was no aid, says its mission was not just delivering aid but breaking the siege.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: true,
+    thenTweets: [
+      "1973878177526395235"
+    ],
+    nowTweets: [
+      "1974149425233854695"
+    ],
     themTweets: [],
     usTweets: []
   }

@@ -618,6 +618,74 @@ const examples25 = [
       "1925671899603841322"
     ],
     sourceLink: "https://forward.com/fast-forward/723997/dsa-free-elias-rodriguez-post/"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-04",
+    claimIds: [
+      "25",
+      "56"
+    ],
+    exampleId: "codex-20261011-b2-030",
+    keywordIds: [
+      "France"
+    ],
+    text: "A 77-year-old Orthodox Jew is struck in the face and verbally abused in Paris while returning from the mikveh on Shabbat.",
+    source: false,
+    standaloneTweets: [
+      "1974477990940590574"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-01",
+    claimIds: [
+      "25",
+      "56",
+      "45"
+    ],
+    exampleId: "codex-20261011-b2-032",
+    keywordIds: [],
+    text: "Harvard visiting law professor Carlos Portugal Gouvea is arrested after firing a pellet gun near Temple Beth Zion during Yom Kippur services.",
+    source: true,
+    standaloneTweets: [
+      "1974567271273037981"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://apnews.com/article/e05208fb596d2759e438b983f4ce3c9c"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-02",
+    claimIds: [
+      "25",
+      "56",
+      "31o"
+    ],
+    exampleId: "codex-20261011-b2-067",
+    keywordIds: [],
+    text: "An Islamist attacker rams and stabs Jewish worshippers at Manchester’s Heaton Park synagogue on Yom Kippur; images show bloodied victims and a crying child as police stop the attacker, and Keir Starmer condemns the targeting of Jews.",
+    source: false,
+    standaloneTweets: [
+      "1973928427251007704",
+      "1973695664283615437",
+      "1973694184751309196",
+      "1973723639666348259"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

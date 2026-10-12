@@ -324,6 +324,25 @@ const examples45 = [
       "1887174023270043743",
       "1887174025014575571"
     ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-06-22",
+    claimIds: [
+      "45"
+    ],
+    exampleId: "codex-20261011-076",
+    keywordIds: [],
+    text: "Representative Marjorie Taylor Greene predicts World War III, nuclear war and flag-draped coffins after the U.S. strikes Iran in Operation Midnight Hammer. Didn't quite work out that way.",
+    source: false,
+    standaloneTweets: [
+      "1977860691135451412"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

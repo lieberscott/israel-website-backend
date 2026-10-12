@@ -355,6 +355,27 @@ const examples54 = [
     ],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-09-25",
+    claimIds: [
+      "54",
+      "18"
+    ],
+    exampleId: "codex-20261011-b2-037",
+    keywordIds: [],
+    text: "Israeli DJ Roi Perez’s London show is cancelled over his Israeli background despite his public antizionist advocacy, support for Palestinian causes and rejection of the Israeli government.",
+    source: true,
+    standaloneTweets: [
+      "1974036940312777091"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: [],
+    sourceLink: "https://mixmag.net/read/roi-perez-issues-statement-response-london-party-origins-cancellation-news"
   }
 ]
 

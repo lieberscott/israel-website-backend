@@ -273,6 +273,59 @@ const examples6z = [
     usTweets: [
       "1980961558768345431"
     ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-07",
+    claimIds: [
+      "6z",
+      "28",
+      "56",
+      "42",
+      "24",
+      "21",
+      "6y",
+      "5",
+      "30y"
+    ],
+    exampleId: "codex-20261011-b2-013",
+    keywordIds: [],
+    text: "Antizionists in Sydney chant “Where’s the Jews?” on the second anniversary of the October 7 massacre.",
+    source: false,
+    standaloneTweets: [
+      "1975522525234012498"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2024-10-20",
+    claimIds: [
+      "6z",
+      "13a",
+      "31o"
+    ],
+    exampleId: "codex-20261011-b2-091",
+    keywordIds: [
+      "United Kingdom",
+      "Britain",
+      "British",
+      "Doctor"
+    ],
+    text: "A screenshot attributed to Dr. Said Masih Noori says he treats Jews despite wanting to make every Jew disappear, and calls his medical oath hypocritical.",
+    source: false,
+    standaloneTweets: [
+      "1973632534673236063"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

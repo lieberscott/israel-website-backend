@@ -38,6 +38,26 @@ const examples48 = [
     usTweets: [
       "2021348360297332943"
     ]
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-13",
+    claimIds: [
+      "48",
+      "48a"
+    ],
+    exampleId: "codex-20261011-079",
+    keywordIds: [],
+    text: "Former hostage Omer Shem Tov says Hamas wanted Kamala Harris elected and changed its treatment of him after Donald Trump won because captors feared Trump would secure the hostages’ release. They were \"very scared of\" Trump.",
+    source: false,
+    standaloneTweets: [
+      "1977857098852507819"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

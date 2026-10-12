@@ -370,6 +370,33 @@ const examples46 = [
       "1983509844775612681"
     ],
     sourceLink: "https://www.jewishnews.co.uk/nyc-mayoral-front-runner-mamdani-dodges-questions-over-nypd-idf-comments/"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-12",
+    claimIds: [
+      "46",
+      "31c"
+    ],
+    exampleId: "codex-20261011-082-r1",
+    keywordIds: [
+      "Mr. FAFO",
+      "Mr FAFO"
+    ],
+    text: "Antizionist account @missfalsteenia blames Israel for Gaza and Hamas propagandist Saleh al-Jafarawi’s (Mr. FAFO) death. Palestinian gunmen killed him during clashes between Hamas and local armed groups; even Al Jazeera reports that Gazan gunmen shot him, while Eli Lake exposes the blame directed at Israel.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1977433903427129473"
+    ],
+    usTweets: [
+      "1977459499494433106",
+      "1977772725033988344"
+    ],
+    sourceLink: "https://cpj.org/data/people/saleh-aljafarawi/"
   }
 ]
 

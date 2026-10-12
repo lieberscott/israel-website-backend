@@ -183,6 +183,27 @@ const examples30 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-09",
+    claimIds: [
+      "30w",
+      "26",
+      "31c"
+    ],
+    exampleId: "codex-20261011-094",
+    keywordIds: [],
+    text: "Antizionist poster Omar, @thegingarab, writes: “A ceasefire is cool but wiping ‘israel’ off the world map is even better.”",
+    source: false,
+    standaloneTweets: [
+      "1976334179806613763"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

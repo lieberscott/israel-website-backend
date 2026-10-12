@@ -701,6 +701,52 @@ const examples41 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.foxnews.com/world/former-doctors-without-borders-leader-calls-group-accomplices-hamas-over-gaza-war-response"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-10",
+    claimIds: [
+      "41",
+      "1",
+      "45",
+      "11",
+      "5",
+      "26"
+    ],
+    exampleId: "codex-20261011-097",
+    keywordIds: [],
+    text: "UN rapporteur Francesca Albanese shares a BDS statement saying Gaza’s genocide will not end even if a ceasefire is reached; Israel is permanently guilty no matter what.",
+    source: false,
+    standaloneTweets: [
+      "1976676042451390525"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-03",
+    claimIds: [
+      "41",
+      "30x"
+    ],
+    exampleId: "codex-20261011-b2-048",
+    keywordIds: [],
+    text: "UN chief António Guterres condemns the Manchester synagogue attack and expresses solidarity with Jews; Adam Louis-Klein challenges Guterres' role in spreading antizionism, against Guterres’s earlier statement that Hamas’s October 7 attacks “did not happen in a vacuum.”",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1716828386361070012"
+    ],
+    usTweets: [
+      "1974000741384647036"
+    ]
   }
 ]
 

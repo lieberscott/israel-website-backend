@@ -350,6 +350,28 @@ const examples12 = [
     nowTweets: [],
     themTweets: [],
     usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2019-08-15",
+    claimIds: [
+      "12",
+      "31e",
+      "31j"
+    ],
+    exampleId: "codex-20261011-043",
+    keywordIds: [],
+    text: "Two Palestinian teenagers, aged 14 and 17, attack police with knives near Jerusalem’s Old City; an officer is wounded and one attacker is killed.",
+    source: false,
+    standaloneTweets: [
+      "1978853574177173810",
+      "1978893004556435924"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
   }
 ]
 

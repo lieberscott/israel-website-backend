@@ -344,6 +344,47 @@ const examples11 = [
     themTweets: [],
     usTweets: [],
     sourceLink: "https://www.who.int/news/item/28-02-2025-humanitarian-access-improves-quality-of-polio-vaccination-campaign-in-the-gaza-strip"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-14",
+    claimIds: [
+      "11"
+    ],
+    exampleId: "codex-20261011-070",
+    keywordIds: [],
+    text: "Ex-Muslim commentator Harris Sultan invokes casualty comparisons to challenge the Gaza genocide accusation.",
+    source: false,
+    standaloneTweets: [
+      "1978023474963575008"
+    ],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [],
+    usTweets: []
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-16",
+    claimIds: [
+      "11",
+      "6"
+    ],
+    exampleId: "codex-20261011-049",
+    keywordIds: [],
+    text: "Gaza students celebrate high-school exam results; commentator Rupa Subramanya uses the exams to challenge comparisons between Gaza and Nazi extermination camps.",
+    source: false,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1978641903496090003"
+    ],
+    usTweets: [
+      "1978208535935648102"
+    ]
   }
 ]
 

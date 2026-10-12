@@ -170,6 +170,75 @@ const examples52x = [
       "1980426858077573248"
     ],
     sourceLink: "https://www.jpost.com/arab-israeli-conflict/five-year-old-girl-hurt-in-2013-rock-throwing-terror-attack-dies-391317"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-15",
+    claimIds: [
+      "52x",
+      "30x"
+    ],
+    exampleId: "codex-20261011-053",
+    keywordIds: [],
+    text: "Political economist Ashok Kumar celebrates released novelist Bassem Khandaqji without mentioning his three life sentences for helping carry out the 2004 Carmel Market bombing: he drove the teenage bomber to Tel Aviv using a journalist ID to pass checkpoints; three Israelis were killed.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1978084399909388470"
+    ],
+    usTweets: [
+      "1978352319352713539"
+    ],
+    sourceLink: "https://www.ynetnews.com/culture/article/h1qnk2fnt"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-15",
+    claimIds: [
+      "52x"
+    ],
+    exampleId: "codex-20261011-064",
+    keywordIds: [],
+    text: "Antizionist Richard Medhurst calls Samir Abu Nimeh a Palestinian “hostage” without mentioning his involvement in a bus bombing that killed six Israelis and a grenade attack that killed another.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1977627601620603322"
+    ],
+    usTweets: [
+      "1978413778912804977",
+      "1978220092811837630"
+    ],
+    sourceLink: "https://palwatch.org/page/29726"
+  },
+  {
+    dateAdded: "2026-10-11",
+    date: "2025-10-14",
+    claimIds: [
+      "52x"
+    ],
+    exampleId: "codex-20261011-057-r1",
+    keywordIds: [],
+    text: "Censored Humans portrays Mahmoud Issa through his long imprisonment and solitary confinement, omitting his kidnapping and murder of Israeli police officer Nissim Toledano.",
+    source: true,
+    standaloneTweets: [],
+    thenVsNowFormat: false,
+    thenTweets: [],
+    nowTweets: [],
+    themTweets: [
+      "1977737151971258788"
+    ],
+    usTweets: [
+      "1978163255546691904",
+      "1976780326094721033"
+    ],
+    sourceLink: "https://apnews.com/article/4ff433ea39a313c1937d1c0a577efaf4"
   }
 ]
 
